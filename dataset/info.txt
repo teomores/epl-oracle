@@ -4,3 +4,4 @@ NOMECAMPIONATO_ANNOCAMPIONATO_FONTE
 
 Le fonti sono numerate come segue:
 - 1 : https://www.football-data.co.uk/
+- 2 : https://www.betexplorer.com/soccer/
