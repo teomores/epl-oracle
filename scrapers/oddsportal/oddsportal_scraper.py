@@ -50,7 +50,7 @@ def scrape_league(COUNTRY: str, LEAGUE: str) -> None:
     df_results = pd.DataFrame(columns=columns)
 
     # get ChromDriver
-    driver = webdriver.Chrome('chromedriver.exe')
+    driver = webdriver.Chrome('../chromedriver.exe')
     driver.get(LEAGUE_URL)
     # controlla se mostra tutti i risultati o meno, se mai clicca il pulsante "Show all matches"
     try:

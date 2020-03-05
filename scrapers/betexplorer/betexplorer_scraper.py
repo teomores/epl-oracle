@@ -26,12 +26,13 @@ def _scrape_league_matches(league_url: str) -> list:
     match_urls_list = [] # to keep match urls
 
     # get ChromeDriver
-    driver = webdriver.Chrome('chromedriver.exe')
+    driver = webdriver.Chrome('../chromedriver.exe')
     driver.get(league_url)
 
+    # se non visualizza tutte le partita aumenta il tempo
     try:
         driver.find_element_by_xpath('//*[@id="league-summary-results"]/ul[1]/li[2]/div/ul/li').click()
-        driver.find_element_by_xpath('//*[@id="league-summary-results"]/ul[1]/li[2]/div/ul/li[10]').click()
+        driver.find_element_by_xpath('//*[@id="league-summary-results"]/ul[1]/li[2]/div/ul/li[9]').click() # questo cambialo perché a volte è 10 e a volte è 9
         driver.implicitly_wait(3)
     except NoSuchElementException:
         pass
@@ -75,7 +76,7 @@ def scrape(country: str, league: str, start_year: int) -> None:
     match_urls_list = _scrape_league_matches(league_url)
 
     # get ChromeDriver
-    driver = webdriver.Chrome('chromedriver.exe')
+    driver = webdriver.Chrome('../chromedriver.exe')
     count = 0
     for url, match_round in match_urls_list:
         print('==============================================')
@@ -89,7 +90,7 @@ def scrape(country: str, league: str, start_year: int) -> None:
         count += 1
         print(f'{count}/{len(match_urls_list)}: {match_round} - {home_team} - {away_team} - {date} - {hour} - {home_goals}:{away_goals}')
 
-        driver.implicitly_wait(0.5)
+        driver.implicitly_wait(2)
         table = driver.find_elements_by_id('sortable-1')[0]
         bookmaker = hw_odd = hw_opening_odd = draw_odd = draw_opening_odd = aw_odd = aw_opening_odd =''
         for row in table.find_elements_by_css_selector('tr')[:-1]: # tolgo l'ultima perché fa average odds
@@ -136,8 +137,6 @@ def scrape(country: str, league: str, start_year: int) -> None:
                         }
                     )
 
-
-
-
 if __name__=='__main__':
-    scrape('italy','serie-a',2017)
+    scrape('spain','primera-division',2015)
+    scrape('spain','primera-division',2014)
