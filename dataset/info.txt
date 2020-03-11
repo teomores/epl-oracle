@@ -5,3 +5,4 @@ NOMECAMPIONATO_ANNOCAMPIONATO_FONTE
 Le fonti sono numerate come segue:
 - 1 : https://www.football-data.co.uk/
 - 2 : https://www.betexplorer.com/soccer/
+- 3 : https://www.transfermarkt.com/serie-a/spieltag/wettbewerb/IT1/plus/?saison_id=2014&spieltag=1 (da qui prendo le user preferences)

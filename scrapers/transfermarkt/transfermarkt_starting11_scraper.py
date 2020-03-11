@@ -7,7 +7,6 @@ import pickle
 import os
 from csv import DictWriter
 from tqdm import tqdm
-import pickle
 
 """
 prendi url da qua
