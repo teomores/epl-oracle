@@ -26,7 +26,7 @@ def _scrape_league_matches(league_url: str) -> list:
     match_urls_list = [] # to keep match urls
 
     # get ChromeDriver
-    driver = webdriver.Chrome('../chromedriver.exe')
+    driver = webdriver.Chrome('E:/USDE/scrapers/chromedriver.exe')
     driver.get(league_url)
 
     # se non visualizza tutte le partita aumenta il tempo
@@ -76,7 +76,7 @@ def scrape(country: str, league: str, start_year: int) -> None:
     match_urls_list = _scrape_league_matches(league_url)
 
     # get ChromeDriver
-    driver = webdriver.Chrome('../chromedriver.exe')
+    driver = webdriver.Chrome('E:/USDE/scrapers/chromedriver.exe')
     count = 0
     for url, match_round in match_urls_list:
         print('==============================================')
@@ -138,5 +138,4 @@ def scrape(country: str, league: str, start_year: int) -> None:
                     )
 
 if __name__=='__main__':
-    scrape('spain','primera-division',2015)
-    scrape('spain','primera-division',2014)
+    scrape('germany','bundesliga',2018)

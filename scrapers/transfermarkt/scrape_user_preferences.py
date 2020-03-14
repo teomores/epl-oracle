@@ -12,14 +12,27 @@ Questo per ogni match tira fuori le preferenze degli utenti nella lega di transf
 """
 
 def get_transfer_user_predictions(league: str) -> None:
-    years = [2014,2015,2016,2017,2018]
-    match_rounds = [x for x in range(1,39)]
+    print(f'Scraping league: {league}...')
+    if league == 'bundesliga':
+        n_matches = 34
+    else:
+        n_matches = 38
+    years = [2016,2017]
+    match_rounds = [x for x in range(1,n_matches+1)]
     driver = webdriver.Chrome('E:/USDE/scrapers/chromedriver.exe')
     for year in years:
+        print(f'Scraping the {n_matches} rounds of year {year}:')
         columns = ['match_year','match_round','home_team','away_team','ht_win_pred_transfer','draw_pred_transfer','at_win_pred_transfer']
         df_results = pd.DataFrame(columns=columns)
         for mr in tqdm(match_rounds):
-            driver.get(f"https://www.transfermarkt.com/serie-a/spieltag/wettbewerb/IT1/plus/?saison_id={year}&spieltag={mr}")
+            if league == 'serie-a':
+                driver.get(f"https://www.transfermarkt.com/serie-a/spieltag/wettbewerb/IT1/plus/?saison_id={year}&spieltag={mr}")
+            elif league == 'liga':
+                driver.get(f'https://www.transfermarkt.com/laliga/spieltag/wettbewerb/ES1/plus/?saison_id={year}&spieltag={mr}')
+            elif league == 'bundesliga':
+                driver.get(f'https://www.transfermarkt.com/bundesliga/spieltag/wettbewerb/L1/plus/?saison_id={year}&spieltag={mr}')
+            else: # in questo caso è la premier
+                driver.get(f"https://www.transfermarkt.com/premier-league/spieltag/wettbewerb/GB1/plus/?saison_id={year}&spieltag={mr}")
             time.sleep(2)
             main_div = driver.find_element_by_xpath ('//*[@id="main"]/div[10]/div[1]')
             all_divs = main_div.find_elements_by_class_name('box')
@@ -49,4 +62,5 @@ def get_transfer_user_predictions(league: str) -> None:
         df_results.to_csv(f'{league}_{year}_transfer_user_preds.csv', index=False)
 
 if __name__ == '__main__':
-    get_transfer_user_predictions('serie_a')
+    # la lega può essere : serie-a, liga, bundesliga o premier
+    get_transfer_user_predictions('liga')

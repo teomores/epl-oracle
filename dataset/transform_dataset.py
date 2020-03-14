@@ -1,7 +1,7 @@
 import pandas as pd
 
 def transform_df(dir: str, filename: str) -> None:
-    original_df = pd.read_csv(f'{dir}/original/{filename}')
+    original_df = pd.read_csv(f'dataset/{dir}/original/2/{filename}')
     bkm = sorted(set(original_df.bookmaker))
     expanded_bk_col = []
     for bs in bkm:
@@ -28,11 +28,11 @@ def transform_df(dir: str, filename: str) -> None:
             transformed_df.at[i, f"{original_df.at[j, 'bookmaker']}_opening_2"] = original_df.at[j, 'opening_2']
             j=j+1
 
-    transformed_df.to_csv(f'{dir}/transformed/transformed_{filename}', index=False)
+    transformed_df.to_csv(f'dataset/{dir}/transformed/transformed_{filename}', index=False)
 
 if __name__ == '__main__':
-    transform_df('serie_a', 'serie_a1415_2.csv')
-    transform_df('serie_a', 'serie_a1516_2.csv')
-    transform_df('serie_a', 'serie_a1617_2.csv')
-    transform_df('serie_a', 'serie_a1718_2.csv')
-    transform_df('serie_a', 'serie_a1819_2.csv')
+    transform_df('premier', 'premier_1415_2.csv')
+    transform_df('premier', 'premier_1516_2.csv')
+    transform_df('premier', 'premier_1617_2.csv')
+    transform_df('premier', 'premier_1718_2.csv')
+    transform_df('premier', 'premier_1819_2.csv')
