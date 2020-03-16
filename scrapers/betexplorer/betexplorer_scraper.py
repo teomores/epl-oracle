@@ -6,6 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 import pickle
 import os
 from csv import DictWriter
+from explicit import waiter, ID, XPATH
 
 """
 Questo script scrapa betexplorer per gli anni passati. 
@@ -81,7 +82,8 @@ def scrape(country: str, league: str, start_year: int) -> None:
     for url, match_round in match_urls_list:
         print('==============================================')
         driver.get(url)
-        match_teams = driver.find_element_by_xpath('/html/body/div[4]/div[4]/div/div/div[1]/section/ul[1]/li[5]/span').text.split('-')
+        match_teams = waiter.find_element(driver, '/html/body/div[4]/div[4]/div/div/div[1]/section/ul[1]/li[5]/span', by=XPATH)
+        match_teams = match_teams.text.split('-')
         home_team, away_team = match_teams[0].strip(), match_teams[1].strip() 
         match_date = driver.find_element_by_xpath('//*[@id="match-date"]').text.split('-')
         date, hour = match_date[0].strip(), match_date[1].strip()
@@ -90,8 +92,7 @@ def scrape(country: str, league: str, start_year: int) -> None:
         count += 1
         print(f'{count}/{len(match_urls_list)}: {match_round} - {home_team} - {away_team} - {date} - {hour} - {home_goals}:{away_goals}')
 
-        driver.implicitly_wait(2)
-        table = driver.find_elements_by_id('sortable-1')[0]
+        table = waiter.find_elements(driver, 'sortable-1', by=ID)[0]
         bookmaker = hw_odd = hw_opening_odd = draw_odd = draw_opening_odd = aw_odd = aw_opening_odd =''
         for row in table.find_elements_by_css_selector('tr')[:-1]: # tolgo l'ultima perché fa average odds
             for i,odds in enumerate(row.find_elements_by_css_selector('td')):
@@ -138,4 +139,4 @@ def scrape(country: str, league: str, start_year: int) -> None:
                     )
 
 if __name__=='__main__':
-    scrape('germany','bundesliga',2018)
+    scrape('england','premier-league',2013)

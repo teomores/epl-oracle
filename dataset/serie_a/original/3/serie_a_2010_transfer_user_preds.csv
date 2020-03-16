@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2010,1,Udinese Calcio,Genoa,31.8,40.9,27.3
+2010,1,AS Roma,Cesena,100.0,0.0,0.0
+2010,1,Bari,Juventus,0.0,19.0,81.0
+2010,1,Fiorentina,SSC Napoli,52.4,23.8,23.8
+2010,1,US Palermo,Cagliari Calcio,66.7,28.6,4.8
+2010,1,Sampdoria,Lazio,52.4,28.6,19.0
+2010,1,Parma,Brescia,71.4,28.6,0.0
+2010,1,AC Milan,Lecce,100.0,0.0,0.0
+2010,1,Chievo Verona,Catania,33.3,57.1,9.5
+2010,1,Bologna,Inter,0.0,0.0,100.0
+2010,2,Inter,Udinese Calcio,95.7,4.3,0.0
+2010,2,Cagliari Calcio,AS Roma,0.0,21.7,78.3
+2010,2,Cesena,AC Milan,0.0,8.7,91.3
+2010,2,Brescia,US Palermo,8.7,21.7,69.6
+2010,2,Lazio,Bologna,78.3,13.0,8.7
+2010,2,Lecce,Fiorentina,4.3,17.4,78.3
+2010,2,Genoa,Chievo Verona,82.6,17.4,0.0
+2010,2,Catania,Parma,8.7,43.5,47.8
+2010,2,Juventus,Sampdoria,73.9,17.4,8.7
+2010,2,SSC Napoli,Bari,82.6,13.0,4.3
+2010,3,Fiorentina,Lazio,60.9,26.1,13.0
+2010,3,AC Milan,Catania,91.3,8.7,0.0
+2010,3,Bari,Cagliari Calcio,60.9,26.1,13.0
+2010,3,Parma,Genoa,32.0,36.0,32.0
+2010,3,AS Roma,Bologna,92.0,4.0,4.0
+2010,3,Cesena,Lecce,52.0,40.0,8.0
+2010,3,US Palermo,Inter,8.0,16.0,76.0
+2010,3,Chievo Verona,Brescia,44.0,52.0,4.0
+2010,3,Udinese Calcio,Juventus,12.0,24.0,64.0
+2010,3,Sampdoria,SSC Napoli,52.0,36.0,12.0
+2010,4,Cagliari Calcio,Sampdoria,21.7,30.4,47.8
+2010,4,SSC Napoli,Chievo Verona,82.6,13.0,4.3
+2010,4,Inter,Bari,87.0,13.0,0.0
+2010,4,Catania,Cesena,43.5,43.5,13.0
+2010,4,Lazio,AC Milan,0.0,30.4,69.6
+2010,4,Brescia,AS Roma,13.0,0.0,87.0
+2010,4,Genoa,Fiorentina,43.5,30.4,26.1
+2010,4,Lecce,Parma,13.0,39.1,47.8
+2010,4,Bologna,Udinese Calcio,43.5,30.4,26.1
+2010,4,Juventus,US Palermo,87.0,13.0,0.0
+2010,5,AC Milan,Genoa,83.3,16.7,0.0
+2010,5,AS Roma,Inter,12.5,37.5,50.0
+2010,5,Cesena,SSC Napoli,4.2,29.2,66.7
+2010,5,Sampdoria,Udinese Calcio,66.7,29.2,4.2
+2010,5,Bari,Brescia,58.3,29.2,12.5
+2010,5,US Palermo,Lecce,83.3,12.5,4.2
+2010,5,Chievo Verona,Lazio,20.8,33.3,45.8
+2010,5,Fiorentina,Parma,75.0,20.8,4.2
+2010,5,Catania,Bologna,50.0,33.3,16.7
+2010,5,Juventus,Cagliari Calcio,95.8,4.2,0.0
+2010,6,Udinese Calcio,Cesena,62.5,25.0,12.5
+2010,6,Parma,AC Milan,8.3,20.8,70.8
+2010,6,Lecce,Catania,45.5,31.8,22.7
+2010,6,Lazio,Brescia,100.0,0.0,0.0
+2010,6,Chievo Verona,Cagliari Calcio,36.4,40.9,22.7
+2010,6,Genoa,Bari,77.3,9.1,13.6
+2010,6,SSC Napoli,AS Roma,22.7,45.5,31.8
+2010,6,Fiorentina,US Palermo,77.3,18.2,4.5
+2010,6,Bologna,Sampdoria,4.5,40.9,54.5
+2010,6,Inter,Juventus,59.1,13.6,27.3
+2010,7,AC Milan,Chievo Verona,100.0,0.0,0.0
+2010,7,AS Roma,Genoa,73.9,26.1,0.0
+2010,7,Cagliari Calcio,Inter,0.0,4.3,95.7
+2010,7,Brescia,Udinese Calcio,21.7,47.8,30.4
+2010,7,Juventus,Lecce,100.0,0.0,0.0
+2010,7,US Palermo,Bologna,82.6,17.4,0.0
+2010,7,Cesena,Parma,8.7,34.8,56.5
+2010,7,Catania,SSC Napoli,17.4,34.8,47.8
+2010,7,Sampdoria,Fiorentina,52.2,39.1,8.7
+2010,7,Bari,Lazio,17.4,17.4,65.2
+2010,8,Fiorentina,Bari,82.6,8.7,8.7
+2010,8,Parma,AS Roma,4.8,28.6,66.7
+2010,8,Genoa,Catania,76.2,23.8,0.0
+2010,8,Bologna,Juventus,4.8,4.8,90.5
+2010,8,Lazio,Cagliari Calcio,76.2,9.5,14.3
+2010,8,Lecce,Brescia,33.3,57.1,9.5
+2010,8,Chievo Verona,Cesena,33.3,52.4,14.3
+2010,8,Udinese Calcio,US Palermo,47.6,19.0,33.3
+2010,8,Inter,Sampdoria,66.7,33.3,0.0
+2010,8,SSC Napoli,AC Milan,23.8,33.3,42.9
+2010,9,Genoa,Inter,9.5,19.0,71.4
+2010,9,AS Roma,Lecce,95.5,4.5,0.0
+2010,9,AC Milan,Juventus,54.5,22.7,22.7
+2010,9,US Palermo,Lazio,27.3,40.9,31.8
+2010,9,Cesena,Sampdoria,9.1,36.4,54.5
+2010,9,Parma,Chievo Verona,63.6,31.8,4.5
+2010,9,Bari,Udinese Calcio,27.3,40.9,31.8
+2010,9,Cagliari Calcio,Bologna,50.0,36.4,13.6
+2010,9,Brescia,SSC Napoli,13.6,18.2,68.2
+2010,9,Catania,Fiorentina,8.7,30.4,60.9
+2010,10,Bologna,Lecce,63.6,22.7,13.6
+2010,10,Inter,Brescia,95.5,4.5,0.0
+2010,10,Fiorentina,Chievo Verona,71.4,14.3,14.3
+2010,10,Bari,AC Milan,0.0,4.5,95.5
+2010,10,Lazio,AS Roma,18.2,50.0,31.8
+2010,10,Juventus,Cesena,100.0,0.0,0.0
+2010,10,Udinese Calcio,Cagliari Calcio,68.2,22.7,9.1
+2010,10,Sampdoria,Catania,81.8,13.6,4.5
+2010,10,SSC Napoli,Parma,77.3,18.2,4.5
+2010,10,US Palermo,Genoa,56.5,21.7,21.7
+2010,11,Chievo Verona,Bari,57.9,26.3,15.8
+2010,11,Catania,Udinese Calcio,26.3,26.3,47.4
+2010,11,Brescia,Juventus,0.0,10.5,89.5
+2010,11,Cagliari Calcio,SSC Napoli,5.3,52.6,42.1
+2010,11,Cesena,Lazio,0.0,21.1,78.9
+2010,11,Lecce,Inter,0.0,5.3,94.7
+2010,11,AS Roma,Fiorentina,63.2,36.8,0.0
+2010,11,AC Milan,US Palermo,78.9,10.5,10.5
+2010,11,Genoa,Bologna,78.9,21.1,0.0
+2010,11,Parma,Sampdoria,19.0,47.6,33.3
+2010,12,Fiorentina,Cesena,95.8,4.2,0.0
+2010,12,Juventus,AS Roma,62.5,25.0,12.5
+2010,12,Lazio,SSC Napoli,62.5,25.0,12.5
+2010,12,US Palermo,Catania,83.3,16.7,0.0
+2010,12,Cagliari Calcio,Genoa,29.2,41.7,29.2
+2010,12,Sampdoria,Chievo Verona,70.8,25.0,4.2
+2010,12,Bari,Parma,16.7,58.3,25.0
+2010,12,Udinese Calcio,Lecce,87.5,12.5,0.0
+2010,12,Bologna,Brescia,41.7,41.7,16.7
+2010,12,Inter,AC Milan,54.2,29.2,16.7
+2010,13,AS Roma,Udinese Calcio,95.7,4.3,0.0
+2010,13,AC Milan,Fiorentina,82.6,17.4,0.0
+2010,13,Genoa,Juventus,0.0,30.0,70.0
+2010,13,Parma,Lazio,18.2,18.2,63.6
+2010,13,Cesena,US Palermo,0.0,45.5,54.5
+2010,13,Catania,Bari,54.5,31.8,13.6
+2010,13,Lecce,Sampdoria,22.7,22.7,54.5
+2010,13,Brescia,Cagliari Calcio,40.9,36.4,22.7
+2010,13,Chievo Verona,Inter,0.0,4.5,95.5
+2010,13,SSC Napoli,Bologna,86.4,9.1,4.5
+2010,14,Sampdoria,AC Milan,4.5,13.6,81.8
+2010,14,Juventus,Fiorentina,95.5,4.5,0.0
+2010,14,Inter,Parma,90.5,9.5,0.0
+2010,14,Bari,Cesena,40.9,50.0,9.1
+2010,14,Lazio,Catania,77.3,22.7,0.0
+2010,14,Cagliari Calcio,Lecce,63.6,22.7,13.6
+2010,14,Udinese Calcio,SSC Napoli,45.5,18.2,36.4
+2010,14,Brescia,Genoa,13.6,31.8,54.5
+2010,14,US Palermo,AS Roma,18.2,27.3,54.5
+2010,14,Bologna,Chievo Verona,54.5,31.8,13.6
+2010,15,Lazio,Inter,20.8,37.5,41.7
+2010,15,Chievo Verona,AS Roma,0.0,17.4,82.6
+2010,15,AC Milan,Brescia,95.7,4.3,0.0
+2010,15,Lecce,Genoa,22.7,40.9,36.4
+2010,15,Parma,Udinese Calcio,59.1,22.7,18.2
+2010,15,Cesena,Bologna,31.8,45.5,22.7
+2010,15,Fiorentina,Cagliari Calcio,87.0,13.0,0.0
+2010,15,Sampdoria,Bari,82.6,8.7,8.7
+2010,15,Catania,Juventus,0.0,17.4,82.6
+2010,15,SSC Napoli,US Palermo,56.5,26.1,17.4
+2010,16,US Palermo,Parma,60.9,21.7,17.4
+2010,16,Udinese Calcio,Fiorentina,43.5,30.4,26.1
+2010,16,Genoa,SSC Napoli,47.8,21.7,30.4
+2010,16,Bologna,AC Milan,0.0,4.5,95.5
+2010,16,Brescia,Sampdoria,13.0,30.4,56.5
+2010,16,AS Roma,Bari,95.7,4.3,0.0
+2010,16,Cagliari Calcio,Catania,47.8,47.8,4.3
+2010,16,Lecce,Chievo Verona,34.8,26.1,39.1
+2010,16,Juventus,Lazio,60.9,34.8,4.3
+2010,16,Inter,Cesena,94.4,5.6,0.0
+2010,17,Cesena,Cagliari Calcio,9.5,57.1,33.3
+2010,17,AC Milan,AS Roma,71.4,28.6,0.0
+2010,17,Lazio,Udinese Calcio,78.9,15.8,5.3
+2010,17,Bari,US Palermo,10.0,20.0,70.0
+2010,17,Parma,Bologna,80.0,20.0,0.0
+2010,17,Catania,Brescia,65.0,30.0,5.0
+2010,17,Chievo Verona,Juventus,10.0,5.0,85.0
+2010,17,SSC Napoli,Lecce,95.0,5.0,0.0
+2010,17,Fiorentina,Inter,16.7,16.7,66.7
+2010,17,Sampdoria,Genoa,33.3,52.4,14.3
+2010,18,Juventus,Parma,100.0,0.0,0.0
+2010,18,AS Roma,Catania,88.9,11.1,0.0
+2010,18,Udinese Calcio,Chievo Verona,100.0,0.0,0.0
+2010,18,US Palermo,Sampdoria,44.4,33.3,22.2
+2010,18,Bologna,Fiorentina,0.0,55.6,44.4
+2010,18,Lecce,Bari,44.4,33.3,22.2
+2010,18,Brescia,Cesena,22.2,66.7,11.1
+2010,18,Cagliari Calcio,AC Milan,0.0,22.2,77.8
+2010,18,Genoa,Lazio,11.1,11.1,77.8
+2010,18,Inter,SSC Napoli,44.4,33.3,22.2
+2010,19,Sampdoria,AS Roma,8.3,41.7,50.0
+2010,19,Parma,Cagliari Calcio,76.9,23.1,0.0
+2010,19,Lazio,Lecce,92.3,7.7,0.0
+2010,19,Bari,Bologna,38.5,53.8,7.7
+2010,19,AC Milan,Udinese Calcio,92.3,7.7,0.0
+2010,19,Catania,Inter,0.0,7.7,92.3
+2010,19,Cesena,Genoa,15.4,46.2,38.5
+2010,19,Fiorentina,Brescia,84.6,15.4,0.0
+2010,19,Chievo Verona,US Palermo,7.7,30.8,61.5
+2010,19,SSC Napoli,Juventus,38.5,15.4,46.2
+2010,20,SSC Napoli,Fiorentina,72.7,9.1,18.2
+2010,20,Inter,Bologna,90.9,9.1,0.0
+2010,20,Cagliari Calcio,US Palermo,19.0,28.6,52.4
+2010,20,Catania,Chievo Verona,27.3,50.0,22.7
+2010,20,Lazio,Sampdoria,59.1,22.7,18.2
+2010,20,Brescia,Parma,9.1,36.4,54.5
+2010,20,Juventus,Bari,100.0,0.0,0.0
+2010,20,Genoa,Udinese Calcio,54.5,27.3,18.2
+2010,20,Cesena,AS Roma,4.5,9.1,86.4
+2010,20,Lecce,AC Milan,0.0,9.1,90.9
+2010,21,Parma,Catania,76.2,19.0,4.8
+2010,21,US Palermo,Brescia,71.4,28.6,0.0
+2010,21,AS Roma,Cagliari Calcio,95.2,4.8,0.0
+2010,21,Udinese Calcio,Inter,5.3,21.1,73.7
+2010,21,Sampdoria,Juventus,5.3,21.1,73.7
+2010,21,Bologna,Lazio,5.3,31.6,63.2
+2010,21,Chievo Verona,Genoa,26.3,36.8,36.8
+2010,21,Bari,SSC Napoli,5.6,27.8,66.7
+2010,21,Fiorentina,Lecce,89.5,0.0,10.5
+2010,21,AC Milan,Cesena,95.2,4.8,0.0
+2010,22,Lazio,Fiorentina,73.9,17.4,8.7
+2010,22,Catania,AC Milan,0.0,13.0,87.0
+2010,22,Brescia,Chievo Verona,23.8,47.6,28.6
+2010,22,Cagliari Calcio,Bari,52.2,43.5,4.3
+2010,22,Inter,US Palermo,91.3,4.3,4.3
+2010,22,SSC Napoli,Sampdoria,69.6,26.1,4.3
+2010,22,Genoa,Parma,52.2,34.8,13.0
+2010,22,Lecce,Cesena,47.8,39.1,13.0
+2010,22,Juventus,Udinese Calcio,82.6,8.7,8.7
+2010,22,Bologna,AS Roma,8.7,17.4,73.9
+2010,23,AC Milan,Lazio,73.7,26.3,0.0
+2010,23,Fiorentina,Genoa,73.7,10.5,15.8
+2010,23,Parma,Lecce,84.2,15.8,0.0
+2010,23,Chievo Verona,SSC Napoli,21.1,10.5,68.4
+2010,23,Cesena,Catania,47.4,31.6,21.1
+2010,23,US Palermo,Juventus,36.8,26.3,36.8
+2010,23,Udinese Calcio,Bologna,89.5,5.3,5.3
+2010,23,AS Roma,Brescia,94.7,5.3,0.0
+2010,23,Sampdoria,Cagliari Calcio,57.9,36.8,5.3
+2010,23,Bari,Inter,0.0,5.3,94.7
+2010,24,Udinese Calcio,Sampdoria,66.7,33.3,0.0
+2010,24,Cagliari Calcio,Juventus,0.0,9.5,90.5
+2010,24,Bologna,Catania,55.0,35.0,10.0
+2010,24,Lazio,Chievo Verona,85.7,9.5,4.8
+2010,24,Parma,Fiorentina,28.6,42.9,28.6
+2010,24,Genoa,AC Milan,9.5,14.3,76.2
+2010,24,Lecce,US Palermo,14.3,28.6,57.1
+2010,24,Brescia,Bari,47.6,33.3,19.0
+2010,24,SSC Napoli,Cesena,90.5,9.5,0.0
+2010,24,Inter,AS Roma,61.9,19.0,19.0
+2010,25,AC Milan,Parma,90.0,10.0,0.0
+2010,25,AS Roma,SSC Napoli,55.0,35.0,10.0
+2010,25,US Palermo,Fiorentina,58.8,23.5,17.6
+2010,25,Bari,Genoa,23.5,41.2,35.3
+2010,25,Cagliari Calcio,Chievo Verona,52.9,29.4,17.6
+2010,25,Brescia,Lazio,5.9,17.6,76.5
+2010,25,Catania,Lecce,52.9,29.4,17.6
+2010,25,Sampdoria,Bologna,64.7,29.4,5.9
+2010,25,Cesena,Udinese Calcio,5.9,29.4,64.7
+2010,25,Juventus,Inter,31.6,21.1,47.4
+2010,26,Bologna,US Palermo,20.0,50.0,30.0
+2010,26,Inter,Cagliari Calcio,95.0,5.0,0.0
+2010,26,Lecce,Juventus,0.0,5.0,95.0
+2010,26,Parma,Cesena,80.0,20.0,0.0
+2010,26,Lazio,Bari,90.0,10.0,0.0
+2010,26,Udinese Calcio,Brescia,80.0,15.0,5.0
+2010,26,Chievo Verona,AC Milan,5.0,15.0,80.0
+2010,26,Genoa,AS Roma,20.0,35.0,45.0
+2010,26,Fiorentina,Sampdoria,65.0,30.0,5.0
+2010,26,SSC Napoli,Catania,85.7,9.5,4.8
+2010,27,Juventus,Bologna,95.5,4.5,0.0
+2010,27,Catania,Genoa,21.1,31.6,47.4
+2010,27,Cesena,Chievo Verona,25.0,35.0,40.0
+2010,27,Bari,Fiorentina,25.0,20.0,55.0
+2010,27,Cagliari Calcio,Lazio,5.0,35.0,60.0
+2010,27,Brescia,Lecce,40.0,45.0,15.0
+2010,27,US Palermo,Udinese Calcio,50.0,30.0,20.0
+2010,27,AS Roma,Parma,90.0,5.0,5.0
+2010,27,Sampdoria,Inter,15.0,20.0,65.0
+2010,27,AC Milan,SSC Napoli,66.7,23.8,9.5
+2010,28,Lecce,AS Roma,9.5,4.8,85.7
+2010,28,Juventus,AC Milan,27.3,40.9,31.8
+2010,28,Sampdoria,Cesena,71.4,23.8,4.8
+2010,28,Fiorentina,Catania,81.0,19.0,0.0
+2010,28,Chievo Verona,Parma,42.9,28.6,28.6
+2010,28,Udinese Calcio,Bari,81.0,19.0,0.0
+2010,28,Bologna,Cagliari Calcio,61.9,23.8,14.3
+2010,28,Inter,Genoa,81.0,14.3,4.8
+2010,28,SSC Napoli,Brescia,85.7,14.3,0.0
+2010,28,Lazio,US Palermo,57.1,28.6,14.3
+2010,29,Brescia,Inter,0.0,0.0,100.0
+2010,29,Cesena,Juventus,5.3,10.5,84.2
+2010,29,AC Milan,Bari,100.0,0.0,0.0
+2010,29,Chievo Verona,Fiorentina,31.6,5.3,63.2
+2010,29,AS Roma,Lazio,57.9,31.6,10.5
+2010,29,Catania,Sampdoria,26.3,47.4,26.3
+2010,29,Cagliari Calcio,Udinese Calcio,15.8,21.1,63.2
+2010,29,Genoa,US Palermo,57.9,21.1,21.1
+2010,29,Lecce,Bologna,26.3,42.1,31.6
+2010,29,Parma,SSC Napoli,15.8,26.3,57.9
+2010,30,Lazio,Cesena,90.5,4.8,4.8
+2010,30,US Palermo,AC Milan,9.5,9.5,81.0
+2010,30,Fiorentina,AS Roma,15.8,26.3,57.9
+2010,30,Bari,Chievo Verona,33.3,38.1,28.6
+2010,30,Udinese Calcio,Catania,81.0,19.0,0.0
+2010,30,Sampdoria,Parma,57.1,19.0,23.8
+2010,30,Juventus,Brescia,100.0,0.0,0.0
+2010,30,Inter,Lecce,90.5,9.5,0.0
+2010,30,Bologna,Genoa,38.1,28.6,33.3
+2010,30,SSC Napoli,Cagliari Calcio,85.7,14.3,0.0
+2010,31,Brescia,Bologna,14.3,57.1,28.6
+2010,31,AC Milan,Inter,47.6,28.6,23.8
+2010,31,SSC Napoli,Lazio,68.4,21.1,10.5
+2010,31,Catania,US Palermo,15.0,35.0,50.0
+2010,31,Chievo Verona,Sampdoria,30.0,50.0,20.0
+2010,31,Genoa,Cagliari Calcio,75.0,15.0,10.0
+2010,31,Lecce,Udinese Calcio,10.0,15.0,75.0
+2010,31,Cesena,Fiorentina,5.0,25.0,70.0
+2010,31,Parma,Bari,95.0,5.0,0.0
+2010,31,AS Roma,Juventus,45.0,25.0,30.0
+2010,32,Inter,Chievo Verona,88.2,11.8,0.0
+2010,32,Udinese Calcio,AS Roma,44.4,16.7,38.9
+2010,32,Juventus,Genoa,94.4,5.6,0.0
+2010,32,Lazio,Parma,84.2,10.5,5.3
+2010,32,Sampdoria,Lecce,63.2,36.8,0.0
+2010,32,Bari,Catania,21.1,42.1,36.8
+2010,32,US Palermo,Cesena,78.9,21.1,0.0
+2010,32,Bologna,SSC Napoli,10.5,15.8,73.7
+2010,32,Cagliari Calcio,Brescia,57.9,42.1,0.0
+2010,32,Fiorentina,AC Milan,15.8,26.3,57.9
+2010,33,AS Roma,US Palermo,95.0,0.0,5.0
+2010,33,Parma,Inter,0.0,10.0,90.0
+2010,33,AC Milan,Sampdoria,85.0,15.0,0.0
+2010,33,Cesena,Bari,30.0,70.0,0.0
+2010,33,Chievo Verona,Bologna,40.0,45.0,15.0
+2010,33,Fiorentina,Juventus,25.0,10.0,65.0
+2010,33,Genoa,Brescia,80.0,20.0,0.0
+2010,33,Lecce,Cagliari Calcio,35.0,55.0,10.0
+2010,33,Catania,Lazio,5.0,20.0,75.0
+2010,33,SSC Napoli,Udinese Calcio,81.8,13.6,4.5
+2010,34,AS Roma,Chievo Verona,94.4,5.6,0.0
+2010,34,Udinese Calcio,Parma,72.2,11.1,16.7
+2010,34,US Palermo,SSC Napoli,16.7,27.8,55.6
+2010,34,Inter,Lazio,70.0,25.0,5.0
+2010,34,Bari,Sampdoria,16.7,44.4,38.9
+2010,34,Bologna,Cesena,61.1,33.3,5.6
+2010,34,Genoa,Lecce,88.9,11.1,0.0
+2010,34,Cagliari Calcio,Fiorentina,11.1,16.7,72.2
+2010,34,Brescia,AC Milan,0.0,0.0,100.0
+2010,34,Juventus,Catania,100.0,0.0,0.0
+2010,35,Cesena,Inter,0.0,10.5,89.5
+2010,35,SSC Napoli,Genoa,84.2,10.5,5.3
+2010,35,Chievo Verona,Lecce,45.0,30.0,25.0
+2010,35,Fiorentina,Udinese Calcio,50.0,30.0,20.0
+2010,35,Catania,Cagliari Calcio,30.0,60.0,10.0
+2010,35,Sampdoria,Brescia,75.0,5.0,20.0
+2010,35,AC Milan,Bologna,100.0,0.0,0.0
+2010,35,Parma,US Palermo,35.0,35.0,30.0
+2010,35,Bari,AS Roma,0.0,0.0,100.0
+2010,35,Lazio,Juventus,25.0,40.0,35.0
+2010,36,US Palermo,Bari,83.3,16.7,0.0
+2010,36,AS Roma,AC Milan,31.6,36.8,31.6
+2010,36,Lecce,SSC Napoli,10.5,5.3,84.2
+2010,36,Udinese Calcio,Lazio,42.1,36.8,21.1
+2010,36,Bologna,Parma,31.6,36.8,31.6
+2010,36,Inter,Fiorentina,89.5,5.3,5.3
+2010,36,Cagliari Calcio,Cesena,31.6,57.9,10.5
+2010,36,Brescia,Catania,52.6,31.6,15.8
+2010,36,Genoa,Sampdoria,63.2,21.1,15.8
+2010,36,Juventus,Chievo Verona,89.5,10.5,0.0
+2010,37,Lazio,Genoa,72.2,16.7,11.1
+2010,37,AC Milan,Cagliari Calcio,100.0,0.0,0.0
+2010,37,Fiorentina,Bologna,83.3,5.6,11.1
+2010,37,Chievo Verona,Udinese Calcio,5.6,38.9,55.6
+2010,37,Bari,Lecce,27.8,38.9,33.3
+2010,37,Sampdoria,US Palermo,50.0,22.2,27.8
+2010,37,Parma,Juventus,16.7,22.2,61.1
+2010,37,Catania,AS Roma,0.0,11.1,88.9
+2010,37,Cesena,Brescia,50.0,44.4,5.6
+2010,37,SSC Napoli,Inter,44.4,38.9,16.7
+2010,38,Cagliari Calcio,Parma,16.7,33.3,50.0
+2010,38,US Palermo,Chievo Verona,91.7,8.3,0.0
+2010,38,Bologna,Bari,58.3,16.7,25.0
+2010,38,Brescia,Fiorentina,8.3,25.0,66.7
+2010,38,Inter,Catania,100.0,0.0,0.0
+2010,38,Genoa,Cesena,66.7,33.3,0.0
+2010,38,Juventus,SSC Napoli,75.0,16.7,8.3
+2010,38,Lecce,Lazio,8.3,16.7,75.0
+2010,38,AS Roma,Sampdoria,100.0,0.0,0.0
+2010,38,Udinese Calcio,AC Milan,25.0,33.3,41.7

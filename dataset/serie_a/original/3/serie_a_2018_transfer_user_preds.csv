@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2018,1,Chievo Verona,Juventus,0.0,0.5,99.5
+2018,1,Lazio,SSC Napoli,21.0,38.3,40.7
+2018,1,Torino,AS Roma,4.1,15.1,80.8
+2018,1,Sassuolo,Inter,2.7,8.2,89.1
+2018,1,Parma,Udinese Calcio,29.1,40.9,30.0
+2018,1,FC Empoli,Cagliari Calcio,34.5,45.5,20.0
+2018,1,Bologna,SPAL,77.3,18.6,4.1
+2018,1,Atalanta,Frosinone,93.8,5.3,0.9
+2018,1,Sampdoria,Fiorentina,21.3,39.4,39.4
+2018,1,AC Milan,Genoa,89.6,8.3,2.2
+2018,2,Juventus,Lazio,92.3,4.8,2.9
+2018,2,SSC Napoli,AC Milan,70.7,23.1,6.3
+2018,2,SPAL,Parma,38.7,38.2,23.1
+2018,2,Cagliari Calcio,Sassuolo,22.3,34.6,43.1
+2018,2,Udinese Calcio,Sampdoria,30.8,30.3,38.9
+2018,2,Inter,Torino,87.7,9.0,3.3
+2018,2,Genoa,FC Empoli,72.0,15.6,12.3
+2018,2,Frosinone,Bologna,10.5,29.5,60.0
+2018,2,Fiorentina,Chievo Verona,94.3,4.3,1.4
+2018,2,AS Roma,Atalanta,80.7,15.6,3.8
+2018,3,AC Milan,AS Roma,22.5,42.5,35.0
+2018,3,Bologna,Inter,4.8,9.1,86.1
+2018,3,Parma,Juventus,1.4,1.4,97.1
+2018,3,Fiorentina,Udinese Calcio,88.1,11.9,0.0
+2018,3,Lazio,Frosinone,95.2,2.9,1.9
+2018,3,Chievo Verona,FC Empoli,29.9,45.5,24.6
+2018,3,Atalanta,Cagliari Calcio,91.9,5.2,2.9
+2018,3,Torino,SPAL,71.1,20.4,8.5
+2018,3,Sassuolo,Genoa,61.1,27.0,11.8
+2018,3,Sampdoria,SSC Napoli,2.4,10.0,87.6
+2018,4,Inter,Parma,95.3,3.1,1.6
+2018,4,SSC Napoli,Fiorentina,76.0,17.7,6.3
+2018,4,Frosinone,Sampdoria,7.8,15.1,77.1
+2018,4,AS Roma,Chievo Verona,97.9,2.1,0.0
+2018,4,Udinese Calcio,Torino,18.0,48.5,33.5
+2018,4,Juventus,Sassuolo,94.8,4.6,0.5
+2018,4,Genoa,Bologna,68.6,27.8,3.6
+2018,4,FC Empoli,Lazio,11.9,15.5,72.7
+2018,4,Cagliari Calcio,AC Milan,5.6,11.8,82.6
+2018,4,SPAL,Atalanta,15.2,37.6,47.2
+2018,5,Sassuolo,FC Empoli,93.8,5.1,1.1
+2018,5,Parma,Cagliari Calcio,38.4,43.2,18.4
+2018,5,Fiorentina,SPAL,75.1,20.1,4.8
+2018,5,Sampdoria,Inter,29.6,27.0,43.4
+2018,5,Torino,SSC Napoli,5.9,13.8,80.3
+2018,5,Bologna,AS Roma,3.2,3.7,93.1
+2018,5,Lazio,Genoa,83.6,12.7,3.7
+2018,5,Chievo Verona,Udinese Calcio,11.6,45.5,42.9
+2018,5,AC Milan,Atalanta,71.3,21.8,6.9
+2018,5,Frosinone,Juventus,0.5,1.6,97.9
+2018,6,Inter,Fiorentina,62.5,23.9,13.6
+2018,6,Udinese Calcio,Lazio,8.8,24.2,67.0
+2018,6,Atalanta,Torino,64.3,28.0,7.7
+2018,6,AS Roma,Frosinone,96.2,3.3,0.5
+2018,6,SSC Napoli,Parma,96.7,3.3,0.0
+2018,6,Juventus,Bologna,98.3,1.7,0.0
+2018,6,Genoa,Chievo Verona,86.8,11.0,2.2
+2018,6,Cagliari Calcio,Sampdoria,12.1,30.2,57.7
+2018,6,SPAL,Sassuolo,12.4,51.4,36.2
+2018,6,FC Empoli,AC Milan,1.6,10.8,87.6
+2018,7,AS Roma,Lazio,37.4,40.4,22.2
+2018,7,Juventus,SSC Napoli,80.6,12.0,7.4
+2018,7,Inter,Cagliari Calcio,97.2,1.1,1.7
+2018,7,Bologna,Udinese Calcio,19.3,42.0,38.6
+2018,7,Frosinone,Genoa,5.6,10.7,83.7
+2018,7,Fiorentina,Atalanta,80.9,12.9,6.2
+2018,7,Chievo Verona,Torino,12.9,30.3,56.7
+2018,7,Parma,FC Empoli,73.0,18.0,9.0
+2018,7,Sassuolo,AC Milan,42.1,29.2,28.7
+2018,7,Sampdoria,SPAL,78.3,16.7,5.0
+2018,8,Torino,Frosinone,97.4,1.9,0.6
+2018,8,Cagliari Calcio,Bologna,41.7,42.3,16.0
+2018,8,Udinese Calcio,Juventus,0.0,4.2,95.8
+2018,8,FC Empoli,AS Roma,3.0,2.4,94.7
+2018,8,Genoa,Parma,75.7,20.7,3.6
+2018,8,Atalanta,Sampdoria,38.8,33.5,27.6
+2018,8,AC Milan,Chievo Verona,97.1,1.8,1.2
+2018,8,Lazio,Fiorentina,47.1,35.9,17.1
+2018,8,SSC Napoli,Sassuolo,91.2,6.4,2.3
+2018,8,SPAL,Inter,2.3,9.4,88.3
+2018,9,AS Roma,SPAL,99.4,0.0,0.6
+2018,9,Juventus,Genoa,99.4,0.6,0.0
+2018,9,Udinese Calcio,SSC Napoli,2.3,5.3,92.4
+2018,9,Frosinone,FC Empoli,21.5,57.6,20.9
+2018,9,Bologna,Torino,20.9,37.8,41.3
+2018,9,Parma,Lazio,9.8,20.8,69.4
+2018,9,Chievo Verona,Atalanta,11.0,20.8,68.2
+2018,9,Fiorentina,Cagliari Calcio,94.8,4.6,0.6
+2018,9,Inter,AC Milan,54.7,33.7,11.6
+2018,9,Sampdoria,Sassuolo,69.5,24.1,6.3
+2018,10,Atalanta,Parma,68.0,22.2,9.8
+2018,10,FC Empoli,Juventus,0.0,0.6,99.4
+2018,10,Torino,Fiorentina,23.4,49.4,27.2
+2018,10,Sassuolo,Bologna,85.6,11.9,2.5
+2018,10,SPAL,Frosinone,87.0,10.6,2.5
+2018,10,Genoa,Udinese Calcio,79.5,14.3,6.2
+2018,10,Cagliari Calcio,Chievo Verona,80.6,15.0,4.4
+2018,10,AC Milan,Sampdoria,54.7,34.2,11.2
+2018,10,SSC Napoli,AS Roma,76.5,16.7,6.8
+2018,10,Lazio,Inter,34.3,42.6,23.1
+2018,11,SSC Napoli,FC Empoli,98.0,0.7,1.3
+2018,11,Inter,Genoa,94.3,3.2,2.5
+2018,11,Fiorentina,AS Roma,23.4,48.7,27.8
+2018,11,Juventus,Cagliari Calcio,99.4,0.0,0.6
+2018,11,Lazio,SPAL,94.3,4.4,1.3
+2018,11,Sampdoria,Torino,51.9,38.0,10.1
+2018,11,Parma,Frosinone,83.0,13.8,3.1
+2018,11,Chievo Verona,Sassuolo,8.8,18.2,73.0
+2018,11,Bologna,Atalanta,13.2,40.3,46.5
+2018,11,Udinese Calcio,AC Milan,6.9,15.7,77.4
+2018,12,Frosinone,Fiorentina,2.7,4.0,93.3
+2018,12,Torino,Parma,91.6,7.1,1.3
+2018,12,SPAL,Cagliari Calcio,36.5,50.0,13.5
+2018,12,Genoa,SSC Napoli,1.3,3.9,94.8
+2018,12,Atalanta,Inter,10.8,19.0,70.3
+2018,12,AS Roma,Sampdoria,86.1,8.9,5.1
+2018,12,FC Empoli,Udinese Calcio,26.6,53.2,20.3
+2018,12,Chievo Verona,Bologna,16.5,40.5,43.0
+2018,12,Sassuolo,Lazio,10.8,29.1,60.1
+2018,12,AC Milan,Juventus,8.9,19.0,72.2
+2018,13,Udinese Calcio,AS Roma,3.2,9.6,87.3
+2018,13,Juventus,SPAL,98.7,0.6,0.6
+2018,13,Inter,Frosinone,98.1,1.3,0.6
+2018,13,Parma,Sassuolo,23.9,52.2,23.9
+2018,13,Bologna,Fiorentina,5.7,21.4,73.0
+2018,13,SSC Napoli,Chievo Verona,98.1,1.3,0.6
+2018,13,FC Empoli,Atalanta,5.0,13.2,81.8
+2018,13,Lazio,AC Milan,55.3,36.5,8.2
+2018,13,Genoa,Sampdoria,25.2,57.2,17.6
+2018,13,Cagliari Calcio,Torino,21.3,44.4,34.4
+2018,14,SPAL,FC Empoli,62.1,31.7,6.2
+2018,14,Fiorentina,Juventus,3.4,7.5,89.1
+2018,14,Sampdoria,Bologna,89.8,8.2,2.0
+2018,14,AC Milan,Parma,78.2,18.4,3.4
+2018,14,Torino,Genoa,69.4,23.8,6.8
+2018,14,Sassuolo,Udinese Calcio,77.6,14.3,8.2
+2018,14,Frosinone,Cagliari Calcio,12.2,36.1,51.7
+2018,14,Chievo Verona,Lazio,2.7,4.0,93.3
+2018,14,AS Roma,Inter,24.2,43.6,32.2
+2018,14,Atalanta,SSC Napoli,6.5,18.1,75.5
+2018,15,Juventus,Inter,80.4,17.6,2.0
+2018,15,SSC Napoli,Frosinone,98.7,1.3,0.0
+2018,15,Cagliari Calcio,AS Roma,3.3,16.7,80.0
+2018,15,Lazio,Sampdoria,88.0,12.0,0.0
+2018,15,Sassuolo,Fiorentina,27.6,55.3,17.1
+2018,15,Udinese Calcio,Atalanta,10.5,45.8,43.8
+2018,15,Parma,Chievo Verona,82.4,11.8,5.9
+2018,15,FC Empoli,Bologna,53.6,39.2,7.2
+2018,15,Genoa,SPAL,72.5,23.5,3.9
+2018,15,AC Milan,Torino,81.6,15.1,3.3
+2018,16,Inter,Udinese Calcio,94.5,4.1,1.4
+2018,16,Torino,Juventus,1.4,8.9,89.7
+2018,16,SPAL,Chievo Verona,58.1,33.1,8.8
+2018,16,Sampdoria,Parma,54.7,38.0,7.3
+2018,16,Frosinone,Sassuolo,10.7,24.0,65.3
+2018,16,Fiorentina,FC Empoli,86.0,10.7,3.3
+2018,16,Cagliari Calcio,SSC Napoli,0.0,6.0,94.0
+2018,16,AS Roma,Genoa,91.3,8.0,0.7
+2018,16,Atalanta,Lazio,26.5,45.0,28.5
+2018,16,Bologna,AC Milan,3.2,13.0,83.8
+2018,17,Lazio,Cagliari Calcio,94.2,4.3,1.4
+2018,17,Udinese Calcio,Frosinone,82.7,15.1,2.2
+2018,17,Sassuolo,Torino,42.8,40.6,16.7
+2018,17,SSC Napoli,SPAL,99.3,0.7,0.0
+2018,17,AC Milan,Fiorentina,70.0,23.6,6.4
+2018,17,Genoa,Atalanta,11.5,31.7,56.8
+2018,17,FC Empoli,Sampdoria,11.5,38.1,50.4
+2018,17,Chievo Verona,Inter,0.7,5.8,93.5
+2018,17,Parma,Bologna,81.3,16.5,2.2
+2018,17,Juventus,AS Roma,91.5,5.0,3.5
+2018,18,Frosinone,AC Milan,2.5,4.2,93.2
+2018,18,Sampdoria,Chievo Verona,90.1,6.6,3.3
+2018,18,Fiorentina,Parma,89.3,7.4,3.3
+2018,18,Cagliari Calcio,Genoa,28.1,57.0,14.9
+2018,18,Bologna,Lazio,3.3,14.0,82.6
+2018,18,Atalanta,Juventus,1.7,10.7,87.6
+2018,18,SPAL,Udinese Calcio,33.1,52.0,15.0
+2018,18,AS Roma,Sassuolo,83.5,15.7,0.8
+2018,18,Torino,FC Empoli,85.8,12.6,1.6
+2018,18,Inter,SSC Napoli,14.1,45.3,40.6
+2018,19,Juventus,Sampdoria,96.7,2.4,0.8
+2018,19,Chievo Verona,Frosinone,60.8,33.1,6.2
+2018,19,Udinese Calcio,Cagliari Calcio,54.6,33.1,12.3
+2018,19,Sassuolo,Atalanta,23.8,40.0,36.2
+2018,19,Parma,AS Roma,10.0,16.9,73.1
+2018,19,Lazio,Torino,82.3,13.1,4.6
+2018,19,Genoa,Fiorentina,13.1,57.7,29.2
+2018,19,FC Empoli,Inter,0.8,5.4,93.8
+2018,19,SSC Napoli,Bologna,99.2,0.0,0.8
+2018,19,AC Milan,SPAL,91.8,5.2,3.0
+2018,20,AS Roma,Torino,89.5,7.9,2.6
+2018,20,Udinese Calcio,Parma,27.5,51.6,20.9
+2018,20,Inter,Sassuolo,96.1,3.2,0.6
+2018,20,Frosinone,Atalanta,3.3,7.2,89.5
+2018,20,Fiorentina,Sampdoria,53.9,33.8,12.3
+2018,20,SPAL,Bologna,32.5,57.1,10.4
+2018,20,Cagliari Calcio,FC Empoli,75.3,19.5,5.2
+2018,20,SSC Napoli,Lazio,83.2,14.8,1.9
+2018,20,Genoa,AC Milan,8.3,25.6,66.0
+2018,20,Juventus,Chievo Verona,100.0,0.0,0.0
+2018,21,Sassuolo,Cagliari Calcio,68.5,28.1,3.4
+2018,21,Sampdoria,Udinese Calcio,91.1,7.5,1.4
+2018,21,AC Milan,SSC Napoli,4.1,27.4,68.5
+2018,21,Chievo Verona,Fiorentina,5.5,13.7,80.8
+2018,21,Parma,SPAL,83.7,13.6,2.7
+2018,21,Atalanta,AS Roma,28.6,42.9,28.6
+2018,21,Bologna,Frosinone,76.9,19.0,4.1
+2018,21,Torino,Inter,6.8,20.4,72.8
+2018,21,Lazio,Juventus,3.4,9.5,87.1
+2018,21,FC Empoli,Genoa,27.2,52.3,20.5
+2018,22,FC Empoli,Chievo Verona,75.0,16.9,8.1
+2018,22,SSC Napoli,Sampdoria,95.0,5.0,0.0
+2018,22,Juventus,Parma,99.3,0.7,0.0
+2018,22,SPAL,Torino,8.5,35.2,56.3
+2018,22,Genoa,Sassuolo,30.3,54.2,15.5
+2018,22,Udinese Calcio,Fiorentina,5.6,18.3,76.1
+2018,22,Inter,Bologna,95.8,3.5,0.7
+2018,22,AS Roma,AC Milan,47.6,36.4,16.1
+2018,22,Frosinone,Lazio,2.8,2.1,95.1
+2018,22,Cagliari Calcio,Atalanta,3.5,17.4,79.2
+2018,23,Lazio,FC Empoli,96.7,2.5,0.8
+2018,23,Chievo Verona,AS Roma,0.7,5.7,93.6
+2018,23,Fiorentina,SSC Napoli,3.4,22.6,74.0
+2018,23,Parma,Inter,9.0,28.3,62.8
+2018,23,Bologna,Genoa,25.5,51.0,23.4
+2018,23,Torino,Udinese Calcio,80.1,14.4,5.5
+2018,23,Atalanta,SPAL,92.5,6.2,1.4
+2018,23,Sampdoria,Frosinone,95.2,2.7,2.1
+2018,23,Sassuolo,Juventus,0.0,2.7,97.3
+2018,23,AC Milan,Cagliari Calcio,95.2,2.7,2.0
+2018,24,Juventus,Frosinone,99.3,0.7,0.0
+2018,24,Cagliari Calcio,Parma,17.1,51.4,31.5
+2018,24,Atalanta,AC Milan,32.2,43.8,24.0
+2018,24,SPAL,Fiorentina,7.6,17.9,74.5
+2018,24,FC Empoli,Sassuolo,10.3,33.6,56.2
+2018,24,Genoa,Lazio,10.3,24.7,65.1
+2018,24,Udinese Calcio,Chievo Verona,76.0,17.8,6.2
+2018,24,Inter,Sampdoria,85.6,11.0,3.4
+2018,24,SSC Napoli,Torino,97.3,2.7,0.0
+2018,24,AS Roma,Bologna,95.3,4.7,0.0
+2018,25,AC Milan,FC Empoli,94.7,4.5,0.8
+2018,25,Torino,Atalanta,21.6,45.5,32.8
+2018,25,Frosinone,AS Roma,1.5,0.7,97.8
+2018,25,Sampdoria,Cagliari Calcio,85.0,12.9,2.1
+2018,25,Sassuolo,SPAL,78.7,19.1,2.1
+2018,25,Bologna,Juventus,0.0,3.5,96.5
+2018,25,Chievo Verona,Genoa,8.5,24.1,67.4
+2018,25,Parma,SSC Napoli,1.4,6.3,92.3
+2018,25,Fiorentina,Inter,18.8,51.4,29.9
+2018,25,Lazio,Udinese Calcio,95.4,2.0,2.6
+2018,26,Cagliari Calcio,Inter,1.5,5.8,92.7
+2018,26,FC Empoli,Parma,25.2,45.3,29.5
+2018,26,AC Milan,Sassuolo,94.2,5.1,0.7
+2018,26,Lazio,AS Roma,15.0,53.6,31.4
+2018,26,Torino,Chievo Verona,94.3,5.0,0.7
+2018,26,Udinese Calcio,Bologna,57.4,30.5,12.1
+2018,26,SPAL,Sampdoria,9.2,22.0,68.8
+2018,26,Genoa,Frosinone,89.4,6.4,4.3
+2018,26,Atalanta,Fiorentina,51.8,36.9,11.3
+2018,26,SSC Napoli,Juventus,29.4,39.9,30.8
+2018,27,Juventus,Udinese Calcio,100.0,0.0,0.0
+2018,27,Parma,Genoa,44.9,44.2,10.9
+2018,27,Chievo Verona,AC Milan,0.7,2.9,96.4
+2018,27,Bologna,Cagliari Calcio,47.5,38.1,14.4
+2018,27,Sampdoria,Atalanta,26.6,45.3,28.1
+2018,27,Frosinone,Torino,4.3,5.8,89.9
+2018,27,Inter,SPAL,97.1,2.2,0.7
+2018,27,Sassuolo,SSC Napoli,2.2,3.6,94.2
+2018,27,Fiorentina,Lazio,41.7,36.7,21.6
+2018,27,AS Roma,FC Empoli,97.2,2.1,0.7
+2018,28,Cagliari Calcio,Fiorentina,6.9,15.3,77.9
+2018,28,Sassuolo,Sampdoria,19.9,58.2,22.0
+2018,28,SPAL,AS Roma,2.8,3.5,93.7
+2018,28,Torino,Bologna,92.3,5.6,2.1
+2018,28,Genoa,Juventus,3.5,5.6,90.9
+2018,28,Lazio,Parma,92.4,6.9,0.7
+2018,28,FC Empoli,Frosinone,66.7,28.5,4.9
+2018,28,Atalanta,Chievo Verona,96.5,2.8,0.7
+2018,28,SSC Napoli,Udinese Calcio,98.6,1.4,0.0
+2018,28,AC Milan,Inter,52.8,43.1,4.2
+2018,29,Chievo Verona,Cagliari Calcio,11.7,31.3,57.0
+2018,29,Udinese Calcio,Genoa,33.1,39.8,27.1
+2018,29,Juventus,FC Empoli,98.5,0.7,0.7
+2018,29,Sampdoria,AC Milan,6.6,24.3,69.1
+2018,29,Parma,Atalanta,5.9,27.9,66.2
+2018,29,Fiorentina,Torino,60.3,31.6,8.1
+2018,29,Frosinone,SPAL,24.8,44.5,30.7
+2018,29,AS Roma,SSC Napoli,13.1,35.0,51.8
+2018,29,Bologna,Sassuolo,38.7,31.4,29.9
+2018,29,Inter,Lazio,78.8,18.2,2.9
+2018,30,AC Milan,Udinese Calcio,95.6,2.7,1.8
+2018,30,Cagliari Calcio,Juventus,2.6,6.9,90.5
+2018,30,FC Empoli,SSC Napoli,0.0,1.6,98.4
+2018,30,Torino,Sampdoria,52.0,40.8,7.2
+2018,30,Frosinone,Parma,12.0,45.6,42.4
+2018,30,SPAL,Lazio,1.6,12.0,86.4
+2018,30,Genoa,Inter,5.6,12.8,81.6
+2018,30,AS Roma,Fiorentina,75.2,19.2,5.6
+2018,30,Sassuolo,Chievo Verona,84.4,13.3,2.3
+2018,30,Atalanta,Bologna,92.4,6.9,0.8
+2018,31,Parma,Torino,13.0,43.9,43.1
+2018,31,Juventus,AC Milan,92.8,6.4,0.8
+2018,31,Sampdoria,AS Roma,25.4,41.3,33.3
+2018,31,Fiorentina,Frosinone,95.2,3.2,1.6
+2018,31,Cagliari Calcio,SPAL,61.7,27.3,10.9
+2018,31,Udinese Calcio,FC Empoli,64.1,29.7,6.3
+2018,31,Inter,Atalanta,69.0,17.1,14.0
+2018,31,Lazio,Sassuolo,89.9,5.4,4.7
+2018,31,SSC Napoli,Genoa,99.2,0.0,0.8
+2018,31,Bologna,Chievo Verona,84.7,13.0,2.3
+2018,32,SPAL,Juventus,0.8,6.9,92.3
+2018,32,AS Roma,Udinese Calcio,93.1,4.6,2.3
+2018,32,AC Milan,Lazio,69.5,27.5,3.1
+2018,32,Torino,Cagliari Calcio,84.0,14.5,1.5
+2018,32,Fiorentina,Bologna,77.4,19.5,3.0
+2018,32,Sassuolo,Parma,54.1,39.8,6.0
+2018,32,Sampdoria,Genoa,66.9,27.1,6.0
+2018,32,Chievo Verona,SSC Napoli,0.8,2.3,97.0
+2018,32,Frosinone,Inter,3.8,3.8,92.5
+2018,32,Atalanta,FC Empoli,94.8,2.2,3.0
+2018,33,Parma,AC Milan,1.8,9.6,88.6
+2018,33,Genoa,Torino,11.8,46.2,42.0
+2018,33,FC Empoli,SPAL,30.8,45.8,23.3
+2018,33,Udinese Calcio,Sassuolo,45.0,40.8,14.2
+2018,33,Bologna,Sampdoria,16.7,30.8,52.5
+2018,33,Cagliari Calcio,Frosinone,84.2,12.5,3.3
+2018,33,Lazio,Chievo Verona,99.2,0.0,0.8
+2018,33,Juventus,Fiorentina,90.1,7.4,2.5
+2018,33,Inter,AS Roma,61.0,29.3,9.8
+2018,33,SSC Napoli,Atalanta,77.2,15.7,7.1
+2018,34,Bologna,FC Empoli,78.9,18.3,2.8
+2018,34,AS Roma,Cagliari Calcio,97.3,2.7,0.0
+2018,34,Inter,Juventus,11.4,39.5,49.1
+2018,34,Frosinone,SSC Napoli,0.0,0.9,99.1
+2018,34,Chievo Verona,Parma,5.0,31.9,63.0
+2018,34,SPAL,Genoa,55.5,35.3,9.2
+2018,34,Sampdoria,Lazio,30.6,40.5,28.9
+2018,34,Torino,AC Milan,13.1,39.3,47.5
+2018,34,Atalanta,Udinese Calcio,95.1,4.1,0.8
+2018,34,Fiorentina,Sassuolo,77.2,17.9,4.9
+2018,35,Juventus,Torino,83.8,12.6,3.6
+2018,35,Chievo Verona,SPAL,10.3,31.9,57.8
+2018,35,Udinese Calcio,Inter,3.4,9.5,87.1
+2018,35,FC Empoli,Fiorentina,16.1,22.9,61.0
+2018,35,Lazio,Atalanta,36.4,35.6,28.0
+2018,35,Parma,Sampdoria,25.6,43.6,30.8
+2018,35,Sassuolo,Frosinone,89.7,8.5,1.7
+2018,35,Genoa,AS Roma,3.4,5.9,90.8
+2018,35,SSC Napoli,Cagliari Calcio,97.5,2.5,0.0
+2018,35,AC Milan,Bologna,87.6,9.9,2.5
+2018,36,Atalanta,Genoa,91.6,5.0,3.4
+2018,36,Cagliari Calcio,Lazio,5.0,26.9,68.1
+2018,36,Fiorentina,AC Milan,5.9,30.3,63.9
+2018,36,Torino,Sassuolo,91.7,6.7,1.7
+2018,36,Frosinone,Udinese Calcio,10.0,32.5,57.5
+2018,36,Sampdoria,FC Empoli,75.0,13.3,11.7
+2018,36,SPAL,SSC Napoli,4.2,10.0,85.8
+2018,36,AS Roma,Juventus,20.8,43.3,35.8
+2018,36,Bologna,Parma,60.0,35.0,5.0
+2018,36,Inter,Chievo Verona,99.2,0.0,0.8
+2018,37,Udinese Calcio,SPAL,67.6,16.2,16.2
+2018,37,Genoa,Cagliari Calcio,63.7,21.2,15.0
+2018,37,Sassuolo,AS Roma,5.2,8.7,86.1
+2018,37,Chievo Verona,Sampdoria,5.2,12.2,82.6
+2018,37,FC Empoli,Torino,10.5,16.7,72.8
+2018,37,Parma,Fiorentina,25.2,53.0,21.7
+2018,37,AC Milan,Frosinone,100.0,0.0,0.0
+2018,37,Juventus,Atalanta,64.7,28.4,6.9
+2018,37,SSC Napoli,Inter,62.9,28.4,8.6
+2018,37,Lazio,Bologna,81.4,14.4,4.2
+2018,38,Frosinone,Chievo Verona,60.2,29.6,10.2
+2018,38,Bologna,SSC Napoli,1.9,16.7,81.5
+2018,38,Torino,Lazio,43.1,35.8,21.1
+2018,38,Sampdoria,Juventus,6.4,11.9,81.7
+2018,38,Cagliari Calcio,Udinese Calcio,29.4,57.8,12.8
+2018,38,Atalanta,Sassuolo,94.5,2.8,2.8
+2018,38,AS Roma,Parma,97.2,2.8,0.0
+2018,38,SPAL,AC Milan,5.5,4.6,89.9
+2018,38,Fiorentina,Genoa,54.1,30.3,15.6
+2018,38,Inter,FC Empoli,92.7,6.4,0.9

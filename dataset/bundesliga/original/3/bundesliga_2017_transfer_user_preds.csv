@@ -1,0 +1,307 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2017,1,Bayern Munich,Bay Leverkusen,95.5,3.6,0.9
+2017,1,VfL Wolfsburg,Bor Dortmund,4.0,10.5,85.5
+2017,1,Hamburger SV,FC Augsburg,44.7,35.2,20.2
+2017,1,TSG Hoffenheim,Werder Bremen,77.8,15.2,7.0
+2017,1,Hertha BSC,VfB Stuttgart,65.9,23.2,11.0
+2017,1,FSV Mainz,Hannover,59.5,29.7,10.8
+2017,1,FC Schalke,RB Leipzig,19.7,32.8,47.6
+2017,1,SC Freiburg,E Frankfurt,47.2,32.7,20.2
+2017,1,Bor M gladbach,FC K ln,66.1,24.5,9.4
+2017,2,FC K ln,Hamburger SV,81.3,12.6,6.1
+2017,2,VfB Stuttgart,FSV Mainz,66.6,23.5,10.0
+2017,2,FC Augsburg,Bor M gladbach,5.2,13.5,81.2
+2017,2,Bay Leverkusen,TSG Hoffenheim,46.5,32.2,21.3
+2017,2,E Frankfurt,VfL Wolfsburg,53.6,31.9,14.5
+2017,2,Werder Bremen,Bayern Munich,1.7,2.8,95.5
+2017,2,Bor Dortmund,Hertha BSC,95.3,3.7,0.9
+2017,2,RB Leipzig,SC Freiburg,92.8,5.2,2.0
+2017,2,Hannover,FC Schalke,6.4,17.3,76.3
+2017,3,Hamburger SV,RB Leipzig,9.9,15.8,74.3
+2017,3,VfL Wolfsburg,Hannover,64.1,23.9,12.0
+2017,3,FSV Mainz,Bay Leverkusen,10.1,21.2,68.8
+2017,3,FC Augsburg,FC K ln,26.8,44.8,28.4
+2017,3,Bor M gladbach,E Frankfurt,88.7,8.0,3.2
+2017,3,SC Freiburg,Bor Dortmund,1.1,2.0,96.9
+2017,3,TSG Hoffenheim,Bayern Munich,4.8,14.6,80.5
+2017,3,Hertha BSC,Werder Bremen,72.7,16.7,10.6
+2017,3,FC Schalke,VfB Stuttgart,82.9,11.6,5.5
+2017,4,Hannover,Hamburger SV,54.0,32.7,13.3
+2017,4,VfB Stuttgart,VfL Wolfsburg,46.2,32.9,20.9
+2017,4,E Frankfurt,FC Augsburg,72.5,19.9,7.7
+2017,4,Bayern Munich,FSV Mainz,97.8,1.5,0.7
+2017,4,Werder Bremen,FC Schalke,25.6,27.5,46.9
+2017,4,RB Leipzig,Bor M gladbach,82.3,13.1,4.6
+2017,4,TSG Hoffenheim,Hertha BSC,86.2,10.9,2.9
+2017,4,Bay Leverkusen,SC Freiburg,74.6,16.1,9.2
+2017,4,Bor Dortmund,FC K ln,95.5,3.3,1.1
+2017,5,Bor M gladbach,VfB Stuttgart,86.1,10.2,3.7
+2017,5,VfL Wolfsburg,Werder Bremen,56.8,27.6,15.6
+2017,5,FC Augsburg,RB Leipzig,4.5,12.4,83.1
+2017,5,FC Schalke,Bayern Munich,6.7,15.8,77.5
+2017,5,FC K ln,E Frankfurt,48.9,29.1,22.0
+2017,5,Hamburger SV,Bor Dortmund,3.4,3.6,93.1
+2017,5,SC Freiburg,Hannover,37.9,30.5,31.7
+2017,5,FSV Mainz,TSG Hoffenheim,8.0,16.4,75.6
+2017,5,Hertha BSC,Bay Leverkusen,37.9,34.9,27.2
+2017,6,Bayern Munich,VfL Wolfsburg,98.8,0.9,0.3
+2017,6,VfB Stuttgart,FC Augsburg,47.0,33.4,19.7
+2017,6,FSV Mainz,Hertha BSC,30.3,33.2,36.5
+2017,6,Werder Bremen,SC Freiburg,70.9,20.7,8.4
+2017,6,TSG Hoffenheim,FC Schalke,65.8,25.6,8.6
+2017,6,RB Leipzig,E Frankfurt,91.3,6.5,2.3
+2017,6,Bor Dortmund,Bor M gladbach,92.7,5.6,1.6
+2017,6,Hannover,FC K ln,66.0,19.5,14.5
+2017,6,Bay Leverkusen,Hamburger SV,81.0,12.0,7.0
+2017,7,FC Schalke,Bay Leverkusen,64.5,24.2,11.2
+2017,7,VfL Wolfsburg,FSV Mainz,76.8,17.2,6.0
+2017,7,FC Augsburg,Bor Dortmund,1.5,5.3,93.2
+2017,7,E Frankfurt,VfB Stuttgart,59.7,27.9,12.4
+2017,7,Bor M gladbach,Hannover,78.5,13.9,7.6
+2017,7,Hamburger SV,Werder Bremen,35.7,39.8,24.5
+2017,7,SC Freiburg,TSG Hoffenheim,8.7,16.3,74.9
+2017,7,Hertha BSC,Bayern Munich,2.7,5.6,91.7
+2017,7,FC K ln,RB Leipzig,10.1,12.8,77.2
+2017,8,VfB Stuttgart,FC K ln,56.8,25.4,17.8
+2017,8,Bayern Munich,SC Freiburg,98.4,1.3,0.4
+2017,8,Hannover,E Frankfurt,54.3,32.6,13.1
+2017,8,FSV Mainz,Hamburger SV,68.3,19.8,11.8
+2017,8,Hertha BSC,FC Schalke,38.7,38.3,23.0
+2017,8,TSG Hoffenheim,FC Augsburg,90.4,7.7,1.9
+2017,8,Bor Dortmund,RB Leipzig,85.8,11.2,3.0
+2017,8,Bay Leverkusen,VfL Wolfsburg,78.0,17.0,5.0
+2017,8,Werder Bremen,Bor M gladbach,18.6,24.1,57.4
+2017,9,FC Schalke,FSV Mainz,93.7,5.0,1.3
+2017,9,RB Leipzig,VfB Stuttgart,95.6,2.8,1.5
+2017,9,FC Augsburg,Hannover,56.0,34.9,9.1
+2017,9,Bor M gladbach,Bay Leverkusen,65.9,27.7,6.4
+2017,9,E Frankfurt,Bor Dortmund,5.8,10.3,83.9
+2017,9,Hamburger SV,Bayern Munich,1.0,1.0,98.0
+2017,9,FC K ln,Werder Bremen,53.3,31.0,15.7
+2017,9,SC Freiburg,Hertha BSC,49.7,29.5,20.9
+2017,9,VfL Wolfsburg,TSG Hoffenheim,18.2,26.8,55.0
+2017,10,FSV Mainz,E Frankfurt,30.4,36.3,33.3
+2017,10,Hannover,Bor Dortmund,2.0,5.3,92.7
+2017,10,Bay Leverkusen,FC K ln,82.8,10.0,7.3
+2017,10,FC Schalke,VfL Wolfsburg,88.8,8.4,2.8
+2017,10,Hertha BSC,Hamburger SV,72.8,17.8,9.4
+2017,10,TSG Hoffenheim,Bor M gladbach,75.5,17.9,6.5
+2017,10,Bayern Munich,RB Leipzig,76.1,15.9,8.0
+2017,10,Werder Bremen,FC Augsburg,46.6,28.0,25.4
+2017,10,VfB Stuttgart,SC Freiburg,66.6,25.4,7.9
+2017,11,E Frankfurt,Werder Bremen,74.4,15.5,10.1
+2017,11,Hamburger SV,VfB Stuttgart,34.5,36.2,29.3
+2017,11,FC Augsburg,Bay Leverkusen,19.5,34.4,46.1
+2017,11,SC Freiburg,FC Schalke,11.0,18.1,70.9
+2017,11,RB Leipzig,Hannover,88.3,8.3,3.4
+2017,11,Bor M gladbach,FSV Mainz,93.5,5.0,1.5
+2017,11,Bor Dortmund,Bayern Munich,15.5,18.5,66.0
+2017,11,FC K ln,TSG Hoffenheim,26.9,22.9,50.2
+2017,11,VfL Wolfsburg,Hertha BSC,60.7,28.6,10.8
+2017,12,VfB Stuttgart,Bor Dortmund,6.1,12.3,81.7
+2017,12,Bayern Munich,FC Augsburg,98.7,0.7,0.6
+2017,12,VfL Wolfsburg,SC Freiburg,75.5,19.2,5.3
+2017,12,FSV Mainz,FC K ln,59.0,25.1,15.9
+2017,12,Bay Leverkusen,RB Leipzig,16.7,34.7,48.6
+2017,12,TSG Hoffenheim,E Frankfurt,80.9,15.4,3.7
+2017,12,Hertha BSC,Bor M gladbach,28.1,35.6,36.3
+2017,12,FC Schalke,Hamburger SV,90.5,5.7,3.7
+2017,12,Werder Bremen,Hannover,33.4,26.6,40.1
+2017,13,Hannover,VfB Stuttgart,61.5,26.7,11.9
+2017,13,Bor Dortmund,FC Schalke,42.4,29.1,28.5
+2017,13,FC Augsburg,VfL Wolfsburg,36.7,34.6,28.8
+2017,13,E Frankfurt,Bay Leverkusen,28.3,36.6,35.1
+2017,13,SC Freiburg,FSV Mainz,53.1,27.0,19.9
+2017,13,RB Leipzig,Werder Bremen,91.8,4.4,3.8
+2017,13,Bor M gladbach,Bayern Munich,7.4,12.5,80.0
+2017,13,Hamburger SV,TSG Hoffenheim,19.3,18.6,62.1
+2017,13,FC K ln,Hertha BSC,53.4,23.6,23.0
+2017,14,SC Freiburg,Hamburger SV,49.5,29.0,21.5
+2017,14,Bayern Munich,Hannover,98.6,0.8,0.6
+2017,14,FSV Mainz,FC Augsburg,43.2,34.7,22.1
+2017,14,Bay Leverkusen,Bor Dortmund,45.4,26.6,28.0
+2017,14,TSG Hoffenheim,RB Leipzig,11.6,24.5,64.0
+2017,14,Werder Bremen,VfB Stuttgart,62.4,20.6,17.1
+2017,14,FC Schalke,FC K ln,93.5,3.3,3.2
+2017,14,Hertha BSC,E Frankfurt,48.0,33.6,18.4
+2017,14,VfL Wolfsburg,Bor M gladbach,15.9,24.4,59.7
+2017,15,VfB Stuttgart,Bay Leverkusen,16.5,25.1,58.4
+2017,15,Bor Dortmund,Werder Bremen,87.9,7.6,4.5
+2017,15,E Frankfurt,Bayern Munich,2.6,8.0,89.4
+2017,15,RB Leipzig,FSV Mainz,97.0,2.2,0.8
+2017,15,Hamburger SV,VfL Wolfsburg,25.9,36.4,37.7
+2017,15,Bor M gladbach,FC Schalke,46.3,36.8,16.9
+2017,15,FC K ln,SC Freiburg,60.7,22.8,16.5
+2017,15,Hannover,TSG Hoffenheim,18.2,26.9,54.9
+2017,15,FC Augsburg,Hertha BSC,75.3,17.1,7.6
+2017,16,VfL Wolfsburg,RB Leipzig,15.7,27.4,56.9
+2017,16,FSV Mainz,Bor Dortmund,5.7,10.5,83.8
+2017,16,Hamburger SV,E Frankfurt,27.6,31.0,41.4
+2017,16,SC Freiburg,Bor M gladbach,10.9,18.7,70.4
+2017,16,TSG Hoffenheim,VfB Stuttgart,89.2,8.0,2.8
+2017,16,Bayern Munich,FC K ln,98.8,0.7,0.5
+2017,16,Bay Leverkusen,Werder Bremen,85.5,9.4,5.2
+2017,16,FC Schalke,FC Augsburg,86.5,10.7,2.8
+2017,16,Hertha BSC,Hannover,49.7,36.6,13.6
+2017,17,Bor M gladbach,Hamburger SV,90.3,5.7,4.0
+2017,17,Werder Bremen,FSV Mainz,77.7,16.7,5.6
+2017,17,FC K ln,VfL Wolfsburg,23.0,30.8,46.2
+2017,17,VfB Stuttgart,Bayern Munich,0.9,2.3,96.8
+2017,17,FC Augsburg,SC Freiburg,76.5,18.4,5.0
+2017,17,E Frankfurt,FC Schalke,20.0,37.6,42.4
+2017,17,Bor Dortmund,TSG Hoffenheim,79.7,15.8,4.5
+2017,17,Hannover,Bay Leverkusen,10.2,21.5,68.2
+2017,17,RB Leipzig,Hertha BSC,92.6,5.9,1.5
+2017,18,Bay Leverkusen,Bayern Munich,7.5,19.3,73.3
+2017,18,Hannover,FSV Mainz,70.2,23.2,6.7
+2017,18,FC Augsburg,Hamburger SV,79.4,13.8,6.8
+2017,18,E Frankfurt,SC Freiburg,81.7,13.9,4.4
+2017,18,Werder Bremen,TSG Hoffenheim,25.4,31.7,42.9
+2017,18,VfB Stuttgart,Hertha BSC,56.4,26.0,17.6
+2017,18,RB Leipzig,FC Schalke,48.8,35.0,16.2
+2017,18,FC K ln,Bor M gladbach,16.2,16.4,67.4
+2017,18,Bor Dortmund,VfL Wolfsburg,95.7,3.1,1.2
+2017,19,Hertha BSC,Bor Dortmund,10.5,21.6,67.9
+2017,19,FSV Mainz,VfB Stuttgart,51.6,28.9,19.5
+2017,19,Bor M gladbach,FC Augsburg,81.0,14.2,4.8
+2017,19,TSG Hoffenheim,Bay Leverkusen,29.0,40.6,30.3
+2017,19,SC Freiburg,RB Leipzig,4.0,9.0,87.0
+2017,19,VfL Wolfsburg,E Frankfurt,43.8,38.1,18.1
+2017,19,Hamburger SV,FC K ln,29.4,28.3,42.3
+2017,19,Bayern Munich,Werder Bremen,97.9,1.1,1.0
+2017,19,FC Schalke,Hannover,91.6,6.1,2.3
+2017,20,E Frankfurt,Bor M gladbach,36.3,39.4,24.3
+2017,20,Bayern Munich,TSG Hoffenheim,95.6,2.9,1.5
+2017,20,VfB Stuttgart,FC Schalke,12.7,24.6,62.6
+2017,20,RB Leipzig,Hamburger SV,92.4,4.2,3.4
+2017,20,Bor Dortmund,SC Freiburg,92.8,5.6,1.6
+2017,20,FC K ln,FC Augsburg,56.1,28.3,15.6
+2017,20,Werder Bremen,Hertha BSC,59.8,26.6,13.5
+2017,20,Bay Leverkusen,FSV Mainz,96.1,2.6,1.2
+2017,20,Hannover,VfL Wolfsburg,57.0,34.9,8.1
+2017,21,FC K ln,Bor Dortmund,11.6,23.6,64.8
+2017,21,FSV Mainz,Bayern Munich,0.9,1.2,97.9
+2017,21,FC Schalke,Werder Bremen,89.0,6.7,4.3
+2017,21,SC Freiburg,Bay Leverkusen,7.5,21.3,71.2
+2017,21,Hertha BSC,TSG Hoffenheim,36.3,35.2,28.5
+2017,21,VfL Wolfsburg,VfB Stuttgart,70.4,22.0,7.6
+2017,21,Bor M gladbach,RB Leipzig,42.3,34.0,23.7
+2017,21,FC Augsburg,E Frankfurt,25.3,35.2,39.5
+2017,21,Hamburger SV,Hannover,41.4,26.4,32.2
+2017,22,RB Leipzig,FC Augsburg,89.6,7.9,2.6
+2017,22,Hannover,SC Freiburg,38.3,46.9,14.8
+2017,22,Bay Leverkusen,Hertha BSC,93.4,4.6,2.0
+2017,22,E Frankfurt,FC K ln,67.3,21.1,11.6
+2017,22,TSG Hoffenheim,FSV Mainz,90.4,7.5,2.1
+2017,22,Bor Dortmund,Hamburger SV,94.1,3.7,2.2
+2017,22,Bayern Munich,FC Schalke,93.1,4.9,2.0
+2017,22,VfB Stuttgart,Bor M gladbach,18.1,28.5,53.4
+2017,22,Werder Bremen,VfL Wolfsburg,64.3,27.4,8.2
+2017,23,Hertha BSC,FSV Mainz,90.1,7.3,2.6
+2017,23,VfL Wolfsburg,Bayern Munich,0.9,1.3,97.9
+2017,23,Hamburger SV,Bay Leverkusen,8.5,10.0,81.5
+2017,23,SC Freiburg,Werder Bremen,37.8,37.8,24.3
+2017,23,FC K ln,Hannover,54.3,26.2,19.5
+2017,23,FC Schalke,TSG Hoffenheim,75.6,19.7,4.7
+2017,23,FC Augsburg,VfB Stuttgart,75.7,17.7,6.7
+2017,23,Bor M gladbach,Bor Dortmund,13.1,23.9,63.0
+2017,23,E Frankfurt,RB Leipzig,24.5,37.7,37.8
+2017,24,FSV Mainz,VfL Wolfsburg,35.1,39.9,25.1
+2017,24,Bayern Munich,Hertha BSC,98.6,0.7,0.7
+2017,24,Hannover,Bor M gladbach,38.4,32.4,29.2
+2017,24,TSG Hoffenheim,SC Freiburg,78.2,17.0,4.8
+2017,24,VfB Stuttgart,E Frankfurt,19.7,25.9,54.4
+2017,24,Werder Bremen,Hamburger SV,81.4,12.4,6.2
+2017,24,Bay Leverkusen,FC Schalke,59.1,29.6,11.3
+2017,24,RB Leipzig,FC K ln,90.2,4.9,4.9
+2017,24,Bor Dortmund,FC Augsburg,92.3,5.9,1.8
+2017,25,Bor M gladbach,Werder Bremen,77.2,16.2,6.7
+2017,25,VfL Wolfsburg,Bay Leverkusen,8.9,20.7,70.4
+2017,25,Hamburger SV,FSV Mainz,38.4,34.1,27.5
+2017,25,FC Augsburg,TSG Hoffenheim,36.0,42.8,21.2
+2017,25,E Frankfurt,Hannover,87.1,10.3,2.6
+2017,25,FC Schalke,Hertha BSC,91.0,6.4,2.6
+2017,25,RB Leipzig,Bor Dortmund,31.5,37.5,31.1
+2017,25,FC K ln,VfB Stuttgart,64.5,20.8,14.8
+2017,25,SC Freiburg,Bayern Munich,1.4,3.5,95.2
+2017,26,FSV Mainz,FC Schalke,5.6,12.4,82.0
+2017,26,Bayern Munich,Hamburger SV,98.3,0.9,0.8
+2017,26,Hannover,FC Augsburg,54.2,34.7,11.0
+2017,26,Hertha BSC,SC Freiburg,58.6,32.5,8.9
+2017,26,TSG Hoffenheim,VfL Wolfsburg,86.6,10.2,3.2
+2017,26,Bay Leverkusen,Bor M gladbach,79.5,15.0,5.5
+2017,26,VfB Stuttgart,RB Leipzig,18.0,24.9,57.1
+2017,26,Bor Dortmund,E Frankfurt,65.8,23.6,10.7
+2017,26,Werder Bremen,FC K ln,69.5,17.4,13.1
+2017,27,SC Freiburg,VfB Stuttgart,45.3,38.8,15.9
+2017,27,Hamburger SV,Hertha BSC,33.9,25.9,40.2
+2017,27,FC Augsburg,Werder Bremen,55.9,28.9,15.2
+2017,27,E Frankfurt,FSV Mainz,92.7,5.3,2.0
+2017,27,Bor M gladbach,TSG Hoffenheim,41.7,30.6,27.7
+2017,27,VfL Wolfsburg,FC Schalke,5.9,13.3,80.8
+2017,27,Bor Dortmund,Hannover,91.2,6.3,2.5
+2017,27,FC K ln,Bay Leverkusen,9.5,11.8,78.7
+2017,27,RB Leipzig,Bayern Munich,5.1,11.7,83.2
+2017,28,Hannover,RB Leipzig,5.1,14.4,80.5
+2017,28,Bay Leverkusen,FC Augsburg,90.7,7.9,1.4
+2017,28,FC Schalke,SC Freiburg,92.4,6.0,1.6
+2017,28,TSG Hoffenheim,FC K ln,73.7,16.1,10.2
+2017,28,VfB Stuttgart,Hamburger SV,83.1,10.1,6.8
+2017,28,Bayern Munich,Bor Dortmund,87.4,8.1,4.5
+2017,28,Hertha BSC,VfL Wolfsburg,64.6,28.6,6.8
+2017,28,Werder Bremen,E Frankfurt,31.1,38.9,30.0
+2017,28,FSV Mainz,Bor M gladbach,12.6,20.0,67.4
+2017,29,Hannover,Werder Bremen,21.2,37.1,41.7
+2017,29,FC Augsburg,Bayern Munich,1.2,1.8,97.0
+2017,29,Bor M gladbach,Hertha BSC,79.5,16.9,3.6
+2017,29,SC Freiburg,VfL Wolfsburg,61.0,28.3,10.7
+2017,29,FC K ln,FSV Mainz,76.7,16.3,7.0
+2017,29,Hamburger SV,FC Schalke,8.6,8.8,82.6
+2017,29,Bor Dortmund,VfB Stuttgart,86.4,10.5,3.1
+2017,29,E Frankfurt,TSG Hoffenheim,44.1,38.5,17.4
+2017,29,RB Leipzig,Bay Leverkusen,60.7,27.7,11.6
+2017,30,VfL Wolfsburg,FC Augsburg,57.2,26.8,16.0
+2017,30,VfB Stuttgart,Hannover,68.1,24.6,7.3
+2017,30,Bay Leverkusen,E Frankfurt,78.8,15.7,5.5
+2017,30,Hertha BSC,FC K ln,66.9,18.0,15.1
+2017,30,TSG Hoffenheim,Hamburger SV,83.7,8.7,7.5
+2017,30,Bayern Munich,Bor M gladbach,91.3,5.5,3.1
+2017,30,FC Schalke,Bor Dortmund,33.3,42.1,24.5
+2017,30,Werder Bremen,RB Leipzig,33.6,21.7,44.7
+2017,30,FSV Mainz,SC Freiburg,37.9,40.0,22.2
+2017,31,Bor M gladbach,VfL Wolfsburg,84.1,12.7,3.1
+2017,31,VfB Stuttgart,Werder Bremen,40.5,40.6,18.8
+2017,31,Hamburger SV,SC Freiburg,54.9,26.7,18.4
+2017,31,E Frankfurt,Hertha BSC,78.8,15.0,6.2
+2017,31,RB Leipzig,TSG Hoffenheim,56.5,28.8,14.7
+2017,31,Hannover,Bayern Munich,1.3,1.6,97.0
+2017,31,Bor Dortmund,Bay Leverkusen,42.8,26.2,31.0
+2017,31,FC Augsburg,FSV Mainz,74.5,18.7,6.8
+2017,31,FC K ln,FC Schalke,11.5,10.1,78.5
+2017,32,TSG Hoffenheim,Hannover,96.1,2.6,1.3
+2017,32,VfL Wolfsburg,Hamburger SV,44.0,27.3,28.7
+2017,32,FC Schalke,Bor M gladbach,76.5,15.4,8.1
+2017,32,SC Freiburg,FC K ln,56.7,26.0,17.4
+2017,32,Bayern Munich,E Frankfurt,89.5,7.1,3.4
+2017,32,Hertha BSC,FC Augsburg,63.9,28.9,7.2
+2017,32,Bay Leverkusen,VfB Stuttgart,92.9,5.4,1.7
+2017,32,FSV Mainz,RB Leipzig,8.5,13.0,78.5
+2017,32,Werder Bremen,Bor Dortmund,9.7,15.3,75.0
+2017,33,Bor Dortmund,FSV Mainz,96.5,2.6,0.9
+2017,33,VfB Stuttgart,TSG Hoffenheim,17.7,28.5,53.8
+2017,33,Hannover,Hertha BSC,36.2,42.4,21.4
+2017,33,FC Augsburg,FC Schalke,9.9,25.0,65.1
+2017,33,Bor M gladbach,SC Freiburg,81.3,14.1,4.7
+2017,33,Werder Bremen,Bay Leverkusen,22.7,32.1,45.2
+2017,33,FC K ln,Bayern Munich,2.0,1.9,96.1
+2017,33,RB Leipzig,VfL Wolfsburg,86.3,9.8,3.9
+2017,33,E Frankfurt,Hamburger SV,57.1,17.9,25.0
+2017,34,Bayern Munich,VfB Stuttgart,96.2,2.3,1.5
+2017,34,VfL Wolfsburg,FC K ln,46.7,26.7,26.6
+2017,34,FSV Mainz,Werder Bremen,36.4,38.7,24.9
+2017,34,Hamburger SV,Bor M gladbach,44.6,17.2,38.2
+2017,34,Bay Leverkusen,Hannover,93.6,4.8,1.5
+2017,34,SC Freiburg,FC Augsburg,57.8,31.1,11.1
+2017,34,Hertha BSC,RB Leipzig,14.3,16.8,68.9
+2017,34,TSG Hoffenheim,Bor Dortmund,50.0,28.9,21.0
+2017,34,FC Schalke,E Frankfurt,75.4,16.0,8.6

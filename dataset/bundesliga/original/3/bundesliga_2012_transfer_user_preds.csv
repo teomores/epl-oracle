@@ -1,0 +1,307 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2012,1,Bor Dortmund,Werder Bremen,89.0,7.4,3.5
+2012,1,Greuther F rth,Bayern Munich,1.4,2.3,96.3
+2012,1,Hamburger SV,FC Nuremberg,48.6,29.9,21.5
+2012,1,FC Augsburg,F D sseldorf,52.8,31.2,16.0
+2012,1,SC Freiburg,FSV Mainz,33.6,45.3,21.1
+2012,1,Bor M gladbach,TSG Hoffenheim,74.4,19.4,6.2
+2012,1,E Frankfurt,Bay Leverkusen,7.4,12.7,79.9
+2012,1,VfB Stuttgart,VfL Wolfsburg,53.0,31.0,16.0
+2012,1,Hannover,FC Schalke,21.5,36.5,42.0
+2012,2,FSV Mainz,Greuther F rth,78.4,15.2,6.4
+2012,2,Bay Leverkusen,SC Freiburg,85.1,12.2,2.7
+2012,2,FC Schalke,FC Augsburg,97.5,2.0,0.6
+2012,2,Werder Bremen,Hamburger SV,80.0,15.2,4.8
+2012,2,FC Nuremberg,Bor Dortmund,2.4,7.6,90.0
+2012,2,TSG Hoffenheim,E Frankfurt,52.3,29.8,17.9
+2012,2,F D sseldorf,Bor M gladbach,8.4,29.2,62.4
+2012,2,VfL Wolfsburg,Hannover,54.4,30.4,15.1
+2012,2,Bayern Munich,VfB Stuttgart,94.0,4.3,1.6
+2012,3,FC Augsburg,VfL Wolfsburg,11.7,19.1,69.2
+2012,3,Bayern Munich,FSV Mainz,98.0,1.2,0.7
+2012,3,Bor Dortmund,Bay Leverkusen,81.3,14.5,4.2
+2012,3,Hannover,Werder Bremen,52.2,32.4,15.3
+2012,3,Bor M gladbach,FC Nuremberg,76.2,19.6,4.2
+2012,3,VfB Stuttgart,F D sseldorf,83.8,11.1,5.1
+2012,3,Greuther F rth,FC Schalke,2.8,8.0,89.2
+2012,3,SC Freiburg,TSG Hoffenheim,48.6,34.8,16.6
+2012,3,E Frankfurt,Hamburger SV,50.7,26.1,23.2
+2012,4,FC Nuremberg,E Frankfurt,45.4,36.1,18.4
+2012,4,FSV Mainz,FC Augsburg,73.5,20.5,6.0
+2012,4,FC Schalke,Bayern Munich,11.4,23.4,65.1
+2012,4,F D sseldorf,SC Freiburg,44.7,35.9,19.4
+2012,4,Hamburger SV,Bor Dortmund,4.8,9.8,85.5
+2012,4,VfL Wolfsburg,Greuther F rth,87.1,8.8,4.1
+2012,4,Bay Leverkusen,Bor M gladbach,52.5,31.2,16.3
+2012,4,TSG Hoffenheim,Hannover,11.2,16.3,72.4
+2012,4,Werder Bremen,VfB Stuttgart,77.7,14.0,8.3
+2012,5,FC Schalke,FSV Mainz,95.3,3.4,1.3
+2012,5,Bayern Munich,VfL Wolfsburg,97.4,1.9,0.7
+2012,5,Greuther F rth,F D sseldorf,42.7,39.7,17.6
+2012,5,E Frankfurt,Bor Dortmund,8.6,21.0,70.3
+2012,5,Hannover,FC Nuremberg,73.6,20.7,5.7
+2012,5,SC Freiburg,Werder Bremen,14.5,23.2,62.3
+2012,5,Bor M gladbach,Hamburger SV,48.3,31.5,20.2
+2012,5,VfB Stuttgart,TSG Hoffenheim,68.2,24.9,7.0
+2012,5,FC Augsburg,Bay Leverkusen,5.0,12.8,82.1
+2012,6,F D sseldorf,FC Schalke,5.2,15.6,79.2
+2012,6,FC Nuremberg,VfB Stuttgart,56.8,26.5,16.7
+2012,6,Bay Leverkusen,Greuther F rth,95.7,2.9,1.4
+2012,6,Hamburger SV,Hannover,37.3,35.8,26.9
+2012,6,TSG Hoffenheim,FC Augsburg,88.7,8.0,3.3
+2012,6,Werder Bremen,Bayern Munich,4.4,9.4,86.2
+2012,6,Bor Dortmund,Bor M gladbach,89.8,8.0,2.2
+2012,6,E Frankfurt,SC Freiburg,85.2,11.1,3.7
+2012,6,VfL Wolfsburg,FSV Mainz,65.0,25.5,9.5
+2012,7,FC Augsburg,Werder Bremen,4.9,10.2,84.9
+2012,7,Bayern Munich,TSG Hoffenheim,98.1,1.4,0.6
+2012,7,SC Freiburg,FC Nuremberg,48.0,35.1,16.8
+2012,7,Greuther F rth,Hamburger SV,8.1,15.5,76.4
+2012,7,FSV Mainz,F D sseldorf,46.4,37.7,15.9
+2012,7,FC Schalke,VfL Wolfsburg,88.8,8.0,3.2
+2012,7,Bor M gladbach,E Frankfurt,32.8,27.6,39.6
+2012,7,VfB Stuttgart,Bay Leverkusen,24.4,29.4,46.2
+2012,7,Hannover,Bor Dortmund,10.5,24.3,65.2
+2012,8,TSG Hoffenheim,Greuther F rth,83.8,10.8,5.3
+2012,8,E Frankfurt,Hannover,27.9,39.0,33.0
+2012,8,VfL Wolfsburg,SC Freiburg,58.1,24.0,17.9
+2012,8,Bay Leverkusen,FSV Mainz,89.5,7.8,2.7
+2012,8,Bor Dortmund,FC Schalke,69.9,22.4,7.7
+2012,8,F D sseldorf,Bayern Munich,1.8,4.1,94.1
+2012,8,Werder Bremen,Bor M gladbach,54.0,28.7,17.4
+2012,8,FC Nuremberg,FC Augsburg,73.9,19.8,6.3
+2012,8,Hamburger SV,VfB Stuttgart,72.2,18.0,9.9
+2012,9,FC Augsburg,Hamburger SV,11.8,22.8,65.5
+2012,9,FSV Mainz,TSG Hoffenheim,54.4,34.0,11.6
+2012,9,FC Schalke,FC Nuremberg,96.1,2.9,1.1
+2012,9,SC Freiburg,Bor Dortmund,2.9,8.4,88.6
+2012,9,Greuther F rth,Werder Bremen,8.8,14.7,76.5
+2012,9,F D sseldorf,VfL Wolfsburg,39.0,29.6,31.4
+2012,9,VfB Stuttgart,E Frankfurt,37.6,29.8,32.7
+2012,9,Hannover,Bor M gladbach,75.8,18.7,5.5
+2012,9,Bayern Munich,Bay Leverkusen,94.5,4.2,1.3
+2012,10,E Frankfurt,Greuther F rth,91.5,6.5,2.0
+2012,10,Bor Dortmund,VfB Stuttgart,89.8,8.4,1.9
+2012,10,Bor M gladbach,SC Freiburg,75.8,19.6,4.6
+2012,10,TSG Hoffenheim,FC Schalke,4.4,10.7,84.9
+2012,10,FC Nuremberg,VfL Wolfsburg,13.4,23.2,63.5
+2012,10,Hannover,FC Augsburg,95.9,3.1,0.9
+2012,10,Hamburger SV,Bayern Munich,6.6,16.4,77.0
+2012,10,Bay Leverkusen,F D sseldorf,91.1,7.0,1.9
+2012,10,Werder Bremen,FSV Mainz,70.3,21.8,7.9
+2012,11,FSV Mainz,FC Nuremberg,77.4,16.2,6.4
+2012,11,FC Schalke,Werder Bremen,82.4,13.4,4.2
+2012,11,F D sseldorf,TSG Hoffenheim,27.4,35.9,36.6
+2012,11,Bayern Munich,E Frankfurt,95.1,3.1,1.8
+2012,11,SC Freiburg,Hamburger SV,21.9,36.2,41.9
+2012,11,FC Augsburg,Bor Dortmund,1.0,2.2,96.7
+2012,11,VfL Wolfsburg,Bay Leverkusen,20.7,29.6,49.6
+2012,11,Greuther F rth,Bor M gladbach,15.3,23.6,61.1
+2012,11,VfB Stuttgart,Hannover,52.2,30.9,17.0
+2012,12,E Frankfurt,FC Augsburg,93.9,4.4,1.6
+2012,12,Bor M gladbach,VfB Stuttgart,42.8,40.7,16.4
+2012,12,Bor Dortmund,Greuther F rth,98.7,0.9,0.4
+2012,12,Hannover,SC Freiburg,92.3,6.3,1.4
+2012,12,FC Nuremberg,Bayern Munich,1.5,2.4,96.1
+2012,12,Hamburger SV,FSV Mainz,68.5,22.6,8.9
+2012,12,Bay Leverkusen,FC Schalke,21.3,40.0,38.7
+2012,12,Werder Bremen,F D sseldorf,91.0,6.2,2.7
+2012,12,TSG Hoffenheim,VfL Wolfsburg,17.8,28.8,53.4
+2012,13,F D sseldorf,Hamburger SV,13.3,24.5,62.1
+2012,13,VfL Wolfsburg,Werder Bremen,64.4,22.4,13.2
+2012,13,Greuther F rth,FC Nuremberg,29.2,40.8,30.0
+2012,13,FSV Mainz,Bor Dortmund,3.0,9.2,87.8
+2012,13,Bayern Munich,Hannover,92.8,4.6,2.6
+2012,13,FC Schalke,E Frankfurt,75.3,17.4,7.2
+2012,13,SC Freiburg,VfB Stuttgart,28.5,27.4,44.1
+2012,13,FC Augsburg,Bor M gladbach,14.4,18.6,67.0
+2012,13,TSG Hoffenheim,Bay Leverkusen,11.3,13.3,75.4
+2012,14,Hamburger SV,FC Schalke,11.3,19.5,69.3
+2012,14,Hannover,Greuther F rth,91.9,6.0,2.1
+2012,14,Bor Dortmund,F D sseldorf,98.2,1.3,0.5
+2012,14,E Frankfurt,FSV Mainz,77.8,17.5,4.8
+2012,14,VfB Stuttgart,FC Augsburg,92.5,5.2,2.3
+2012,14,Bor M gladbach,VfL Wolfsburg,32.5,34.0,33.4
+2012,14,Werder Bremen,Bay Leverkusen,32.4,42.9,24.7
+2012,14,SC Freiburg,Bayern Munich,2.2,6.5,91.2
+2012,14,FC Nuremberg,TSG Hoffenheim,52.0,31.8,16.3
+2012,15,F D sseldorf,E Frankfurt,25.3,31.7,43.0
+2012,15,FC Schalke,Bor M gladbach,84.6,11.3,4.1
+2012,15,Greuther F rth,VfB Stuttgart,12.0,14.0,74.0
+2012,15,FC Augsburg,SC Freiburg,18.7,26.9,54.4
+2012,15,FSV Mainz,Hannover,48.0,30.1,21.9
+2012,15,Bay Leverkusen,FC Nuremberg,94.3,4.1,1.6
+2012,15,Bayern Munich,Bor Dortmund,60.4,20.3,19.3
+2012,15,TSG Hoffenheim,Werder Bremen,20.7,23.3,56.0
+2012,15,VfL Wolfsburg,Hamburger SV,61.4,23.6,15.0
+2012,16,Hamburger SV,TSG Hoffenheim,83.6,10.4,6.0
+2012,16,Bor Dortmund,VfL Wolfsburg,94.8,4.1,1.1
+2012,16,FC Augsburg,Bayern Munich,0.7,1.3,98.1
+2012,16,SC Freiburg,Greuther F rth,87.6,8.7,3.7
+2012,16,VfB Stuttgart,FC Schalke,21.9,30.8,47.3
+2012,16,FC Nuremberg,F D sseldorf,56.3,30.1,13.6
+2012,16,E Frankfurt,Werder Bremen,25.7,34.0,40.3
+2012,16,Bor M gladbach,FSV Mainz,60.6,27.6,11.8
+2012,16,Hannover,Bay Leverkusen,20.4,33.7,45.9
+2012,17,Bayern Munich,Bor M gladbach,93.9,4.0,2.1
+2012,17,FSV Mainz,VfB Stuttgart,45.7,25.6,28.7
+2012,17,Greuther F rth,FC Augsburg,47.4,38.6,14.0
+2012,17,Bay Leverkusen,Hamburger SV,80.0,13.2,6.8
+2012,17,VfL Wolfsburg,E Frankfurt,64.8,20.8,14.4
+2012,17,F D sseldorf,Hannover,18.5,26.2,55.4
+2012,17,FC Schalke,SC Freiburg,82.8,11.5,5.7
+2012,17,TSG Hoffenheim,Bor Dortmund,2.1,4.0,94.0
+2012,17,Werder Bremen,FC Nuremberg,86.1,9.2,4.7
+2012,18,FC Schalke,Hannover,58.5,22.7,18.8
+2012,18,Bayern Munich,Greuther F rth,99.5,0.4,0.2
+2012,18,FSV Mainz,SC Freiburg,64.0,27.6,8.4
+2012,18,TSG Hoffenheim,Bor M gladbach,17.2,31.0,51.8
+2012,18,VfL Wolfsburg,VfB Stuttgart,57.9,26.5,15.5
+2012,18,Bay Leverkusen,E Frankfurt,78.6,16.8,4.6
+2012,18,Werder Bremen,Bor Dortmund,6.4,11.6,82.0
+2012,18,FC Nuremberg,Hamburger SV,27.6,32.8,39.7
+2012,18,F D sseldorf,FC Augsburg,76.0,17.3,6.7
+2012,19,Bor Dortmund,FC Nuremberg,98.6,1.0,0.4
+2012,19,FC Augsburg,FC Schalke,5.6,13.7,80.7
+2012,19,Bor M gladbach,F D sseldorf,88.1,9.7,2.2
+2012,19,Hannover,VfL Wolfsburg,49.7,32.6,17.7
+2012,19,Greuther F rth,FSV Mainz,13.5,25.0,61.5
+2012,19,E Frankfurt,TSG Hoffenheim,77.4,16.3,6.2
+2012,19,SC Freiburg,Bay Leverkusen,9.2,23.2,67.6
+2012,19,Hamburger SV,Werder Bremen,53.1,31.7,15.2
+2012,19,VfB Stuttgart,Bayern Munich,3.3,5.8,90.8
+2012,20,Werder Bremen,Hannover,49.9,26.7,23.4
+2012,20,VfL Wolfsburg,FC Augsburg,90.2,7.3,2.6
+2012,20,FC Schalke,Greuther F rth,96.3,2.5,1.2
+2012,20,FSV Mainz,Bayern Munich,3.2,6.6,90.2
+2012,20,F D sseldorf,VfB Stuttgart,11.9,22.3,65.8
+2012,20,TSG Hoffenheim,SC Freiburg,25.6,31.7,42.6
+2012,20,Hamburger SV,E Frankfurt,56.9,28.8,14.3
+2012,20,FC Nuremberg,Bor M gladbach,22.0,40.2,37.8
+2012,20,Bay Leverkusen,Bor Dortmund,8.9,26.0,65.1
+2012,21,Bor M gladbach,Bay Leverkusen,13.5,24.1,62.5
+2012,21,Hannover,TSG Hoffenheim,80.3,14.2,5.5
+2012,21,E Frankfurt,FC Nuremberg,87.2,10.0,2.8
+2012,21,Bor Dortmund,Hamburger SV,95.3,3.4,1.3
+2012,21,VfB Stuttgart,Werder Bremen,53.9,27.1,18.9
+2012,21,Greuther F rth,VfL Wolfsburg,13.5,20.0,66.5
+2012,21,Bayern Munich,FC Schalke,94.8,3.2,2.0
+2012,21,FC Augsburg,FSV Mainz,19.2,34.8,46.0
+2012,21,SC Freiburg,F D sseldorf,77.3,16.3,6.4
+2012,22,VfL Wolfsburg,Bayern Munich,3.6,4.5,91.9
+2012,22,Werder Bremen,SC Freiburg,72.8,20.1,7.1
+2012,22,Bay Leverkusen,FC Augsburg,96.3,2.9,0.8
+2012,22,Hamburger SV,Bor M gladbach,71.3,20.0,8.8
+2012,22,F D sseldorf,Greuther F rth,74.4,19.2,6.4
+2012,22,FSV Mainz,FC Schalke,58.7,24.0,17.3
+2012,22,Bor Dortmund,E Frankfurt,88.2,9.3,2.5
+2012,22,FC Nuremberg,Hannover,36.4,35.5,28.1
+2012,22,TSG Hoffenheim,VfB Stuttgart,33.7,34.6,31.7
+2012,23,SC Freiburg,E Frankfurt,48.9,33.9,17.2
+2012,23,FSV Mainz,VfL Wolfsburg,60.6,22.0,17.3
+2012,23,Hannover,Hamburger SV,34.3,32.8,32.9
+2012,23,FC Augsburg,TSG Hoffenheim,50.6,29.7,19.8
+2012,23,VfB Stuttgart,FC Nuremberg,72.7,19.6,7.7
+2012,23,Bayern Munich,Werder Bremen,96.9,1.9,1.2
+2012,23,FC Schalke,F D sseldorf,87.7,8.5,3.8
+2012,23,Bor M gladbach,Bor Dortmund,2.6,7.2,90.2
+2012,23,Greuther F rth,Bay Leverkusen,2.5,3.4,94.1
+2012,24,E Frankfurt,Bor M gladbach,61.9,26.2,11.9
+2012,24,FC Nuremberg,SC Freiburg,24.7,36.2,39.2
+2012,24,VfL Wolfsburg,FC Schalke,30.5,41.6,27.9
+2012,24,Bor Dortmund,Hannover,91.3,6.0,2.7
+2012,24,Werder Bremen,FC Augsburg,80.5,14.9,4.6
+2012,24,Hamburger SV,Greuther F rth,94.5,3.6,1.9
+2012,24,Bay Leverkusen,VfB Stuttgart,86.4,10.1,3.5
+2012,24,TSG Hoffenheim,Bayern Munich,0.8,0.8,98.4
+2012,24,F D sseldorf,FSV Mainz,23.6,38.0,38.4
+2012,25,FC Augsburg,FC Nuremberg,53.1,33.4,13.5
+2012,25,Greuther F rth,TSG Hoffenheim,40.6,34.4,25.0
+2012,25,FSV Mainz,Bay Leverkusen,10.1,31.7,58.2
+2012,25,SC Freiburg,VfL Wolfsburg,69.7,19.7,10.7
+2012,25,Bayern Munich,F D sseldorf,99.1,0.5,0.4
+2012,25,FC Schalke,Bor Dortmund,10.7,21.3,68.0
+2012,25,Bor M gladbach,Werder Bremen,75.5,14.7,9.8
+2012,25,Hannover,E Frankfurt,74.0,17.2,8.8
+2012,25,VfB Stuttgart,Hamburger SV,38.0,32.0,30.0
+2012,26,VfL Wolfsburg,F D sseldorf,87.7,8.7,3.6
+2012,26,FC Nuremberg,FC Schalke,10.6,26.0,63.4
+2012,26,Bor Dortmund,SC Freiburg,95.6,3.6,0.8
+2012,26,Hamburger SV,FC Augsburg,85.1,11.1,3.7
+2012,26,TSG Hoffenheim,FSV Mainz,28.4,33.1,38.5
+2012,26,Werder Bremen,Greuther F rth,93.7,4.7,1.6
+2012,26,Bay Leverkusen,Bayern Munich,11.9,21.7,66.4
+2012,26,E Frankfurt,VfB Stuttgart,66.2,23.4,10.4
+2012,26,Bor M gladbach,Hannover,56.0,31.7,12.4
+2012,27,F D sseldorf,Bay Leverkusen,5.6,17.2,77.2
+2012,27,FC Augsburg,Hannover,35.7,31.8,32.5
+2012,27,VfB Stuttgart,Bor Dortmund,3.5,10.2,86.2
+2012,27,FSV Mainz,Werder Bremen,66.5,20.2,13.4
+2012,27,SC Freiburg,Bor M gladbach,39.6,39.5,20.9
+2012,27,FC Schalke,TSG Hoffenheim,94.0,4.3,1.8
+2012,27,Bayern Munich,Hamburger SV,94.5,3.4,2.1
+2012,27,VfL Wolfsburg,FC Nuremberg,63.7,25.6,10.7
+2012,27,Greuther F rth,E Frankfurt,9.5,20.2,70.3
+2012,28,TSG Hoffenheim,F D sseldorf,54.9,26.6,18.5
+2012,28,Bay Leverkusen,VfL Wolfsburg,91.1,6.7,2.2
+2012,28,Bor M gladbach,Greuther F rth,93.1,5.4,1.5
+2012,28,Bor Dortmund,FC Augsburg,97.5,1.9,0.6
+2012,28,E Frankfurt,Bayern Munich,3.3,5.3,91.4
+2012,28,Werder Bremen,FC Schalke,15.2,28.3,56.5
+2012,28,Hamburger SV,SC Freiburg,44.8,31.8,23.4
+2012,28,FC Nuremberg,FSV Mainz,39.1,44.8,16.1
+2012,28,Hannover,VfB Stuttgart,72.3,17.3,10.4
+2012,29,SC Freiburg,Hannover,71.3,18.1,10.6
+2012,29,F D sseldorf,Werder Bremen,27.4,34.2,38.3
+2012,29,Bayern Munich,FC Nuremberg,95.4,3.4,1.2
+2012,29,FSV Mainz,Hamburger SV,66.6,21.4,12.0
+2012,29,VfL Wolfsburg,TSG Hoffenheim,71.2,20.1,8.7
+2012,29,Greuther F rth,Bor Dortmund,1.3,1.7,97.0
+2012,29,FC Schalke,Bay Leverkusen,43.2,36.5,20.3
+2012,29,VfB Stuttgart,Bor M gladbach,45.1,31.5,23.4
+2012,29,FC Augsburg,E Frankfurt,29.0,28.4,42.5
+2012,30,Bor M gladbach,FC Augsburg,67.7,21.7,10.5
+2012,30,E Frankfurt,FC Schalke,13.2,31.1,55.8
+2012,30,Bor Dortmund,FSV Mainz,96.0,3.0,0.9
+2012,30,Hannover,Bayern Munich,3.2,5.6,91.3
+2012,30,Bay Leverkusen,TSG Hoffenheim,93.9,4.5,1.6
+2012,30,Hamburger SV,F D sseldorf,83.9,12.4,3.7
+2012,30,Werder Bremen,VfL Wolfsburg,39.6,38.6,21.7
+2012,30,VfB Stuttgart,SC Freiburg,38.9,31.2,29.9
+2012,30,FC Nuremberg,Greuther F rth,88.9,7.9,3.2
+2012,31,Greuther F rth,Hannover,15.3,18.5,66.2
+2012,31,Bay Leverkusen,Werder Bremen,94.1,3.6,2.3
+2012,31,FC Augsburg,VfB Stuttgart,31.7,25.2,43.1
+2012,31,TSG Hoffenheim,FC Nuremberg,47.5,27.9,24.6
+2012,31,VfL Wolfsburg,Bor M gladbach,55.0,30.5,14.4
+2012,31,Bayern Munich,SC Freiburg,98.3,0.9,0.8
+2012,31,F D sseldorf,Bor Dortmund,2.1,4.5,93.4
+2012,31,FSV Mainz,E Frankfurt,46.1,35.4,18.6
+2012,31,FC Schalke,Hamburger SV,79.2,13.0,7.8
+2012,32,Bor M gladbach,FC Schalke,21.2,26.0,52.9
+2012,32,VfB Stuttgart,Greuther F rth,94.0,3.9,2.1
+2012,32,E Frankfurt,F D sseldorf,82.7,13.2,4.1
+2012,32,FC Nuremberg,Bay Leverkusen,5.0,10.9,84.1
+2012,32,Werder Bremen,TSG Hoffenheim,60.4,21.0,18.6
+2012,32,Hannover,FSV Mainz,75.3,18.7,6.1
+2012,32,Bor Dortmund,Bayern Munich,18.1,37.5,44.4
+2012,32,SC Freiburg,FC Augsburg,67.1,22.1,10.8
+2012,32,Hamburger SV,VfL Wolfsburg,45.3,26.3,28.4
+2012,33,TSG Hoffenheim,Hamburger SV,46.8,21.2,32.0
+2012,33,VfL Wolfsburg,Bor Dortmund,4.9,13.0,82.1
+2012,33,Bay Leverkusen,Hannover,92.9,5.1,2.1
+2012,33,FC Schalke,VfB Stuttgart,91.6,5.6,2.9
+2012,33,F D sseldorf,FC Nuremberg,52.0,29.7,18.4
+2012,33,Bayern Munich,FC Augsburg,98.0,1.0,0.9
+2012,33,Greuther F rth,SC Freiburg,10.1,11.8,78.1
+2012,33,FSV Mainz,Bor M gladbach,47.2,34.0,18.7
+2012,33,Werder Bremen,E Frankfurt,45.7,27.4,26.9
+2012,34,Bor M gladbach,Bayern Munich,6.1,9.8,84.1
+2012,34,Bor Dortmund,TSG Hoffenheim,95.6,2.4,2.0
+2012,34,VfB Stuttgart,FSV Mainz,72.1,19.5,8.4
+2012,34,Hannover,F D sseldorf,76.3,15.3,8.4
+2012,34,Hamburger SV,Bay Leverkusen,21.2,19.8,59.0
+2012,34,FC Nuremberg,Werder Bremen,44.0,31.7,24.3
+2012,34,SC Freiburg,FC Schalke,30.9,31.8,37.3
+2012,34,E Frankfurt,VfL Wolfsburg,55.2,26.9,18.0
+2012,34,FC Augsburg,Greuther F rth,90.9,6.6,2.5

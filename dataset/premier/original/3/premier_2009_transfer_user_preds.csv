@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2009,1,Chelsea,Hull City,100.0,0.0,0.0
+2009,1,Aston Villa,Wigan,88.1,9.5,2.4
+2009,1,Wolves,West Ham,11.9,31.0,57.1
+2009,1,Stoke City,Burnley,54.8,35.7,9.5
+2009,1,Portsmouth,Fulham,33.3,35.7,31.0
+2009,1,Bolton,Sunderland,45.2,45.2,9.5
+2009,1,Blackburn,Man City,7.1,16.7,76.2
+2009,1,Everton,Arsenal,16.7,28.6,54.8
+2009,1,Man Utd,Birmingham,100.0,0.0,0.0
+2009,1,Spurs,Liverpool,4.8,31.0,64.3
+2009,2,Wigan,Wolves,61.9,33.3,4.8
+2009,2,Sunderland,Chelsea,0.0,4.8,95.2
+2009,2,Burnley,Man Utd,0.0,0.0,100.0
+2009,2,Birmingham,Portsmouth,30.4,56.5,13.0
+2009,2,Liverpool,Stoke City,100.0,0.0,0.0
+2009,2,Hull City,Spurs,21.7,26.1,52.2
+2009,2,West Ham,Aston Villa,42.9,28.6,28.6
+2009,2,Fulham,Blackburn,71.0,16.1,12.9
+2009,2,Arsenal,Bolton,-1.0,-1.0,-1.0
+2009,2,Man City,Everton,84.6,10.3,5.1
+2009,3,Arsenal,Portsmouth,100.0,0.0,0.0
+2009,3,Wigan,Man Utd,0.0,5.9,94.1
+2009,3,Sunderland,Blackburn,73.5,17.6,8.8
+2009,3,Man City,Wolves,100.0,0.0,0.0
+2009,3,Hull City,Bolton,38.2,41.2,20.6
+2009,3,Birmingham,Stoke City,47.1,35.3,17.6
+2009,3,West Ham,Spurs,20.0,20.0,60.0
+2009,3,Burnley,Everton,14.3,20.0,65.7
+2009,3,Fulham,Chelsea,2.9,14.3,82.9
+2009,3,Liverpool,Aston Villa,94.3,5.7,0.0
+2009,4,Chelsea,Burnley,100.0,0.0,0.0
+2009,4,Wolves,Hull City,58.1,35.5,6.5
+2009,4,Spurs,Birmingham,93.8,6.3,0.0
+2009,4,Stoke City,Sunderland,35.5,41.9,22.6
+2009,4,Bolton,Liverpool,0.0,9.4,90.6
+2009,4,Blackburn,West Ham,40.6,40.6,18.8
+2009,4,Man Utd,Arsenal,53.1,28.1,18.8
+2009,4,Portsmouth,Man City,0.0,0.0,100.0
+2009,4,Everton,Wigan,87.9,9.1,3.0
+2009,4,Aston Villa,Fulham,81.8,18.2,0.0
+2009,5,Wigan,West Ham,23.5,38.2,38.2
+2009,5,Sunderland,Hull City,73.5,11.8,14.7
+2009,5,Stoke City,Chelsea,0.0,0.0,100.0
+2009,5,Portsmouth,Bolton,55.9,35.3,8.8
+2009,5,Man City,Arsenal,34.3,40.0,25.7
+2009,5,Liverpool,Burnley,100.0,0.0,0.0
+2009,5,Blackburn,Wolves,70.6,23.5,5.9
+2009,5,Spurs,Man Utd,11.4,25.7,62.9
+2009,5,Birmingham,Aston Villa,14.3,25.7,60.0
+2009,5,Fulham,Everton,42.9,31.4,25.7
+2009,6,Burnley,Sunderland,31.3,37.5,31.3
+2009,6,Arsenal,Wigan,100.0,0.0,0.0
+2009,6,Hull City,Birmingham,50.0,38.9,11.1
+2009,6,Bolton,Stoke City,48.6,45.7,5.7
+2009,6,Aston Villa,Portsmouth,88.9,11.1,0.0
+2009,6,West Ham,Liverpool,0.0,8.3,91.7
+2009,6,Man Utd,Man City,72.2,22.2,5.6
+2009,6,Wolves,Fulham,22.2,44.4,33.3
+2009,6,Everton,Blackburn,88.9,8.3,2.8
+2009,6,Chelsea,Spurs,86.1,11.1,2.8
+2009,7,Portsmouth,Everton,22.6,9.7,67.7
+2009,7,Birmingham,Bolton,56.3,37.5,6.3
+2009,7,Wigan,Chelsea,3.1,3.1,93.8
+2009,7,Spurs,Burnley,96.9,3.1,0.0
+2009,7,Stoke City,Man Utd,0.0,0.0,100.0
+2009,7,Liverpool,Hull City,96.9,0.0,3.1
+2009,7,Blackburn,Aston Villa,12.5,25.0,62.5
+2009,7,Fulham,Arsenal,0.0,12.5,87.5
+2009,7,Sunderland,Wolves,78.1,18.8,3.1
+2009,7,Man City,West Ham,87.5,12.5,0.0
+2009,8,Wolves,Portsmouth,63.6,24.2,12.1
+2009,8,Hull City,Wigan,48.5,21.2,30.3
+2009,8,Burnley,Birmingham,48.5,39.4,12.1
+2009,8,Bolton,Spurs,5.9,8.8,85.3
+2009,8,Man Utd,Sunderland,97.0,3.0,0.0
+2009,8,Arsenal,Blackburn,100.0,0.0,0.0
+2009,8,West Ham,Fulham,50.0,38.2,11.8
+2009,8,Everton,Stoke City,91.2,5.9,2.9
+2009,8,Chelsea,Liverpool,44.1,44.1,11.8
+2009,8,Aston Villa,Man City,2.9,23.5,73.5
+2009,9,Aston Villa,Chelsea,8.8,14.7,76.5
+2009,9,Arsenal,Birmingham,100.0,0.0,0.0
+2009,9,Sunderland,Liverpool,0.0,13.9,86.1
+2009,9,Stoke City,West Ham,36.1,33.3,30.6
+2009,9,Portsmouth,Spurs,8.3,8.3,83.3
+2009,9,Man Utd,Bolton,100.0,0.0,0.0
+2009,9,Everton,Wolves,82.9,14.3,2.9
+2009,9,Blackburn,Burnley,68.6,28.6,2.9
+2009,9,Wigan,Man City,2.8,8.3,88.9
+2009,9,Fulham,Hull City,80.6,8.3,11.1
+2009,10,Wolves,Aston Villa,8.3,11.1,80.6
+2009,10,Birmingham,Sunderland,38.9,25.0,36.1
+2009,10,Spurs,Stoke City,97.3,0.0,2.7
+2009,10,Hull City,Portsmouth,41.7,27.8,30.6
+2009,10,Burnley,Wigan,47.2,27.8,25.0
+2009,10,Chelsea,Blackburn,100.0,0.0,0.0
+2009,10,Bolton,Everton,19.4,27.8,52.8
+2009,10,Liverpool,Man Utd,18.9,18.9,62.2
+2009,10,Man City,Fulham,97.3,2.7,0.0
+2009,10,West Ham,Arsenal,2.7,10.8,86.5
+2009,11,Arsenal,Spurs,85.7,11.4,2.9
+2009,11,Sunderland,West Ham,60.0,20.0,20.0
+2009,11,Stoke City,Wolves,77.1,14.3,8.6
+2009,11,Portsmouth,Wigan,51.4,25.7,22.9
+2009,11,Fulham,Liverpool,0.0,13.9,86.1
+2009,11,Everton,Aston Villa,27.8,47.2,25.0
+2009,11,Burnley,Hull City,65.7,20.0,14.3
+2009,11,Bolton,Chelsea,0.0,2.8,97.2
+2009,11,Man Utd,Blackburn,100.0,0.0,0.0
+2009,11,Birmingham,Man City,0.0,13.9,86.1
+2009,12,Aston Villa,Bolton,100.0,0.0,0.0
+2009,12,Spurs,Sunderland,68.8,21.9,9.4
+2009,12,Man City,Burnley,100.0,0.0,0.0
+2009,12,Blackburn,Portsmouth,40.6,43.8,15.6
+2009,12,Wolves,Arsenal,0.0,3.1,96.9
+2009,12,Hull City,Stoke City,36.4,45.5,18.2
+2009,12,Wigan,Fulham,36.4,33.3,30.3
+2009,12,West Ham,Everton,33.3,30.3,36.4
+2009,12,Chelsea,Man Utd,61.8,26.5,11.8
+2009,12,Liverpool,Birmingham,100.0,0.0,0.0
+2009,13,Liverpool,Man City,71.4,14.3,14.3
+2009,13,Sunderland,Arsenal,0.0,5.7,94.3
+2009,13,Hull City,West Ham,38.2,38.2,23.5
+2009,13,Chelsea,Wolves,100.0,0.0,0.0
+2009,13,Burnley,Aston Villa,8.8,35.3,55.9
+2009,13,Birmingham,Fulham,26.5,44.1,29.4
+2009,13,Man Utd,Everton,97.1,2.9,0.0
+2009,13,Bolton,Blackburn,50.0,35.3,14.7
+2009,13,Spurs,Wigan,88.2,11.8,0.0
+2009,13,Stoke City,Portsmouth,35.3,26.5,38.2
+2009,14,Blackburn,Stoke City,67.6,20.6,11.8
+2009,14,Wigan,Sunderland,26.5,26.5,47.1
+2009,14,West Ham,Burnley,64.7,23.5,11.8
+2009,14,Portsmouth,Man Utd,0.0,0.0,100.0
+2009,14,Man City,Hull City,88.6,11.4,0.0
+2009,14,Fulham,Bolton,76.5,23.5,0.0
+2009,14,Aston Villa,Spurs,28.6,31.4,40.0
+2009,14,Wolves,Birmingham,32.4,35.3,32.4
+2009,14,Everton,Liverpool,17.1,20.0,62.9
+2009,14,Arsenal,Chelsea,22.9,37.1,40.0
+2009,15,Portsmouth,Burnley,72.4,24.1,3.4
+2009,15,Arsenal,Stoke City,100.0,0.0,0.0
+2009,15,Wolves,Bolton,39.3,50.0,10.7
+2009,15,Wigan,Birmingham,42.9,42.9,14.3
+2009,15,West Ham,Man Utd,3.4,3.4,93.1
+2009,15,Blackburn,Liverpool,3.4,6.9,89.7
+2009,15,Aston Villa,Hull City,92.9,7.1,0.0
+2009,15,Man City,Chelsea,10.3,34.5,55.2
+2009,15,Fulham,Sunderland,51.6,32.3,16.1
+2009,15,Everton,Spurs,25.0,31.3,43.8
+2009,16,Stoke City,Wigan,61.3,25.8,12.9
+2009,16,Birmingham,West Ham,34.4,34.4,31.3
+2009,16,Spurs,Wolves,97.0,0.0,3.0
+2009,16,Sunderland,Portsmouth,75.0,6.3,18.8
+2009,16,Hull City,Blackburn,18.8,46.9,34.4
+2009,16,Chelsea,Everton,100.0,0.0,0.0
+2009,16,Burnley,Fulham,21.9,43.8,34.4
+2009,16,Bolton,Man City,6.1,6.1,87.9
+2009,16,Man Utd,Aston Villa,79.4,17.6,2.9
+2009,16,Liverpool,Arsenal,45.9,40.5,13.5
+2009,17,Hull City,Everton,25.0,50.0,25.0
+2009,17,Sunderland,Aston Villa,38.5,7.7,53.8
+2009,17,Birmingham,Blackburn,76.9,15.4,7.7
+2009,17,Bolton,West Ham,15.4,46.2,38.5
+2009,17,Man Utd,Wolves,100.0,0.0,0.0
+2009,17,Chelsea,Portsmouth,100.0,0.0,0.0
+2009,17,Burnley,Arsenal,0.0,5.9,94.1
+2009,17,Liverpool,Wigan,100.0,0.0,0.0
+2009,17,Spurs,Man City,29.4,52.9,17.6
+2009,17,Stoke City,Fulham,13.6,50.0,36.4
+2009,18,Portsmouth,Liverpool,3.2,3.2,93.5
+2009,18,Man City,Sunderland,83.9,12.9,3.2
+2009,18,Fulham,Man Utd,0.0,9.7,90.3
+2009,18,Blackburn,Spurs,9.7,22.6,67.7
+2009,18,Aston Villa,Stoke City,100.0,0.0,0.0
+2009,18,Arsenal,Hull City,100.0,0.0,0.0
+2009,18,Wolves,Burnley,37.9,48.3,13.8
+2009,18,Everton,Birmingham,76.7,13.3,10.0
+2009,18,West Ham,Chelsea,0.0,3.2,96.8
+2009,18,Wigan,Bolton,31.3,50.0,18.8
+2009,19,Birmingham,Chelsea,0.0,5.9,94.1
+2009,19,West Ham,Portsmouth,64.7,35.3,0.0
+2009,19,Fulham,Spurs,23.5,35.3,41.2
+2009,19,Wigan,Blackburn,55.6,27.8,16.7
+2009,19,Sunderland,Everton,33.3,50.0,16.7
+2009,19,Man City,Stoke City,94.4,5.6,0.0
+2009,19,Burnley,Bolton,50.0,33.3,16.7
+2009,19,Liverpool,Wolves,94.4,5.6,0.0
+2009,19,Arsenal,Aston Villa,80.0,15.0,5.0
+2009,19,Hull City,Man Utd,0.0,0.0,100.0
+2009,20,Spurs,West Ham,100.0,0.0,0.0
+2009,20,Stoke City,Birmingham,50.0,37.5,12.5
+2009,20,Everton,Burnley,93.8,6.3,0.0
+2009,20,Chelsea,Fulham,93.8,6.3,0.0
+2009,20,Blackburn,Sunderland,43.8,18.8,37.5
+2009,20,Wolves,Man City,0.0,17.6,82.4
+2009,20,Aston Villa,Liverpool,35.0,40.0,25.0
+2009,20,Bolton,Hull City,60.0,30.0,10.0
+2009,20,Portsmouth,Arsenal,0.0,4.8,95.2
+2009,20,Man Utd,Wigan,100.0,0.0,0.0
+2009,21,Arsenal,Everton,100.0,0.0,0.0
+2009,21,Birmingham,Man Utd,0.0,0.0,100.0
+2009,21,Man City,Blackburn,90.0,5.0,5.0
+2009,21,Liverpool,Spurs,81.8,13.6,4.5
+2009,21,Hull City,Chelsea,0.0,0.0,100.0
+2009,21,Fulham,Portsmouth,88.5,3.8,7.7
+2009,21,Sunderland,Bolton,69.2,19.2,11.5
+2009,21,Burnley,Stoke City,53.8,38.5,7.7
+2009,21,Wigan,Aston Villa,3.8,26.9,69.2
+2009,21,West Ham,Wolves,82.1,17.9,0.0
+2009,22,Stoke City,Liverpool,3.4,13.8,82.8
+2009,22,Wolves,Wigan,42.9,46.4,10.7
+2009,22,Spurs,Hull City,96.6,3.4,0.0
+2009,22,Man Utd,Burnley,100.0,0.0,0.0
+2009,22,Chelsea,Sunderland,93.1,6.9,0.0
+2009,22,Everton,Man City,20.7,37.9,41.4
+2009,22,Aston Villa,West Ham,100.0,0.0,0.0
+2009,22,Blackburn,Fulham,39.3,28.6,32.1
+2009,22,Bolton,Arsenal,0.0,6.9,93.1
+2009,22,Portsmouth,Birmingham,26.7,36.7,36.7
+2009,23,Man Utd,Hull City,96.4,0.0,3.6
+2009,23,Wolves,Liverpool,0.0,11.5,88.5
+2009,23,Portsmouth,West Ham,38.5,30.8,30.8
+2009,23,Bolton,Burnley,65.4,34.6,0.0
+2009,23,Spurs,Fulham,92.3,7.7,0.0
+2009,23,Chelsea,Birmingham,100.0,0.0,0.0
+2009,23,Aston Villa,Arsenal,7.7,34.6,57.7
+2009,23,Everton,Sunderland,84.0,8.0,8.0
+2009,23,Blackburn,Wigan,60.0,32.0,8.0
+2009,23,Stoke City,Man City,3.6,14.3,82.1
+2009,24,Wigan,Everton,10.3,10.3,79.3
+2009,24,West Ham,Blackburn,69.0,24.1,6.9
+2009,24,Liverpool,Bolton,100.0,0.0,0.0
+2009,24,Hull City,Wolves,37.9,51.7,10.3
+2009,24,Fulham,Aston Villa,26.7,23.3,50.0
+2009,24,Birmingham,Spurs,10.0,30.0,60.0
+2009,24,Burnley,Chelsea,0.0,0.0,100.0
+2009,24,Man City,Portsmouth,100.0,0.0,0.0
+2009,24,Arsenal,Man Utd,25.8,45.2,29.0
+2009,24,Sunderland,Stoke City,67.7,25.8,6.5
+2009,25,Liverpool,Everton,92.6,7.4,0.0
+2009,25,Sunderland,Wigan,75.0,14.3,10.7
+2009,25,Stoke City,Blackburn,55.6,29.6,14.8
+2009,25,Man Utd,Portsmouth,100.0,0.0,0.0
+2009,25,Hull City,Man City,0.0,0.0,100.0
+2009,25,Burnley,West Ham,22.2,33.3,44.4
+2009,25,Bolton,Fulham,29.6,44.4,25.9
+2009,25,Spurs,Aston Villa,57.1,32.1,10.7
+2009,25,Birmingham,Wolves,71.4,21.4,7.1
+2009,25,Chelsea,Arsenal,89.3,10.7,0.0
+2009,26,Man City,Bolton,91.7,8.3,0.0
+2009,26,Wigan,Stoke City,33.3,41.7,25.0
+2009,26,Portsmouth,Sunderland,33.3,16.7,50.0
+2009,26,Fulham,Burnley,83.3,16.7,0.0
+2009,26,Arsenal,Liverpool,68.8,25.0,6.3
+2009,26,Aston Villa,Man Utd,6.3,25.0,68.8
+2009,26,Wolves,Spurs,0.0,6.3,93.8
+2009,26,West Ham,Birmingham,56.3,18.8,25.0
+2009,26,Everton,Chelsea,0.0,12.5,87.5
+2009,26,Blackburn,Hull City,62.5,31.3,6.3
+2009,27,Arsenal,Sunderland,96.7,3.3,0.0
+2009,27,Wolves,Chelsea,0.0,0.0,100.0
+2009,27,West Ham,Hull City,83.3,10.0,6.7
+2009,27,Everton,Man Utd,3.3,23.3,73.3
+2009,27,Portsmouth,Stoke City,44.8,34.5,20.7
+2009,27,Blackburn,Bolton,64.3,28.6,7.1
+2009,27,Aston Villa,Burnley,100.0,0.0,0.0
+2009,27,Man City,Liverpool,33.3,40.0,26.7
+2009,27,Fulham,Birmingham,66.7,26.7,6.7
+2009,27,Wigan,Spurs,13.3,16.7,70.0
+2009,28,Man Utd,West Ham,100.0,0.0,0.0
+2009,28,Chelsea,Man City,93.1,6.9,0.0
+2009,28,Birmingham,Wigan,78.6,21.4,0.0
+2009,28,Burnley,Portsmouth,60.7,32.1,7.1
+2009,28,Bolton,Wolves,75.0,25.0,0.0
+2009,28,Stoke City,Arsenal,0.0,6.9,93.1
+2009,28,Spurs,Everton,76.7,16.7,6.7
+2009,28,Sunderland,Fulham,55.2,34.5,10.3
+2009,28,Liverpool,Blackburn,100.0,0.0,0.0
+2009,28,Hull City,Aston Villa,13.2,15.8,71.1
+2009,29,Arsenal,Burnley,100.0,0.0,0.0
+2009,29,West Ham,Bolton,67.9,28.6,3.6
+2009,29,Wolves,Man Utd,0.0,0.0,100.0
+2009,29,Everton,Hull City,96.6,3.4,0.0
+2009,29,Wigan,Liverpool,0.0,3.3,96.7
+2009,29,Portsmouth,Chelsea,0.0,0.0,100.0
+2009,29,Aston Villa,Sunderland,90.6,9.4,0.0
+2009,29,Blackburn,Birmingham,50.0,46.9,3.1
+2009,29,Man City,Spurs,85.3,11.8,2.9
+2009,29,Fulham,Stoke City,70.3,21.6,8.1
+2009,30,Spurs,Blackburn,100.0,0.0,0.0
+2009,30,Birmingham,Everton,24.0,36.0,40.0
+2009,30,Stoke City,Aston Villa,11.5,23.1,65.4
+2009,30,Chelsea,West Ham,100.0,0.0,0.0
+2009,30,Burnley,Wolves,32.0,64.0,4.0
+2009,30,Bolton,Wigan,52.0,36.0,12.0
+2009,30,Hull City,Arsenal,0.0,0.0,100.0
+2009,30,Man Utd,Fulham,100.0,0.0,0.0
+2009,30,Sunderland,Man City,3.8,26.9,69.2
+2009,30,Liverpool,Portsmouth,96.3,0.0,3.7
+2009,31,Aston Villa,Wolves,96.6,3.4,0.0
+2009,31,Wigan,Burnley,57.1,39.3,3.6
+2009,31,Sunderland,Birmingham,64.3,28.6,7.1
+2009,31,Stoke City,Spurs,13.8,24.1,62.1
+2009,31,Portsmouth,Hull City,46.4,28.6,25.0
+2009,31,Everton,Bolton,100.0,0.0,0.0
+2009,31,Arsenal,West Ham,100.0,0.0,0.0
+2009,31,Man Utd,Liverpool,86.7,10.0,3.3
+2009,31,Fulham,Man City,6.7,33.3,60.0
+2009,31,Blackburn,Chelsea,0.0,3.3,96.7
+2009,32,Birmingham,Arsenal,0.0,8.1,91.9
+2009,32,Wolves,Everton,2.8,19.4,77.8
+2009,32,West Ham,Stoke City,63.9,30.6,5.6
+2009,32,Spurs,Portsmouth,97.2,2.8,0.0
+2009,32,Hull City,Fulham,19.4,19.4,61.1
+2009,32,Chelsea,Aston Villa,100.0,0.0,0.0
+2009,32,Bolton,Man Utd,0.0,2.7,97.3
+2009,32,Burnley,Blackburn,44.4,30.6,25.0
+2009,32,Liverpool,Sunderland,100.0,0.0,0.0
+2009,32,Man City,Wigan,100.0,0.0,0.0
+2009,33,Man Utd,Chelsea,28.2,51.3,20.5
+2009,33,Arsenal,Wolves,100.0,0.0,0.0
+2009,33,Sunderland,Spurs,20.5,28.2,51.3
+2009,33,Stoke City,Hull City,51.3,33.3,15.4
+2009,33,Portsmouth,Blackburn,25.6,17.9,56.4
+2009,33,Bolton,Aston Villa,10.3,20.5,69.2
+2009,33,Burnley,Man City,2.6,10.3,87.2
+2009,33,Fulham,Wigan,84.6,7.7,7.7
+2009,33,Birmingham,Liverpool,0.0,12.8,87.2
+2009,33,Everton,West Ham,77.8,19.4,2.8
+2009,34,West Ham,Sunderland,67.6,14.7,17.6
+2009,34,Hull City,Burnley,52.9,32.4,14.7
+2009,34,Wolves,Stoke City,44.1,29.4,26.5
+2009,34,Blackburn,Man Utd,2.9,2.9,94.1
+2009,34,Liverpool,Fulham,91.2,5.9,2.9
+2009,34,Man City,Birmingham,91.2,5.9,2.9
+2009,34,Chelsea,Bolton,100.0,0.0,0.0
+2009,34,Aston Villa,Everton,61.8,20.6,17.6
+2009,34,Wigan,Portsmouth,55.9,20.6,23.5
+2009,34,Spurs,Arsenal,9.1,30.3,60.6
+2009,35,Man City,Man Utd,27.3,27.3,45.5
+2009,35,Birmingham,Hull City,78.1,15.6,6.3
+2009,35,Sunderland,Burnley,78.8,15.2,6.1
+2009,35,Stoke City,Bolton,56.3,21.9,21.9
+2009,35,Fulham,Wolves,81.8,6.1,12.1
+2009,35,Blackburn,Everton,24.2,30.3,45.5
+2009,35,Spurs,Chelsea,15.2,12.1,72.7
+2009,35,Wigan,Arsenal,2.9,5.9,91.2
+2009,35,Portsmouth,Aston Villa,15.2,9.1,75.8
+2009,35,Liverpool,West Ham,97.1,2.9,0.0
+2009,36,Man Utd,Spurs,90.3,6.5,3.2
+2009,36,Wolves,Blackburn,46.7,30.0,23.3
+2009,36,West Ham,Wigan,70.0,13.3,16.7
+2009,36,Hull City,Sunderland,20.0,30.0,50.0
+2009,36,Bolton,Portsmouth,76.7,16.7,6.7
+2009,36,Arsenal,Man City,61.3,25.8,12.9
+2009,36,Aston Villa,Birmingham,89.7,6.9,3.4
+2009,36,Everton,Fulham,76.7,16.7,6.7
+2009,36,Burnley,Liverpool,0.0,6.7,93.3
+2009,36,Chelsea,Stoke City,100.0,0.0,0.0
+2009,37,Birmingham,Burnley,82.8,13.8,3.4
+2009,37,Spurs,Bolton,100.0,0.0,0.0
+2009,37,Stoke City,Everton,23.3,16.7,60.0
+2009,37,Portsmouth,Wolves,50.0,26.7,23.3
+2009,37,Man City,Aston Villa,90.3,6.5,3.2
+2009,37,Liverpool,Chelsea,9.7,22.6,67.7
+2009,37,Fulham,West Ham,63.3,30.0,6.7
+2009,37,Sunderland,Man Utd,0.0,3.2,96.8
+2009,37,Wigan,Hull City,65.5,20.7,13.8
+2009,37,Blackburn,Arsenal,3.3,6.7,90.0
+2009,38,Arsenal,Fulham,100.0,0.0,0.0
+2009,38,Wolves,Sunderland,40.0,26.7,33.3
+2009,38,West Ham,Man City,6.7,10.0,83.3
+2009,38,Man Utd,Stoke City,100.0,0.0,0.0
+2009,38,Hull City,Liverpool,0.0,6.7,93.3
+2009,38,Everton,Portsmouth,96.7,3.3,0.0
+2009,38,Chelsea,Wigan,96.8,3.2,0.0
+2009,38,Burnley,Spurs,6.7,0.0,93.3
+2009,38,Bolton,Birmingham,40.0,36.7,23.3
+2009,38,Aston Villa,Blackburn,86.7,6.7,6.7

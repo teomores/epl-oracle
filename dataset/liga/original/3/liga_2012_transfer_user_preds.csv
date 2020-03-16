@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2012,1,Celta de Vigo,M laga CF,20.3,17.1,62.6
+2012,1,Sevilla FC,Getafe,85.8,11.1,3.2
+2012,1,RCD Mallorca,Espanyol,31.2,44.4,24.3
+2012,1,Real Madrid,Valencia,91.0,7.0,2.0
+2012,1,Athletic,Real Betis,90.0,8.5,1.5
+2012,1,FC Barcelona,Real Sociedad,100.0,0.0,0.0
+2012,1,Levante,Atl tico Madrid,7.9,22.8,69.3
+2012,1,Dep La Coru a,CA Osasuna,49.0,27.9,23.0
+2012,1,Rayo Vallecano,Granada CF,36.6,46.3,17.1
+2012,1,Real Zaragoza,Real Valladolid,54.4,33.5,12.1
+2012,2,Real Sociedad,Celta de Vigo,61.9,29.2,8.9
+2012,2,Real Betis,Rayo Vallecano,75.7,17.5,6.8
+2012,2,Espanyol,Real Zaragoza,79.0,14.6,6.3
+2012,2,M laga CF,RCD Mallorca,69.4,14.8,15.8
+2012,2,CA Osasuna,FC Barcelona,0.0,0.9,99.1
+2012,2,Granada CF,Sevilla FC,6.2,15.6,78.2
+2012,2,Getafe,Real Madrid,1.3,2.6,96.1
+2012,2,Valencia,Dep La Coru a,93.9,4.8,1.3
+2012,2,Real Valladolid,Levante,27.2,37.7,35.1
+2012,2,Atl tico Madrid,Athletic,65.1,26.6,8.3
+2012,3,Celta de Vigo,CA Osasuna,35.0,28.7,36.3
+2012,3,Real Zaragoza,M laga CF,20.6,24.7,54.7
+2012,3,Dep La Coru a,Getafe,51.3,23.2,25.4
+2012,3,RCD Mallorca,Real Sociedad,64.1,22.9,13.0
+2012,3,Rayo Vallecano,Sevilla FC,7.4,14.4,78.2
+2012,3,Athletic,Real Valladolid,88.8,8.6,2.6
+2012,3,Levante,Espanyol,45.3,30.6,24.1
+2012,3,Real Madrid,Granada CF,98.3,1.3,0.4
+2012,3,FC Barcelona,Valencia,91.2,8.4,0.4
+2012,3,Real Betis,Atl tico Madrid,4.2,14.3,81.5
+2012,4,M laga CF,Levante,79.0,15.2,5.8
+2012,4,Valencia,Celta de Vigo,98.7,0.9,0.4
+2012,4,Getafe,FC Barcelona,0.0,3.1,96.9
+2012,4,Sevilla FC,Real Madrid,3.5,16.6,79.9
+2012,4,Espanyol,Athletic,27.2,28.1,44.7
+2012,4,Granada CF,Dep La Coru a,15.3,43.2,41.5
+2012,4,CA Osasuna,RCD Mallorca,43.2,31.9,24.9
+2012,4,Real Sociedad,Real Zaragoza,56.3,34.1,9.6
+2012,4,Atl tico Madrid,Rayo Vallecano,97.4,2.6,0.0
+2012,4,Real Valladolid,Real Betis,29.3,33.2,37.5
+2012,5,Real Zaragoza,CA Osasuna,61.6,22.7,15.6
+2012,5,Celta de Vigo,Getafe,26.4,27.4,46.2
+2012,5,Real Betis,Espanyol,56.5,22.0,21.5
+2012,5,FC Barcelona,Granada CF,99.5,0.5,0.0
+2012,5,RCD Mallorca,Valencia,13.2,18.3,68.5
+2012,5,Levante,Real Sociedad,67.1,24.7,8.2
+2012,5,Atl tico Madrid,Real Valladolid,97.3,2.7,0.0
+2012,5,Athletic,M laga CF,41.2,29.4,29.4
+2012,5,Rayo Vallecano,Real Madrid,0.0,2.6,97.4
+2012,5,Dep La Coru a,Sevilla FC,17.3,22.9,59.7
+2012,6,Valencia,Real Zaragoza,96.4,2.1,1.5
+2012,6,M laga CF,Real Betis,88.4,9.1,2.5
+2012,6,Real Sociedad,Athletic,13.6,32.2,54.3
+2012,6,Sevilla FC,FC Barcelona,2.0,10.9,87.1
+2012,6,Granada CF,Celta de Vigo,35.0,45.8,19.2
+2012,6,Real Valladolid,Rayo Vallecano,51.0,32.5,16.5
+2012,6,CA Osasuna,Levante,40.6,25.1,34.3
+2012,6,Real Madrid,Dep La Coru a,98.6,1.4,0.0
+2012,6,Espanyol,Atl tico Madrid,4.7,9.5,85.8
+2012,6,Getafe,RCD Mallorca,49.3,25.1,25.6
+2012,7,Celta de Vigo,Sevilla FC,5.8,9.0,85.2
+2012,7,Rayo Vallecano,Dep La Coru a,25.9,42.8,31.3
+2012,7,Real Zaragoza,Getafe,52.0,23.5,24.5
+2012,7,Real Valladolid,Espanyol,40.3,24.3,35.4
+2012,7,Real Betis,Real Sociedad,76.9,14.4,8.7
+2012,7,Levante,Valencia,3.3,15.8,80.9
+2012,7,RCD Mallorca,Granada CF,85.8,9.9,4.2
+2012,7,Athletic,CA Osasuna,87.7,10.4,1.9
+2012,7,FC Barcelona,Real Madrid,70.2,15.3,14.4
+2012,7,Atl tico Madrid,M laga CF,71.2,20.5,8.4
+2012,8,M laga CF,Real Valladolid,97.0,2.5,0.5
+2012,8,Real Madrid,Celta de Vigo,99.0,0.5,0.5
+2012,8,Valencia,Athletic,80.1,15.4,4.5
+2012,8,Dep La Coru a,FC Barcelona,2.0,3.5,94.6
+2012,8,Getafe,Levante,57.4,30.2,12.4
+2012,8,Espanyol,Rayo Vallecano,76.8,14.8,8.4
+2012,8,Granada CF,Real Zaragoza,33.7,43.1,23.3
+2012,8,CA Osasuna,Real Betis,30.7,20.8,48.5
+2012,8,Real Sociedad,Atl tico Madrid,2.0,3.9,94.1
+2012,8,Sevilla FC,RCD Mallorca,83.3,13.2,3.4
+2012,9,Espanyol,M laga CF,9.1,13.9,77.0
+2012,9,Real Betis,Valencia,12.7,16.9,70.4
+2012,9,Celta de Vigo,Dep La Coru a,36.3,38.9,24.7
+2012,9,Rayo Vallecano,FC Barcelona,0.5,0.5,98.9
+2012,9,Real Zaragoza,Sevilla FC,8.9,13.0,78.1
+2012,9,Levante,Granada CF,88.7,8.8,2.6
+2012,9,Athletic,Getafe,78.5,16.9,4.6
+2012,9,Atl tico Madrid,CA Osasuna,99.0,1.0,0.0
+2012,9,RCD Mallorca,Real Madrid,1.0,6.6,92.3
+2012,9,Real Valladolid,Real Sociedad,39.6,44.7,15.7
+2012,10,M laga CF,Rayo Vallecano,98.9,0.0,1.1
+2012,10,FC Barcelona,Celta de Vigo,100.0,0.0,0.0
+2012,10,Real Madrid,Real Zaragoza,99.5,0.5,0.0
+2012,10,Valencia,Atl tico Madrid,16.9,37.7,45.4
+2012,10,Real Sociedad,Espanyol,43.7,39.3,16.9
+2012,10,Dep La Coru a,RCD Mallorca,42.1,30.6,27.3
+2012,10,CA Osasuna,Real Valladolid,61.4,22.8,15.8
+2012,10,Granada CF,Athletic,19.0,16.3,64.7
+2012,10,Sevilla FC,Levante,85.5,10.2,4.3
+2012,10,Getafe,Real Betis,60.0,25.8,14.2
+2012,11,Real Betis,Granada CF,88.4,8.1,3.5
+2012,11,Rayo Vallecano,Celta de Vigo,52.7,35.7,11.5
+2012,11,Espanyol,CA Osasuna,83.2,11.4,5.4
+2012,11,Real Zaragoza,Dep La Coru a,39.1,39.7,21.2
+2012,11,M laga CF,Real Sociedad,96.2,2.2,1.6
+2012,11,Real Valladolid,Valencia,3.2,11.4,85.4
+2012,11,Athletic,Sevilla FC,23.2,41.1,35.7
+2012,11,RCD Mallorca,FC Barcelona,0.0,1.1,98.9
+2012,11,Atl tico Madrid,Getafe,97.3,2.7,0.0
+2012,11,Levante,Real Madrid,0.5,3.7,95.7
+2012,12,CA Osasuna,M laga CF,4.2,13.6,82.2
+2012,12,Valencia,Espanyol,95.3,4.7,0.0
+2012,12,FC Barcelona,Real Zaragoza,99.5,0.5,0.0
+2012,12,Real Madrid,Athletic,95.3,2.6,2.1
+2012,12,Dep La Coru a,Levante,32.0,39.2,28.9
+2012,12,Celta de Vigo,RCD Mallorca,32.0,43.8,24.2
+2012,12,Getafe,Real Valladolid,76.3,16.0,7.7
+2012,12,Granada CF,Atl tico Madrid,0.5,5.1,94.4
+2012,12,Sevilla FC,Real Betis,72.3,21.0,6.7
+2012,12,Real Sociedad,Rayo Vallecano,71.7,20.2,8.1
+2012,13,Real Sociedad,CA Osasuna,75.4,13.7,10.9
+2012,13,Rayo Vallecano,RCD Mallorca,28.3,34.8,36.9
+2012,13,Real Valladolid,Granada CF,76.5,12.8,10.7
+2012,13,M laga CF,Valencia,48.9,28.7,22.3
+2012,13,Real Betis,Real Madrid,0.0,2.1,97.9
+2012,13,Espanyol,Getafe,43.5,36.6,19.9
+2012,13,Athletic,Dep La Coru a,88.5,9.4,2.1
+2012,13,Atl tico Madrid,Sevilla FC,86.9,7.9,5.2
+2012,13,Levante,FC Barcelona,1.0,4.1,94.8
+2012,13,Real Zaragoza,Celta de Vigo,73.7,20.2,6.1
+2012,14,CA Osasuna,Rayo Vallecano,67.1,19.7,13.3
+2012,14,Getafe,M laga CF,9.8,20.8,69.4
+2012,14,Valencia,Real Sociedad,97.3,2.7,0.0
+2012,14,FC Barcelona,Athletic,98.4,1.6,0.0
+2012,14,Real Madrid,Atl tico Madrid,64.3,24.9,10.8
+2012,14,Granada CF,Espanyol,29.2,43.2,27.6
+2012,14,Dep La Coru a,Real Betis,29.3,18.6,52.1
+2012,14,Celta de Vigo,Levante,18.1,28.2,53.7
+2012,14,RCD Mallorca,Real Zaragoza,71.4,22.2,6.3
+2012,14,Sevilla FC,Real Valladolid,92.1,5.8,2.1
+2012,15,Espanyol,Sevilla FC,12.8,15.1,72.1
+2012,15,Real Sociedad,Getafe,39.7,41.3,19.0
+2012,15,M laga CF,Granada CF,98.9,0.0,1.1
+2012,15,Real Valladolid,Real Madrid,0.6,1.7,97.8
+2012,15,CA Osasuna,Valencia,8.3,19.4,72.2
+2012,15,Levante,RCD Mallorca,82.8,12.8,4.4
+2012,15,Athletic,Celta de Vigo,84.0,11.0,5.0
+2012,15,Atl tico Madrid,Dep La Coru a,99.4,0.6,0.0
+2012,15,Real Betis,FC Barcelona,1.1,7.1,91.8
+2012,15,Rayo Vallecano,Real Zaragoza,38.3,45.9,15.8
+2012,16,Getafe,CA Osasuna,86.9,10.9,2.3
+2012,16,RCD Mallorca,Athletic,24.2,23.0,52.8
+2012,16,Granada CF,Real Sociedad,29.1,30.7,40.2
+2012,16,Sevilla FC,M laga CF,34.1,32.4,33.5
+2012,16,Real Zaragoza,Levante,23.9,27.2,48.9
+2012,16,Valencia,Rayo Vallecano,98.3,1.7,0.0
+2012,16,Real Madrid,Espanyol,98.9,1.1,0.0
+2012,16,FC Barcelona,Atl tico Madrid,85.3,9.2,5.4
+2012,16,Dep La Coru a,Real Valladolid,56.0,24.5,19.6
+2012,16,Celta de Vigo,Real Betis,21.2,27.7,51.1
+2012,17,Rayo Vallecano,Levante,12.5,24.2,63.3
+2012,17,Real Sociedad,Sevilla FC,21.7,18.6,59.7
+2012,17,Espanyol,Dep La Coru a,73.6,20.2,6.2
+2012,17,Valencia,Getafe,91.8,5.4,2.7
+2012,17,Atl tico Madrid,Celta de Vigo,99.3,0.7,0.0
+2012,17,Real Betis,RCD Mallorca,70.8,21.1,8.1
+2012,17,Real Valladolid,FC Barcelona,0.0,0.0,100.0
+2012,17,CA Osasuna,Granada CF,74.7,20.5,4.8
+2012,17,M laga CF,Real Madrid,12.0,19.3,68.7
+2012,17,Athletic,Real Zaragoza,91.6,6.6,1.8
+2012,18,Real Zaragoza,Real Betis,45.1,24.6,30.3
+2012,18,Levante,Athletic,59.1,24.2,16.8
+2012,18,Granada CF,Valencia,2.6,10.6,86.8
+2012,18,Dep La Coru a,M laga CF,10.5,9.2,80.3
+2012,18,Sevilla FC,CA Osasuna,92.8,6.5,0.7
+2012,18,Celta de Vigo,Real Valladolid,28.6,60.4,11.0
+2012,18,Real Madrid,Real Sociedad,100.0,0.0,0.0
+2012,18,FC Barcelona,Espanyol,98.7,1.3,0.0
+2012,18,RCD Mallorca,Atl tico Madrid,3.2,8.2,88.6
+2012,18,Rayo Vallecano,Getafe,32.1,42.8,25.2
+2012,19,Athletic,Rayo Vallecano,80.9,14.9,4.3
+2012,19,Real Valladolid,RCD Mallorca,40.0,46.0,14.0
+2012,19,Espanyol,Celta de Vigo,68.7,18.7,12.7
+2012,19,CA Osasuna,Real Madrid,0.0,1.3,98.7
+2012,19,Valencia,Sevilla FC,84.1,13.9,2.0
+2012,19,Real Betis,Levante,37.0,38.3,24.7
+2012,19,Real Sociedad,Dep La Coru a,64.9,26.0,9.1
+2012,19,Atl tico Madrid,Real Zaragoza,99.4,0.0,0.6
+2012,19,M laga CF,FC Barcelona,1.9,11.5,86.6
+2012,19,Getafe,Granada CF,89.1,7.7,3.2
+2012,20,Espanyol,RCD Mallorca,74.7,16.5,8.8
+2012,20,Granada CF,Rayo Vallecano,29.7,38.3,32.0
+2012,20,Real Sociedad,FC Barcelona,0.0,0.6,99.4
+2012,20,Getafe,Sevilla FC,28.1,27.0,44.9
+2012,20,M laga CF,Celta de Vigo,95.5,3.4,1.1
+2012,20,CA Osasuna,Dep La Coru a,50.6,32.8,16.7
+2012,20,Real Valladolid,Real Zaragoza,52.2,35.6,12.2
+2012,20,Atl tico Madrid,Levante,96.7,1.1,2.2
+2012,20,Valencia,Real Madrid,11.1,27.2,61.7
+2012,20,Real Betis,Athletic,52.2,20.3,27.5
+2012,21,Celta de Vigo,Real Sociedad,22.7,44.8,32.6
+2012,21,Levante,Real Valladolid,84.4,12.1,3.5
+2012,21,Real Zaragoza,Espanyol,35.1,40.4,24.6
+2012,21,Dep La Coru a,Valencia,4.7,12.9,82.5
+2012,21,Real Madrid,Getafe,98.3,1.7,0.0
+2012,21,Rayo Vallecano,Real Betis,21.1,42.9,36.0
+2012,21,FC Barcelona,CA Osasuna,99.4,0.6,0.0
+2012,21,Athletic,Atl tico Madrid,3.9,9.0,87.1
+2012,21,RCD Mallorca,M laga CF,5.6,11.3,83.1
+2012,21,Sevilla FC,Granada CF,92.2,6.7,1.1
+2012,22,Real Valladolid,Athletic,23.8,29.7,46.5
+2012,22,CA Osasuna,Celta de Vigo,58.3,31.6,10.2
+2012,22,Getafe,Dep La Coru a,77.1,15.4,7.4
+2012,22,Espanyol,Levante,34.0,39.9,26.1
+2012,22,Granada CF,Real Madrid,0.0,0.5,99.5
+2012,22,M laga CF,Real Zaragoza,96.8,2.1,1.1
+2012,22,Sevilla FC,Rayo Vallecano,84.7,11.1,4.2
+2012,22,Valencia,FC Barcelona,0.5,8.4,91.1
+2012,22,Atl tico Madrid,Real Betis,97.9,1.0,1.0
+2012,22,Real Sociedad,RCD Mallorca,65.8,25.8,8.4
+2012,23,RCD Mallorca,CA Osasuna,64.9,22.4,12.6
+2012,23,Celta de Vigo,Valencia,1.7,11.4,86.9
+2012,23,Levante,M laga CF,14.9,27.4,57.7
+2012,23,Dep La Coru a,Granada CF,60.0,27.4,12.6
+2012,23,Real Madrid,Sevilla FC,96.0,3.4,0.6
+2012,23,FC Barcelona,Getafe,98.9,1.1,0.0
+2012,23,Real Zaragoza,Real Sociedad,49.4,30.7,19.9
+2012,23,Athletic,Espanyol,83.0,11.9,5.1
+2012,23,Rayo Vallecano,Atl tico Madrid,2.3,8.5,89.2
+2012,23,Real Betis,Real Valladolid,83.0,14.8,2.3
+2012,24,Sevilla FC,Dep La Coru a,92.4,5.3,2.4
+2012,24,Getafe,Celta de Vigo,77.7,16.6,5.7
+2012,24,M laga CF,Athletic,84.7,10.2,5.1
+2012,24,Granada CF,FC Barcelona,0.6,0.0,99.4
+2012,24,CA Osasuna,Real Zaragoza,40.7,41.2,18.1
+2012,24,Real Sociedad,Levante,46.4,25.7,27.9
+2012,24,Valencia,RCD Mallorca,95.5,3.9,0.6
+2012,24,Real Valladolid,Atl tico Madrid,2.8,10.6,86.6
+2012,24,Real Madrid,Rayo Vallecano,99.4,0.6,0.0
+2012,24,Espanyol,Real Betis,48.0,30.7,21.2
+2012,25,Athletic,Real Sociedad,77.7,13.4,8.9
+2012,25,RCD Mallorca,Getafe,31.0,40.1,28.9
+2012,25,Real Zaragoza,Valencia,2.6,9.5,87.8
+2012,25,Dep La Coru a,Real Madrid,0.0,2.1,97.9
+2012,25,FC Barcelona,Sevilla FC,97.9,2.1,0.0
+2012,25,Rayo Vallecano,Real Valladolid,53.7,31.1,15.3
+2012,25,Celta de Vigo,Granada CF,57.8,28.1,14.1
+2012,25,Atl tico Madrid,Espanyol,94.8,4.1,1.0
+2012,25,Real Betis,M laga CF,11.3,27.3,61.3
+2012,25,Levante,CA Osasuna,82.9,14.1,3.0
+2012,26,Getafe,Real Zaragoza,73.8,17.3,8.9
+2012,26,Real Madrid,FC Barcelona,35.2,31.9,33.0
+2012,26,Dep La Coru a,Rayo Vallecano,56.3,17.5,26.2
+2012,26,CA Osasuna,Athletic,38.6,27.7,33.7
+2012,26,Valencia,Levante,90.8,7.1,2.2
+2012,26,Granada CF,RCD Mallorca,55.9,29.6,14.5
+2012,26,Espanyol,Real Valladolid,69.0,21.4,9.6
+2012,26,M laga CF,Atl tico Madrid,15.4,21.8,62.8
+2012,26,Real Sociedad,Real Betis,56.9,24.5,18.6
+2012,26,Sevilla FC,Celta de Vigo,91.6,5.8,2.6
+2012,27,Real Betis,CA Osasuna,85.0,7.5,7.5
+2012,27,Rayo Vallecano,Espanyol,31.7,41.4,26.9
+2012,27,Real Valladolid,M laga CF,9.1,18.3,72.6
+2012,27,FC Barcelona,Dep La Coru a,98.4,0.5,1.1
+2012,27,RCD Mallorca,Sevilla FC,12.4,20.0,67.6
+2012,27,Athletic,Valencia,16.4,32.2,51.4
+2012,27,Levante,Getafe,70.6,19.8,9.6
+2012,27,Celta de Vigo,Real Madrid,0.0,2.1,97.9
+2012,27,Atl tico Madrid,Real Sociedad,94.7,4.3,1.1
+2012,27,Real Zaragoza,Granada CF,64.2,31.6,4.1
+2012,28,Dep La Coru a,Celta de Vigo,57.4,27.3,15.3
+2012,28,Real Sociedad,Real Valladolid,74.7,17.7,7.5
+2012,28,Getafe,Athletic,41.5,30.3,28.2
+2012,28,Real Madrid,RCD Mallorca,99.5,0.0,0.5
+2012,28,Valencia,Real Betis,83.2,13.7,3.2
+2012,28,M laga CF,Espanyol,91.6,4.2,4.2
+2012,28,Sevilla FC,Real Zaragoza,83.8,12.6,3.7
+2012,28,CA Osasuna,Atl tico Madrid,2.6,6.7,90.7
+2012,28,Granada CF,Levante,14.6,38.5,46.9
+2012,28,FC Barcelona,Rayo Vallecano,99.5,0.5,0.0
+2012,29,Rayo Vallecano,M laga CF,10.0,22.2,67.8
+2012,29,Celta de Vigo,FC Barcelona,1.1,0.0,98.9
+2012,29,Real Zaragoza,Real Madrid,0.5,1.6,97.8
+2012,29,Levante,Sevilla FC,29.1,46.2,24.7
+2012,29,Real Valladolid,CA Osasuna,74.2,19.2,6.6
+2012,29,RCD Mallorca,Dep La Coru a,74.2,19.2,6.6
+2012,29,Espanyol,Real Sociedad,36.3,38.5,25.3
+2012,29,Atl tico Madrid,Valencia,82.4,12.6,4.9
+2012,29,Athletic,Granada CF,85.1,12.2,2.8
+2012,29,Real Betis,Getafe,53.8,31.9,14.3
+2012,30,Granada CF,Real Betis,21.5,24.1,54.4
+2012,30,Real Sociedad,M laga CF,25.1,25.1,49.7
+2012,30,Real Madrid,Levante,98.8,1.2,0.0
+2012,30,Dep La Coru a,Real Zaragoza,47.1,36.8,16.1
+2012,30,FC Barcelona,RCD Mallorca,98.3,1.1,0.6
+2012,30,Celta de Vigo,Rayo Vallecano,42.3,39.4,18.3
+2012,30,CA Osasuna,Espanyol,45.7,32.0,22.3
+2012,30,Getafe,Atl tico Madrid,5.1,13.1,81.8
+2012,30,Valencia,Real Valladolid,97.7,1.1,1.1
+2012,30,Sevilla FC,Athletic,73.0,20.2,6.7
+2012,31,Real Betis,Sevilla FC,35.1,35.1,29.8
+2012,31,Real Valladolid,Getafe,33.7,45.5,20.8
+2012,31,Levante,Dep La Coru a,81.6,11.7,6.7
+2012,31,Espanyol,Valencia,12.2,21.1,66.7
+2012,31,M laga CF,CA Osasuna,91.7,5.5,2.8
+2012,31,Rayo Vallecano,Real Sociedad,17.7,46.4,35.9
+2012,31,Atl tico Madrid,Granada CF,97.8,1.6,0.5
+2012,31,Real Zaragoza,FC Barcelona,0.5,2.2,97.3
+2012,31,Athletic,Real Madrid,2.7,7.1,90.2
+2012,31,RCD Mallorca,Celta de Vigo,72.8,16.3,10.9
+2012,32,RCD Mallorca,Rayo Vallecano,59.1,21.3,19.5
+2012,32,Granada CF,Real Valladolid,28.7,43.1,28.2
+2012,32,Real Madrid,Real Betis,97.7,2.3,0.0
+2012,32,FC Barcelona,Levante,98.9,0.0,1.1
+2012,32,Valencia,M laga CF,58.9,30.3,10.9
+2012,32,Getafe,Espanyol,59.7,26.1,14.2
+2012,32,Dep La Coru a,Athletic,29.8,23.6,46.6
+2012,32,CA Osasuna,Real Sociedad,19.0,28.5,52.5
+2012,32,Sevilla FC,Atl tico Madrid,12.3,24.6,63.1
+2012,32,Celta de Vigo,Real Zaragoza,42.5,37.6,19.9
+2012,33,Rayo Vallecano,CA Osasuna,71.3,19.5,9.1
+2012,33,Levante,Celta de Vigo,77.6,15.5,6.9
+2012,33,Athletic,FC Barcelona,1.7,6.9,91.4
+2012,33,Atl tico Madrid,Real Madrid,24.6,31.4,44.0
+2012,33,Real Zaragoza,RCD Mallorca,53.4,30.5,16.1
+2012,33,Espanyol,Granada CF,83.9,9.2,6.9
+2012,33,M laga CF,Getafe,93.1,5.7,1.1
+2012,33,Real Valladolid,Sevilla FC,8.0,26.3,65.7
+2012,33,Real Sociedad,Valencia,18.3,20.0,61.7
+2012,33,Real Betis,Dep La Coru a,74.4,14.8,10.8
+2012,34,Celta de Vigo,Athletic,18.6,26.3,55.1
+2012,34,Valencia,CA Osasuna,96.0,2.8,1.1
+2012,34,Granada CF,M laga CF,5.6,10.7,83.6
+2012,34,Real Madrid,Real Valladolid,99.4,0.0,0.6
+2012,34,Dep La Coru a,Atl tico Madrid,6.7,10.1,83.2
+2012,34,RCD Mallorca,Levante,37.6,42.7,19.7
+2012,34,Real Zaragoza,Rayo Vallecano,52.5,30.4,17.1
+2012,34,Sevilla FC,Espanyol,80.6,15.6,3.9
+2012,34,FC Barcelona,Real Betis,96.2,3.3,0.5
+2012,34,Getafe,Real Sociedad,40.0,29.7,30.3
+2012,35,Levante,Real Zaragoza,74.5,14.6,10.8
+2012,35,Athletic,RCD Mallorca,82.6,11.6,5.8
+2012,35,Real Valladolid,Dep La Coru a,62.2,20.3,17.4
+2012,35,CA Osasuna,Getafe,22.5,46.2,31.2
+2012,35,Espanyol,Real Madrid,2.3,2.3,95.4
+2012,35,Rayo Vallecano,Valencia,3.4,17.8,78.7
+2012,35,Real Betis,Celta de Vigo,86.0,11.8,2.2
+2012,35,Atl tico Madrid,FC Barcelona,16.2,20.7,63.1
+2012,35,M laga CF,Sevilla FC,65.9,24.0,10.1
+2012,35,Real Sociedad,Granada CF,86.3,8.8,4.9
+2012,36,Celta de Vigo,Atl tico Madrid,5.5,4.6,89.9
+2012,36,Real Madrid,M laga CF,96.4,3.6,0.0
+2012,36,Getafe,Valencia,11.1,17.2,71.7
+2012,36,Granada CF,CA Osasuna,38.9,42.8,18.3
+2012,36,Sevilla FC,Real Sociedad,73.5,16.0,10.5
+2012,36,Levante,Rayo Vallecano,70.3,19.8,9.9
+2012,36,Dep La Coru a,Espanyol,45.6,32.4,22.0
+2012,36,Real Zaragoza,Athletic,22.4,19.1,58.5
+2012,36,FC Barcelona,Real Valladolid,98.9,0.5,0.5
+2012,36,RCD Mallorca,Real Betis,32.2,35.5,32.2
+2012,37,Real Sociedad,Real Madrid,8.2,11.7,80.1
+2012,37,CA Osasuna,Sevilla FC,14.7,18.8,66.5
+2012,37,Real Valladolid,Celta de Vigo,44.7,39.4,15.9
+2012,37,Valencia,Granada CF,94.7,3.5,1.8
+2012,37,Espanyol,FC Barcelona,1.8,2.3,95.9
+2012,37,M laga CF,Dep La Coru a,84.7,11.2,4.1
+2012,37,Getafe,Rayo Vallecano,66.1,25.7,8.2
+2012,37,Athletic,Levante,73.7,15.8,10.5
+2012,37,Real Betis,Real Zaragoza,67.3,23.4,9.4
+2012,37,Atl tico Madrid,RCD Mallorca,95.9,1.8,2.3
+2012,38,Real Madrid,CA Osasuna,98.1,0.0,1.9
+2012,38,FC Barcelona,M laga CF,95.6,3.1,1.3
+2012,38,Granada CF,Getafe,24.4,34.4,41.3
+2012,38,Real Zaragoza,Atl tico Madrid,8.8,8.8,82.5
+2012,38,RCD Mallorca,Real Valladolid,50.0,35.6,14.4
+2012,38,Rayo Vallecano,Athletic,21.9,21.3,56.9
+2012,38,Levante,Real Betis,53.1,23.1,23.8
+2012,38,Dep La Coru a,Real Sociedad,21.9,22.5,55.6
+2012,38,Celta de Vigo,Espanyol,30.0,36.9,33.1
+2012,38,Sevilla FC,Valencia,29.4,26.9,43.8

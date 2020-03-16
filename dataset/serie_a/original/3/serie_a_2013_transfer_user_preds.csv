@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2013,1,Hellas Verona,AC Milan,0.4,4.4,95.1
+2013,1,Sampdoria,Juventus,1.8,3.1,95.2
+2013,1,Inter,Genoa,88.9,9.0,2.1
+2013,1,Cagliari Calcio,Atalanta,41.0,49.6,9.4
+2013,1,Torino,Sassuolo,75.2,20.1,4.7
+2013,1,Parma,Chievo Verona,66.2,29.1,4.7
+2013,1,SSC Napoli,Bologna,95.7,3.0,1.3
+2013,1,AS Livorno,AS Roma,2.6,8.5,88.9
+2013,1,Lazio,Udinese Calcio,78.2,15.0,6.8
+2013,1,Fiorentina,Catania,95.0,4.1,0.8
+2013,2,Chievo Verona,SSC Napoli,1.9,3.8,94.4
+2013,2,Juventus,Lazio,87.1,8.8,4.1
+2013,2,AS Roma,Hellas Verona,91.4,6.4,2.3
+2013,2,Atalanta,Torino,34.5,48.2,17.3
+2013,2,Udinese Calcio,Parma,81.4,10.5,8.2
+2013,2,Sassuolo,AS Livorno,20.9,53.6,25.5
+2013,2,AC Milan,Cagliari Calcio,96.8,2.3,0.9
+2013,2,Genoa,Fiorentina,5.5,9.1,85.5
+2013,2,Catania,Inter,4.1,11.8,84.2
+2013,2,Bologna,Sampdoria,45.9,30.0,24.1
+2013,3,Inter,Juventus,12.9,32.5,54.5
+2013,3,Torino,AC Milan,1.9,4.8,93.3
+2013,3,SSC Napoli,Atalanta,97.6,1.0,1.4
+2013,3,Fiorentina,Cagliari Calcio,97.6,1.4,0.9
+2013,3,Udinese Calcio,Bologna,82.9,14.7,2.4
+2013,3,AS Livorno,Catania,30.3,47.4,22.3
+2013,3,Lazio,Chievo Verona,97.6,1.4,0.9
+2013,3,Hellas Verona,Sassuolo,78.7,17.5,3.8
+2013,3,Sampdoria,Genoa,39.9,44.6,15.5
+2013,3,Parma,AS Roma,2.8,10.6,86.7
+2013,4,Chievo Verona,Udinese Calcio,9.5,22.5,68.0
+2013,4,Cagliari Calcio,Sampdoria,66.5,20.0,13.5
+2013,4,Genoa,AS Livorno,78.6,17.4,4.0
+2013,4,Sassuolo,Inter,1.0,1.0,98.0
+2013,4,Atalanta,Fiorentina,3.4,11.3,85.3
+2013,4,AS Roma,Lazio,61.6,27.1,11.3
+2013,4,Juventus,Hellas Verona,98.5,0.5,1.0
+2013,4,Catania,Parma,35.8,42.6,21.6
+2013,4,Bologna,Torino,47.5,41.2,11.3
+2013,4,AC Milan,SSC Napoli,24.0,30.9,45.1
+2013,5,Udinese Calcio,Genoa,78.9,15.1,5.9
+2013,5,Chievo Verona,Juventus,2.4,1.8,95.9
+2013,5,Bologna,AC Milan,2.4,8.2,89.4
+2013,5,Torino,Hellas Verona,55.9,34.1,10.0
+2013,5,Sampdoria,AS Roma,2.9,11.2,85.9
+2013,5,Parma,Atalanta,72.4,21.2,6.5
+2013,5,SSC Napoli,Sassuolo,99.4,0.6,0.0
+2013,5,AS Livorno,Cagliari Calcio,41.2,48.8,10.0
+2013,5,Lazio,Catania,95.9,2.9,1.2
+2013,5,Inter,Fiorentina,64.4,26.0,9.6
+2013,6,Genoa,SSC Napoli,1.7,2.9,95.4
+2013,6,AC Milan,Sampdoria,96.6,3.4,0.0
+2013,6,Torino,Juventus,1.7,5.7,92.6
+2013,6,Atalanta,Udinese Calcio,16.3,45.5,38.2
+2013,6,Sassuolo,Lazio,1.7,3.4,94.9
+2013,6,Hellas Verona,AS Livorno,70.8,21.9,7.3
+2013,6,Catania,Chievo Verona,58.4,31.5,10.1
+2013,6,Cagliari Calcio,Inter,2.2,5.1,92.7
+2013,6,AS Roma,Bologna,96.7,1.7,1.7
+2013,6,Fiorentina,Parma,93.2,5.2,1.6
+2013,7,Chievo Verona,Atalanta,37.2,47.5,15.3
+2013,7,Inter,AS Roma,40.5,33.0,26.5
+2013,7,Parma,Sassuolo,89.2,8.1,2.7
+2013,7,Bologna,Hellas Verona,58.1,22.6,19.4
+2013,7,Udinese Calcio,Cagliari Calcio,83.3,12.4,4.3
+2013,7,Sampdoria,Torino,52.4,30.3,17.3
+2013,7,SSC Napoli,AS Livorno,98.9,0.0,1.1
+2013,7,Catania,Genoa,51.1,28.5,20.4
+2013,7,Lazio,Fiorentina,34.6,46.3,19.1
+2013,7,Juventus,AC Milan,79.3,15.4,5.3
+2013,8,AS Roma,SSC Napoli,50.3,36.6,13.1
+2013,8,Cagliari Calcio,Catania,69.4,24.2,6.5
+2013,8,AC Milan,Udinese Calcio,95.7,2.7,1.6
+2013,8,Atalanta,Lazio,5.9,17.6,76.6
+2013,8,Sassuolo,Bologna,23.3,27.5,49.2
+2013,8,AS Livorno,Sampdoria,31.7,41.8,26.5
+2013,8,Hellas Verona,Parma,67.2,20.1,12.7
+2013,8,Genoa,Chievo Verona,82.0,15.3,2.6
+2013,8,Fiorentina,Juventus,8.5,25.9,65.6
+2013,8,Torino,Inter,2.1,8.5,89.4
+2013,9,Sampdoria,Atalanta,62.4,23.7,13.9
+2013,9,Inter,Hellas Verona,90.8,6.9,2.3
+2013,9,Chievo Verona,Fiorentina,1.7,6.3,92.0
+2013,9,SSC Napoli,Torino,98.3,0.6,1.1
+2013,9,Bologna,AS Livorno,58.3,29.1,12.6
+2013,9,Udinese Calcio,AS Roma,8.6,11.4,80.0
+2013,9,Parma,AC Milan,4.0,17.1,78.9
+2013,9,Juventus,Genoa,98.3,0.6,1.1
+2013,9,Catania,Sassuolo,80.0,16.0,4.0
+2013,9,Lazio,Cagliari Calcio,92.1,6.8,1.1
+2013,10,Atalanta,Inter,2.9,11.7,85.4
+2013,10,Sassuolo,Udinese Calcio,8.3,9.0,82.7
+2013,10,AC Milan,Lazio,65.6,24.2,10.2
+2013,10,AS Livorno,Torino,22.4,44.9,32.7
+2013,10,Juventus,Catania,99.4,0.0,0.6
+2013,10,Hellas Verona,Sampdoria,78.2,12.8,9.0
+2013,10,Genoa,Parma,54.5,25.6,19.9
+2013,10,Fiorentina,SSC Napoli,19.1,32.5,48.4
+2013,10,Cagliari Calcio,Bologna,66.7,23.7,9.6
+2013,10,AS Roma,Chievo Verona,98.2,0.6,1.2
+2013,11,Parma,Juventus,2.0,6.6,91.4
+2013,11,SSC Napoli,Catania,99.4,0.0,0.6
+2013,11,AC Milan,Fiorentina,50.0,26.9,23.1
+2013,11,AS Livorno,Atalanta,26.6,52.5,20.9
+2013,11,Udinese Calcio,Inter,8.2,23.4,68.4
+2013,11,Sampdoria,Sassuolo,85.4,12.7,1.9
+2013,11,Lazio,Genoa,92.4,5.7,1.9
+2013,11,Hellas Verona,Cagliari Calcio,78.5,14.6,7.0
+2013,11,Torino,AS Roma,3.8,6.9,89.4
+2013,11,Bologna,Chievo Verona,71.2,23.3,5.5
+2013,12,Catania,Udinese Calcio,13.9,26.5,59.6
+2013,12,Inter,AS Livorno,98.2,0.6,1.2
+2013,12,Genoa,Hellas Verona,33.7,45.6,20.7
+2013,12,Atalanta,Bologna,70.2,20.2,9.5
+2013,12,AS Roma,Sassuolo,98.8,0.6,0.6
+2013,12,Parma,Lazio,18.5,18.5,63.1
+2013,12,Chievo Verona,AC Milan,3.6,6.5,89.9
+2013,12,Cagliari Calcio,Torino,27.4,44.6,28.0
+2013,12,Juventus,SSC Napoli,51.2,36.5,12.4
+2013,12,Fiorentina,Sampdoria,98.2,1.2,0.6
+2013,13,Hellas Verona,Chievo Verona,75.4,15.4,9.1
+2013,13,SSC Napoli,Parma,96.0,2.8,1.1
+2013,13,AC Milan,Genoa,87.5,11.4,1.1
+2013,13,Udinese Calcio,Fiorentina,10.1,20.2,69.7
+2013,13,Torino,Catania,75.3,16.9,7.9
+2013,13,Sassuolo,Atalanta,21.9,44.4,33.7
+2013,13,Sampdoria,Lazio,10.7,21.9,67.4
+2013,13,AS Livorno,Juventus,1.7,1.7,96.6
+2013,13,Bologna,Inter,2.2,4.5,93.3
+2013,13,AS Roma,Cagliari Calcio,98.3,1.1,0.6
+2013,14,Parma,Bologna,84.1,10.8,5.1
+2013,14,Genoa,Torino,63.9,24.7,11.4
+2013,14,Catania,AC Milan,3.1,9.9,87.0
+2013,14,Atalanta,AS Roma,4.3,7.5,88.2
+2013,14,Inter,Sampdoria,96.3,2.5,1.2
+2013,14,Chievo Verona,AS Livorno,55.3,34.8,9.9
+2013,14,Cagliari Calcio,Sassuolo,67.9,23.5,8.6
+2013,14,Juventus,Udinese Calcio,96.3,2.4,1.2
+2013,14,Fiorentina,Hellas Verona,89.2,7.8,3.0
+2013,14,Lazio,SSC Napoli,13.8,32.3,53.9
+2013,15,Bologna,Juventus,1.3,3.2,95.6
+2013,15,AS Livorno,AC Milan,1.8,9.6,88.6
+2013,15,SSC Napoli,Udinese Calcio,96.4,2.4,1.2
+2013,15,AS Roma,Fiorentina,64.1,26.3,9.6
+2013,15,Torino,Lazio,12.7,21.7,65.7
+2013,15,Sassuolo,Chievo Verona,39.2,36.1,24.7
+2013,15,Sampdoria,Catania,68.7,24.1,7.2
+2013,15,Hellas Verona,Atalanta,77.1,15.1,7.8
+2013,15,Cagliari Calcio,Genoa,28.9,50.0,21.1
+2013,15,Inter,Parma,94.6,3.6,1.8
+2013,16,Catania,Hellas Verona,21.9,29.1,49.0
+2013,16,Udinese Calcio,Torino,75.6,18.6,5.8
+2013,16,Parma,Cagliari Calcio,75.0,19.9,5.1
+2013,16,Lazio,AS Livorno,92.9,7.1,0.0
+2013,16,Genoa,Atalanta,70.5,23.7,5.8
+2013,16,Fiorentina,Bologna,96.8,2.6,0.6
+2013,16,Chievo Verona,Sampdoria,64.1,22.4,13.5
+2013,16,Juventus,Sassuolo,99.4,0.0,0.6
+2013,16,SSC Napoli,Inter,72.0,19.1,8.9
+2013,16,AC Milan,AS Roma,23.4,35.4,41.1
+2013,17,AS Livorno,Udinese Calcio,8.2,30.4,61.4
+2013,17,Cagliari Calcio,SSC Napoli,3.2,2.6,94.2
+2013,17,Bologna,Genoa,51.3,30.4,18.4
+2013,17,Atalanta,Juventus,1.3,5.0,93.7
+2013,17,Torino,Chievo Verona,74.2,21.4,4.4
+2013,17,Sassuolo,Fiorentina,3.1,3.8,93.1
+2013,17,Sampdoria,Parma,37.7,45.9,16.4
+2013,17,AS Roma,Catania,97.5,1.3,1.3
+2013,17,Hellas Verona,Lazio,19.5,25.8,54.7
+2013,17,Inter,AC Milan,49.7,39.0,11.3
+2013,18,Chievo Verona,Cagliari Calcio,40.0,47.4,12.6
+2013,18,Fiorentina,AS Livorno,97.9,1.4,0.7
+2013,18,Juventus,AS Roma,73.2,19.7,7.0
+2013,18,SSC Napoli,Sampdoria,96.5,1.4,2.1
+2013,18,Catania,Bologna,33.8,46.2,20.0
+2013,18,Udinese Calcio,Hellas Verona,61.4,23.4,15.2
+2013,18,Parma,Torino,53.1,29.0,17.9
+2013,18,AC Milan,Atalanta,92.4,5.5,2.1
+2013,18,Genoa,Sassuolo,86.2,6.9,6.9
+2013,18,Lazio,Inter,21.4,29.7,49.0
+2013,19,AS Livorno,Parma,13.8,34.8,51.4
+2013,19,Bologna,Lazio,8.0,15.2,76.8
+2013,19,Torino,Fiorentina,9.0,24.3,66.7
+2013,19,Atalanta,Catania,72.9,20.8,6.3
+2013,19,AS Roma,Genoa,96.6,2.1,1.4
+2013,19,Hellas Verona,SSC Napoli,9.0,15.2,75.9
+2013,19,Cagliari Calcio,Juventus,1.4,2.8,95.9
+2013,19,Sassuolo,AC Milan,2.0,8.2,89.8
+2013,19,Sampdoria,Udinese Calcio,33.8,48.6,17.6
+2013,19,Inter,Chievo Verona,95.3,2.7,2.0
+2013,20,AS Roma,AS Livorno,98.6,0.7,0.7
+2013,20,Juventus,Sampdoria,98.6,0.7,0.7
+2013,20,Udinese Calcio,Lazio,16.6,41.4,42.1
+2013,20,Atalanta,Cagliari Calcio,72.2,20.8,6.9
+2013,20,Sassuolo,Torino,21.5,34.7,43.8
+2013,20,Chievo Verona,Parma,22.2,45.1,32.6
+2013,20,Bologna,SSC Napoli,2.1,7.5,90.4
+2013,20,Genoa,Inter,4.8,18.5,76.7
+2013,20,Catania,Fiorentina,4.1,6.9,89.0
+2013,20,AC Milan,Hellas Verona,84.5,12.2,3.4
+2013,21,SSC Napoli,Chievo Verona,98.7,1.3,0.0
+2013,21,Lazio,Juventus,5.1,15.2,79.7
+2013,21,Hellas Verona,AS Roma,1.9,15.0,83.1
+2013,21,Torino,Atalanta,83.1,15.6,1.3
+2013,21,Parma,Udinese Calcio,62.3,22.6,15.1
+2013,21,AS Livorno,Sassuolo,33.3,49.7,17.0
+2013,21,Cagliari Calcio,AC Milan,3.8,21.9,74.4
+2013,21,Inter,Catania,97.5,1.9,0.6
+2013,21,Sampdoria,Bologna,68.1,21.3,10.6
+2013,21,Fiorentina,Genoa,93.1,6.3,0.6
+2013,22,Cagliari Calcio,Fiorentina,1.9,7.0,91.1
+2013,22,Bologna,Udinese Calcio,22.3,52.2,25.5
+2013,22,AC Milan,Torino,89.4,9.4,1.3
+2013,22,Atalanta,SSC Napoli,3.7,4.3,92.0
+2013,22,Catania,AS Livorno,68.3,26.7,5.0
+2013,22,Chievo Verona,Lazio,2.5,14.3,83.2
+2013,22,Sassuolo,Hellas Verona,19.3,23.0,57.8
+2013,22,Juventus,Inter,82.1,13.0,4.9
+2013,22,Genoa,Sampdoria,60.6,28.5,10.9
+2013,22,AS Roma,Parma,100.0,0.0,0.0
+2013,23,Udinese Calcio,Chievo Verona,84.1,13.4,2.5
+2013,23,Fiorentina,Atalanta,93.0,4.5,2.5
+2013,23,SSC Napoli,AC Milan,72.0,18.5,9.6
+2013,23,Torino,Bologna,80.4,16.5,3.2
+2013,23,Lazio,AS Roma,15.7,36.5,47.8
+2013,23,Hellas Verona,Juventus,2.5,3.1,94.3
+2013,23,AS Livorno,Genoa,20.1,40.9,39.0
+2013,23,Parma,Catania,85.5,10.1,4.4
+2013,23,Sampdoria,Cagliari Calcio,51.6,38.4,10.1
+2013,23,Inter,Sassuolo,96.3,1.9,1.9
+2013,24,AC Milan,Bologna,96.3,3.7,0.0
+2013,24,Fiorentina,Inter,58.6,29.0,12.4
+2013,24,Catania,Lazio,2.9,12.9,84.1
+2013,24,Genoa,Udinese Calcio,39.1,42.6,18.3
+2013,24,Atalanta,Parma,37.3,42.0,20.7
+2013,24,Sassuolo,SSC Napoli,3.0,4.1,92.9
+2013,24,Cagliari Calcio,AS Livorno,71.0,23.1,5.9
+2013,24,Juventus,Chievo Verona,98.2,1.2,0.6
+2013,24,AS Roma,Sampdoria,95.9,2.9,1.2
+2013,24,Hellas Verona,Torino,65.9,24.9,9.2
+2013,25,Bologna,AS Roma,1.3,6.3,92.5
+2013,25,AS Livorno,Hellas Verona,18.6,29.2,52.2
+2013,25,Udinese Calcio,Atalanta,84.0,9.9,6.2
+2013,25,Sampdoria,AC Milan,7.4,21.6,71.0
+2013,25,Chievo Verona,Catania,55.6,33.3,11.1
+2013,25,Inter,Cagliari Calcio,94.4,3.7,1.9
+2013,25,Juventus,Torino,95.1,3.7,1.2
+2013,25,Lazio,Sassuolo,90.7,6.2,3.1
+2013,25,Parma,Fiorentina,14.8,25.9,59.3
+2013,25,SSC Napoli,Genoa,96.3,1.8,1.8
+2013,26,AS Roma,Inter,84.6,13.0,2.5
+2013,26,Cagliari Calcio,Udinese Calcio,21.7,34.9,43.4
+2013,26,Hellas Verona,Bologna,87.3,7.2,5.4
+2013,26,Torino,Sampdoria,71.1,15.1,13.9
+2013,26,Sassuolo,Parma,10.2,19.3,70.5
+2013,26,Atalanta,Chievo Verona,74.1,18.1,7.8
+2013,26,Genoa,Catania,80.7,15.1,4.2
+2013,26,AS Livorno,SSC Napoli,1.2,5.4,93.4
+2013,26,Fiorentina,Lazio,73.2,20.2,6.5
+2013,26,AC Milan,Juventus,10.1,20.8,69.0
+2013,27,Udinese Calcio,AC Milan,6.5,28.6,64.9
+2013,27,Catania,Cagliari Calcio,40.3,42.2,17.5
+2013,27,Juventus,Fiorentina,93.6,4.5,1.9
+2013,27,Lazio,Atalanta,88.6,7.6,3.8
+2013,27,Inter,Torino,85.4,10.8,3.8
+2013,27,Bologna,Sassuolo,79.9,14.5,5.7
+2013,27,Sampdoria,AS Livorno,84.1,12.7,3.2
+2013,27,Parma,Hellas Verona,53.2,27.8,19.0
+2013,27,Chievo Verona,Genoa,22.2,28.5,49.4
+2013,27,SSC Napoli,AS Roma,39.4,44.4,16.3
+2013,28,Hellas Verona,Inter,12.9,21.1,66.0
+2013,28,Atalanta,Sampdoria,57.7,26.2,16.1
+2013,28,AS Livorno,Bologna,29.8,47.0,23.2
+2013,28,AC Milan,Parma,76.8,19.2,4.0
+2013,28,Cagliari Calcio,Lazio,13.9,16.6,69.5
+2013,28,Sassuolo,Catania,43.7,29.1,27.2
+2013,28,Genoa,Juventus,2.0,4.6,93.4
+2013,28,Fiorentina,Chievo Verona,93.4,3.9,2.6
+2013,28,Torino,SSC Napoli,3.8,10.0,86.3
+2013,28,AS Roma,Udinese Calcio,93.1,3.8,3.1
+2013,29,Torino,AS Livorno,83.5,13.9,2.5
+2013,29,Chievo Verona,AS Roma,4.3,3.1,92.5
+2013,29,Parma,Genoa,81.4,13.7,5.0
+2013,29,Inter,Atalanta,91.5,6.7,1.8
+2013,29,Udinese Calcio,Sassuolo,87.8,9.1,3.0
+2013,29,Sampdoria,Hellas Verona,35.4,45.1,19.5
+2013,29,Bologna,Cagliari Calcio,47.6,39.0,13.4
+2013,29,SSC Napoli,Fiorentina,70.1,21.3,8.5
+2013,29,Lazio,AC Milan,55.5,25.6,18.9
+2013,29,Catania,Juventus,0.6,3.7,95.7
+2013,30,AS Roma,Torino,97.9,2.1,0.0
+2013,30,Chievo Verona,Bologna,38.7,44.0,17.3
+2013,30,Sassuolo,Sampdoria,11.3,21.3,67.3
+2013,30,Juventus,Parma,93.3,5.3,1.3
+2013,30,Catania,SSC Napoli,0.7,5.3,94.0
+2013,30,Fiorentina,AC Milan,69.3,21.3,9.3
+2013,30,Atalanta,AS Livorno,85.3,13.3,1.3
+2013,30,Genoa,Lazio,17.3,14.0,68.7
+2013,30,Cagliari Calcio,Hellas Verona,35.3,36.0,28.7
+2013,30,Inter,Udinese Calcio,86.3,10.5,3.3
+2013,31,Bologna,Atalanta,28.9,38.9,32.2
+2013,31,AC Milan,Chievo Verona,98.0,1.3,0.7
+2013,31,Sassuolo,AS Roma,1.3,2.6,96.1
+2013,31,Lazio,Parma,66.7,20.9,12.4
+2013,31,Hellas Verona,Genoa,65.8,17.8,16.4
+2013,31,Sampdoria,Fiorentina,13.7,19.0,67.3
+2013,31,Torino,Cagliari Calcio,78.9,16.4,4.6
+2013,31,SSC Napoli,Juventus,15.6,39.0,45.5
+2013,31,Udinese Calcio,Catania,85.4,11.5,3.2
+2013,31,AS Livorno,Inter,3.2,7.0,89.8
+2013,32,Chievo Verona,Hellas Verona,18.8,46.8,34.4
+2013,32,Inter,Bologna,96.1,2.6,1.3
+2013,32,Lazio,Sampdoria,83.9,13.5,2.6
+2013,32,Fiorentina,Udinese Calcio,88.5,9.6,1.9
+2013,32,Catania,Torino,18.6,42.3,39.1
+2013,32,Atalanta,Sassuolo,82.7,12.8,4.5
+2013,32,Cagliari Calcio,AS Roma,1.3,4.5,94.2
+2013,32,Parma,SSC Napoli,6.3,12.7,81.0
+2013,32,Juventus,AS Livorno,96.3,2.5,1.2
+2013,32,Genoa,AC Milan,5.0,18.0,77.0
+2013,33,Sassuolo,Cagliari Calcio,39.2,36.6,24.2
+2013,33,AS Roma,Atalanta,97.4,1.9,0.6
+2013,33,Bologna,Parma,14.0,20.4,65.6
+2013,33,SSC Napoli,Lazio,82.3,13.3,4.4
+2013,33,Sampdoria,Inter,10.1,20.3,69.6
+2013,33,Torino,Genoa,73.4,19.0,7.6
+2013,33,Hellas Verona,Fiorentina,9.5,24.1,66.5
+2013,33,AS Livorno,Chievo Verona,40.5,43.7,15.8
+2013,33,AC Milan,Catania,99.4,0.6,0.0
+2013,33,Udinese Calcio,Juventus,5.4,6.6,88.0
+2013,34,Lazio,Torino,84.4,9.5,6.1
+2013,34,Chievo Verona,Sassuolo,77.6,15.0,7.5
+2013,34,Catania,Sampdoria,23.8,32.7,43.5
+2013,34,Udinese Calcio,SSC Napoli,3.4,11.6,85.0
+2013,34,AC Milan,AS Livorno,97.3,1.4,1.4
+2013,34,Parma,Inter,15.0,25.2,59.9
+2013,34,Atalanta,Hellas Verona,51.0,27.2,21.8
+2013,34,Genoa,Cagliari Calcio,78.2,17.0,4.8
+2013,34,Juventus,Bologna,97.3,1.4,1.4
+2013,34,Fiorentina,AS Roma,18.9,33.1,48.0
+2013,35,AS Roma,AC Milan,70.3,24.8,4.8
+2013,35,Bologna,Fiorentina,6.5,11.7,81.8
+2013,35,Inter,SSC Napoli,28.7,37.6,33.8
+2013,35,Hellas Verona,Catania,89.7,7.1,3.2
+2013,35,Torino,Udinese Calcio,64.7,27.6,7.7
+2013,35,Cagliari Calcio,Parma,12.2,23.1,64.7
+2013,35,AS Livorno,Lazio,6.4,12.8,80.8
+2013,35,Sampdoria,Chievo Verona,75.0,18.6,6.4
+2013,35,Atalanta,Genoa,60.3,25.0,14.7
+2013,35,Sassuolo,Juventus,1.9,3.1,95.0
+2013,36,Chievo Verona,Torino,20.3,29.7,50.0
+2013,36,Parma,Sampdoria,79.7,15.2,5.1
+2013,36,Catania,AS Roma,2.2,2.9,94.9
+2013,36,Udinese Calcio,AS Livorno,88.3,9.5,2.2
+2013,36,Genoa,Bologna,74.5,17.5,8.0
+2013,36,AC Milan,Inter,31.7,46.0,22.3
+2013,36,Lazio,Hellas Verona,82.8,11.0,6.2
+2013,36,Juventus,Atalanta,95.9,2.1,2.1
+2013,36,Fiorentina,Sassuolo,96.7,1.3,2.0
+2013,36,SSC Napoli,Cagliari Calcio,97.4,1.3,1.3
+2013,37,Hellas Verona,Udinese Calcio,73.8,12.8,13.5
+2013,37,Inter,Lazio,80.1,14.9,5.0
+2013,37,Atalanta,AC Milan,6.3,14.0,79.7
+2013,37,Bologna,Catania,69.7,20.7,9.7
+2013,37,Torino,Parma,54.8,31.5,13.7
+2013,37,Sampdoria,SSC Napoli,3.4,6.2,90.4
+2013,37,Sassuolo,Genoa,36.6,30.3,33.1
+2013,37,AS Livorno,Fiorentina,4.8,4.8,90.4
+2013,37,Cagliari Calcio,Chievo Verona,61.4,26.9,11.7
+2013,37,AS Roma,Juventus,36.7,36.7,26.5
+2013,38,Udinese Calcio,Sampdoria,77.3,16.4,6.3
+2013,38,Catania,Atalanta,36.7,37.5,25.8
+2013,38,Genoa,AS Roma,1.6,13.3,85.2
+2013,38,Juventus,Cagliari Calcio,98.4,0.8,0.8
+2013,38,Fiorentina,Torino,75.2,14.0,10.9
+2013,38,AC Milan,Sassuolo,93.0,3.9,3.1
+2013,38,Parma,AS Livorno,91.5,7.0,1.6
+2013,38,Chievo Verona,Inter,3.9,12.4,83.7
+2013,38,SSC Napoli,Hellas Verona,92.2,6.2,1.6
+2013,38,Lazio,Bologna,94.6,3.1,2.3

@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2016,1,M laga CF,CA Osasuna,87.6,10.6,1.9
+2016,1,Dep La Coru a,SD Eibar,69.6,24.8,5.6
+2016,1,FC Barcelona,Real Betis,99.4,0.0,0.6
+2016,1,Granada CF,Villarreal,5.4,13.9,80.7
+2016,1,Sevilla FC,Espanyol,91.6,7.2,1.2
+2016,1,Sporting Gij n,Athletic,4.8,25.0,70.2
+2016,1,Real Sociedad,Real Madrid,1.8,4.1,94.1
+2016,1,Atl tico Madrid,Alav s,99.4,0.6,0.0
+2016,1,Celta de Vigo,CD Legan s,87.1,10.5,2.3
+2016,1,Valencia,UD Las Palmas,92.5,5.2,2.3
+2016,2,Real Betis,Dep La Coru a,34.1,28.1,37.7
+2016,2,Espanyol,M laga CF,50.0,29.8,20.2
+2016,2,SD Eibar,Valencia,13.6,20.5,65.9
+2016,2,CA Osasuna,Real Sociedad,44.6,28.0,27.4
+2016,2,Real Madrid,Celta de Vigo,99.4,0.6,0.0
+2016,2,CD Legan s,Atl tico Madrid,1.1,3.4,95.5
+2016,2,Alav s,Sporting Gij n,23.7,47.5,28.8
+2016,2,UD Las Palmas,Granada CF,75.1,19.8,5.1
+2016,2,Athletic,FC Barcelona,0.6,5.6,93.9
+2016,2,Villarreal,Sevilla FC,19.4,42.8,37.8
+2016,3,Real Sociedad,Espanyol,75.4,15.3,9.3
+2016,3,Celta de Vigo,Atl tico Madrid,2.7,11.5,85.8
+2016,3,Real Madrid,CA Osasuna,99.5,0.0,0.5
+2016,3,Sevilla FC,UD Las Palmas,76.2,19.0,4.8
+2016,3,M laga CF,Villarreal,22.8,48.1,29.1
+2016,3,FC Barcelona,Alav s,99.5,0.0,0.5
+2016,3,Sporting Gij n,CD Legan s,71.2,25.1,3.7
+2016,3,Valencia,Real Betis,74.3,17.3,8.4
+2016,3,Granada CF,SD Eibar,17.8,41.4,40.8
+2016,3,Dep La Coru a,Athletic,41.7,28.6,29.7
+2016,4,Real Betis,Granada CF,84.3,12.2,3.5
+2016,4,CD Legan s,FC Barcelona,0.6,0.0,99.4
+2016,4,Atl tico Madrid,Sporting Gij n,95.5,4.0,0.6
+2016,4,SD Eibar,Sevilla FC,5.1,25.8,69.1
+2016,4,UD Las Palmas,M laga CF,76.4,17.4,6.2
+2016,4,CA Osasuna,Celta de Vigo,29.1,48.0,22.9
+2016,4,Athletic,Valencia,64.4,20.0,15.6
+2016,4,Villarreal,Real Sociedad,85.6,10.6,3.9
+2016,4,Espanyol,Real Madrid,1.7,1.7,96.7
+2016,4,Alav s,Dep La Coru a,35.6,43.3,21.1
+2016,5,M laga CF,SD Eibar,53.5,24.5,21.9
+2016,5,Sevilla FC,Real Betis,93.6,4.5,1.9
+2016,5,Celta de Vigo,Sporting Gij n,51.6,21.7,26.7
+2016,5,Real Madrid,Villarreal,97.5,2.5,0.0
+2016,5,FC Barcelona,Atl tico Madrid,71.6,21.6,6.8
+2016,5,Granada CF,Athletic,7.4,17.9,74.7
+2016,5,Real Sociedad,UD Las Palmas,32.7,32.7,34.6
+2016,5,CA Osasuna,Espanyol,26.1,46.0,28.0
+2016,5,Dep La Coru a,CD Legan s,78.4,16.7,4.9
+2016,5,Valencia,Alav s,66.0,17.9,16.0
+2016,6,Real Betis,M laga CF,45.9,40.8,13.4
+2016,6,SD Eibar,Real Sociedad,47.4,32.1,20.5
+2016,6,Sporting Gij n,FC Barcelona,0.0,1.3,98.8
+2016,6,Athletic,Sevilla FC,35.8,30.2,34.0
+2016,6,UD Las Palmas,Real Madrid,0.6,5.6,93.8
+2016,6,CD Legan s,Valencia,26.5,27.8,45.7
+2016,6,Atl tico Madrid,Dep La Coru a,98.2,1.8,0.0
+2016,6,Villarreal,CA Osasuna,94.5,3.1,2.5
+2016,6,Espanyol,Celta de Vigo,54.0,35.6,10.4
+2016,6,Alav s,Granada CF,76.5,18.7,4.8
+2016,7,Real Sociedad,Real Betis,65.2,29.1,5.7
+2016,7,Granada CF,CD Legan s,40.5,36.3,23.2
+2016,7,Sevilla FC,Alav s,94.7,3.6,1.8
+2016,7,CA Osasuna,UD Las Palmas,8.3,17.9,73.8
+2016,7,Dep La Coru a,Sporting Gij n,65.7,24.3,10.1
+2016,7,Valencia,Atl tico Madrid,2.4,10.0,87.6
+2016,7,Real Madrid,SD Eibar,99.4,0.6,0.0
+2016,7,Espanyol,Villarreal,6.4,19.2,74.4
+2016,7,M laga CF,Athletic,7.0,22.7,70.3
+2016,7,Celta de Vigo,FC Barcelona,1.7,3.5,94.8
+2016,8,UD Las Palmas,Espanyol,85.9,9.0,5.1
+2016,8,CD Legan s,Sevilla FC,1.2,10.5,88.3
+2016,8,FC Barcelona,Dep La Coru a,100.0,0.0,0.0
+2016,8,Atl tico Madrid,Granada CF,99.4,0.6,0.0
+2016,8,Real Betis,Real Madrid,0.6,3.0,96.3
+2016,8,Alav s,M laga CF,51.8,36.0,12.2
+2016,8,Athletic,Real Sociedad,89.0,9.1,1.8
+2016,8,Sporting Gij n,Valencia,13.4,34.1,52.4
+2016,8,Villarreal,Celta de Vigo,89.6,7.4,3.1
+2016,8,SD Eibar,CA Osasuna,87.8,8.5,3.7
+2016,9,CA Osasuna,Real Betis,27.0,43.2,29.7
+2016,9,Espanyol,SD Eibar,35.1,32.5,32.5
+2016,9,Valencia,FC Barcelona,3.2,1.9,94.8
+2016,9,Real Sociedad,Alav s,77.4,18.7,3.9
+2016,9,Granada CF,Sporting Gij n,27.7,50.3,21.9
+2016,9,Celta de Vigo,Dep La Coru a,75.6,17.9,6.4
+2016,9,Sevilla FC,Atl tico Madrid,7.0,37.6,55.4
+2016,9,Villarreal,UD Las Palmas,89.7,7.1,3.2
+2016,9,M laga CF,CD Legan s,77.1,15.9,7.0
+2016,9,Real Madrid,Athletic,96.2,2.5,1.3
+2016,10,CD Legan s,Real Sociedad,3.4,26.2,70.3
+2016,10,Sporting Gij n,Sevilla FC,3.2,3.8,92.9
+2016,10,Alav s,Real Madrid,0.0,0.0,100.0
+2016,10,Atl tico Madrid,M laga CF,98.1,1.3,0.6
+2016,10,FC Barcelona,Granada CF,100.0,0.0,0.0
+2016,10,SD Eibar,Villarreal,6.9,22.5,70.6
+2016,10,Athletic,CA Osasuna,95.6,4.4,0.0
+2016,10,Real Betis,Espanyol,62.5,31.9,5.6
+2016,10,UD Las Palmas,Celta de Vigo,37.9,44.1,18.0
+2016,10,Dep La Coru a,Valencia,16.4,24.2,59.4
+2016,11,M laga CF,Sporting Gij n,94.0,6.0,0.0
+2016,11,Granada CF,Dep La Coru a,21.2,46.4,32.5
+2016,11,Real Sociedad,Atl tico Madrid,3.9,14.5,81.6
+2016,11,CA Osasuna,Alav s,37.5,42.1,20.4
+2016,11,UD Las Palmas,SD Eibar,64.5,27.0,8.6
+2016,11,Real Madrid,CD Legan s,100.0,0.0,0.0
+2016,11,Celta de Vigo,Valencia,60.4,23.4,16.2
+2016,11,Espanyol,Athletic,11.7,34.4,53.9
+2016,11,Villarreal,Real Betis,90.4,5.1,4.5
+2016,11,Sevilla FC,FC Barcelona,14.1,20.5,65.4
+2016,12,Real Betis,UD Las Palmas,37.6,38.3,24.2
+2016,12,Dep La Coru a,Sevilla FC,4.1,8.8,87.1
+2016,12,FC Barcelona,M laga CF,98.7,0.0,1.3
+2016,12,SD Eibar,Celta de Vigo,36.4,37.1,26.5
+2016,12,Atl tico Madrid,Real Madrid,34.4,39.1,26.5
+2016,12,Alav s,Espanyol,49.0,37.1,13.9
+2016,12,Valencia,Granada CF,95.5,1.9,2.6
+2016,12,Sporting Gij n,Real Sociedad,8.4,12.9,78.7
+2016,12,Athletic,Villarreal,46.5,32.3,21.3
+2016,12,CD Legan s,CA Osasuna,51.9,32.9,15.2
+2016,13,SD Eibar,Real Betis,79.5,13.7,6.8
+2016,13,M laga CF,Dep La Coru a,81.8,14.2,4.1
+2016,13,Real Madrid,Sporting Gij n,100.0,0.0,0.0
+2016,13,Espanyol,CD Legan s,78.8,15.2,6.0
+2016,13,Sevilla FC,Valencia,92.1,6.6,1.3
+2016,13,Villarreal,Alav s,96.7,3.3,0.0
+2016,13,CA Osasuna,Atl tico Madrid,0.0,2.0,98.0
+2016,13,Celta de Vigo,Granada CF,97.4,0.7,2.0
+2016,13,Real Sociedad,FC Barcelona,6.5,13.1,80.4
+2016,13,UD Las Palmas,Athletic,20.3,41.8,37.9
+2016,14,Granada CF,Sevilla FC,1.4,5.7,92.9
+2016,14,FC Barcelona,Real Madrid,52.8,29.6,17.6
+2016,14,CD Legan s,Villarreal,1.4,5.6,93.0
+2016,14,Atl tico Madrid,Espanyol,98.6,1.4,0.0
+2016,14,Real Betis,Celta de Vigo,15.5,58.5,26.1
+2016,14,Athletic,SD Eibar,86.0,11.9,2.1
+2016,14,Sporting Gij n,CA Osasuna,62.5,28.5,9.0
+2016,14,Alav s,UD Las Palmas,32.6,50.7,16.7
+2016,14,Valencia,M laga CF,66.7,20.1,13.2
+2016,14,Dep La Coru a,Real Sociedad,7.5,11.6,81.0
+2016,15,M laga CF,Granada CF,94.0,5.2,0.7
+2016,15,CA Osasuna,FC Barcelona,0.7,0.0,99.3
+2016,15,Real Sociedad,Valencia,83.6,12.9,3.6
+2016,15,UD Las Palmas,CD Legan s,90.7,8.6,0.7
+2016,15,Real Madrid,Dep La Coru a,100.0,0.0,0.0
+2016,15,SD Eibar,Alav s,81.4,13.6,5.0
+2016,15,Celta de Vigo,Sevilla FC,9.2,33.1,57.7
+2016,15,Espanyol,Sporting Gij n,88.7,5.7,5.7
+2016,15,Real Betis,Athletic,7.0,26.1,66.9
+2016,15,Villarreal,Atl tico Madrid,9.0,31.7,59.3
+2016,16,Alav s,Real Betis,52.3,37.1,10.6
+2016,16,Sporting Gij n,Villarreal,2.1,2.1,95.7
+2016,16,Atl tico Madrid,UD Las Palmas,96.5,3.5,0.0
+2016,16,Granada CF,Real Sociedad,5.6,9.8,84.6
+2016,16,Sevilla FC,M laga CF,93.0,6.3,0.7
+2016,16,CD Legan s,SD Eibar,12.6,39.2,48.3
+2016,16,Dep La Coru a,CA Osasuna,86.7,9.8,3.5
+2016,16,FC Barcelona,Espanyol,96.5,3.5,0.0
+2016,16,Athletic,Celta de Vigo,85.5,10.3,4.1
+2016,16,Valencia,Real Madrid,1.9,5.1,93.0
+2016,17,Espanyol,Dep La Coru a,83.1,15.3,1.7
+2016,17,Real Madrid,Granada CF,100.0,0.0,0.0
+2016,17,SD Eibar,Atl tico Madrid,2.3,11.6,86.0
+2016,17,UD Las Palmas,Sporting Gij n,88.4,8.5,3.1
+2016,17,Real Sociedad,Sevilla FC,25.6,38.0,36.4
+2016,17,Athletic,Alav s,96.1,3.1,0.8
+2016,17,Real Betis,CD Legan s,78.3,18.6,3.1
+2016,17,Celta de Vigo,M laga CF,59.7,27.9,12.4
+2016,17,Villarreal,FC Barcelona,6.2,16.3,77.5
+2016,17,CA Osasuna,Valencia,12.3,16.2,71.5
+2016,18,CD Legan s,Athletic,4.3,13.8,81.9
+2016,18,FC Barcelona,UD Las Palmas,99.2,0.8,0.0
+2016,18,Atl tico Madrid,Real Betis,97.5,1.7,0.8
+2016,18,Dep La Coru a,Villarreal,4.1,14.8,81.1
+2016,18,Valencia,Espanyol,50.4,35.5,14.0
+2016,18,Celta de Vigo,Alav s,90.4,6.4,3.2
+2016,18,Granada CF,CA Osasuna,63.2,32.0,4.8
+2016,18,Sporting Gij n,SD Eibar,24.8,32.8,42.4
+2016,18,Sevilla FC,Real Madrid,18.4,28.8,52.8
+2016,18,M laga CF,Real Sociedad,23.4,25.8,50.8
+2016,19,UD Las Palmas,Dep La Coru a,78.2,18.8,3.0
+2016,19,Espanyol,Granada CF,89.8,7.3,2.9
+2016,19,Real Madrid,M laga CF,99.3,0.7,0.0
+2016,19,Alav s,CD Legan s,76.6,19.7,3.6
+2016,19,Villarreal,Valencia,87.6,10.2,2.2
+2016,19,CA Osasuna,Sevilla FC,2.2,0.7,97.1
+2016,19,Athletic,Atl tico Madrid,13.8,30.4,55.8
+2016,19,Real Sociedad,Celta de Vigo,72.7,19.4,7.9
+2016,19,Real Betis,Sporting Gij n,84.9,10.8,4.3
+2016,19,SD Eibar,FC Barcelona,0.0,0.0,100.0
+2016,20,CA Osasuna,M laga CF,12.2,23.7,64.1
+2016,20,Villarreal,Granada CF,97.1,2.2,0.7
+2016,20,Alav s,Atl tico Madrid,0.7,8.0,91.3
+2016,20,SD Eibar,Dep La Coru a,71.0,24.6,4.3
+2016,20,CD Legan s,Celta de Vigo,2.9,19.6,77.5
+2016,20,Real Betis,FC Barcelona,1.5,0.7,97.8
+2016,20,Espanyol,Sevilla FC,2.2,7.2,90.6
+2016,20,Athletic,Sporting Gij n,94.2,3.6,2.2
+2016,20,Real Madrid,Real Sociedad,94.2,4.3,1.4
+2016,20,UD Las Palmas,Valencia,46.2,30.1,23.8
+2016,21,M laga CF,Espanyol,44.5,31.4,24.1
+2016,21,FC Barcelona,Athletic,95.0,2.9,2.1
+2016,21,Atl tico Madrid,CD Legan s,98.6,0.7,0.7
+2016,21,Valencia,SD Eibar,71.2,20.9,7.9
+2016,21,Sevilla FC,Villarreal,89.9,9.4,0.7
+2016,21,Sporting Gij n,Alav s,14.3,45.7,40.0
+2016,21,Real Sociedad,CA Osasuna,95.7,0.7,3.6
+2016,21,Granada CF,UD Las Palmas,9.1,23.8,67.1
+2016,21,Dep La Coru a,Real Betis,57.9,32.1,10.0
+2016,21,Celta de Vigo,Real Madrid,4.0,11.4,84.6
+2016,22,Espanyol,Real Sociedad,43.0,35.9,21.1
+2016,22,Real Betis,Valencia,51.1,25.6,23.3
+2016,22,Alav s,FC Barcelona,0.0,1.4,98.6
+2016,22,Athletic,Dep La Coru a,93.6,5.0,1.4
+2016,22,CA Osasuna,Real Madrid,0.7,2.1,97.2
+2016,22,Villarreal,M laga CF,93.0,3.5,3.5
+2016,22,CD Legan s,Sporting Gij n,46.5,41.0,12.5
+2016,22,UD Las Palmas,Sevilla FC,7.6,15.3,77.1
+2016,22,Atl tico Madrid,Celta de Vigo,95.8,4.2,0.0
+2016,22,SD Eibar,Granada CF,84.1,11.7,4.1
+2016,23,Granada CF,Real Betis,18.2,21.2,60.6
+2016,23,Sporting Gij n,Atl tico Madrid,0.0,2.1,97.9
+2016,23,Real Madrid,Espanyol,97.9,2.1,0.0
+2016,23,Dep La Coru a,Alav s,49.7,37.1,13.3
+2016,23,Sevilla FC,SD Eibar,95.1,2.8,2.1
+2016,23,Real Sociedad,Villarreal,53.1,37.8,9.1
+2016,23,Valencia,Athletic,24.8,30.3,44.8
+2016,23,Celta de Vigo,CA Osasuna,91.0,6.9,2.1
+2016,23,FC Barcelona,CD Legan s,99.3,0.0,0.7
+2016,23,M laga CF,UD Las Palmas,46.5,34.0,19.4
+2016,24,UD Las Palmas,Real Sociedad,15.1,32.5,52.4
+2016,24,Alav s,Valencia,31.5,26.2,42.3
+2016,24,Real Betis,Sevilla FC,1.5,6.8,91.7
+2016,24,CD Legan s,Dep La Coru a,33.1,43.6,23.3
+2016,24,SD Eibar,M laga CF,78.2,11.3,10.5
+2016,24,Espanyol,CA Osasuna,96.2,1.5,2.3
+2016,24,Atl tico Madrid,FC Barcelona,31.1,40.0,28.9
+2016,24,Sporting Gij n,Celta de Vigo,8.9,13.3,77.8
+2016,24,Athletic,Granada CF,94.1,4.4,1.5
+2016,24,Villarreal,Real Madrid,6.7,20.7,72.6
+2016,25,Real Sociedad,SD Eibar,88.9,9.3,1.9
+2016,25,Valencia,CD Legan s,91.9,6.3,1.8
+2016,25,M laga CF,Real Betis,60.0,33.6,6.4
+2016,25,FC Barcelona,Sporting Gij n,99.1,0.9,0.0
+2016,25,CA Osasuna,Villarreal,1.8,4.5,93.6
+2016,25,Celta de Vigo,Espanyol,75.0,17.9,7.1
+2016,25,Granada CF,Alav s,19.6,40.2,40.2
+2016,25,Real Madrid,UD Las Palmas,99.1,0.0,0.9
+2016,25,Dep La Coru a,Atl tico Madrid,0.0,4.2,95.8
+2016,25,Sevilla FC,Athletic,92.4,6.8,0.8
+2016,26,Real Betis,Real Sociedad,4.2,24.6,71.2
+2016,26,CD Legan s,Granada CF,64.5,24.2,11.3
+2016,26,SD Eibar,Real Madrid,2.4,5.6,92.1
+2016,26,Villarreal,Espanyol,92.1,7.9,0.0
+2016,26,FC Barcelona,Celta de Vigo,97.6,1.6,0.8
+2016,26,Sporting Gij n,Dep La Coru a,38.6,42.5,18.9
+2016,26,Atl tico Madrid,Valencia,95.3,3.1,1.6
+2016,26,UD Las Palmas,CA Osasuna,93.8,3.1,3.1
+2016,26,Athletic,M laga CF,92.3,5.4,2.3
+2016,26,Alav s,Sevilla FC,3.8,6.8,89.4
+2016,27,Espanyol,UD Las Palmas,67.8,25.6,6.6
+2016,27,Valencia,Sporting Gij n,96.7,1.6,1.6
+2016,27,Sevilla FC,CD Legan s,99.2,0.8,0.0
+2016,27,M laga CF,Alav s,34.9,47.6,17.5
+2016,27,Granada CF,Atl tico Madrid,1.6,0.0,98.4
+2016,27,Real Sociedad,Athletic,68.0,24.0,8.0
+2016,27,Dep La Coru a,FC Barcelona,0.8,0.8,98.4
+2016,27,Celta de Vigo,Villarreal,25.2,34.6,40.2
+2016,27,Real Madrid,Real Betis,99.2,0.8,0.0
+2016,27,CA Osasuna,SD Eibar,5.4,13.1,81.5
+2016,28,UD Las Palmas,Villarreal,8.7,22.6,68.7
+2016,28,SD Eibar,Espanyol,64.1,29.1,6.8
+2016,28,Athletic,Real Madrid,2.5,10.8,86.7
+2016,28,Alav s,Real Sociedad,18.3,42.5,39.2
+2016,28,Real Betis,CA Osasuna,90.0,7.5,2.5
+2016,28,CD Legan s,M laga CF,46.7,34.2,19.2
+2016,28,Atl tico Madrid,Sevilla FC,80.0,15.8,4.2
+2016,28,Dep La Coru a,Celta de Vigo,45.8,26.7,27.5
+2016,28,Sporting Gij n,Granada CF,62.2,28.6,9.2
+2016,28,FC Barcelona,Valencia,97.5,2.5,0.0
+2016,29,Espanyol,Real Betis,84.7,12.7,2.5
+2016,29,Villarreal,SD Eibar,94.0,4.3,1.7
+2016,29,CA Osasuna,Athletic,0.0,6.0,94.0
+2016,29,Real Sociedad,CD Legan s,95.0,3.4,1.7
+2016,29,M laga CF,Atl tico Madrid,0.8,3.4,95.8
+2016,29,Sevilla FC,Sporting Gij n,99.2,0.0,0.8
+2016,29,Real Madrid,Alav s,98.3,1.7,0.0
+2016,29,Valencia,Dep La Coru a,79.0,18.5,2.5
+2016,29,Granada CF,FC Barcelona,0.0,0.8,99.2
+2016,29,Celta de Vigo,UD Las Palmas,57.4,36.9,5.7
+2016,30,Athletic,Espanyol,89.3,9.7,1.0
+2016,30,Atl tico Madrid,Real Sociedad,98.1,1.9,0.0
+2016,30,Real Betis,Villarreal,12.4,29.5,58.1
+2016,30,FC Barcelona,Sevilla FC,96.3,2.8,0.9
+2016,30,Dep La Coru a,Granada CF,93.5,3.7,2.8
+2016,30,Sporting Gij n,M laga CF,40.7,36.1,23.1
+2016,30,Alav s,CA Osasuna,91.7,5.6,2.8
+2016,30,CD Legan s,Real Madrid,0.0,0.9,99.1
+2016,30,SD Eibar,UD Las Palmas,83.2,14.2,2.7
+2016,30,Valencia,Celta de Vigo,65.5,24.8,9.7
+2016,31,Villarreal,Athletic,69.0,23.0,8.0
+2016,31,Espanyol,Alav s,81.7,15.7,2.6
+2016,31,Real Madrid,Atl tico Madrid,68.4,18.8,12.8
+2016,31,Sevilla FC,Dep La Coru a,94.9,5.1,0.0
+2016,31,M laga CF,FC Barcelona,0.0,0.9,99.1
+2016,31,Granada CF,Valencia,7.6,18.6,73.7
+2016,31,Celta de Vigo,SD Eibar,63.6,28.0,8.5
+2016,31,CA Osasuna,CD Legan s,29.4,39.5,31.1
+2016,31,UD Las Palmas,Real Betis,82.6,12.4,5.0
+2016,31,Real Sociedad,Sporting Gij n,96.7,2.4,0.8
+2016,32,Athletic,UD Las Palmas,93.5,4.7,1.9
+2016,32,Dep La Coru a,M laga CF,40.2,45.3,14.5
+2016,32,Sporting Gij n,Real Madrid,1.7,0.8,97.5
+2016,32,Atl tico Madrid,CA Osasuna,99.2,0.0,0.8
+2016,32,FC Barcelona,Real Sociedad,95.2,3.2,1.6
+2016,32,CD Legan s,Espanyol,6.4,24.0,69.6
+2016,32,Valencia,Sevilla FC,18.3,28.6,53.2
+2016,32,Real Betis,SD Eibar,18.3,31.7,50.0
+2016,32,Granada CF,Celta de Vigo,6.3,22.2,71.4
+2016,32,Alav s,Villarreal,5.6,23.0,71.4
+2016,33,Sevilla FC,Granada CF,100.0,0.0,0.0
+2016,33,M laga CF,Valencia,23.3,44.2,32.5
+2016,33,Villarreal,CD Legan s,99.2,0.8,0.0
+2016,33,CA Osasuna,Sporting Gij n,35.2,44.3,20.5
+2016,33,Espanyol,Atl tico Madrid,0.8,4.9,94.3
+2016,33,Real Sociedad,Dep La Coru a,95.1,2.5,2.5
+2016,33,Celta de Vigo,Real Betis,86.1,11.5,2.5
+2016,33,UD Las Palmas,Alav s,56.6,33.6,9.8
+2016,33,Real Madrid,FC Barcelona,60.7,23.8,15.6
+2016,33,SD Eibar,Athletic,34.7,27.4,37.9
+2016,34,Sporting Gij n,Espanyol,20.0,15.8,64.2
+2016,34,Granada CF,M laga CF,10.3,25.8,63.9
+2016,34,Atl tico Madrid,Villarreal,96.9,3.1,0.0
+2016,34,FC Barcelona,CA Osasuna,99.1,0.0,0.9
+2016,34,Valencia,Real Sociedad,48.6,30.8,20.6
+2016,34,CD Legan s,UD Las Palmas,23.4,47.7,29.0
+2016,34,Dep La Coru a,Real Madrid,0.9,4.7,94.4
+2016,34,Alav s,SD Eibar,27.3,47.3,25.5
+2016,34,Sevilla FC,Celta de Vigo,95.5,3.6,0.9
+2016,34,Athletic,Real Betis,94.5,2.8,2.8
+2016,35,Villarreal,Sporting Gij n,99.1,0.9,0.0
+2016,35,Real Sociedad,Granada CF,98.1,0.0,1.9
+2016,35,Real Madrid,Valencia,95.4,4.6,0.0
+2016,35,UD Las Palmas,Atl tico Madrid,1.9,3.7,94.4
+2016,35,Espanyol,FC Barcelona,0.9,0.9,98.1
+2016,35,CA Osasuna,Dep La Coru a,15.6,39.4,45.0
+2016,35,Real Betis,Alav s,61.5,23.9,14.7
+2016,35,SD Eibar,CD Legan s,88.1,10.1,1.8
+2016,35,Celta de Vigo,Athletic,16.5,42.2,41.3
+2016,35,M laga CF,Sevilla FC,7.0,11.4,81.6
+2016,36,Sevilla FC,Real Sociedad,88.1,7.6,4.2
+2016,36,Sporting Gij n,UD Las Palmas,37.3,39.0,23.7
+2016,36,Atl tico Madrid,SD Eibar,97.5,0.8,1.7
+2016,36,FC Barcelona,Villarreal,97.5,1.7,0.8
+2016,36,Granada CF,Real Madrid,0.8,1.7,97.5
+2016,36,Alav s,Athletic,5.0,24.4,70.6
+2016,36,Valencia,CA Osasuna,96.7,3.3,0.0
+2016,36,Dep La Coru a,Espanyol,22.5,45.0,32.5
+2016,36,M laga CF,Celta de Vigo,64.7,24.4,10.9
+2016,36,CD Legan s,Real Betis,38.3,40.8,20.8
+2016,37,Espanyol,Valencia,58.4,29.2,12.4
+2016,37,CA Osasuna,Granada CF,53.1,36.3,10.6
+2016,37,Alav s,Celta de Vigo,70.8,19.5,9.7
+2016,37,Real Sociedad,M laga CF,86.7,10.6,2.7
+2016,37,Real Madrid,Sevilla FC,84.1,13.3,2.7
+2016,37,Villarreal,Dep La Coru a,95.6,2.7,1.8
+2016,37,UD Las Palmas,FC Barcelona,1.8,0.9,97.3
+2016,37,SD Eibar,Sporting Gij n,85.8,7.1,7.1
+2016,37,Real Betis,Atl tico Madrid,1.8,2.7,95.6
+2016,37,Athletic,CD Legan s,98.2,0.9,0.9
+2016,38,Granada CF,Espanyol,4.9,11.7,83.5
+2016,38,Sporting Gij n,Real Betis,57.8,21.6,20.7
+2016,38,Dep La Coru a,UD Las Palmas,58.6,26.7,14.7
+2016,38,CD Legan s,Alav s,15.5,22.4,62.1
+2016,38,Sevilla FC,CA Osasuna,97.4,0.9,1.7
+2016,38,Celta de Vigo,Real Sociedad,17.8,25.4,56.8
+2016,38,Valencia,Villarreal,22.0,39.0,39.0
+2016,38,Atl tico Madrid,Athletic,90.7,5.1,4.2
+2016,38,M laga CF,Real Madrid,5.1,6.8,88.1
+2016,38,FC Barcelona,SD Eibar,99.2,0.8,0.0

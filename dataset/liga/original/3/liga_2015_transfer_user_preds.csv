@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2015,1,M laga CF,Sevilla FC,5.3,17.5,77.2
+2015,1,Dep La Coru a,Real Sociedad,25.6,40.0,34.4
+2015,1,Espanyol,Getafe,72.1,21.9,6.0
+2015,1,Atl tico Madrid,UD Las Palmas,99.5,0.0,0.5
+2015,1,Rayo Vallecano,Valencia,0.9,8.4,90.7
+2015,1,Athletic,FC Barcelona,5.4,6.8,87.8
+2015,1,Sporting Gij n,Real Madrid,0.0,0.0,100.0
+2015,1,Levante,Celta de Vigo,33.8,39.6,26.6
+2015,1,Real Betis,Villarreal,20.3,27.9,51.8
+2015,1,Granada CF,SD Eibar,63.7,27.8,8.5
+2015,2,Villarreal,Espanyol,80.6,11.5,7.9
+2015,2,Real Sociedad,Sporting Gij n,90.5,8.5,1.0
+2015,2,FC Barcelona,M laga CF,99.5,0.0,0.5
+2015,2,Celta de Vigo,Rayo Vallecano,68.0,23.2,8.9
+2015,2,Real Madrid,Real Betis,98.0,0.0,2.0
+2015,2,SD Eibar,Athletic,13.2,19.0,67.8
+2015,2,Valencia,Dep La Coru a,96.1,2.0,2.0
+2015,2,Sevilla FC,Atl tico Madrid,12.2,50.2,37.6
+2015,2,Getafe,Granada CF,55.9,34.3,9.8
+2015,2,UD Las Palmas,Levante,27.0,42.2,30.9
+2015,3,Levante,Sevilla FC,4.7,12.4,82.9
+2015,3,Espanyol,Real Madrid,1.5,4.0,94.5
+2015,3,Sporting Gij n,Valencia,2.5,10.1,87.4
+2015,3,Atl tico Madrid,FC Barcelona,25.5,33.3,41.2
+2015,3,Real Betis,Real Sociedad,31.2,33.7,35.1
+2015,3,Granada CF,Villarreal,14.4,23.3,62.4
+2015,3,Athletic,Getafe,87.2,9.4,3.4
+2015,3,Celta de Vigo,UD Las Palmas,89.2,6.4,4.4
+2015,3,M laga CF,SD Eibar,59.3,21.1,19.6
+2015,3,Rayo Vallecano,Dep La Coru a,34.1,38.5,27.3
+2015,4,Getafe,M laga CF,19.2,36.3,44.5
+2015,4,Real Madrid,Granada CF,99.5,0.5,0.0
+2015,4,Valencia,Real Betis,93.2,5.8,1.1
+2015,4,SD Eibar,Atl tico Madrid,2.1,4.7,93.2
+2015,4,Real Sociedad,Espanyol,59.7,26.7,13.6
+2015,4,Sevilla FC,Celta de Vigo,75.4,12.6,12.0
+2015,4,Dep La Coru a,Sporting Gij n,79.7,17.2,3.1
+2015,4,Villarreal,Athletic,60.6,29.5,9.8
+2015,4,UD Las Palmas,Rayo Vallecano,49.5,33.0,17.5
+2015,4,FC Barcelona,Levante,99.0,0.0,1.0
+2015,5,Espanyol,Valencia,7.3,24.2,68.5
+2015,5,Atl tico Madrid,Getafe,99.4,0.6,0.0
+2015,5,Granada CF,Real Sociedad,33.1,36.0,30.9
+2015,5,Rayo Vallecano,Sporting Gij n,58.2,28.0,13.7
+2015,5,Levante,SD Eibar,44.5,21.4,34.1
+2015,5,Celta de Vigo,FC Barcelona,1.1,7.7,91.2
+2015,5,Athletic,Real Madrid,7.7,9.3,83.0
+2015,5,UD Las Palmas,Sevilla FC,9.8,15.8,74.3
+2015,5,M laga CF,Villarreal,24.0,17.5,58.5
+2015,5,Real Betis,Dep La Coru a,58.7,31.5,9.8
+2015,6,Valencia,Granada CF,96.9,1.9,1.3
+2015,6,FC Barcelona,UD Las Palmas,98.8,0.6,0.6
+2015,6,Real Madrid,M laga CF,97.6,1.2,1.2
+2015,6,Sevilla FC,Rayo Vallecano,78.8,11.8,9.4
+2015,6,Villarreal,Atl tico Madrid,6.5,32.9,60.6
+2015,6,SD Eibar,Celta de Vigo,15.4,24.3,60.4
+2015,6,Sporting Gij n,Real Betis,46.5,40.6,12.9
+2015,6,Dep La Coru a,Espanyol,48.3,27.3,24.4
+2015,6,Getafe,Levante,60.8,31.0,8.2
+2015,6,Real Sociedad,Athletic,47.7,29.1,23.3
+2015,7,Celta de Vigo,Getafe,95.8,2.4,1.8
+2015,7,Sevilla FC,FC Barcelona,5.2,15.0,79.8
+2015,7,Granada CF,Dep La Coru a,11.6,19.7,68.8
+2015,7,Espanyol,Sporting Gij n,89.7,8.6,1.7
+2015,7,UD Las Palmas,SD Eibar,25.7,46.9,27.4
+2015,7,M laga CF,Real Sociedad,47.4,26.9,25.7
+2015,7,Rayo Vallecano,Real Betis,54.0,32.2,13.8
+2015,7,Athletic,Valencia,26.3,23.4,50.3
+2015,7,Levante,Villarreal,3.4,4.6,92.0
+2015,7,Atl tico Madrid,Real Madrid,26.1,31.3,42.6
+2015,8,Real Madrid,Levante,99.4,0.6,0.0
+2015,8,SD Eibar,Sevilla FC,25.0,21.9,53.1
+2015,8,FC Barcelona,Rayo Vallecano,98.8,0.6,0.6
+2015,8,Valencia,M laga CF,91.3,8.1,0.6
+2015,8,Real Betis,Espanyol,58.8,33.8,7.5
+2015,8,Villarreal,Celta de Vigo,76.1,17.6,6.3
+2015,8,Real Sociedad,Atl tico Madrid,1.3,5.6,93.1
+2015,8,Getafe,UD Las Palmas,81.9,14.4,3.8
+2015,8,Dep La Coru a,Athletic,63.8,20.0,16.3
+2015,8,Sporting Gij n,Granada CF,79.9,13.8,6.3
+2015,9,Rayo Vallecano,Espanyol,22.1,33.6,44.3
+2015,9,Celta de Vigo,Real Madrid,6.4,17.2,76.4
+2015,9,Granada CF,Real Betis,15.8,20.9,63.3
+2015,9,Sevilla FC,Getafe,90.5,7.0,2.5
+2015,9,M laga CF,Dep La Coru a,33.8,29.9,36.3
+2015,9,Levante,Real Sociedad,30.8,43.4,25.8
+2015,9,UD Las Palmas,Villarreal,1.9,5.6,92.5
+2015,9,FC Barcelona,SD Eibar,98.1,1.2,0.6
+2015,9,Atl tico Madrid,Valencia,87.7,11.7,0.6
+2015,9,Athletic,Sporting Gij n,83.4,11.7,4.9
+2015,10,Dep La Coru a,Atl tico Madrid,2.5,7.6,89.9
+2015,10,Real Madrid,UD Las Palmas,100.0,0.0,0.0
+2015,10,Valencia,Levante,98.1,1.2,0.6
+2015,10,Villarreal,Sevilla FC,49.1,37.3,13.7
+2015,10,Getafe,FC Barcelona,0.6,1.2,98.1
+2015,10,Real Sociedad,Celta de Vigo,19.8,25.3,54.9
+2015,10,SD Eibar,Rayo Vallecano,72.0,20.5,7.5
+2015,10,Espanyol,Granada CF,89.6,9.8,0.6
+2015,10,Sporting Gij n,M laga CF,29.0,45.7,25.3
+2015,10,Real Betis,Athletic,34.6,32.1,33.3
+2015,11,UD Las Palmas,Real Sociedad,14.6,33.1,52.3
+2015,11,Celta de Vigo,Valencia,53.5,30.2,16.4
+2015,11,Levante,Dep La Coru a,12.0,15.8,72.2
+2015,11,SD Eibar,Getafe,82.2,14.6,3.2
+2015,11,Rayo Vallecano,Granada CF,76.4,20.4,3.2
+2015,11,M laga CF,Real Betis,51.9,32.9,15.2
+2015,11,Athletic,Espanyol,90.5,5.1,4.4
+2015,11,FC Barcelona,Villarreal,94.9,3.2,1.9
+2015,11,Atl tico Madrid,Sporting Gij n,98.7,1.3,0.0
+2015,11,Sevilla FC,Real Madrid,4.4,12.0,83.5
+2015,12,Real Sociedad,Sevilla FC,9.0,25.6,65.4
+2015,12,Real Madrid,FC Barcelona,51.0,28.7,20.4
+2015,12,Espanyol,M laga CF,70.7,21.7,7.6
+2015,12,Valencia,UD Las Palmas,98.1,0.6,1.3
+2015,12,Dep La Coru a,Celta de Vigo,11.5,40.8,47.8
+2015,12,Sporting Gij n,Levante,79.9,13.2,6.9
+2015,12,Villarreal,SD Eibar,83.6,14.5,1.9
+2015,12,Granada CF,Athletic,0.0,9.4,90.6
+2015,12,Real Betis,Atl tico Madrid,2.5,5.0,92.5
+2015,12,Getafe,Rayo Vallecano,48.1,39.4,12.5
+2015,13,Levante,Real Betis,17.6,28.9,53.5
+2015,13,FC Barcelona,Real Sociedad,98.7,0.7,0.7
+2015,13,Atl tico Madrid,Espanyol,100.0,0.0,0.0
+2015,13,M laga CF,Granada CF,63.2,28.3,8.6
+2015,13,UD Las Palmas,Dep La Coru a,11.2,26.3,62.5
+2015,13,Celta de Vigo,Sporting Gij n,94.1,3.9,2.0
+2015,13,Getafe,Villarreal,4.6,13.8,81.6
+2015,13,SD Eibar,Real Madrid,3.3,3.9,92.8
+2015,13,Rayo Vallecano,Athletic,20.3,28.1,51.6
+2015,13,Sevilla FC,Valencia,41.2,38.6,20.3
+2015,14,Real Madrid,Getafe,99.3,0.7,0.0
+2015,14,Granada CF,Atl tico Madrid,0.7,1.4,97.9
+2015,14,Valencia,FC Barcelona,3.4,9.7,86.9
+2015,14,Dep La Coru a,Sevilla FC,56.6,23.4,20.0
+2015,14,Real Betis,Celta de Vigo,12.4,38.6,49.0
+2015,14,Real Sociedad,SD Eibar,47.6,24.1,28.3
+2015,14,Villarreal,Rayo Vallecano,93.2,6.2,0.7
+2015,14,Sporting Gij n,UD Las Palmas,63.5,31.8,4.7
+2015,14,Athletic,M laga CF,92.6,4.7,2.7
+2015,14,Espanyol,Levante,86.6,11.4,2.0
+2015,15,Getafe,Real Sociedad,43.2,39.6,17.3
+2015,15,FC Barcelona,Dep La Coru a,97.3,1.4,1.4
+2015,15,Levante,Granada CF,58.5,32.0,9.5
+2015,15,Celta de Vigo,Espanyol,87.8,8.2,4.1
+2015,15,Sevilla FC,Sporting Gij n,96.0,2.0,2.0
+2015,15,UD Las Palmas,Real Betis,12.8,25.5,61.7
+2015,15,Rayo Vallecano,M laga CF,58.1,28.4,13.5
+2015,15,SD Eibar,Valencia,13.3,25.3,61.3
+2015,15,Atl tico Madrid,Athletic,95.3,4.0,0.7
+2015,15,Villarreal,Real Madrid,4.0,8.7,87.3
+2015,16,Valencia,Getafe,99.3,0.0,0.7
+2015,16,Espanyol,UD Las Palmas,90.0,7.9,2.1
+2015,16,Real Betis,Sevilla FC,7.9,33.6,58.6
+2015,16,Dep La Coru a,SD Eibar,78.6,17.9,3.6
+2015,16,Real Madrid,Rayo Vallecano,100.0,0.0,0.0
+2015,16,Athletic,Levante,95.0,2.8,2.1
+2015,16,Granada CF,Celta de Vigo,5.7,9.9,84.4
+2015,16,Real Sociedad,Villarreal,14.2,29.8,56.0
+2015,16,M laga CF,Atl tico Madrid,1.4,2.1,96.5
+2015,16,Sporting Gij n,FC Barcelona,0.6,0.0,99.4
+2015,17,Real Madrid,Real Sociedad,99.2,0.0,0.8
+2015,17,Levante,M laga CF,17.6,31.1,51.3
+2015,17,Rayo Vallecano,Atl tico Madrid,0.0,2.5,97.5
+2015,17,Sevilla FC,Espanyol,91.0,6.6,2.5
+2015,17,SD Eibar,Sporting Gij n,75.6,17.1,7.3
+2015,17,Celta de Vigo,Athletic,63.7,22.6,13.7
+2015,17,FC Barcelona,Real Betis,97.6,1.6,0.8
+2015,17,Getafe,Dep La Coru a,15.3,30.6,54.0
+2015,17,UD Las Palmas,Granada CF,42.7,42.7,14.5
+2015,17,Villarreal,Valencia,58.9,26.6,14.5
+2015,18,Espanyol,FC Barcelona,2.6,3.4,94.0
+2015,18,Atl tico Madrid,Levante,100.0,0.0,0.0
+2015,18,M laga CF,Celta de Vigo,26.7,31.9,41.4
+2015,18,Rayo Vallecano,Real Sociedad,30.8,38.5,30.8
+2015,18,Granada CF,Sevilla FC,1.7,8.5,89.8
+2015,18,Real Betis,SD Eibar,57.3,32.5,10.3
+2015,18,Athletic,UD Las Palmas,96.6,0.8,2.5
+2015,18,Dep La Coru a,Villarreal,33.9,41.5,24.6
+2015,18,Valencia,Real Madrid,8.5,7.6,83.9
+2015,18,Sporting Gij n,Getafe,52.9,32.2,14.9
+2015,19,FC Barcelona,Granada CF,99.2,0.0,0.8
+2015,19,Sevilla FC,Athletic,73.1,21.0,5.9
+2015,19,Getafe,Real Betis,48.7,42.0,9.2
+2015,19,Real Madrid,Dep La Coru a,96.6,3.4,0.0
+2015,19,Levante,Rayo Vallecano,47.9,31.9,20.2
+2015,19,Villarreal,Sporting Gij n,95.7,2.6,1.7
+2015,19,Real Sociedad,Valencia,8.5,25.4,66.1
+2015,19,UD Las Palmas,M laga CF,16.8,34.5,48.7
+2015,19,SD Eibar,Espanyol,68.1,18.5,13.4
+2015,19,Celta de Vigo,Atl tico Madrid,5.0,16.0,79.0
+2015,20,Sevilla FC,M laga CF,85.6,12.8,1.6
+2015,20,Celta de Vigo,Levante,96.1,2.3,1.6
+2015,20,Villarreal,Real Betis,94.6,3.9,1.6
+2015,20,Real Sociedad,Dep La Coru a,38.8,40.3,20.9
+2015,20,Valencia,Rayo Vallecano,98.4,1.6,0.0
+2015,20,Real Madrid,Sporting Gij n,98.4,0.8,0.8
+2015,20,UD Las Palmas,Atl tico Madrid,0.0,3.8,96.2
+2015,20,Getafe,Espanyol,48.9,34.4,16.8
+2015,20,FC Barcelona,Athletic,97.0,2.3,0.8
+2015,20,SD Eibar,Granada CF,88.6,6.8,4.5
+2015,21,Sporting Gij n,Real Sociedad,13.2,31.0,55.8
+2015,21,M laga CF,FC Barcelona,2.9,2.9,94.2
+2015,21,Espanyol,Villarreal,6.4,16.4,77.1
+2015,21,Granada CF,Getafe,34.3,35.7,30.0
+2015,21,Rayo Vallecano,Celta de Vigo,8.6,10.7,80.7
+2015,21,Athletic,SD Eibar,72.1,20.0,7.9
+2015,21,Atl tico Madrid,Sevilla FC,93.6,5.7,0.7
+2015,21,Dep La Coru a,Valencia,45.1,28.2,26.8
+2015,21,Real Betis,Real Madrid,0.7,2.1,97.2
+2015,21,Levante,UD Las Palmas,47.2,31.7,21.1
+2015,22,FC Barcelona,Atl tico Madrid,82.1,12.9,5.0
+2015,22,Getafe,Athletic,17.7,27.0,55.3
+2015,22,SD Eibar,M laga CF,76.4,14.3,9.3
+2015,22,Villarreal,Granada CF,96.5,3.5,0.0
+2015,22,Real Sociedad,Real Betis,61.0,31.9,7.1
+2015,22,Sevilla FC,Levante,97.9,1.4,0.7
+2015,22,Valencia,Sporting Gij n,93.8,3.5,2.8
+2015,22,UD Las Palmas,Celta de Vigo,12.4,20.0,67.6
+2015,22,Real Madrid,Espanyol,99.3,0.7,0.0
+2015,22,Dep La Coru a,Rayo Vallecano,86.3,9.6,4.1
+2015,23,M laga CF,Getafe,75.2,22.8,2.1
+2015,23,Atl tico Madrid,SD Eibar,98.0,1.3,0.7
+2015,23,Rayo Vallecano,UD Las Palmas,54.0,32.0,14.0
+2015,23,Athletic,Villarreal,50.7,31.3,18.0
+2015,23,Sporting Gij n,Dep La Coru a,13.3,25.3,61.3
+2015,23,Levante,FC Barcelona,0.7,1.3,98.0
+2015,23,Real Betis,Valencia,30.7,27.3,42.0
+2015,23,Celta de Vigo,Sevilla FC,32.5,34.4,33.1
+2015,23,Granada CF,Real Madrid,0.7,1.3,98.0
+2015,23,Espanyol,Real Sociedad,53.0,30.5,16.6
+2015,24,Sporting Gij n,Rayo Vallecano,52.6,34.6,12.8
+2015,24,Real Madrid,Athletic,94.9,3.6,1.4
+2015,24,Villarreal,M laga CF,86.2,9.4,4.3
+2015,24,Valencia,Espanyol,82.0,16.5,1.4
+2015,24,Dep La Coru a,Real Betis,82.1,12.9,5.0
+2015,24,Real Sociedad,Granada CF,87.9,9.3,2.9
+2015,24,Sevilla FC,UD Las Palmas,98.6,0.0,1.4
+2015,24,Getafe,Atl tico Madrid,2.8,4.2,93.0
+2015,24,SD Eibar,Levante,85.1,10.6,4.3
+2015,24,FC Barcelona,Celta de Vigo,95.8,2.8,1.4
+2015,25,Levante,Getafe,19.4,33.8,46.8
+2015,25,UD Las Palmas,FC Barcelona,0.7,2.1,97.2
+2015,25,Espanyol,Dep La Coru a,31.0,26.1,43.0
+2015,25,Real Betis,Sporting Gij n,79.7,15.4,4.9
+2015,25,Celta de Vigo,SD Eibar,62.9,26.6,10.5
+2015,25,Rayo Vallecano,Sevilla FC,2.1,9.8,88.1
+2015,25,M laga CF,Real Madrid,2.8,2.1,95.1
+2015,25,Granada CF,Valencia,5.6,18.1,76.4
+2015,25,Athletic,Real Sociedad,86.8,11.1,2.1
+2015,25,Atl tico Madrid,Villarreal,85.2,11.3,3.5
+2015,26,SD Eibar,UD Las Palmas,92.5,4.5,3.0
+2015,26,Real Madrid,Atl tico Madrid,68.3,21.1,10.6
+2015,26,Sporting Gij n,Espanyol,47.9,37.3,14.8
+2015,26,Getafe,Celta de Vigo,11.3,16.9,71.8
+2015,26,Real Betis,Rayo Vallecano,73.9,22.5,3.5
+2015,26,Real Sociedad,M laga CF,76.1,16.2,7.7
+2015,26,Villarreal,Levante,97.2,1.4,1.4
+2015,26,Valencia,Athletic,53.2,35.5,11.3
+2015,26,Dep La Coru a,Granada CF,91.5,6.4,2.1
+2015,26,FC Barcelona,Sevilla FC,92.3,5.6,2.1
+2015,27,Atl tico Madrid,Real Sociedad,98.5,0.8,0.8
+2015,27,UD Las Palmas,Getafe,56.1,26.5,17.4
+2015,27,Athletic,Dep La Coru a,85.3,11.8,2.9
+2015,27,M laga CF,Valencia,33.8,36.0,30.1
+2015,27,Celta de Vigo,Villarreal,19.9,36.8,43.4
+2015,27,Sevilla FC,SD Eibar,94.1,2.9,2.9
+2015,27,Levante,Real Madrid,0.0,1.5,98.5
+2015,27,Granada CF,Sporting Gij n,49.6,31.1,19.3
+2015,27,Espanyol,Real Betis,64.4,29.6,5.9
+2015,27,Rayo Vallecano,FC Barcelona,0.0,1.5,98.5
+2015,28,Real Madrid,Celta de Vigo,96.2,1.5,2.3
+2015,28,Villarreal,UD Las Palmas,97.7,2.3,0.0
+2015,28,Getafe,Sevilla FC,4.6,6.9,88.5
+2015,28,Dep La Coru a,M laga CF,34.4,49.6,16.0
+2015,28,Real Betis,Granada CF,86.0,9.3,4.7
+2015,28,SD Eibar,FC Barcelona,3.1,0.8,96.2
+2015,28,Sporting Gij n,Athletic,4.5,9.1,86.4
+2015,28,Real Sociedad,Levante,94.7,1.5,3.8
+2015,28,Valencia,Atl tico Madrid,6.8,11.4,81.8
+2015,28,Espanyol,Rayo Vallecano,68.4,25.6,6.0
+2015,29,M laga CF,Sporting Gij n,95.4,3.1,1.5
+2015,29,FC Barcelona,Getafe,98.5,0.0,1.5
+2015,29,Celta de Vigo,Real Sociedad,73.3,22.9,3.8
+2015,29,Atl tico Madrid,Dep La Coru a,97.7,1.5,0.8
+2015,29,Rayo Vallecano,SD Eibar,15.2,28.8,56.1
+2015,29,Levante,Valencia,10.6,6.8,82.6
+2015,29,Sevilla FC,Villarreal,63.6,33.3,3.0
+2015,29,Athletic,Real Betis,94.7,4.5,0.8
+2015,29,UD Las Palmas,Real Madrid,0.0,0.8,99.2
+2015,29,Granada CF,Espanyol,24.8,40.6,34.6
+2015,30,Getafe,SD Eibar,20.6,23.8,55.6
+2015,30,Sporting Gij n,Atl tico Madrid,0.0,2.3,97.7
+2015,30,Granada CF,Rayo Vallecano,48.1,42.7,9.2
+2015,30,Real Sociedad,UD Las Palmas,87.0,9.2,3.8
+2015,30,Dep La Coru a,Levante,85.5,9.9,4.6
+2015,30,Real Betis,M laga CF,25.8,46.2,28.0
+2015,30,Espanyol,Athletic,6.8,14.4,78.8
+2015,30,Villarreal,FC Barcelona,2.2,9.0,88.8
+2015,30,Valencia,Celta de Vigo,60.4,20.9,18.7
+2015,30,Real Madrid,Sevilla FC,89.6,9.0,1.5
+2015,31,Rayo Vallecano,Getafe,69.5,24.4,6.1
+2015,31,Atl tico Madrid,Real Betis,100.0,0.0,0.0
+2015,31,UD Las Palmas,Valencia,20.1,29.1,50.7
+2015,31,FC Barcelona,Real Madrid,82.8,7.5,9.7
+2015,31,Celta de Vigo,Dep La Coru a,88.9,7.4,3.7
+2015,31,Athletic,Granada CF,97.8,2.2,0.0
+2015,31,M laga CF,Espanyol,82.8,14.2,3.0
+2015,31,SD Eibar,Villarreal,3.0,23.9,73.1
+2015,31,Sevilla FC,Real Sociedad,96.3,2.2,1.5
+2015,31,Levante,Sporting Gij n,36.5,43.1,20.4
+2015,32,Granada CF,M laga CF,8.5,16.3,75.2
+2015,32,Real Madrid,SD Eibar,98.5,1.5,0.0
+2015,32,Espanyol,Atl tico Madrid,2.9,4.3,92.8
+2015,32,Real Sociedad,FC Barcelona,2.2,5.1,92.8
+2015,32,Real Betis,Levante,82.6,11.6,5.8
+2015,32,Sporting Gij n,Celta de Vigo,7.4,11.0,81.6
+2015,32,Valencia,Sevilla FC,25.4,35.5,39.1
+2015,32,Villarreal,Getafe,97.8,0.7,1.4
+2015,32,Athletic,Rayo Vallecano,94.2,3.6,2.2
+2015,32,Dep La Coru a,UD Las Palmas,61.9,32.4,5.8
+2015,33,Levante,Espanyol,24.4,25.9,49.6
+2015,33,Getafe,Real Madrid,0.7,1.4,97.9
+2015,33,UD Las Palmas,Sporting Gij n,82.4,11.3,6.3
+2015,33,SD Eibar,Real Sociedad,45.8,31.7,22.5
+2015,33,Celta de Vigo,Real Betis,93.0,4.9,2.1
+2015,33,M laga CF,Athletic,29.6,31.0,39.4
+2015,33,Sevilla FC,Dep La Coru a,94.4,4.2,1.4
+2015,33,Rayo Vallecano,Villarreal,2.8,9.2,88.0
+2015,33,Atl tico Madrid,Granada CF,97.9,1.4,0.7
+2015,33,FC Barcelona,Valencia,88.1,8.4,3.5
+2015,34,Espanyol,Celta de Vigo,39.5,22.8,37.7
+2015,34,Real Betis,UD Las Palmas,61.5,29.1,9.4
+2015,34,Dep La Coru a,FC Barcelona,4.1,6.6,89.3
+2015,34,M laga CF,Rayo Vallecano,92.6,6.6,0.8
+2015,34,Athletic,Atl tico Madrid,9.8,16.4,73.8
+2015,34,Sporting Gij n,Sevilla FC,4.9,9.8,85.2
+2015,34,Valencia,SD Eibar,82.0,12.3,5.7
+2015,34,Real Madrid,Villarreal,92.7,5.7,1.6
+2015,34,Real Sociedad,Getafe,90.6,6.3,3.1
+2015,34,Granada CF,Levante,61.4,28.3,10.2
+2015,35,UD Las Palmas,Espanyol,64.4,23.7,11.9
+2015,35,Rayo Vallecano,Real Madrid,0.8,0.0,99.2
+2015,35,Atl tico Madrid,M laga CF,95.2,1.6,3.2
+2015,35,FC Barcelona,Sporting Gij n,96.0,3.2,0.8
+2015,35,SD Eibar,Dep La Coru a,63.8,24.4,11.8
+2015,35,Levante,Athletic,2.3,9.4,88.3
+2015,35,Sevilla FC,Real Betis,85.9,11.7,2.3
+2015,35,Getafe,Valencia,8.6,12.5,78.9
+2015,35,Villarreal,Real Sociedad,90.7,7.0,2.3
+2015,35,Celta de Vigo,Granada CF,92.9,5.5,1.6
+2015,36,Sporting Gij n,SD Eibar,46.7,28.3,25.0
+2015,36,Real Sociedad,Real Madrid,4.7,3.1,92.1
+2015,36,Atl tico Madrid,Rayo Vallecano,99.2,0.0,0.8
+2015,36,Real Betis,FC Barcelona,1.6,4.7,93.7
+2015,36,Granada CF,UD Las Palmas,19.7,37.8,42.5
+2015,36,Athletic,Celta de Vigo,72.4,22.8,4.7
+2015,36,Espanyol,Sevilla FC,13.4,21.3,65.4
+2015,36,Dep La Coru a,Getafe,80.3,15.0,4.7
+2015,36,Valencia,Villarreal,48.4,31.3,20.3
+2015,36,M laga CF,Levante,86.9,8.5,4.6
+2015,37,Real Sociedad,Rayo Vallecano,75.6,16.3,8.1
+2015,37,Levante,Atl tico Madrid,0.8,2.4,96.7
+2015,37,Celta de Vigo,M laga CF,70.7,23.6,5.7
+2015,37,UD Las Palmas,Athletic,13.8,23.6,62.6
+2015,37,Sevilla FC,Granada CF,92.7,4.1,3.3
+2015,37,FC Barcelona,Espanyol,94.3,4.1,1.6
+2015,37,SD Eibar,Real Betis,54.5,35.0,10.6
+2015,37,Getafe,Sporting Gij n,59.3,30.9,9.8
+2015,37,Villarreal,Dep La Coru a,88.6,8.1,3.3
+2015,37,Real Madrid,Valencia,93.5,4.9,1.6
+2015,38,Valencia,Real Sociedad,77.1,16.2,6.7
+2015,38,Granada CF,FC Barcelona,2.5,2.5,95.0
+2015,38,Dep La Coru a,Real Madrid,0.8,1.7,97.5
+2015,38,Atl tico Madrid,Celta de Vigo,92.6,6.6,0.8
+2015,38,Athletic,Sevilla FC,70.2,19.0,10.7
+2015,38,M laga CF,UD Las Palmas,74.4,20.7,5.0
+2015,38,Espanyol,SD Eibar,53.7,33.1,13.2
+2015,38,Rayo Vallecano,Levante,76.0,18.2,5.8
+2015,38,Real Betis,Getafe,62.8,21.5,15.7
+2015,38,Sporting Gij n,Villarreal,14.2,15.0,70.8

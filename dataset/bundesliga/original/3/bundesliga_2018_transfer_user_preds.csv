@@ -1,0 +1,307 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2018,1,Bayern Munich,TSG Hoffenheim,84.8,9.9,5.3
+2018,1,F D sseldorf,FC Augsburg,30.2,38.6,31.2
+2018,1,VfL Wolfsburg,FC Schalke,5.2,20.7,74.1
+2018,1,SC Freiburg,E Frankfurt,55.1,29.0,15.9
+2018,1,Werder Bremen,Hannover,75.8,16.9,7.3
+2018,1,Hertha BSC,FC Nuremberg,76.9,18.2,4.9
+2018,1,Bor M gladbach,Bay Leverkusen,31.4,35.1,33.6
+2018,1,FSV Mainz,VfB Stuttgart,29.1,26.1,44.8
+2018,1,Bor Dortmund,RB Leipzig,67.6,20.9,11.4
+2018,2,Hannover,Bor Dortmund,2.4,5.3,92.3
+2018,2,FC Nuremberg,FSV Mainz,31.9,40.6,27.5
+2018,2,FC Augsburg,Bor M gladbach,11.4,27.1,61.5
+2018,2,E Frankfurt,Werder Bremen,43.3,37.1,19.6
+2018,2,Bay Leverkusen,VfL Wolfsburg,81.2,14.7,4.1
+2018,2,TSG Hoffenheim,SC Freiburg,95.6,3.5,0.9
+2018,2,VfB Stuttgart,Bayern Munich,2.0,3.2,94.8
+2018,2,RB Leipzig,F D sseldorf,95.3,3.2,1.5
+2018,2,FC Schalke,Hertha BSC,86.9,9.6,3.5
+2018,3,Bor Dortmund,E Frankfurt,93.8,4.6,1.5
+2018,3,Bayern Munich,Bay Leverkusen,95.3,3.5,1.2
+2018,3,F D sseldorf,TSG Hoffenheim,4.9,11.9,83.1
+2018,3,VfL Wolfsburg,Hertha BSC,61.9,29.3,8.8
+2018,3,FSV Mainz,FC Augsburg,34.1,49.4,16.5
+2018,3,RB Leipzig,Hannover,81.5,13.5,5.0
+2018,3,Bor M gladbach,FC Schalke,55.1,29.8,15.1
+2018,3,Werder Bremen,FC Nuremberg,90.3,7.0,2.7
+2018,3,SC Freiburg,VfB Stuttgart,33.5,38.7,27.8
+2018,4,VfB Stuttgart,F D sseldorf,76.1,16.6,7.3
+2018,4,FC Nuremberg,Hannover,36.3,39.0,24.7
+2018,4,VfL Wolfsburg,SC Freiburg,88.8,7.7,3.5
+2018,4,FC Augsburg,Werder Bremen,32.2,36.5,31.3
+2018,4,Hertha BSC,Bor M gladbach,25.2,38.9,35.9
+2018,4,TSG Hoffenheim,Bor Dortmund,19.5,31.9,48.6
+2018,4,FC Schalke,Bayern Munich,4.3,5.3,90.4
+2018,4,Bay Leverkusen,FSV Mainz,83.5,8.9,7.6
+2018,4,E Frankfurt,RB Leipzig,27.1,29.9,43.0
+2018,5,Werder Bremen,Hertha BSC,41.2,37.5,21.2
+2018,5,Bayern Munich,FC Augsburg,98.8,0.6,0.6
+2018,5,SC Freiburg,FC Schalke,24.2,25.8,50.0
+2018,5,Hannover,TSG Hoffenheim,10.4,20.4,69.3
+2018,5,F D sseldorf,Bay Leverkusen,11.0,20.5,68.6
+2018,5,FSV Mainz,VfL Wolfsburg,33.0,43.5,23.5
+2018,5,Bor M gladbach,E Frankfurt,80.4,14.6,5.0
+2018,5,RB Leipzig,VfB Stuttgart,85.6,9.8,4.7
+2018,5,Bor Dortmund,FC Nuremberg,97.2,2.1,0.7
+2018,6,Hertha BSC,Bayern Munich,3.6,8.4,87.9
+2018,6,FC Schalke,FSV Mainz,78.8,13.2,8.1
+2018,6,FC Nuremberg,F D sseldorf,44.5,35.1,20.4
+2018,6,VfL Wolfsburg,Bor M gladbach,24.7,32.4,42.9
+2018,6,VfB Stuttgart,Werder Bremen,19.7,23.7,56.6
+2018,6,TSG Hoffenheim,RB Leipzig,62.5,29.9,7.7
+2018,6,Bay Leverkusen,Bor Dortmund,11.4,24.3,64.3
+2018,6,E Frankfurt,Hannover,82.6,12.6,4.8
+2018,6,FC Augsburg,SC Freiburg,60.5,27.6,12.0
+2018,7,Werder Bremen,VfL Wolfsburg,77.9,17.4,4.7
+2018,7,F D sseldorf,FC Schalke,9.2,16.8,74.0
+2018,7,FSV Mainz,Hertha BSC,14.5,27.1,58.4
+2018,7,Hannover,VfB Stuttgart,33.9,39.0,27.1
+2018,7,Bor Dortmund,FC Augsburg,96.5,3.1,0.4
+2018,7,Bayern Munich,Bor M gladbach,81.3,12.0,6.8
+2018,7,SC Freiburg,Bay Leverkusen,15.2,20.8,64.0
+2018,7,TSG Hoffenheim,E Frankfurt,74.5,18.9,6.5
+2018,7,RB Leipzig,FC Nuremberg,95.6,2.8,1.7
+2018,8,E Frankfurt,F D sseldorf,94.4,3.9,1.7
+2018,8,FC Nuremberg,TSG Hoffenheim,8.2,18.4,73.4
+2018,8,VfL Wolfsburg,Bayern Munich,4.5,9.6,85.9
+2018,8,FC Augsburg,RB Leipzig,13.6,29.5,56.9
+2018,8,VfB Stuttgart,Bor Dortmund,4.2,8.0,87.8
+2018,8,Bay Leverkusen,Hannover,91.6,6.3,2.1
+2018,8,FC Schalke,Werder Bremen,51.3,31.3,17.4
+2018,8,Hertha BSC,SC Freiburg,88.6,8.9,2.5
+2018,8,Bor M gladbach,FSV Mainz,94.5,4.3,1.2
+2018,9,SC Freiburg,Bor M gladbach,6.9,16.8,76.3
+2018,9,Hannover,FC Augsburg,32.6,41.7,25.7
+2018,9,Bor Dortmund,Hertha BSC,92.9,5.4,1.6
+2018,9,F D sseldorf,VfL Wolfsburg,15.1,25.5,59.4
+2018,9,FSV Mainz,Bayern Munich,1.3,2.1,96.6
+2018,9,TSG Hoffenheim,VfB Stuttgart,88.7,7.2,4.1
+2018,9,FC Nuremberg,E Frankfurt,7.5,16.3,76.2
+2018,9,RB Leipzig,FC Schalke,74.2,19.2,6.6
+2018,9,Werder Bremen,Bay Leverkusen,76.1,17.0,6.8
+2018,10,VfB Stuttgart,E Frankfurt,23.7,21.0,55.4
+2018,10,Bayern Munich,SC Freiburg,96.3,2.8,1.0
+2018,10,VfL Wolfsburg,Bor Dortmund,3.6,7.2,89.2
+2018,10,FC Augsburg,FC Nuremberg,86.9,10.2,2.9
+2018,10,Bay Leverkusen,TSG Hoffenheim,67.0,23.4,9.6
+2018,10,FC Schalke,Hannover,84.9,12.0,3.1
+2018,10,Hertha BSC,RB Leipzig,30.0,45.3,24.7
+2018,10,Bor M gladbach,F D sseldorf,95.9,2.5,1.6
+2018,10,FSV Mainz,Werder Bremen,10.6,24.9,64.5
+2018,11,Hannover,VfL Wolfsburg,23.9,30.0,46.1
+2018,11,TSG Hoffenheim,FC Augsburg,86.9,10.1,3.0
+2018,11,FC Nuremberg,VfB Stuttgart,51.7,27.4,20.9
+2018,11,F D sseldorf,Hertha BSC,7.2,9.9,82.9
+2018,11,SC Freiburg,FSV Mainz,71.1,22.5,6.4
+2018,11,Werder Bremen,Bor M gladbach,31.2,32.3,36.4
+2018,11,Bor Dortmund,Bayern Munich,60.5,21.3,18.2
+2018,11,RB Leipzig,Bay Leverkusen,72.3,17.3,10.4
+2018,11,E Frankfurt,FC Schalke,65.5,21.3,13.2
+2018,12,Bay Leverkusen,VfB Stuttgart,90.0,6.2,3.9
+2018,12,Bayern Munich,F D sseldorf,98.2,0.9,0.8
+2018,12,VfL Wolfsburg,RB Leipzig,6.6,13.7,79.8
+2018,12,FSV Mainz,Bor Dortmund,1.7,5.2,93.1
+2018,12,FC Augsburg,E Frankfurt,15.5,33.9,50.6
+2018,12,Hertha BSC,TSG Hoffenheim,21.5,34.4,44.1
+2018,12,FC Schalke,FC Nuremberg,90.2,7.9,1.9
+2018,12,SC Freiburg,Werder Bremen,30.1,36.3,33.7
+2018,12,Bor M gladbach,Hannover,96.8,2.0,1.1
+2018,13,F D sseldorf,FSV Mainz,33.5,35.0,31.5
+2018,13,Hannover,Hertha BSC,21.8,25.8,52.3
+2018,13,Werder Bremen,Bayern Munich,8.9,11.7,79.3
+2018,13,VfB Stuttgart,FC Augsburg,38.9,28.0,33.1
+2018,13,Bor Dortmund,SC Freiburg,96.6,2.5,0.9
+2018,13,TSG Hoffenheim,FC Schalke,75.4,17.3,7.2
+2018,13,RB Leipzig,Bor M gladbach,33.1,34.2,32.7
+2018,13,E Frankfurt,VfL Wolfsburg,91.7,5.5,2.8
+2018,13,FC Nuremberg,Bay Leverkusen,7.3,12.1,80.6
+2018,14,Werder Bremen,F D sseldorf,93.8,4.4,1.8
+2018,14,Bayern Munich,FC Nuremberg,98.7,0.9,0.4
+2018,14,VfL Wolfsburg,TSG Hoffenheim,20.7,35.7,43.6
+2018,14,SC Freiburg,RB Leipzig,7.0,16.4,76.5
+2018,14,Bay Leverkusen,FC Augsburg,84.0,12.5,3.5
+2018,14,FC Schalke,Bor Dortmund,8.9,21.8,69.4
+2018,14,Hertha BSC,E Frankfurt,27.1,38.6,34.3
+2018,14,FSV Mainz,Hannover,81.4,12.7,5.9
+2018,14,Bor M gladbach,VfB Stuttgart,94.5,3.6,1.8
+2018,15,FC Nuremberg,VfL Wolfsburg,16.2,23.4,60.4
+2018,15,TSG Hoffenheim,Bor M gladbach,34.6,34.5,30.9
+2018,15,F D sseldorf,SC Freiburg,23.8,29.8,46.4
+2018,15,Hannover,Bayern Munich,1.0,1.9,97.1
+2018,15,FC Augsburg,FC Schalke,31.6,33.9,34.4
+2018,15,VfB Stuttgart,Hertha BSC,25.9,19.0,55.1
+2018,15,Bor Dortmund,Werder Bremen,93.9,4.3,1.9
+2018,15,RB Leipzig,FSV Mainz,90.0,7.1,2.9
+2018,15,E Frankfurt,Bay Leverkusen,66.0,22.4,11.7
+2018,16,Bor M gladbach,FC Nuremberg,98.1,0.9,0.9
+2018,16,F D sseldorf,Bor Dortmund,0.9,2.0,97.2
+2018,16,VfL Wolfsburg,VfB Stuttgart,76.1,17.3,6.6
+2018,16,Hertha BSC,FC Augsburg,80.5,16.1,3.4
+2018,16,FC Schalke,Bay Leverkusen,36.7,41.1,22.2
+2018,16,Bayern Munich,RB Leipzig,81.9,12.7,5.3
+2018,16,FSV Mainz,E Frankfurt,8.7,21.7,69.6
+2018,16,SC Freiburg,Hannover,85.8,9.4,4.9
+2018,16,Werder Bremen,TSG Hoffenheim,33.8,36.0,30.3
+2018,17,Bor Dortmund,Bor M gladbach,79.0,15.9,5.2
+2018,17,FC Nuremberg,SC Freiburg,28.9,34.3,36.8
+2018,17,Hannover,F D sseldorf,48.3,28.7,23.0
+2018,17,VfB Stuttgart,FC Schalke,33.3,33.6,33.1
+2018,17,RB Leipzig,Werder Bremen,86.4,8.8,4.8
+2018,17,Bay Leverkusen,Hertha BSC,73.4,16.8,9.8
+2018,17,E Frankfurt,Bayern Munich,16.7,19.1,64.2
+2018,17,FC Augsburg,VfL Wolfsburg,34.6,30.5,34.9
+2018,17,TSG Hoffenheim,FSV Mainz,93.4,4.9,1.7
+2018,18,TSG Hoffenheim,Bayern Munich,6.6,12.8,80.6
+2018,18,Hannover,Werder Bremen,11.8,22.0,66.2
+2018,18,FC Augsburg,F D sseldorf,66.7,24.3,9.1
+2018,18,E Frankfurt,SC Freiburg,92.9,4.9,2.2
+2018,18,VfB Stuttgart,FSV Mainz,57.6,26.3,16.1
+2018,18,Bay Leverkusen,Bor M gladbach,41.6,31.1,27.3
+2018,18,RB Leipzig,Bor Dortmund,17.2,29.1,53.7
+2018,18,FC Nuremberg,Hertha BSC,12.5,19.9,67.6
+2018,18,FC Schalke,VfL Wolfsburg,55.6,24.5,19.9
+2018,19,Hertha BSC,FC Schalke,57.2,27.8,15.0
+2018,19,VfL Wolfsburg,Bay Leverkusen,33.0,34.0,32.9
+2018,19,FSV Mainz,FC Nuremberg,90.5,7.3,2.1
+2018,19,SC Freiburg,TSG Hoffenheim,12.1,29.0,58.8
+2018,19,Bor M gladbach,FC Augsburg,97.0,2.2,0.8
+2018,19,Bor Dortmund,Hannover,98.8,0.4,0.8
+2018,19,Werder Bremen,E Frankfurt,25.2,33.1,41.7
+2018,19,Bayern Munich,VfB Stuttgart,98.7,0.8,0.5
+2018,19,F D sseldorf,RB Leipzig,7.2,14.4,78.4
+2018,20,Hannover,RB Leipzig,4.2,5.9,89.9
+2018,20,FC Nuremberg,Werder Bremen,6.6,12.6,80.7
+2018,20,Hertha BSC,VfL Wolfsburg,66.5,27.3,6.2
+2018,20,E Frankfurt,Bor Dortmund,10.0,25.3,64.7
+2018,20,Bay Leverkusen,Bayern Munich,7.3,13.6,79.2
+2018,20,TSG Hoffenheim,F D sseldorf,95.2,3.4,1.4
+2018,20,FC Schalke,Bor M gladbach,21.3,31.1,47.6
+2018,20,FC Augsburg,FSV Mainz,41.2,31.3,27.4
+2018,20,VfB Stuttgart,SC Freiburg,59.6,22.9,17.5
+2018,21,FSV Mainz,Bay Leverkusen,7.6,14.7,77.7
+2018,21,SC Freiburg,VfL Wolfsburg,29.1,34.5,36.5
+2018,21,Hannover,FC Nuremberg,60.7,29.0,10.2
+2018,21,Bor M gladbach,Hertha BSC,93.9,4.3,1.8
+2018,21,RB Leipzig,E Frankfurt,57.7,31.1,11.2
+2018,21,Bor Dortmund,TSG Hoffenheim,87.3,9.9,2.7
+2018,21,Bayern Munich,FC Schalke,93.1,4.9,2.1
+2018,21,Werder Bremen,FC Augsburg,87.4,9.2,3.4
+2018,21,F D sseldorf,VfB Stuttgart,56.8,24.7,18.5
+2018,22,FC Augsburg,Bayern Munich,0.7,1.3,98.0
+2018,22,FC Schalke,SC Freiburg,80.2,15.1,4.8
+2018,22,VfL Wolfsburg,FSV Mainz,81.4,15.3,3.3
+2018,22,VfB Stuttgart,RB Leipzig,4.2,5.9,89.9
+2018,22,TSG Hoffenheim,Hannover,95.7,2.9,1.4
+2018,22,Hertha BSC,Werder Bremen,34.4,46.1,19.6
+2018,22,E Frankfurt,Bor M gladbach,44.1,36.2,19.6
+2018,22,Bay Leverkusen,F D sseldorf,93.8,4.4,1.9
+2018,22,FC Nuremberg,Bor Dortmund,1.5,2.4,96.1
+2018,23,Werder Bremen,VfB Stuttgart,92.8,4.4,2.8
+2018,23,Bayern Munich,Hertha BSC,92.1,5.7,2.2
+2018,23,FSV Mainz,FC Schalke,25.4,37.4,37.2
+2018,23,SC Freiburg,FC Augsburg,65.3,28.0,6.8
+2018,23,Bor M gladbach,VfL Wolfsburg,84.7,12.8,2.5
+2018,23,F D sseldorf,FC Nuremberg,80.1,13.7,6.2
+2018,23,Hannover,E Frankfurt,4.5,7.2,88.3
+2018,23,Bor Dortmund,Bay Leverkusen,69.2,21.2,9.6
+2018,23,RB Leipzig,TSG Hoffenheim,68.4,26.2,5.4
+2018,24,FC Augsburg,Bor Dortmund,1.3,3.4,95.3
+2018,24,FC Schalke,F D sseldorf,68.7,22.8,8.5
+2018,24,FC Nuremberg,RB Leipzig,1.9,3.8,94.2
+2018,24,Hertha BSC,FSV Mainz,81.1,15.5,3.3
+2018,24,E Frankfurt,TSG Hoffenheim,61.5,32.8,5.8
+2018,24,Bay Leverkusen,SC Freiburg,93.4,4.7,1.8
+2018,24,Bor M gladbach,Bayern Munich,15.1,20.3,64.6
+2018,24,VfB Stuttgart,Hannover,78.6,16.2,5.2
+2018,24,VfL Wolfsburg,Werder Bremen,56.0,29.6,14.4
+2018,25,Werder Bremen,FC Schalke,79.5,13.9,6.6
+2018,25,Bayern Munich,VfL Wolfsburg,95.4,3.5,1.1
+2018,25,SC Freiburg,Hertha BSC,30.2,43.8,26.0
+2018,25,RB Leipzig,FC Augsburg,95.5,3.3,1.2
+2018,25,Bor Dortmund,VfB Stuttgart,94.5,3.6,1.9
+2018,25,FSV Mainz,Bor M gladbach,14.4,23.8,61.8
+2018,25,TSG Hoffenheim,FC Nuremberg,97.5,1.8,0.6
+2018,25,Hannover,Bay Leverkusen,2.0,3.0,95.0
+2018,25,F D sseldorf,E Frankfurt,8.9,26.9,64.2
+2018,26,Bor M gladbach,SC Freiburg,94.2,3.9,1.9
+2018,26,VfL Wolfsburg,F D sseldorf,77.6,16.4,6.0
+2018,26,FC Augsburg,Hannover,83.1,12.3,4.6
+2018,26,VfB Stuttgart,TSG Hoffenheim,13.6,23.8,62.6
+2018,26,FC Schalke,RB Leipzig,12.7,18.6,68.7
+2018,26,Hertha BSC,Bor Dortmund,8.8,19.2,72.0
+2018,26,Bay Leverkusen,Werder Bremen,77.7,16.8,5.5
+2018,26,E Frankfurt,FC Nuremberg,97.3,1.7,1.0
+2018,26,Bayern Munich,FSV Mainz,97.4,1.9,0.8
+2018,27,TSG Hoffenheim,Bay Leverkusen,37.1,41.2,21.7
+2018,27,FC Nuremberg,FC Augsburg,18.9,29.1,52.0
+2018,27,F D sseldorf,Bor M gladbach,8.7,19.0,72.3
+2018,27,SC Freiburg,Bayern Munich,1.5,3.0,95.5
+2018,27,Werder Bremen,FSV Mainz,93.8,4.9,1.3
+2018,27,Bor Dortmund,VfL Wolfsburg,93.9,5.0,1.1
+2018,27,RB Leipzig,Hertha BSC,85.8,10.7,3.5
+2018,27,Hannover,FC Schalke,12.1,19.7,68.2
+2018,27,E Frankfurt,VfB Stuttgart,93.7,4.1,2.2
+2018,28,FSV Mainz,SC Freiburg,42.3,36.4,21.3
+2018,28,VfL Wolfsburg,Hannover,95.0,2.9,2.1
+2018,28,Hertha BSC,F D sseldorf,71.4,18.4,10.2
+2018,28,VfB Stuttgart,FC Nuremberg,80.2,13.4,6.4
+2018,28,Bay Leverkusen,RB Leipzig,29.6,29.4,41.0
+2018,28,FC Schalke,E Frankfurt,9.3,13.6,77.1
+2018,28,Bayern Munich,Bor Dortmund,55.2,22.6,22.1
+2018,28,FC Augsburg,TSG Hoffenheim,7.4,14.0,78.6
+2018,28,Bor M gladbach,Werder Bremen,39.6,28.9,31.5
+2018,29,FC Nuremberg,FC Schalke,18.0,27.5,54.5
+2018,29,Hannover,Bor M gladbach,4.6,5.2,90.2
+2018,29,Werder Bremen,SC Freiburg,91.1,7.3,1.6
+2018,29,VfB Stuttgart,Bay Leverkusen,8.3,13.1,78.6
+2018,29,RB Leipzig,VfL Wolfsburg,92.8,5.6,1.7
+2018,29,Bor Dortmund,FSV Mainz,96.9,2.3,0.8
+2018,29,TSG Hoffenheim,Hertha BSC,88.8,9.3,1.9
+2018,29,F D sseldorf,Bayern Munich,2.4,7.0,90.6
+2018,29,E Frankfurt,FC Augsburg,93.6,5.0,1.4
+2018,30,Bayern Munich,Werder Bremen,90.0,7.5,2.5
+2018,30,FSV Mainz,F D sseldorf,51.6,31.1,17.3
+2018,30,FC Augsburg,VfB Stuttgart,67.6,22.6,9.8
+2018,30,Bay Leverkusen,FC Nuremberg,95.0,3.4,1.7
+2018,30,Bor M gladbach,RB Leipzig,15.7,24.4,59.9
+2018,30,FC Schalke,TSG Hoffenheim,12.8,15.2,72.1
+2018,30,SC Freiburg,Bor Dortmund,3.6,10.5,86.0
+2018,30,Hertha BSC,Hannover,88.7,7.5,3.7
+2018,30,VfL Wolfsburg,E Frankfurt,25.7,34.4,39.9
+2018,31,FC Augsburg,Bay Leverkusen,19.3,25.6,55.1
+2018,31,F D sseldorf,Werder Bremen,12.2,27.3,60.5
+2018,31,Hannover,FSV Mainz,18.0,22.3,59.7
+2018,31,E Frankfurt,Hertha BSC,94.1,4.3,1.6
+2018,31,RB Leipzig,SC Freiburg,96.4,2.2,1.4
+2018,31,Bor Dortmund,FC Schalke,93.5,4.5,2.1
+2018,31,VfB Stuttgart,Bor M gladbach,13.2,16.4,70.3
+2018,31,TSG Hoffenheim,VfL Wolfsburg,86.7,11.3,2.0
+2018,31,FC Nuremberg,Bayern Munich,0.9,2.0,97.1
+2018,32,FSV Mainz,RB Leipzig,3.2,6.2,90.7
+2018,32,Bayern Munich,Hannover,98.2,1.3,0.6
+2018,32,VfL Wolfsburg,FC Nuremberg,90.7,5.6,3.7
+2018,32,Hertha BSC,VfB Stuttgart,56.8,23.8,19.4
+2018,32,Bor M gladbach,TSG Hoffenheim,29.2,36.1,34.7
+2018,32,Werder Bremen,Bor Dortmund,19.9,21.3,58.8
+2018,32,FC Schalke,FC Augsburg,66.6,20.3,13.1
+2018,32,SC Freiburg,F D sseldorf,53.2,28.0,18.8
+2018,32,Bay Leverkusen,E Frankfurt,61.2,22.9,15.9
+2018,33,TSG Hoffenheim,Werder Bremen,68.7,21.3,10.0
+2018,33,FC Nuremberg,Bor M gladbach,16.5,16.0,67.4
+2018,33,Hannover,SC Freiburg,30.0,30.4,39.7
+2018,33,FC Augsburg,Hertha BSC,56.5,30.0,13.5
+2018,33,VfB Stuttgart,VfL Wolfsburg,17.6,17.4,65.0
+2018,33,RB Leipzig,Bayern Munich,29.7,25.5,44.8
+2018,33,Bay Leverkusen,FC Schalke,92.8,4.4,2.8
+2018,33,Bor Dortmund,F D sseldorf,95.0,3.4,1.6
+2018,33,E Frankfurt,FSV Mainz,77.3,13.7,8.9
+2018,34,Bayern Munich,E Frankfurt,75.7,9.7,14.6
+2018,34,F D sseldorf,Hannover,87.8,7.6,4.6
+2018,34,VfL Wolfsburg,FC Augsburg,83.9,11.0,5.1
+2018,34,FSV Mainz,TSG Hoffenheim,13.2,19.4,67.4
+2018,34,SC Freiburg,FC Nuremberg,85.0,10.3,4.7
+2018,34,Werder Bremen,RB Leipzig,31.3,28.3,40.4
+2018,34,Hertha BSC,Bay Leverkusen,10.2,14.3,75.4
+2018,34,Bor M gladbach,Bor Dortmund,13.9,20.3,65.9
+2018,34,FC Schalke,VfB Stuttgart,70.9,20.7,8.3

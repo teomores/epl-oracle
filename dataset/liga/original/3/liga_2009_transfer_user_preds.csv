@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2009,1,Real Madrid,Dep La Coru a,100.0,0.0,0.0
+2009,1,Real Zaragoza,CD Tenerife,65.0,35.0,0.0
+2009,1,CA Osasuna,Villarreal,14.6,22.0,63.4
+2009,1,Athletic,Espanyol,35.7,40.5,23.8
+2009,1,Racing,Getafe,31.7,43.9,24.4
+2009,1,RCD Mallorca,Xerez CD,92.7,4.9,2.4
+2009,1,M laga CF,Atl tico Madrid,7.1,7.1,85.7
+2009,1,Valencia,Sevilla FC,68.2,15.9,15.9
+2009,1,UD Almer a,Real Valladolid,41.9,34.9,23.3
+2009,1,FC Barcelona,Sporting Gij n,97.7,2.3,0.0
+2009,2,Atl tico Madrid,Racing,91.7,5.6,2.8
+2009,2,Getafe,FC Barcelona,2.7,5.4,91.9
+2009,2,Espanyol,Real Madrid,2.7,2.7,94.6
+2009,2,Sevilla FC,Real Zaragoza,91.2,5.9,2.9
+2009,2,Sporting Gij n,UD Almer a,47.2,30.6,22.2
+2009,2,CD Tenerife,CA Osasuna,36.1,41.7,22.2
+2009,2,Villarreal,RCD Mallorca,77.8,13.9,8.3
+2009,2,Dep La Coru a,M laga CF,66.7,22.2,11.1
+2009,2,Real Valladolid,Valencia,13.9,8.3,77.8
+2009,2,Xerez CD,Athletic,5.6,25.0,69.4
+2009,3,Dep La Coru a,Espanyol,71.4,8.6,20.0
+2009,3,RCD Mallorca,CD Tenerife,82.4,14.7,2.9
+2009,3,M laga CF,Racing,61.8,14.7,23.5
+2009,3,CA Osasuna,Sevilla FC,8.8,20.6,70.6
+2009,3,FC Barcelona,Atl tico Madrid,100.0,0.0,0.0
+2009,3,UD Almer a,Getafe,11.8,26.5,61.8
+2009,3,Real Zaragoza,Real Valladolid,55.9,29.4,14.7
+2009,3,Athletic,Villarreal,26.5,20.6,52.9
+2009,3,Real Madrid,Xerez CD,100.0,0.0,0.0
+2009,3,Valencia,Sporting Gij n,91.2,2.9,5.9
+2009,4,Sevilla FC,RCD Mallorca,87.5,12.5,0.0
+2009,4,Racing,FC Barcelona,0.0,0.0,100.0
+2009,4,Espanyol,M laga CF,84.2,5.3,10.5
+2009,4,Atl tico Madrid,UD Almer a,84.2,5.3,10.5
+2009,4,Real Valladolid,CA Osasuna,47.4,36.8,15.8
+2009,4,Villarreal,Real Madrid,0.0,15.8,84.2
+2009,4,Xerez CD,Dep La Coru a,5.3,21.1,73.7
+2009,4,CD Tenerife,Athletic,26.3,21.1,52.6
+2009,4,Getafe,Valencia,21.1,15.8,63.2
+2009,4,Sporting Gij n,Real Zaragoza,34.8,39.1,26.1
+2009,5,Athletic,Sevilla FC,21.7,17.4,60.9
+2009,5,Real Madrid,CD Tenerife,100.0,0.0,0.0
+2009,5,M laga CF,FC Barcelona,4.2,4.2,91.7
+2009,5,Valencia,Atl tico Madrid,62.5,12.5,25.0
+2009,5,Espanyol,Xerez CD,92.0,8.0,0.0
+2009,5,UD Almer a,Racing,52.0,28.0,20.0
+2009,5,CA Osasuna,Sporting Gij n,56.0,36.0,8.0
+2009,5,RCD Mallorca,Real Valladolid,60.0,28.0,12.0
+2009,5,Real Zaragoza,Getafe,38.5,38.5,23.1
+2009,5,Dep La Coru a,Villarreal,42.3,19.2,38.5
+2009,6,CD Tenerife,Dep La Coru a,33.3,13.3,53.3
+2009,6,FC Barcelona,UD Almer a,100.0,0.0,0.0
+2009,6,Atl tico Madrid,Real Zaragoza,66.7,26.7,6.7
+2009,6,Xerez CD,M laga CF,6.7,30.0,63.3
+2009,6,Getafe,CA Osasuna,76.7,16.7,6.7
+2009,6,Sporting Gij n,RCD Mallorca,26.7,16.7,56.7
+2009,6,Real Valladolid,Athletic,36.7,20.0,43.3
+2009,6,Villarreal,Espanyol,76.7,16.7,6.7
+2009,6,Racing,Valencia,12.9,9.7,77.4
+2009,6,Sevilla FC,Real Madrid,3.2,32.3,64.5
+2009,7,Dep La Coru a,Sevilla FC,10.0,10.0,80.0
+2009,7,Real Madrid,Real Valladolid,100.0,0.0,0.0
+2009,7,Valencia,FC Barcelona,9.7,22.6,67.7
+2009,7,Xerez CD,Villarreal,3.3,23.3,73.3
+2009,7,M laga CF,UD Almer a,43.3,46.7,10.0
+2009,7,Real Zaragoza,Racing,63.3,23.3,13.3
+2009,7,RCD Mallorca,Getafe,70.0,13.3,16.7
+2009,7,Espanyol,CD Tenerife,86.7,10.0,3.3
+2009,7,Athletic,Sporting Gij n,76.7,10.0,13.3
+2009,7,CA Osasuna,Atl tico Madrid,13.3,10.0,76.7
+2009,8,Atl tico Madrid,RCD Mallorca,70.4,22.2,7.4
+2009,8,Sporting Gij n,Real Madrid,0.0,3.7,96.3
+2009,8,Sevilla FC,Espanyol,88.9,3.7,7.4
+2009,8,Villarreal,M laga CF,77.8,18.5,3.7
+2009,8,CD Tenerife,Xerez CD,74.1,22.2,3.7
+2009,8,Racing,CA Osasuna,63.0,18.5,18.5
+2009,8,Getafe,Athletic,48.1,14.8,37.0
+2009,8,Real Valladolid,Dep La Coru a,22.2,14.8,63.0
+2009,8,UD Almer a,Valencia,3.6,14.3,82.1
+2009,8,FC Barcelona,Real Zaragoza,100.0,0.0,0.0
+2009,9,Real Madrid,Getafe,100.0,0.0,0.0
+2009,9,CA Osasuna,FC Barcelona,0.0,6.3,93.8
+2009,9,Xerez CD,Sevilla FC,9.7,0.0,90.3
+2009,9,Athletic,Atl tico Madrid,35.5,29.0,35.5
+2009,9,Real Zaragoza,UD Almer a,48.4,45.2,6.5
+2009,9,RCD Mallorca,Racing,83.9,9.7,6.5
+2009,9,Espanyol,Real Valladolid,61.3,25.8,12.9
+2009,9,Villarreal,CD Tenerife,71.0,22.6,6.5
+2009,9,M laga CF,Valencia,12.9,3.2,83.9
+2009,9,Dep La Coru a,Sporting Gij n,75.0,12.5,12.5
+2009,10,Getafe,Dep La Coru a,43.3,23.3,33.3
+2009,10,CD Tenerife,M laga CF,56.7,23.3,20.0
+2009,10,FC Barcelona,RCD Mallorca,100.0,0.0,0.0
+2009,10,Atl tico Madrid,Real Madrid,10.0,26.7,63.3
+2009,10,Racing,Athletic,38.7,29.0,32.3
+2009,10,Sporting Gij n,Espanyol,38.7,19.4,41.9
+2009,10,Real Valladolid,Xerez CD,77.4,16.1,6.5
+2009,10,UD Almer a,CA Osasuna,35.5,38.7,25.8
+2009,10,Valencia,Real Zaragoza,90.3,9.7,0.0
+2009,10,Sevilla FC,Villarreal,80.6,12.9,6.5
+2009,11,CD Tenerife,Sevilla FC,0.0,6.7,93.3
+2009,11,Dep La Coru a,Atl tico Madrid,56.7,13.3,30.0
+2009,11,Real Madrid,Racing,100.0,0.0,0.0
+2009,11,Athletic,FC Barcelona,0.0,0.0,100.0
+2009,11,RCD Mallorca,UD Almer a,86.7,10.0,3.3
+2009,11,Espanyol,Getafe,70.0,26.7,3.3
+2009,11,Xerez CD,Sporting Gij n,26.7,36.7,36.7
+2009,11,Villarreal,Real Valladolid,76.7,13.3,10.0
+2009,11,M laga CF,Real Zaragoza,30.0,36.7,33.3
+2009,11,CA Osasuna,Valencia,6.7,6.7,86.7
+2009,12,Sporting Gij n,Villarreal,16.7,20.0,63.3
+2009,12,Valencia,RCD Mallorca,87.1,9.7,3.2
+2009,12,Sevilla FC,M laga CF,96.8,0.0,3.2
+2009,12,Real Zaragoza,CA Osasuna,60.0,26.7,13.3
+2009,12,UD Almer a,Athletic,3.3,43.3,53.3
+2009,12,Racing,Dep La Coru a,30.0,30.0,40.0
+2009,12,Getafe,Xerez CD,93.3,6.7,0.0
+2009,12,Real Valladolid,CD Tenerife,63.3,16.7,20.0
+2009,12,FC Barcelona,Real Madrid,77.4,12.9,9.7
+2009,12,Atl tico Madrid,Espanyol,73.3,10.0,16.7
+2009,13,Sevilla FC,Real Valladolid,95.5,4.5,0.0
+2009,13,Xerez CD,Atl tico Madrid,9.5,14.3,76.2
+2009,13,Real Madrid,UD Almer a,100.0,0.0,0.0
+2009,13,Dep La Coru a,FC Barcelona,3.8,15.4,80.8
+2009,13,M laga CF,CA Osasuna,23.1,42.3,34.6
+2009,13,RCD Mallorca,Real Zaragoza,69.2,15.4,15.4
+2009,13,Espanyol,Racing,69.2,11.5,19.2
+2009,13,CD Tenerife,Sporting Gij n,34.6,46.2,19.2
+2009,13,Villarreal,Getafe,76.9,7.7,15.4
+2009,13,Athletic,Valencia,14.8,18.5,66.7
+2009,14,Real Zaragoza,Athletic,37.9,24.1,37.9
+2009,14,FC Barcelona,Espanyol,100.0,0.0,0.0
+2009,14,Valencia,Real Madrid,16.7,36.7,46.7
+2009,14,Real Valladolid,M laga CF,67.7,25.8,6.5
+2009,14,CA Osasuna,RCD Mallorca,38.7,29.0,32.3
+2009,14,UD Almer a,Dep La Coru a,6.5,9.7,83.9
+2009,14,Racing,Xerez CD,77.4,19.4,3.2
+2009,14,Getafe,CD Tenerife,78.1,15.6,6.3
+2009,14,Atl tico Madrid,Villarreal,50.0,21.9,28.1
+2009,14,Sporting Gij n,Sevilla FC,3.1,12.5,84.4
+2009,15,Xerez CD,FC Barcelona,0.0,0.0,100.0
+2009,15,Athletic,CA Osasuna,87.1,9.7,3.2
+2009,15,Sevilla FC,Getafe,93.8,6.3,0.0
+2009,15,Real Madrid,Real Zaragoza,100.0,0.0,0.0
+2009,15,Real Valladolid,Sporting Gij n,43.3,36.7,20.0
+2009,15,M laga CF,RCD Mallorca,16.7,13.3,70.0
+2009,15,Espanyol,UD Almer a,60.0,30.0,10.0
+2009,15,Villarreal,Racing,74.2,19.4,6.5
+2009,15,CD Tenerife,Atl tico Madrid,18.8,9.4,71.9
+2009,15,Dep La Coru a,Valencia,18.2,30.3,51.5
+2009,16,Valencia,Espanyol,95.0,0.0,5.0
+2009,16,FC Barcelona,Villarreal,95.5,4.5,0.0
+2009,16,Atl tico Madrid,Sevilla FC,18.2,22.7,59.1
+2009,16,Sporting Gij n,M laga CF,60.9,17.4,21.7
+2009,16,Real Zaragoza,Dep La Coru a,20.8,25.0,54.2
+2009,16,UD Almer a,Xerez CD,75.0,20.8,4.2
+2009,16,Racing,CD Tenerife,50.0,50.0,0.0
+2009,16,Getafe,Real Valladolid,66.7,16.7,16.7
+2009,16,RCD Mallorca,Athletic,52.0,16.0,32.0
+2009,16,CA Osasuna,Real Madrid,0.0,8.0,92.0
+2009,17,Real Valladolid,Atl tico Madrid,13.6,18.2,68.2
+2009,17,Sevilla FC,Racing,90.9,9.1,0.0
+2009,17,Villarreal,UD Almer a,95.5,0.0,4.5
+2009,17,M laga CF,Athletic,16.0,48.0,36.0
+2009,17,Dep La Coru a,CA Osasuna,84.0,12.0,4.0
+2009,17,Espanyol,Real Zaragoza,84.0,12.0,4.0
+2009,17,Xerez CD,Valencia,4.0,4.0,92.0
+2009,17,Sporting Gij n,Getafe,32.0,32.0,36.0
+2009,17,Real Madrid,RCD Mallorca,88.0,12.0,0.0
+2009,17,CD Tenerife,FC Barcelona,0.0,0.0,100.0
+2009,18,CA Osasuna,Espanyol,33.3,29.2,37.5
+2009,18,Athletic,Real Madrid,7.4,3.7,88.9
+2009,18,FC Barcelona,Sevilla FC,92.6,3.7,3.7
+2009,18,M laga CF,Getafe,18.5,33.3,48.1
+2009,18,RCD Mallorca,Dep La Coru a,66.7,14.8,18.5
+2009,18,Real Zaragoza,Xerez CD,81.5,11.1,7.4
+2009,18,UD Almer a,CD Tenerife,55.6,14.8,29.6
+2009,18,Racing,Real Valladolid,48.1,33.3,18.5
+2009,18,Atl tico Madrid,Sporting Gij n,88.9,11.1,0.0
+2009,18,Valencia,Villarreal,75.0,17.9,7.1
+2009,19,Sevilla FC,UD Almer a,100.0,0.0,0.0
+2009,19,Real Valladolid,FC Barcelona,0.0,0.0,100.0
+2009,19,Dep La Coru a,Athletic,59.3,22.2,18.5
+2009,19,Espanyol,RCD Mallorca,33.3,44.4,22.2
+2009,19,Xerez CD,CA Osasuna,11.5,26.9,61.5
+2009,19,Villarreal,Real Zaragoza,92.6,3.7,3.7
+2009,19,CD Tenerife,Valencia,11.1,7.4,81.5
+2009,19,Sporting Gij n,Racing,42.3,30.8,26.9
+2009,19,Getafe,Atl tico Madrid,22.2,29.6,48.1
+2009,19,Real Madrid,M laga CF,100.0,0.0,0.0
+2009,20,Espanyol,Athletic,50.0,25.0,25.0
+2009,20,Sporting Gij n,FC Barcelona,0.0,0.0,100.0
+2009,20,Dep La Coru a,Real Madrid,13.3,10.0,76.7
+2009,20,CD Tenerife,Real Zaragoza,19.4,38.7,41.9
+2009,20,Villarreal,CA Osasuna,83.9,16.1,0.0
+2009,20,Getafe,Racing,71.0,16.1,12.9
+2009,20,Real Valladolid,UD Almer a,58.1,29.0,12.9
+2009,20,Xerez CD,RCD Mallorca,12.9,12.9,74.2
+2009,20,Atl tico Madrid,M laga CF,96.8,0.0,3.2
+2009,20,Sevilla FC,Valencia,50.0,40.6,9.4
+2009,21,Valencia,Real Valladolid,100.0,0.0,0.0
+2009,21,FC Barcelona,Getafe,100.0,0.0,0.0
+2009,21,Real Madrid,Espanyol,100.0,0.0,0.0
+2009,21,Athletic,Xerez CD,82.8,6.9,10.3
+2009,21,UD Almer a,Sporting Gij n,41.4,31.0,27.6
+2009,21,CA Osasuna,CD Tenerife,69.0,20.7,10.3
+2009,21,RCD Mallorca,Villarreal,44.8,24.1,31.0
+2009,21,M laga CF,Dep La Coru a,17.2,44.8,37.9
+2009,21,Real Zaragoza,Sevilla FC,6.7,6.7,86.7
+2009,21,Racing,Atl tico Madrid,13.3,43.3,43.3
+2009,22,Sporting Gij n,Valencia,7.7,7.7,84.6
+2009,22,Xerez CD,Real Madrid,0.0,0.0,100.0
+2009,22,Villarreal,Athletic,80.8,7.7,11.5
+2009,22,Espanyol,Dep La Coru a,40.0,32.0,28.0
+2009,22,Racing,M laga CF,60.0,28.0,12.0
+2009,22,Getafe,UD Almer a,84.0,16.0,0.0
+2009,22,Real Valladolid,Real Zaragoza,32.0,28.0,40.0
+2009,22,Sevilla FC,CA Osasuna,88.5,3.8,7.7
+2009,22,Atl tico Madrid,FC Barcelona,7.7,0.0,92.3
+2009,22,CD Tenerife,RCD Mallorca,26.9,38.5,34.6
+2009,23,Dep La Coru a,Xerez CD,96.4,3.6,0.0
+2009,23,FC Barcelona,Racing,96.4,3.6,0.0
+2009,23,RCD Mallorca,Sevilla FC,20.7,31.0,48.3
+2009,23,M laga CF,Espanyol,48.3,13.8,37.9
+2009,23,Real Zaragoza,Sporting Gij n,72.4,17.2,10.3
+2009,23,CA Osasuna,Real Valladolid,48.3,41.4,10.3
+2009,23,Athletic,CD Tenerife,72.4,20.7,6.9
+2009,23,UD Almer a,Atl tico Madrid,6.9,6.9,86.2
+2009,23,Real Madrid,Villarreal,86.7,10.0,3.3
+2009,23,Valencia,Getafe,93.5,6.5,0.0
+2009,24,Getafe,Real Zaragoza,82.1,3.6,14.3
+2009,24,CD Tenerife,Real Madrid,0.0,0.0,100.0
+2009,24,FC Barcelona,M laga CF,100.0,0.0,0.0
+2009,24,Xerez CD,Espanyol,10.7,32.1,57.1
+2009,24,Racing,UD Almer a,50.0,32.1,17.9
+2009,24,Sporting Gij n,CA Osasuna,50.0,17.9,32.1
+2009,24,Real Valladolid,RCD Mallorca,25.0,35.7,39.3
+2009,24,Villarreal,Dep La Coru a,51.7,10.3,37.9
+2009,24,Sevilla FC,Athletic,92.9,7.1,0.0
+2009,24,Atl tico Madrid,Valencia,37.9,34.5,27.6
+2009,25,Dep La Coru a,CD Tenerife,81.5,18.5,0.0
+2009,25,UD Almer a,FC Barcelona,0.0,0.0,100.0
+2009,25,Real Madrid,Sevilla FC,78.6,17.9,3.6
+2009,25,M laga CF,Xerez CD,79.3,17.2,3.4
+2009,25,CA Osasuna,Getafe,51.7,10.3,37.9
+2009,25,RCD Mallorca,Sporting Gij n,89.7,3.4,6.9
+2009,25,Espanyol,Villarreal,20.7,34.5,44.8
+2009,25,Athletic,Real Valladolid,86.2,10.3,3.4
+2009,25,Real Zaragoza,Atl tico Madrid,13.3,20.0,66.7
+2009,25,Valencia,Racing,96.7,0.0,3.3
+2009,26,Getafe,RCD Mallorca,57.7,11.5,30.8
+2009,26,Sporting Gij n,Athletic,30.8,30.8,38.5
+2009,26,Sevilla FC,Dep La Coru a,92.6,7.4,0.0
+2009,26,Villarreal,Xerez CD,96.2,3.8,0.0
+2009,26,UD Almer a,M laga CF,50.0,30.8,19.2
+2009,26,Racing,Real Zaragoza,65.4,19.2,15.4
+2009,26,CD Tenerife,Espanyol,34.6,19.2,46.2
+2009,26,FC Barcelona,Valencia,85.2,11.1,3.7
+2009,26,Real Valladolid,Real Madrid,0.0,3.7,96.3
+2009,26,Atl tico Madrid,CA Osasuna,88.9,11.1,0.0
+2009,27,Xerez CD,CD Tenerife,29.6,29.6,40.7
+2009,27,Athletic,Getafe,59.3,37.0,3.7
+2009,27,Dep La Coru a,Real Valladolid,92.6,0.0,7.4
+2009,27,Real Madrid,Sporting Gij n,100.0,0.0,0.0
+2009,27,Espanyol,Sevilla FC,11.1,7.4,81.5
+2009,27,M laga CF,Villarreal,28.6,10.7,60.7
+2009,27,CA Osasuna,Racing,64.3,17.9,17.9
+2009,27,RCD Mallorca,Atl tico Madrid,39.3,32.1,28.6
+2009,27,Valencia,UD Almer a,92.9,3.6,3.6
+2009,27,Real Zaragoza,FC Barcelona,3.6,7.1,89.3
+2009,28,Sporting Gij n,Dep La Coru a,33.3,20.0,46.7
+2009,28,Sevilla FC,Xerez CD,100.0,0.0,0.0
+2009,28,UD Almer a,Real Zaragoza,57.1,19.0,23.8
+2009,28,FC Barcelona,CA Osasuna,100.0,0.0,0.0
+2009,28,Racing,RCD Mallorca,42.9,19.0,38.1
+2009,28,Real Valladolid,Espanyol,42.9,28.6,28.6
+2009,28,CD Tenerife,Villarreal,14.3,23.8,61.9
+2009,28,Valencia,M laga CF,100.0,0.0,0.0
+2009,28,Getafe,Real Madrid,0.0,0.0,100.0
+2009,28,Atl tico Madrid,Athletic,80.0,12.0,8.0
+2009,29,M laga CF,CD Tenerife,56.7,30.0,13.3
+2009,29,RCD Mallorca,FC Barcelona,3.2,16.1,80.6
+2009,29,Real Zaragoza,Valencia,0.0,19.4,80.6
+2009,29,Dep La Coru a,Getafe,67.7,19.4,12.9
+2009,29,Espanyol,Sporting Gij n,74.2,16.1,9.7
+2009,29,Xerez CD,Real Valladolid,25.8,35.5,38.7
+2009,29,CA Osasuna,UD Almer a,61.3,32.3,6.5
+2009,29,Villarreal,Sevilla FC,34.4,18.8,46.9
+2009,29,Real Madrid,Atl tico Madrid,81.8,15.2,3.0
+2009,29,Athletic,Racing,75.8,15.2,9.1
+2009,30,Real Zaragoza,M laga CF,75.8,15.2,9.1
+2009,30,FC Barcelona,Athletic,100.0,0.0,0.0
+2009,30,Sevilla FC,CD Tenerife,97.0,0.0,3.0
+2009,30,Valencia,CA Osasuna,94.1,5.9,0.0
+2009,30,UD Almer a,RCD Mallorca,23.5,35.3,41.2
+2009,30,Getafe,Espanyol,55.9,26.5,17.6
+2009,30,Sporting Gij n,Xerez CD,58.8,29.4,11.8
+2009,30,Real Valladolid,Villarreal,20.6,17.6,61.8
+2009,30,Racing,Real Madrid,2.9,0.0,97.1
+2009,30,Atl tico Madrid,Dep La Coru a,82.4,8.8,8.8
+2009,31,M laga CF,Sevilla FC,5.9,8.8,85.3
+2009,31,Xerez CD,Getafe,24.2,24.2,51.5
+2009,31,Villarreal,Sporting Gij n,97.0,0.0,3.0
+2009,31,CD Tenerife,Real Valladolid,48.5,33.3,18.2
+2009,31,Real Madrid,FC Barcelona,24.2,24.2,51.5
+2009,31,CA Osasuna,Real Zaragoza,50.0,31.3,18.8
+2009,31,Athletic,UD Almer a,71.9,15.6,12.5
+2009,31,Dep La Coru a,Racing,75.0,18.8,6.3
+2009,31,Espanyol,Atl tico Madrid,15.6,21.9,62.5
+2009,31,RCD Mallorca,Valencia,40.6,21.9,37.5
+2009,32,Real Valladolid,Sevilla FC,0.0,19.2,80.8
+2009,32,Sporting Gij n,CD Tenerife,69.2,23.1,7.7
+2009,32,Getafe,Villarreal,34.6,34.6,30.8
+2009,32,CA Osasuna,M laga CF,63.0,25.9,11.1
+2009,32,Real Zaragoza,RCD Mallorca,51.9,22.2,25.9
+2009,32,Racing,Espanyol,40.7,37.0,22.2
+2009,32,Atl tico Madrid,Xerez CD,96.3,3.7,0.0
+2009,32,FC Barcelona,Dep La Coru a,100.0,0.0,0.0
+2009,32,UD Almer a,Real Madrid,0.0,0.0,100.0
+2009,32,Valencia,Athletic,90.0,10.0,0.0
+2009,33,Sevilla FC,Sporting Gij n,94.1,2.9,2.9
+2009,33,Espanyol,FC Barcelona,2.9,0.0,97.1
+2009,33,Villarreal,Atl tico Madrid,61.8,20.6,17.6
+2009,33,M laga CF,Real Valladolid,54.3,17.1,28.6
+2009,33,Dep La Coru a,UD Almer a,77.8,19.4,2.8
+2009,33,Xerez CD,Racing,25.7,40.0,34.3
+2009,33,CD Tenerife,Getafe,25.7,22.9,51.4
+2009,33,Athletic,Real Zaragoza,80.0,11.4,8.6
+2009,33,Real Madrid,Valencia,80.6,8.3,11.1
+2009,33,RCD Mallorca,CA Osasuna,83.3,5.6,11.1
+2009,34,FC Barcelona,Xerez CD,100.0,0.0,0.0
+2009,34,Real Zaragoza,Real Madrid,0.0,6.5,93.5
+2009,34,Valencia,Dep La Coru a,90.3,3.2,6.5
+2009,34,Sporting Gij n,Real Valladolid,43.3,33.3,23.3
+2009,34,RCD Mallorca,M laga CF,90.0,0.0,10.0
+2009,34,UD Almer a,Espanyol,36.7,33.3,30.0
+2009,34,Racing,Villarreal,23.3,23.3,53.3
+2009,34,Atl tico Madrid,CD Tenerife,90.0,6.7,3.3
+2009,34,Getafe,Sevilla FC,10.0,23.3,66.7
+2009,34,CA Osasuna,Athletic,22.6,29.0,48.4
+2009,35,M laga CF,Sporting Gij n,68.8,18.8,12.5
+2009,35,Dep La Coru a,Real Zaragoza,81.3,9.4,9.4
+2009,35,Xerez CD,UD Almer a,34.4,37.5,28.1
+2009,35,CD Tenerife,Racing,46.9,25.0,28.1
+2009,35,Real Valladolid,Getafe,25.0,18.8,56.3
+2009,35,Espanyol,Valencia,31.3,12.5,56.3
+2009,35,Villarreal,FC Barcelona,6.1,6.1,87.9
+2009,35,Sevilla FC,Atl tico Madrid,73.3,13.3,13.3
+2009,35,Real Madrid,CA Osasuna,96.8,3.2,0.0
+2009,35,Athletic,RCD Mallorca,53.3,23.3,23.3
+2009,36,Getafe,Sporting Gij n,83.3,6.7,10.0
+2009,36,UD Almer a,Villarreal,20.0,16.7,63.3
+2009,36,FC Barcelona,CD Tenerife,100.0,0.0,0.0
+2009,36,Valencia,Xerez CD,96.7,3.3,0.0
+2009,36,Athletic,M laga CF,80.6,12.9,6.5
+2009,36,CA Osasuna,Dep La Coru a,25.8,32.3,41.9
+2009,36,Real Zaragoza,Espanyol,54.8,19.4,25.8
+2009,36,Racing,Sevilla FC,3.2,29.0,67.7
+2009,36,Atl tico Madrid,Real Valladolid,87.1,9.7,3.2
+2009,36,RCD Mallorca,Real Madrid,3.2,12.9,83.9
+2009,37,Getafe,M laga CF,83.9,6.5,9.7
+2009,37,Real Madrid,Athletic,96.9,0.0,3.1
+2009,37,Dep La Coru a,RCD Mallorca,45.2,22.6,32.3
+2009,37,Espanyol,CA Osasuna,80.6,9.7,9.7
+2009,37,Xerez CD,Real Zaragoza,22.6,41.9,35.5
+2009,37,Villarreal,Valencia,25.8,25.8,48.4
+2009,37,CD Tenerife,UD Almer a,61.3,12.9,25.8
+2009,37,Sevilla FC,FC Barcelona,3.1,9.4,87.5
+2009,37,Real Valladolid,Racing,58.1,19.4,22.6
+2009,37,Sporting Gij n,Atl tico Madrid,29.0,16.1,54.8
+2009,38,Athletic,Dep La Coru a,78.3,4.3,17.4
+2009,38,Atl tico Madrid,Getafe,69.6,13.0,17.4
+2009,38,Real Zaragoza,Villarreal,39.1,17.4,43.5
+2009,38,RCD Mallorca,Espanyol,87.0,4.3,8.7
+2009,38,UD Almer a,Sevilla FC,8.7,8.7,82.6
+2009,38,M laga CF,Real Madrid,4.0,4.0,92.0
+2009,38,CA Osasuna,Xerez CD,60.0,20.0,20.0
+2009,38,Valencia,CD Tenerife,96.0,0.0,4.0
+2009,38,FC Barcelona,Real Valladolid,96.0,0.0,4.0
+2009,38,Racing,Sporting Gij n,44.0,40.0,16.0

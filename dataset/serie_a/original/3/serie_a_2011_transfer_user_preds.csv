@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2011,1,Siena,Fiorentina,6.6,24.5,68.9
+2011,1,Cagliari Calcio,AC Milan,3.7,1.8,94.5
+2011,1,Udinese Calcio,Juventus,13.4,36.6,50.0
+2011,1,Parma,Catania,60.2,32.7,7.1
+2011,1,Novara,US Palermo,10.6,20.4,69.0
+2011,1,SSC Napoli,Genoa,85.0,9.7,5.3
+2011,1,Lazio,Chievo Verona,96.5,1.8,1.8
+2011,1,Inter,Lecce,95.6,1.8,2.7
+2011,1,Bologna,AS Roma,6.2,23.0,70.8
+2011,1,Atalanta,Cesena,54.9,31.9,13.3
+2011,2,AC Milan,Lazio,76.8,21.1,2.1
+2011,2,Cesena,SSC Napoli,2.9,9.7,87.4
+2011,2,Juventus,Parma,91.3,5.8,2.9
+2011,2,Catania,Siena,40.8,46.6,12.6
+2011,2,AS Roma,Cagliari Calcio,97.1,1.9,1.0
+2011,2,Lecce,Udinese Calcio,5.8,22.3,71.8
+2011,2,Genoa,Atalanta,75.7,17.5,6.8
+2011,2,Fiorentina,Bologna,80.8,17.3,1.9
+2011,2,Chievo Verona,Novara,70.9,24.3,4.9
+2011,2,US Palermo,Inter,3.8,19.0,77.1
+2011,3,Cagliari Calcio,Novara,79.3,17.4,3.3
+2011,3,Inter,AS Roma,61.3,26.9,11.8
+2011,3,Atalanta,US Palermo,13.0,28.3,58.7
+2011,3,Udinese Calcio,Fiorentina,53.8,31.2,15.1
+2011,3,Siena,Juventus,0.0,3.2,96.8
+2011,3,Parma,Chievo Verona,62.4,29.0,8.6
+2011,3,Lazio,Genoa,90.3,7.5,2.2
+2011,3,Catania,Cesena,48.4,43.0,8.6
+2011,3,Bologna,Lecce,65.6,25.8,8.6
+2011,3,SSC Napoli,AC Milan,20.4,38.7,40.9
+2011,4,Novara,Inter,1.5,0.0,98.5
+2011,4,Cesena,Lazio,1.3,17.1,81.6
+2011,4,US Palermo,Cagliari Calcio,77.6,21.1,1.3
+2011,4,AC Milan,Udinese Calcio,77.6,21.1,1.3
+2011,4,Lecce,Atalanta,42.1,46.1,11.8
+2011,4,Juventus,Bologna,100.0,0.0,0.0
+2011,4,Genoa,Catania,82.9,13.2,3.9
+2011,4,Fiorentina,Parma,69.7,23.7,6.6
+2011,4,Chievo Verona,SSC Napoli,3.9,11.8,84.2
+2011,4,AS Roma,Siena,96.2,3.8,0.0
+2011,5,Bologna,Inter,0.0,17.1,82.9
+2011,5,SSC Napoli,Fiorentina,88.0,8.4,3.6
+2011,5,AC Milan,Cesena,98.8,1.2,0.0
+2011,5,Chievo Verona,Genoa,19.0,39.3,41.7
+2011,5,Atalanta,Novara,57.5,32.2,10.3
+2011,5,Siena,Lecce,41.4,47.1,11.5
+2011,5,Lazio,US Palermo,82.8,12.6,4.6
+2011,5,Catania,Juventus,1.1,6.9,92.0
+2011,5,Cagliari Calcio,Udinese Calcio,10.3,26.4,63.2
+2011,5,Parma,AS Roma,12.5,26.1,61.4
+2011,6,AS Roma,Atalanta,93.5,5.4,1.1
+2011,6,Inter,SSC Napoli,46.7,33.7,19.6
+2011,6,Novara,Catania,27.2,43.5,29.3
+2011,6,Udinese Calcio,Bologna,88.0,6.5,5.4
+2011,6,Parma,Genoa,35.9,37.0,27.2
+2011,6,US Palermo,Siena,89.1,6.5,4.3
+2011,6,Lecce,Cagliari Calcio,40.2,34.8,25.0
+2011,6,Fiorentina,Lazio,33.7,34.8,31.5
+2011,6,Cesena,Chievo Verona,39.1,30.4,30.4
+2011,6,Juventus,AC Milan,45.2,34.4,20.4
+2011,7,Catania,Inter,3.3,14.1,82.6
+2011,7,SSC Napoli,Parma,95.7,3.2,1.1
+2011,7,AC Milan,US Palermo,90.4,7.4,2.1
+2011,7,Cesena,Fiorentina,5.3,28.7,66.0
+2011,7,Atalanta,Udinese Calcio,16.8,27.4,55.8
+2011,7,Novara,Bologna,35.8,32.6,31.6
+2011,7,Genoa,Lecce,86.3,13.7,0.0
+2011,7,Chievo Verona,Juventus,0.0,7.4,92.6
+2011,7,Cagliari Calcio,Siena,56.8,36.8,6.3
+2011,7,Lazio,AS Roma,43.2,35.8,21.1
+2011,8,Fiorentina,Catania,89.8,6.8,3.4
+2011,8,Juventus,Genoa,93.3,6.7,0.0
+2011,8,Lecce,AC Milan,1.1,6.7,92.1
+2011,8,Udinese Calcio,Novara,94.4,4.5,1.1
+2011,8,Siena,Cesena,36.0,56.2,7.9
+2011,8,AS Roma,US Palermo,78.7,18.0,3.4
+2011,8,Parma,Atalanta,56.2,34.8,9.0
+2011,8,Inter,Chievo Verona,87.6,11.2,1.1
+2011,8,Cagliari Calcio,SSC Napoli,4.5,21.3,74.2
+2011,8,Bologna,Lazio,3.3,16.3,80.4
+2011,9,Juventus,Fiorentina,95.4,4.6,0.0
+2011,9,Atalanta,Inter,6.8,28.4,64.9
+2011,9,Novara,Siena,37.8,47.3,14.9
+2011,9,SSC Napoli,Udinese Calcio,64.9,27.0,8.1
+2011,9,AC Milan,Parma,95.9,4.1,0.0
+2011,9,Lazio,Catania,95.9,1.4,2.7
+2011,9,Genoa,AS Roma,14.9,33.8,51.4
+2011,9,Chievo Verona,Bologna,63.5,24.3,12.2
+2011,9,Cesena,Cagliari Calcio,18.9,44.6,36.5
+2011,9,US Palermo,Lecce,81.3,11.3,7.5
+2011,10,AS Roma,AC Milan,23.0,34.5,42.5
+2011,10,Catania,SSC Napoli,1.1,12.6,86.2
+2011,10,Inter,Juventus,32.2,33.3,34.5
+2011,10,Siena,Chievo Verona,51.7,26.4,21.8
+2011,10,Bologna,Atalanta,37.1,37.1,25.8
+2011,10,Udinese Calcio,US Palermo,76.4,16.9,6.7
+2011,10,Parma,Cesena,83.1,15.7,1.1
+2011,10,Lecce,Novara,65.2,25.8,9.0
+2011,10,Fiorentina,Genoa,69.7,14.6,15.7
+2011,10,Cagliari Calcio,Lazio,4.4,17.8,77.8
+2011,11,US Palermo,Bologna,83.5,11.0,5.5
+2011,11,Novara,AS Roma,0.0,5.5,94.5
+2011,11,Udinese Calcio,Siena,86.0,9.7,4.3
+2011,11,AC Milan,Catania,98.9,1.1,0.0
+2011,11,Lazio,Parma,93.5,5.4,1.1
+2011,11,Chievo Verona,Fiorentina,9.7,34.4,55.9
+2011,11,Cesena,Lecce,30.1,49.5,20.4
+2011,11,Atalanta,Cagliari Calcio,54.8,36.6,8.6
+2011,11,SSC Napoli,Juventus,25.0,33.7,41.3
+2011,11,Genoa,Inter,13.3,31.4,55.2
+2011,12,Inter,Cagliari Calcio,90.2,9.8,0.0
+2011,12,SSC Napoli,Lazio,34.1,42.7,23.2
+2011,12,Fiorentina,AC Milan,6.1,24.4,69.5
+2011,12,Bologna,Cesena,84.3,13.3,2.4
+2011,12,Siena,Atalanta,32.9,38.8,28.2
+2011,12,Parma,Udinese Calcio,11.8,29.4,58.8
+2011,12,Juventus,US Palermo,92.9,7.1,0.0
+2011,12,Genoa,Novara,88.2,10.6,1.2
+2011,12,Catania,Chievo Verona,45.9,36.5,17.6
+2011,12,AS Roma,Lecce,97.6,2.4,0.0
+2011,13,Udinese Calcio,AS Roma,44.8,28.7,26.4
+2011,13,Novara,Parma,14.0,25.8,60.2
+2011,13,Lecce,Catania,47.3,34.4,18.3
+2011,13,Lazio,Juventus,24.7,50.5,24.7
+2011,13,Atalanta,SSC Napoli,7.5,17.2,75.3
+2011,13,Siena,Inter,4.3,7.6,88.0
+2011,13,US Palermo,Fiorentina,57.6,29.3,13.0
+2011,13,Cesena,Genoa,8.7,34.8,56.5
+2011,13,Cagliari Calcio,Bologna,50.0,25.0,25.0
+2011,13,AC Milan,Chievo Verona,97.8,1.1,1.1
+2011,14,Genoa,AC Milan,3.6,13.3,83.1
+2011,14,SSC Napoli,Lecce,96.4,3.6,0.0
+2011,14,Inter,Udinese Calcio,62.7,24.1,13.3
+2011,14,Catania,Cagliari Calcio,44.4,48.1,7.4
+2011,14,Bologna,Siena,62.4,28.2,9.4
+2011,14,Juventus,Cesena,100.0,0.0,0.0
+2011,14,Fiorentina,AS Roma,27.1,29.4,43.5
+2011,14,Chievo Verona,Atalanta,37.6,41.2,21.2
+2011,14,Parma,US Palermo,32.9,28.2,38.8
+2011,14,Lazio,Novara,100.0,0.0,0.0
+2011,15,Siena,Genoa,30.7,36.4,33.0
+2011,15,Lecce,Lazio,5.7,10.2,84.1
+2011,15,US Palermo,Cesena,86.4,12.5,1.1
+2011,15,Inter,Fiorentina,75.0,21.6,3.4
+2011,15,Atalanta,Catania,62.5,26.1,11.4
+2011,15,Udinese Calcio,Chievo Verona,89.8,5.7,4.5
+2011,15,Cagliari Calcio,Parma,32.2,33.3,34.5
+2011,15,Bologna,AC Milan,1.1,6.8,92.0
+2011,15,Novara,SSC Napoli,0.0,11.2,88.8
+2011,15,AS Roma,Juventus,14.6,27.0,58.4
+2011,16,Chievo Verona,Cagliari Calcio,42.7,40.2,17.1
+2011,16,AC Milan,Siena,98.8,0.0,1.2
+2011,16,Fiorentina,Atalanta,85.7,9.5,4.8
+2011,16,Catania,US Palermo,17.6,34.1,48.2
+2011,16,Parma,Lecce,75.3,18.8,5.9
+2011,16,Juventus,Novara,98.8,1.2,0.0
+2011,16,Genoa,Bologna,70.6,21.2,8.2
+2011,16,Cesena,Inter,2.4,10.6,87.1
+2011,16,SSC Napoli,AS Roma,62.8,30.2,7.0
+2011,16,Lazio,Udinese Calcio,57.0,34.9,8.1
+2011,17,Siena,Lazio,1.4,7.2,91.3
+2011,17,Inter,Parma,97.2,2.8,0.0
+2011,17,Udinese Calcio,Cesena,95.7,4.3,0.0
+2011,17,Atalanta,AC Milan,4.2,14.1,81.7
+2011,17,AS Roma,Chievo Verona,93.0,5.6,1.4
+2011,17,Novara,Fiorentina,4.2,29.6,66.2
+2011,17,Lecce,Juventus,1.4,4.2,94.4
+2011,17,Cagliari Calcio,Genoa,28.2,50.7,21.1
+2011,17,Bologna,Catania,38.0,45.1,16.9
+2011,17,US Palermo,SSC Napoli,15.1,31.5,53.4
+2011,18,Lazio,Atalanta,95.9,2.7,1.4
+2011,18,Parma,Siena,56.8,29.7,13.5
+2011,18,Juventus,Cagliari Calcio,98.6,1.4,0.0
+2011,18,Genoa,Udinese Calcio,9.5,33.8,56.8
+2011,18,Fiorentina,Lecce,86.5,10.8,2.7
+2011,18,Chievo Verona,US Palermo,23.0,33.8,43.2
+2011,18,Cesena,Novara,47.3,43.2,9.5
+2011,18,AC Milan,Inter,68.0,25.3,6.7
+2011,18,SSC Napoli,Bologna,96.0,2.7,1.3
+2011,18,Catania,AS Roma,-1.0,-1.0,-1.0
+2011,19,AS Roma,Cesena,97.4,2.6,0.0
+2011,19,Atalanta,Juventus,2.6,12.8,84.6
+2011,19,Bologna,Parma,38.8,41.3,20.0
+2011,19,Udinese Calcio,Catania,90.1,9.9,0.0
+2011,19,Siena,SSC Napoli,2.5,19.8,77.8
+2011,19,US Palermo,Genoa,49.4,33.3,17.3
+2011,19,Novara,AC Milan,0.0,1.2,98.8
+2011,19,Lecce,Chievo Verona,44.4,37.0,18.5
+2011,19,Cagliari Calcio,Fiorentina,25.9,27.2,46.9
+2011,19,Inter,Lazio,72.0,15.9,12.2
+2011,20,Catania,Parma,35.3,34.1,30.6
+2011,20,Juventus,Udinese Calcio,87.1,10.6,2.4
+2011,20,Fiorentina,Siena,87.4,9.2,3.4
+2011,20,AS Roma,Bologna,94.3,4.6,1.1
+2011,20,US Palermo,Novara,94.3,4.6,1.1
+2011,20,Lecce,Inter,1.1,3.4,95.4
+2011,20,Genoa,SSC Napoli,9.2,27.6,63.2
+2011,20,Chievo Verona,Lazio,2.3,20.7,77.0
+2011,20,Cesena,Atalanta,29.9,49.4,20.7
+2011,20,AC Milan,Cagliari Calcio,100.0,0.0,0.0
+2011,21,Udinese Calcio,Lecce,89.3,8.0,2.7
+2011,21,SSC Napoli,Cesena,98.7,1.3,0.0
+2011,21,Lazio,AC Milan,12.0,36.0,52.0
+2011,21,Inter,US Palermo,90.7,6.7,2.7
+2011,21,Cagliari Calcio,AS Roma,6.7,16.0,77.3
+2011,21,Novara,Chievo Verona,24.7,39.0,36.4
+2011,21,Atalanta,Genoa,39.3,38.1,22.6
+2011,21,Parma,Juventus,1.2,12.0,86.7
+2011,21,Bologna,Fiorentina,20.2,33.7,46.1
+2011,21,Siena,Catania,50.0,36.7,13.3
+2011,22,Genoa,Lazio,14.3,28.6,57.1
+2011,22,Chievo Verona,Parma,48.1,26.0,26.0
+2011,22,AS Roma,Inter,26.3,36.8,36.8
+2011,22,US Palermo,Atalanta,77.9,15.6,6.5
+2011,22,Novara,Cagliari Calcio,13.0,40.3,46.8
+2011,22,AC Milan,SSC Napoli,84.4,13.0,2.6
+2011,22,Lecce,Bologna,42.9,36.4,20.8
+2011,22,Juventus,Siena,98.7,1.3,0.0
+2011,22,Fiorentina,Udinese Calcio,37.7,24.7,37.7
+2011,22,Cesena,Catania,35.5,37.1,27.4
+2011,23,Lazio,Cesena,100.0,0.0,0.0
+2011,23,Udinese Calcio,AC Milan,15.9,36.6,47.6
+2011,23,Cagliari Calcio,US Palermo,21.7,31.3,47.0
+2011,23,Atalanta,Lecce,71.6,24.7,3.7
+2011,23,Inter,Novara,96.3,3.7,0.0
+2011,23,Catania,Genoa,22.2,35.8,42.0
+2011,23,Siena,AS Roma,3.6,7.1,89.3
+2011,23,SSC Napoli,Chievo Verona,98.8,1.2,0.0
+2011,23,Bologna,Juventus,1.1,5.3,93.7
+2011,23,Parma,Fiorentina,34.7,31.6,33.7
+2011,24,Inter,Bologna,94.0,4.8,1.2
+2011,24,Fiorentina,SSC Napoli,20.2,47.6,32.1
+2011,24,Juventus,Catania,97.7,2.3,0.0
+2011,24,Lecce,Siena,35.2,52.3,12.5
+2011,24,Cesena,AC Milan,0.0,1.1,98.9
+2011,24,AS Roma,Parma,94.3,3.4,2.3
+2011,24,Novara,Atalanta,23.0,40.2,36.8
+2011,24,Genoa,Chievo Verona,75.9,19.5,4.6
+2011,24,Udinese Calcio,Cagliari Calcio,96.6,1.1,2.3
+2011,24,US Palermo,Lazio,18.2,33.0,48.9
+2011,25,Genoa,Parma,58.6,25.3,16.1
+2011,25,AC Milan,Juventus,51.1,34.4,14.4
+2011,25,Cagliari Calcio,Lecce,58.2,25.3,16.5
+2011,25,Atalanta,AS Roma,8.8,14.3,76.9
+2011,25,Siena,US Palermo,24.2,26.4,49.5
+2011,25,Chievo Verona,Cesena,61.5,29.7,8.8
+2011,25,Catania,Novara,76.9,17.6,5.5
+2011,25,Bologna,Udinese Calcio,20.7,16.3,63.0
+2011,25,SSC Napoli,Inter,71.7,16.3,12.0
+2011,25,Lazio,Fiorentina,77.2,19.6,3.3
+2011,26,US Palermo,AC Milan,5.8,9.3,84.9
+2011,26,Juventus,Chievo Verona,100.0,0.0,0.0
+2011,26,Parma,SSC Napoli,10.2,21.6,68.2
+2011,26,Udinese Calcio,Atalanta,87.5,11.4,1.1
+2011,26,Siena,Cagliari Calcio,36.4,43.2,20.5
+2011,26,AS Roma,Lazio,36.4,46.6,17.0
+2011,26,Lecce,Genoa,29.5,33.0,37.5
+2011,26,Fiorentina,Cesena,92.0,3.4,4.5
+2011,26,Bologna,Novara,81.8,14.8,3.4
+2011,26,Inter,Catania,88.6,8.0,3.4
+2011,27,SSC Napoli,Cagliari Calcio,96.6,1.1,2.3
+2011,27,Chievo Verona,Inter,13.8,21.8,64.4
+2011,27,US Palermo,AS Roma,25.3,32.6,42.1
+2011,27,Atalanta,Parma,59.8,19.6,20.6
+2011,27,AC Milan,Lecce,99.0,0.0,1.0
+2011,27,Genoa,Juventus,2.1,14.4,83.5
+2011,27,Cesena,Siena,25.8,51.5,22.7
+2011,27,Catania,Fiorentina,41.2,22.7,36.1
+2011,27,Novara,Udinese Calcio,6.3,13.5,80.2
+2011,27,Lazio,Bologna,90.6,6.3,3.1
+2011,28,Parma,AC Milan,4.2,4.2,91.6
+2011,28,Fiorentina,Juventus,7.2,28.9,63.9
+2011,28,Cagliari Calcio,Cesena,68.0,24.7,7.2
+2011,28,Bologna,Chievo Verona,73.5,19.4,7.1
+2011,28,Siena,Novara,61.2,28.6,10.2
+2011,28,Lecce,US Palermo,24.5,29.6,45.9
+2011,28,Inter,Atalanta,88.8,9.2,2.0
+2011,28,Catania,Lazio,16.3,14.3,69.4
+2011,28,Udinese Calcio,SSC Napoli,26.5,31.6,41.8
+2011,28,AS Roma,Genoa,90.9,7.1,2.0
+2011,29,AC Milan,AS Roma,84.5,14.3,1.2
+2011,29,US Palermo,Udinese Calcio,27.9,38.4,33.7
+2011,29,Atalanta,Bologna,48.9,35.2,15.9
+2011,29,Novara,Lecce,43.8,36.0,20.2
+2011,29,SSC Napoli,Catania,97.8,0.0,2.2
+2011,29,Lazio,Cagliari Calcio,91.0,6.7,2.2
+2011,29,Genoa,Fiorentina,51.7,32.6,15.7
+2011,29,Chievo Verona,Siena,64.0,23.6,12.4
+2011,29,Cesena,Parma,14.6,30.3,55.1
+2011,29,Juventus,Inter,74.2,18.0,7.9
+2011,30,Catania,AC Milan,3.5,8.1,88.4
+2011,30,Parma,Lazio,12.8,29.1,58.1
+2011,30,AS Roma,Novara,98.8,0.0,1.2
+2011,30,Bologna,US Palermo,42.0,29.5,28.4
+2011,30,Siena,Udinese Calcio,5.7,21.6,72.7
+2011,30,Lecce,Cesena,67.0,27.3,5.7
+2011,30,Inter,Genoa,80.7,10.2,9.1
+2011,30,Fiorentina,Chievo Verona,72.7,22.7,4.5
+2011,30,Cagliari Calcio,Atalanta,34.1,39.8,26.1
+2011,30,Juventus,SSC Napoli,72.7,19.3,8.0
+2011,31,Atalanta,Siena,61.2,24.5,14.3
+2011,31,Udinese Calcio,Parma,84.7,11.2,4.1
+2011,31,Novara,Genoa,15.3,22.4,62.2
+2011,31,AC Milan,Fiorentina,96.9,3.1,0.0
+2011,31,Lecce,AS Roma,3.1,7.1,89.8
+2011,31,Chievo Verona,Catania,46.9,36.7,16.3
+2011,31,Cesena,Bologna,19.4,30.6,50.0
+2011,31,Cagliari Calcio,Inter,11.2,14.3,74.5
+2011,31,US Palermo,Juventus,8.2,17.3,74.5
+2011,31,Lazio,SSC Napoli,36.6,36.6,26.7
+2011,32,Chievo Verona,AC Milan,1.1,8.0,90.9
+2011,32,AS Roma,Udinese Calcio,51.0,31.6,17.3
+2011,32,Parma,Novara,77.6,16.3,6.1
+2011,32,SSC Napoli,Atalanta,93.9,3.1,3.1
+2011,32,Juventus,Lazio,77.6,16.3,6.1
+2011,32,Inter,Siena,94.9,5.1,0.0
+2011,32,Genoa,Cesena,87.8,8.2,4.1
+2011,32,Fiorentina,US Palermo,57.1,22.4,20.4
+2011,32,Catania,Lecce,55.1,32.7,12.2
+2011,32,Bologna,Cagliari Calcio,48.5,32.3,19.2
+2011,33,Atalanta,Chievo Verona,63.5,29.2,7.3
+2011,33,Cagliari Calcio,Catania,36.5,43.8,19.8
+2011,33,Novara,Lazio,1.0,6.3,92.7
+2011,33,Udinese Calcio,Inter,46.4,26.8,26.8
+2011,33,Siena,Bologna,43.2,42.1,14.7
+2011,33,AS Roma,Fiorentina,83.3,11.5,5.2
+2011,33,US Palermo,Parma,68.4,22.1,9.5
+2011,33,Lecce,SSC Napoli,9.4,12.5,78.1
+2011,33,AC Milan,Genoa,98.0,2.0,0.0
+2011,33,Cesena,Juventus,0.0,3.1,96.9
+2011,34,Parma,Cagliari Calcio,76.4,18.0,5.6
+2011,34,Chievo Verona,Udinese Calcio,13.5,28.1,58.4
+2011,34,SSC Napoli,Novara,98.9,1.1,0.0
+2011,34,Catania,Atalanta,57.3,30.3,12.4
+2011,34,Fiorentina,Inter,14.8,38.6,46.6
+2011,34,AC Milan,Bologna,98.9,1.1,0.0
+2011,34,Lazio,Lecce,94.4,3.3,2.2
+2011,34,Genoa,Siena,76.7,17.8,5.6
+2011,34,Cesena,US Palermo,11.1,21.1,67.8
+2011,34,Juventus,AS Roma,81.1,15.6,3.3
+2011,35,US Palermo,Catania,65.5,20.2,14.3
+2011,35,Cagliari Calcio,Chievo Verona,48.8,34.5,16.7
+2011,35,AS Roma,SSC Napoli,43.5,27.1,29.4
+2011,35,Bologna,Genoa,48.8,29.8,21.4
+2011,35,Atalanta,Fiorentina,38.8,32.9,28.2
+2011,35,Siena,AC Milan,0.0,5.8,94.2
+2011,35,Novara,Juventus,0.0,1.2,98.8
+2011,35,Lecce,Parma,30.6,30.6,38.8
+2011,35,Inter,Cesena,96.5,3.5,0.0
+2011,35,Udinese Calcio,Lazio,44.8,36.8,18.4
+2011,36,Chievo Verona,AS Roma,10.8,18.5,70.8
+2011,36,SSC Napoli,US Palermo,97.1,2.9,0.0
+2011,36,Catania,Bologna,44.0,42.7,13.3
+2011,36,Parma,Inter,6.7,33.3,60.0
+2011,36,AC Milan,Atalanta,98.7,0.0,1.3
+2011,36,Lazio,Siena,93.3,6.7,0.0
+2011,36,Juventus,Lecce,97.3,2.7,0.0
+2011,36,Genoa,Cagliari Calcio,70.7,24.0,5.3
+2011,36,Fiorentina,Novara,92.0,6.7,1.3
+2011,36,Cesena,Udinese Calcio,4.0,9.3,86.7
+2011,37,Lecce,Fiorentina,23.8,26.2,50.0
+2011,37,AS Roma,Catania,95.2,2.4,2.4
+2011,37,Siena,Parma,22.6,34.5,42.9
+2011,37,Atalanta,Lazio,22.1,25.6,52.3
+2011,37,Udinese Calcio,Genoa,88.4,4.7,7.0
+2011,37,US Palermo,Chievo Verona,70.9,22.1,7.0
+2011,37,Novara,Cesena,47.7,40.7,11.6
+2011,37,Bologna,SSC Napoli,4.7,16.3,79.1
+2011,37,Inter,AC Milan,13.8,26.4,59.8
+2011,37,Cagliari Calcio,Juventus,0.0,8.0,92.0
+2011,38,AC Milan,Novara,100.0,0.0,0.0
+2011,38,Juventus,Atalanta,92.5,5.0,2.5
+2011,38,Fiorentina,Cagliari Calcio,82.5,13.8,3.8
+2011,38,Parma,Bologna,65.4,28.4,6.2
+2011,38,Cesena,AS Roma,3.7,8.6,87.7
+2011,38,Catania,Udinese Calcio,8.5,22.0,69.5
+2011,38,SSC Napoli,Siena,98.8,1.2,0.0
+2011,38,Lazio,Inter,35.4,32.9,31.7
+2011,38,Genoa,US Palermo,43.9,29.3,26.8
+2011,38,Chievo Verona,Lecce,53.7,28.0,18.3

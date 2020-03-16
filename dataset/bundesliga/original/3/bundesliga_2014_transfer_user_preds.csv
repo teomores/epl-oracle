@@ -1,0 +1,307 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2014,1,Bayern Munich,VfL Wolfsburg,90.2,7.0,2.8
+2014,1,E Frankfurt,SC Freiburg,67.7,22.5,9.8
+2014,1,Hertha BSC,Werder Bremen,57.9,24.3,17.7
+2014,1,Hannover,FC Schalke,18.3,22.8,58.9
+2014,1,TSG Hoffenheim,FC Augsburg,85.5,9.6,4.9
+2014,1,FC K ln,Hamburger SV,39.6,35.7,24.6
+2014,1,Bor Dortmund,Bay Leverkusen,77.6,16.7,5.7
+2014,1,SC Paderborn,FSV Mainz,20.4,28.5,51.1
+2014,1,Bor M gladbach,VfB Stuttgart,84.9,10.5,4.6
+2014,2,FC Augsburg,Bor Dortmund,1.0,3.6,95.3
+2014,2,Hamburger SV,SC Paderborn,80.5,14.5,5.0
+2014,2,VfB Stuttgart,FC K ln,66.2,24.7,9.1
+2014,2,Werder Bremen,TSG Hoffenheim,16.1,23.4,60.4
+2014,2,VfL Wolfsburg,E Frankfurt,89.6,7.4,2.9
+2014,2,Bay Leverkusen,Hertha BSC,95.4,3.5,1.1
+2014,2,FC Schalke,Bayern Munich,3.7,8.0,88.3
+2014,2,FSV Mainz,Hannover,25.2,37.8,37.0
+2014,2,SC Freiburg,Bor M gladbach,9.0,19.1,72.0
+2014,3,Bay Leverkusen,Werder Bremen,95.5,2.8,1.7
+2014,3,Bayern Munich,VfB Stuttgart,98.0,1.4,0.6
+2014,3,SC Paderborn,FC K ln,23.0,46.6,30.4
+2014,3,Hertha BSC,FSV Mainz,69.4,21.6,8.9
+2014,3,TSG Hoffenheim,VfL Wolfsburg,35.9,37.1,27.0
+2014,3,Bor Dortmund,SC Freiburg,97.9,1.6,0.5
+2014,3,Bor M gladbach,FC Schalke,42.3,37.4,20.3
+2014,3,E Frankfurt,FC Augsburg,73.3,18.1,8.5
+2014,3,Hannover,Hamburger SV,70.1,18.0,12.0
+2014,4,SC Freiburg,Hertha BSC,41.8,33.3,25.0
+2014,4,FC Schalke,E Frankfurt,82.5,11.4,6.1
+2014,4,SC Paderborn,Hannover,13.2,30.1,56.6
+2014,4,VfB Stuttgart,TSG Hoffenheim,23.7,24.4,51.9
+2014,4,Hamburger SV,Bayern Munich,1.7,2.6,95.7
+2014,4,FC Augsburg,Werder Bremen,44.4,32.9,22.7
+2014,4,FSV Mainz,Bor Dortmund,2.0,4.9,93.2
+2014,4,VfL Wolfsburg,Bay Leverkusen,17.1,30.3,52.6
+2014,4,FC K ln,Bor M gladbach,13.2,25.3,61.4
+2014,5,Bayern Munich,SC Paderborn,95.7,2.9,1.4
+2014,5,E Frankfurt,FSV Mainz,37.3,35.5,27.2
+2014,5,Werder Bremen,FC Schalke,29.8,32.9,37.3
+2014,5,TSG Hoffenheim,SC Freiburg,89.6,7.3,3.1
+2014,5,Hertha BSC,VfL Wolfsburg,9.3,17.5,73.2
+2014,5,Hannover,FC K ln,63.5,26.4,10.1
+2014,5,Bor M gladbach,Hamburger SV,78.0,13.5,8.5
+2014,5,Bay Leverkusen,FC Augsburg,91.2,6.3,2.5
+2014,5,Bor Dortmund,VfB Stuttgart,95.3,3.7,1.0
+2014,6,FSV Mainz,TSG Hoffenheim,42.0,38.7,19.3
+2014,6,FC Schalke,Bor Dortmund,16.8,30.2,53.1
+2014,6,SC Paderborn,Bor M gladbach,9.3,19.5,71.2
+2014,6,FC K ln,Bayern Munich,1.4,2.9,95.7
+2014,6,VfB Stuttgart,Hannover,50.8,23.2,26.0
+2014,6,SC Freiburg,Bay Leverkusen,7.0,10.9,82.1
+2014,6,VfL Wolfsburg,Werder Bremen,87.8,9.0,3.3
+2014,6,FC Augsburg,Hertha BSC,61.0,26.7,12.3
+2014,6,Hamburger SV,E Frankfurt,47.3,25.1,27.6
+2014,7,Hertha BSC,VfB Stuttgart,45.2,34.2,20.6
+2014,7,Bayern Munich,Hannover,98.4,1.0,0.6
+2014,7,Werder Bremen,SC Freiburg,52.2,29.9,17.8
+2014,7,TSG Hoffenheim,FC Schalke,39.0,32.7,28.3
+2014,7,Bay Leverkusen,SC Paderborn,95.4,3.3,1.3
+2014,7,Bor Dortmund,Hamburger SV,92.1,4.8,3.2
+2014,7,E Frankfurt,FC K ln,61.1,28.5,10.4
+2014,7,VfL Wolfsburg,FC Augsburg,80.8,14.5,4.8
+2014,7,Bor M gladbach,FSV Mainz,79.7,16.2,4.0
+2014,8,Bayern Munich,Werder Bremen,98.6,0.6,0.7
+2014,8,FC K ln,Bor Dortmund,3.8,9.3,86.9
+2014,8,VfB Stuttgart,Bay Leverkusen,8.4,19.0,72.6
+2014,8,SC Freiburg,VfL Wolfsburg,12.2,25.4,62.4
+2014,8,Hannover,Bor M gladbach,20.2,35.5,44.4
+2014,8,FSV Mainz,FC Augsburg,72.3,22.8,4.9
+2014,8,FC Schalke,Hertha BSC,88.6,8.2,3.2
+2014,8,Hamburger SV,TSG Hoffenheim,23.9,24.8,51.2
+2014,8,SC Paderborn,E Frankfurt,26.9,37.5,35.7
+2014,9,Werder Bremen,FC K ln,40.1,30.9,29.1
+2014,9,Bor Dortmund,Hannover,94.0,4.0,2.0
+2014,9,E Frankfurt,VfB Stuttgart,56.4,27.7,15.8
+2014,9,Hertha BSC,Hamburger SV,48.0,30.1,22.0
+2014,9,TSG Hoffenheim,SC Paderborn,87.4,8.9,3.7
+2014,9,FC Augsburg,SC Freiburg,68.5,22.1,9.4
+2014,9,Bay Leverkusen,FC Schalke,55.8,29.8,14.4
+2014,9,VfL Wolfsburg,FSV Mainz,74.4,17.3,8.2
+2014,9,Bor M gladbach,Bayern Munich,8.5,14.5,77.1
+2014,10,FC Schalke,FC Augsburg,91.6,5.9,2.5
+2014,10,Hamburger SV,Bay Leverkusen,8.1,14.4,77.5
+2014,10,VfB Stuttgart,VfL Wolfsburg,16.1,23.6,60.3
+2014,10,Hannover,E Frankfurt,61.8,27.2,11.0
+2014,10,FSV Mainz,Werder Bremen,75.9,13.4,10.7
+2014,10,Bayern Munich,Bor Dortmund,76.2,12.7,11.1
+2014,10,Bor M gladbach,TSG Hoffenheim,73.5,22.1,4.4
+2014,10,SC Paderborn,Hertha BSC,49.2,32.6,18.1
+2014,10,FC K ln,SC Freiburg,66.3,21.8,11.9
+2014,11,Hertha BSC,Hannover,53.5,26.0,20.5
+2014,11,SC Freiburg,FC Schalke,12.0,18.5,69.6
+2014,11,E Frankfurt,Bayern Munich,1.1,1.6,97.4
+2014,11,TSG Hoffenheim,FC K ln,92.6,5.0,2.4
+2014,11,FC Augsburg,SC Paderborn,58.3,29.0,12.6
+2014,11,Bay Leverkusen,FSV Mainz,87.7,8.9,3.4
+2014,11,Werder Bremen,VfB Stuttgart,44.8,34.4,20.8
+2014,11,VfL Wolfsburg,Hamburger SV,92.0,5.0,3.0
+2014,11,Bor Dortmund,Bor M gladbach,49.9,26.7,23.5
+2014,12,Bayern Munich,TSG Hoffenheim,96.2,2.7,1.1
+2014,12,SC Paderborn,Bor Dortmund,5.1,6.8,88.1
+2014,12,Hannover,Bay Leverkusen,20.4,33.0,46.6
+2014,12,FSV Mainz,SC Freiburg,76.5,17.5,6.0
+2014,12,Bor M gladbach,E Frankfurt,95.5,3.0,1.5
+2014,12,FC Schalke,VfL Wolfsburg,18.4,26.4,55.2
+2014,12,FC K ln,Hertha BSC,67.0,24.3,8.7
+2014,12,Hamburger SV,Werder Bremen,39.6,35.5,24.9
+2014,12,VfB Stuttgart,FC Augsburg,49.3,20.6,30.1
+2014,13,SC Freiburg,VfB Stuttgart,48.3,27.0,24.6
+2014,13,FC Schalke,FSV Mainz,77.0,13.4,9.6
+2014,13,Werder Bremen,SC Paderborn,51.1,24.7,24.2
+2014,13,Hertha BSC,Bayern Munich,1.0,0.9,98.1
+2014,13,FC Augsburg,Hamburger SV,72.4,16.9,10.7
+2014,13,Bay Leverkusen,FC K ln,89.0,7.8,3.2
+2014,13,TSG Hoffenheim,Hannover,77.9,15.3,6.9
+2014,13,VfL Wolfsburg,Bor M gladbach,54.9,31.9,13.2
+2014,13,E Frankfurt,Bor Dortmund,11.9,14.9,73.2
+2014,14,Bor Dortmund,TSG Hoffenheim,73.2,12.7,14.2
+2014,14,SC Paderborn,SC Freiburg,53.7,27.5,18.8
+2014,14,FC K ln,FC Augsburg,27.7,30.1,42.2
+2014,14,VfB Stuttgart,FC Schalke,32.2,23.4,44.4
+2014,14,Hannover,VfL Wolfsburg,10.5,16.9,72.5
+2014,14,Bor M gladbach,Hertha BSC,95.2,3.3,1.4
+2014,14,Bayern Munich,Bay Leverkusen,90.9,6.5,2.7
+2014,14,Hamburger SV,FSV Mainz,46.9,24.8,28.2
+2014,14,E Frankfurt,Werder Bremen,67.0,19.7,13.3
+2014,15,TSG Hoffenheim,E Frankfurt,71.3,18.4,10.3
+2014,15,FC Schalke,FC K ln,94.9,3.4,1.7
+2014,15,SC Freiburg,Hamburger SV,44.0,32.5,23.5
+2014,15,Werder Bremen,Hannover,43.1,25.7,31.2
+2014,15,Hertha BSC,Bor Dortmund,4.7,8.0,87.3
+2014,15,FC Augsburg,Bayern Munich,1.9,4.7,93.4
+2014,15,FSV Mainz,VfB Stuttgart,68.4,19.0,12.6
+2014,15,Bay Leverkusen,Bor M gladbach,56.7,31.0,12.3
+2014,15,VfL Wolfsburg,SC Paderborn,97.3,1.8,1.0
+2014,16,Hannover,FC Augsburg,47.8,28.6,23.6
+2014,16,Bayern Munich,SC Freiburg,99.3,0.4,0.3
+2014,16,FC K ln,FSV Mainz,50.0,33.5,16.5
+2014,16,Hamburger SV,VfB Stuttgart,62.9,23.7,13.3
+2014,16,TSG Hoffenheim,Bay Leverkusen,24.0,32.8,43.1
+2014,16,Bor M gladbach,Werder Bremen,94.5,3.5,2.0
+2014,16,Bor Dortmund,VfL Wolfsburg,48.3,22.5,29.1
+2014,16,SC Paderborn,FC Schalke,11.7,15.9,72.3
+2014,16,E Frankfurt,Hertha BSC,85.6,10.3,4.1
+2014,17,FSV Mainz,Bayern Munich,1.0,1.8,97.2
+2014,17,FC Schalke,Hamburger SV,92.9,4.6,2.5
+2014,17,VfB Stuttgart,SC Paderborn,64.4,22.1,13.5
+2014,17,Werder Bremen,Bor Dortmund,8.2,12.5,79.3
+2014,17,FC Augsburg,Bor M gladbach,13.7,32.2,54.1
+2014,17,Bay Leverkusen,E Frankfurt,88.2,8.6,3.2
+2014,17,VfL Wolfsburg,FC K ln,95.2,3.3,1.5
+2014,17,Hertha BSC,TSG Hoffenheim,20.3,31.1,48.6
+2014,17,SC Freiburg,Hannover,32.5,30.9,36.6
+2014,18,VfL Wolfsburg,Bayern Munich,7.0,14.4,78.6
+2014,18,FC Schalke,Hannover,87.7,8.7,3.6
+2014,18,Hamburger SV,FC K ln,50.4,31.6,18.0
+2014,18,VfB Stuttgart,Bor M gladbach,11.5,18.8,69.7
+2014,18,SC Freiburg,E Frankfurt,23.4,32.4,44.2
+2014,18,FSV Mainz,SC Paderborn,74.5,20.3,5.2
+2014,18,Bay Leverkusen,Bor Dortmund,44.2,29.0,26.8
+2014,18,Werder Bremen,Hertha BSC,69.0,19.0,12.0
+2014,18,FC Augsburg,TSG Hoffenheim,39.0,32.6,28.4
+2014,19,E Frankfurt,VfL Wolfsburg,5.0,10.5,84.5
+2014,19,Hannover,FSV Mainz,61.9,26.2,11.9
+2014,19,Bor M gladbach,SC Freiburg,93.3,5.2,1.6
+2014,19,Bayern Munich,FC Schalke,95.3,3.1,1.6
+2014,19,SC Paderborn,Hamburger SV,37.7,35.7,26.6
+2014,19,FC K ln,VfB Stuttgart,56.1,25.6,18.3
+2014,19,Hertha BSC,Bay Leverkusen,2.5,6.1,91.4
+2014,19,TSG Hoffenheim,Werder Bremen,75.1,16.0,8.9
+2014,19,Bor Dortmund,FC Augsburg,78.6,13.3,8.1
+2014,20,FC Schalke,Bor M gladbach,36.9,40.7,22.4
+2014,20,FC K ln,SC Paderborn,76.8,17.5,5.7
+2014,20,VfB Stuttgart,Bayern Munich,1.1,1.8,97.1
+2014,20,SC Freiburg,Bor Dortmund,19.7,21.8,58.5
+2014,20,FSV Mainz,Hertha BSC,83.0,11.2,5.8
+2014,20,VfL Wolfsburg,TSG Hoffenheim,93.1,5.7,1.2
+2014,20,Hamburger SV,Hannover,39.9,33.9,26.1
+2014,20,Werder Bremen,Bay Leverkusen,16.9,28.0,55.1
+2014,20,FC Augsburg,E Frankfurt,77.6,15.4,7.0
+2014,21,Bor Dortmund,FSV Mainz,93.4,4.2,2.5
+2014,21,Bayern Munich,Hamburger SV,96.9,2.2,0.9
+2014,21,Werder Bremen,FC Augsburg,47.8,35.1,17.1
+2014,21,TSG Hoffenheim,VfB Stuttgart,77.6,13.5,8.9
+2014,21,Bor M gladbach,FC K ln,86.7,9.6,3.7
+2014,21,Bay Leverkusen,VfL Wolfsburg,15.9,34.7,49.4
+2014,21,E Frankfurt,FC Schalke,21.4,28.5,50.1
+2014,21,Hertha BSC,SC Freiburg,63.3,24.6,12.0
+2014,21,Hannover,SC Paderborn,91.1,6.4,2.5
+2014,22,VfB Stuttgart,Bor Dortmund,5.0,6.9,88.1
+2014,22,FC Schalke,Werder Bremen,58.6,25.7,15.6
+2014,22,SC Paderborn,Bayern Munich,0.5,0.5,98.9
+2014,22,SC Freiburg,TSG Hoffenheim,26.3,29.5,44.2
+2014,22,FC Augsburg,Bay Leverkusen,30.4,31.9,37.6
+2014,22,FSV Mainz,E Frankfurt,42.6,30.5,26.9
+2014,22,FC K ln,Hannover,38.5,36.7,24.8
+2014,22,Hamburger SV,Bor M gladbach,10.1,12.6,77.3
+2014,22,VfL Wolfsburg,Hertha BSC,98.0,1.0,0.9
+2014,23,Bayern Munich,FC K ln,98.9,0.7,0.4
+2014,23,Hertha BSC,FC Augsburg,14.9,22.6,62.5
+2014,23,Hannover,VfB Stuttgart,71.5,18.3,10.2
+2014,23,TSG Hoffenheim,FSV Mainz,64.7,26.0,9.2
+2014,23,Bay Leverkusen,SC Freiburg,93.6,4.5,1.8
+2014,23,Bor Dortmund,FC Schalke,62.9,27.0,10.1
+2014,23,E Frankfurt,Hamburger SV,73.4,16.8,9.9
+2014,23,Bor M gladbach,SC Paderborn,95.2,3.5,1.3
+2014,23,Werder Bremen,VfL Wolfsburg,9.7,27.1,63.2
+2014,24,VfB Stuttgart,Hertha BSC,57.1,27.3,15.7
+2014,24,FC Augsburg,VfL Wolfsburg,5.6,14.0,80.4
+2014,24,FC Schalke,TSG Hoffenheim,71.4,18.4,10.2
+2014,24,Hamburger SV,Bor Dortmund,5.8,6.5,87.7
+2014,24,SC Freiburg,Werder Bremen,23.4,29.9,46.7
+2014,24,Hannover,Bayern Munich,0.7,0.9,98.5
+2014,24,FSV Mainz,Bor M gladbach,15.9,30.1,54.0
+2014,24,FC K ln,E Frankfurt,27.9,38.9,33.1
+2014,24,SC Paderborn,Bay Leverkusen,3.0,4.8,92.1
+2014,25,Bay Leverkusen,VfB Stuttgart,94.7,3.4,1.9
+2014,25,E Frankfurt,SC Paderborn,90.6,7.1,2.3
+2014,25,Werder Bremen,Bayern Munich,2.7,5.4,91.8
+2014,25,Hertha BSC,FC Schalke,6.3,16.9,76.8
+2014,25,TSG Hoffenheim,Hamburger SV,82.0,12.9,5.1
+2014,25,FC Augsburg,FSV Mainz,78.1,18.1,3.7
+2014,25,Bor Dortmund,FC K ln,94.2,4.4,1.4
+2014,25,VfL Wolfsburg,SC Freiburg,97.7,1.5,0.8
+2014,25,Bor M gladbach,Hannover,89.8,8.0,2.2
+2014,26,Hamburger SV,Hertha BSC,53.7,32.2,14.1
+2014,26,SC Paderborn,TSG Hoffenheim,6.8,8.9,84.3
+2014,26,FC K ln,Werder Bremen,23.2,35.0,41.8
+2014,26,VfB Stuttgart,E Frankfurt,30.5,20.1,49.4
+2014,26,SC Freiburg,FC Augsburg,26.1,26.4,47.6
+2014,26,Hannover,Bor Dortmund,10.7,16.8,72.5
+2014,26,FC Schalke,Bay Leverkusen,49.8,33.2,17.0
+2014,26,FSV Mainz,VfL Wolfsburg,4.1,9.5,86.5
+2014,26,Bayern Munich,Bor M gladbach,91.0,6.4,2.6
+2014,27,SC Freiburg,FC K ln,49.7,33.4,16.9
+2014,27,E Frankfurt,Hannover,81.4,11.3,7.2
+2014,27,Werder Bremen,FSV Mainz,73.1,20.0,6.9
+2014,27,TSG Hoffenheim,Bor M gladbach,13.5,29.9,56.7
+2014,27,VfL Wolfsburg,VfB Stuttgart,96.3,2.4,1.3
+2014,27,Bay Leverkusen,Hamburger SV,92.8,4.4,2.9
+2014,27,Bor Dortmund,Bayern Munich,22.0,25.1,52.9
+2014,27,FC Augsburg,FC Schalke,23.4,30.2,46.4
+2014,27,Hertha BSC,SC Paderborn,79.5,14.8,5.7
+2014,28,Hannover,Hertha BSC,67.4,23.3,9.3
+2014,28,Bayern Munich,E Frankfurt,98.2,1.2,0.6
+2014,28,SC Paderborn,FC Augsburg,8.8,20.0,71.1
+2014,28,FSV Mainz,Bay Leverkusen,9.2,20.5,70.3
+2014,28,Bor M gladbach,Bor Dortmund,47.0,33.7,19.3
+2014,28,FC Schalke,SC Freiburg,91.3,5.7,2.9
+2014,28,Hamburger SV,VfL Wolfsburg,3.6,5.7,90.7
+2014,28,FC K ln,TSG Hoffenheim,23.1,38.3,38.6
+2014,28,VfB Stuttgart,Werder Bremen,37.9,25.0,37.2
+2014,29,E Frankfurt,Bor M gladbach,7.1,12.9,80.0
+2014,29,Bor Dortmund,SC Paderborn,96.7,2.2,1.1
+2014,29,SC Freiburg,FSV Mainz,46.7,40.7,12.6
+2014,29,Hertha BSC,FC K ln,44.1,38.9,17.0
+2014,29,TSG Hoffenheim,Bayern Munich,4.8,6.1,89.1
+2014,29,Bay Leverkusen,Hannover,95.3,3.4,1.3
+2014,29,FC Augsburg,VfB Stuttgart,56.1,24.6,19.4
+2014,29,Werder Bremen,Hamburger SV,77.4,14.0,8.6
+2014,29,VfL Wolfsburg,FC Schalke,81.8,12.3,6.0
+2014,30,FSV Mainz,FC Schalke,19.5,32.9,47.6
+2014,30,FC K ln,Bay Leverkusen,4.5,9.9,85.6
+2014,30,Hamburger SV,FC Augsburg,31.0,25.2,43.8
+2014,30,VfB Stuttgart,SC Freiburg,68.1,22.1,9.8
+2014,30,Hannover,TSG Hoffenheim,35.5,27.7,36.8
+2014,30,Bor Dortmund,E Frankfurt,93.1,4.8,2.1
+2014,30,Bayern Munich,Hertha BSC,99.3,0.4,0.3
+2014,30,SC Paderborn,Werder Bremen,12.7,21.7,65.7
+2014,30,Bor M gladbach,VfL Wolfsburg,49.7,37.5,12.7
+2014,31,FC Schalke,VfB Stuttgart,74.9,16.1,9.0
+2014,31,SC Freiburg,SC Paderborn,80.9,14.8,4.3
+2014,31,Werder Bremen,E Frankfurt,71.4,21.5,7.2
+2014,31,TSG Hoffenheim,Bor Dortmund,12.3,22.5,65.2
+2014,31,FC Augsburg,FC K ln,66.9,25.5,7.6
+2014,31,VfL Wolfsburg,Hannover,96.2,2.6,1.2
+2014,31,Bay Leverkusen,Bayern Munich,33.0,30.2,36.8
+2014,31,FSV Mainz,Hamburger SV,68.9,17.8,13.3
+2014,31,Hertha BSC,Bor M gladbach,3.4,9.7,86.9
+2014,32,Hamburger SV,SC Freiburg,68.0,19.9,12.1
+2014,32,Bayern Munich,FC Augsburg,90.2,7.3,2.5
+2014,32,E Frankfurt,TSG Hoffenheim,27.3,32.6,40.1
+2014,32,Hannover,Werder Bremen,32.8,27.6,39.6
+2014,32,Bor M gladbach,Bay Leverkusen,52.1,37.1,10.8
+2014,32,Bor Dortmund,Hertha BSC,95.2,3.4,1.4
+2014,32,VfB Stuttgart,FSV Mainz,61.2,19.8,19.0
+2014,32,SC Paderborn,VfL Wolfsburg,2.5,5.6,92.0
+2014,32,FC K ln,FC Schalke,15.4,38.8,45.8
+2014,33,VfB Stuttgart,Hamburger SV,66.8,22.8,10.4
+2014,33,SC Freiburg,Bayern Munich,4.6,7.6,87.8
+2014,33,Hertha BSC,E Frankfurt,44.4,34.3,21.3
+2014,33,FC Augsburg,Hannover,74.2,16.6,9.2
+2014,33,FSV Mainz,FC K ln,48.7,39.2,12.1
+2014,33,VfL Wolfsburg,Bor Dortmund,52.1,28.7,19.2
+2014,33,Bay Leverkusen,TSG Hoffenheim,93.6,4.7,1.7
+2014,33,FC Schalke,SC Paderborn,85.2,9.2,5.6
+2014,33,Werder Bremen,Bor M gladbach,8.8,19.7,71.5
+2014,34,Bayern Munich,FSV Mainz,94.6,3.4,1.9
+2014,34,SC Paderborn,VfB Stuttgart,19.2,18.8,62.0
+2014,34,FC K ln,VfL Wolfsburg,5.6,13.4,81.0
+2014,34,Hamburger SV,FC Schalke,41.5,25.7,32.9
+2014,34,E Frankfurt,Bay Leverkusen,9.6,16.6,73.8
+2014,34,Hannover,SC Freiburg,44.7,39.2,16.1
+2014,34,TSG Hoffenheim,Hertha BSC,81.2,14.6,4.1
+2014,34,Bor M gladbach,FC Augsburg,91.3,6.7,2.0
+2014,34,Bor Dortmund,Werder Bremen,88.6,6.0,5.4

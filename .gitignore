@@ -1,4 +1,3 @@
-*.csv
 *.log
 .vscode*
 *checkpoint.ipynb

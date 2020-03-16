@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2010,1,H rcules CF,Athletic,11.1,30.6,58.3
+2010,1,M laga CF,Valencia,8.6,11.4,80.0
+2010,1,Levante,Sevilla FC,0.0,8.6,91.4
+2010,1,CA Osasuna,UD Almer a,69.4,19.4,11.1
+2010,1,Dep La Coru a,Real Zaragoza,72.2,25.0,2.8
+2010,1,Real Sociedad,Villarreal,27.8,33.3,38.9
+2010,1,Espanyol,Getafe,61.1,27.8,11.1
+2010,1,Racing,FC Barcelona,0.0,0.0,100.0
+2010,1,RCD Mallorca,Real Madrid,2.8,2.8,94.4
+2010,1,Atl tico Madrid,Sporting Gij n,93.9,6.1,0.0
+2010,2,Valencia,Racing,90.6,9.4,0.0
+2010,2,FC Barcelona,H rcules CF,100.0,0.0,0.0
+2010,2,Real Madrid,CA Osasuna,96.9,3.1,0.0
+2010,2,Athletic,Atl tico Madrid,12.1,36.4,51.5
+2010,2,Real Zaragoza,M laga CF,66.7,24.2,9.1
+2010,2,Sporting Gij n,RCD Mallorca,48.5,18.2,33.3
+2010,2,Getafe,Levante,81.8,18.2,0.0
+2010,2,Villarreal,Espanyol,81.8,12.1,6.1
+2010,2,Sevilla FC,Dep La Coru a,90.9,6.1,3.0
+2010,2,UD Almer a,Real Sociedad,19.4,61.3,19.4
+2010,3,RCD Mallorca,CA Osasuna,89.2,5.4,5.4
+2010,3,Espanyol,UD Almer a,89.2,8.1,2.7
+2010,3,Sporting Gij n,Athletic,27.0,29.7,43.2
+2010,3,Real Sociedad,Real Madrid,2.7,5.4,91.9
+2010,3,Levante,Villarreal,5.6,22.2,72.2
+2010,3,Racing,Real Zaragoza,55.6,36.1,8.3
+2010,3,H rcules CF,Valencia,11.1,22.2,66.7
+2010,3,Atl tico Madrid,FC Barcelona,13.9,19.4,66.7
+2010,3,M laga CF,Sevilla FC,5.6,25.0,69.4
+2010,3,Dep La Coru a,Getafe,74.3,20.0,5.7
+2010,4,Athletic,RCD Mallorca,74.2,19.4,6.5
+2010,4,CA Osasuna,Real Sociedad,45.2,29.0,25.8
+2010,4,Real Madrid,Espanyol,100.0,0.0,0.0
+2010,4,UD Almer a,Levante,34.3,48.6,17.1
+2010,4,Real Zaragoza,H rcules CF,42.9,22.9,34.3
+2010,4,FC Barcelona,Sporting Gij n,100.0,0.0,0.0
+2010,4,Valencia,Atl tico Madrid,71.4,20.0,8.6
+2010,4,Villarreal,Dep La Coru a,85.3,11.8,2.9
+2010,4,Getafe,M laga CF,67.6,26.5,5.9
+2010,4,Sevilla FC,Racing,91.2,2.9,5.9
+2010,5,Sporting Gij n,Valencia,5.9,2.9,91.2
+2010,5,Levante,Real Madrid,2.9,2.9,94.3
+2010,5,Athletic,FC Barcelona,0.0,11.1,88.9
+2010,5,RCD Mallorca,Real Sociedad,77.1,20.0,2.9
+2010,5,Espanyol,CA Osasuna,71.4,28.6,0.0
+2010,5,Dep La Coru a,UD Almer a,82.9,14.3,2.9
+2010,5,Racing,Getafe,28.6,42.9,28.6
+2010,5,H rcules CF,Sevilla FC,8.6,20.0,71.4
+2010,5,Atl tico Madrid,Real Zaragoza,88.9,8.3,2.8
+2010,5,M laga CF,Villarreal,19.4,22.2,58.3
+2010,6,Real Zaragoza,Sporting Gij n,77.8,11.1,11.1
+2010,6,Real Sociedad,Espanyol,44.4,27.8,27.8
+2010,6,Valencia,Athletic,91.7,8.3,0.0
+2010,6,CA Osasuna,Levante,62.9,28.6,8.6
+2010,6,UD Almer a,M laga CF,31.4,51.4,17.1
+2010,6,Villarreal,Racing,88.6,5.7,5.7
+2010,6,Getafe,H rcules CF,45.7,22.9,31.4
+2010,6,Sevilla FC,Atl tico Madrid,51.4,22.9,25.7
+2010,6,FC Barcelona,RCD Mallorca,97.1,2.9,0.0
+2010,6,Real Madrid,Dep La Coru a,94.3,5.7,0.0
+2010,7,Atl tico Madrid,Getafe,81.8,15.2,3.0
+2010,7,FC Barcelona,Valencia,91.2,2.9,5.9
+2010,7,M laga CF,Real Madrid,0.0,2.9,97.1
+2010,7,RCD Mallorca,Espanyol,52.9,32.4,14.7
+2010,7,Levante,Real Sociedad,35.3,32.4,32.4
+2010,7,Dep La Coru a,CA Osasuna,64.7,17.6,17.6
+2010,7,Racing,UD Almer a,76.5,17.6,5.9
+2010,7,Athletic,Real Zaragoza,70.6,17.6,11.8
+2010,7,Sporting Gij n,Sevilla FC,5.9,14.7,79.4
+2010,7,H rcules CF,Villarreal,12.5,28.1,59.4
+2010,8,Real Zaragoza,FC Barcelona,0.0,0.0,100.0
+2010,8,Real Madrid,Racing,100.0,0.0,0.0
+2010,8,Valencia,RCD Mallorca,97.1,0.0,2.9
+2010,8,Espanyol,Levante,75.8,24.2,0.0
+2010,8,CA Osasuna,M laga CF,48.5,30.3,21.2
+2010,8,UD Almer a,H rcules CF,15.2,42.4,42.4
+2010,8,Getafe,Sporting Gij n,81.8,15.2,3.0
+2010,8,Sevilla FC,Athletic,97.0,0.0,3.0
+2010,8,Villarreal,Atl tico Madrid,51.5,39.4,9.1
+2010,8,Real Sociedad,Dep La Coru a,36.4,24.2,39.4
+2010,9,Valencia,Real Zaragoza,93.9,0.0,6.1
+2010,9,H rcules CF,Real Madrid,0.0,3.0,97.0
+2010,9,FC Barcelona,Sevilla FC,100.0,0.0,0.0
+2010,9,Dep La Coru a,Espanyol,51.5,36.4,12.1
+2010,9,M laga CF,Real Sociedad,57.6,27.3,15.2
+2010,9,Racing,CA Osasuna,54.5,21.2,24.2
+2010,9,Sporting Gij n,Villarreal,12.1,18.2,69.7
+2010,9,Atl tico Madrid,UD Almer a,97.1,2.9,0.0
+2010,9,Athletic,Getafe,70.6,17.6,11.8
+2010,9,RCD Mallorca,Levante,93.9,6.1,0.0
+2010,10,Real Sociedad,Racing,57.6,18.2,24.2
+2010,10,Espanyol,M laga CF,85.3,14.7,0.0
+2010,10,Real Zaragoza,RCD Mallorca,31.3,34.4,34.4
+2010,10,Levante,Dep La Coru a,18.8,28.1,53.1
+2010,10,CA Osasuna,H rcules CF,43.8,34.4,21.9
+2010,10,UD Almer a,Sporting Gij n,62.5,18.8,18.8
+2010,10,Villarreal,Athletic,93.8,6.3,0.0
+2010,10,Getafe,FC Barcelona,0.0,3.1,96.9
+2010,10,Real Madrid,Atl tico Madrid,87.5,12.5,0.0
+2010,10,Sevilla FC,Valencia,44.1,23.5,32.4
+2010,11,Athletic,UD Almer a,91.4,5.7,2.9
+2010,11,Atl tico Madrid,CA Osasuna,100.0,0.0,0.0
+2010,11,FC Barcelona,Villarreal,100.0,0.0,0.0
+2010,11,Real Zaragoza,Sevilla FC,5.9,20.6,73.5
+2010,11,RCD Mallorca,Dep La Coru a,64.7,23.5,11.8
+2010,11,M laga CF,Levante,64.7,26.5,8.8
+2010,11,Racing,Espanyol,44.1,29.4,26.5
+2010,11,H rcules CF,Real Sociedad,47.1,29.4,23.5
+2010,11,Sporting Gij n,Real Madrid,0.0,0.0,100.0
+2010,11,Valencia,Getafe,97.1,2.9,0.0
+2010,12,Villarreal,Valencia,43.8,21.9,34.4
+2010,12,UD Almer a,FC Barcelona,0.0,0.0,100.0
+2010,12,Real Madrid,Athletic,97.0,3.0,0.0
+2010,12,Dep La Coru a,M laga CF,78.8,21.2,0.0
+2010,12,Levante,Racing,33.3,27.3,39.4
+2010,12,Espanyol,H rcules CF,63.6,21.2,15.2
+2010,12,CA Osasuna,Sporting Gij n,57.6,33.3,9.1
+2010,12,Sevilla FC,RCD Mallorca,90.9,6.1,3.0
+2010,12,Real Sociedad,Atl tico Madrid,9.1,30.3,60.6
+2010,12,Getafe,Real Zaragoza,80.6,11.1,8.3
+2010,13,Real Zaragoza,Villarreal,10.8,10.8,78.4
+2010,13,Sevilla FC,Getafe,97.3,2.7,0.0
+2010,13,Atl tico Madrid,Espanyol,86.5,10.8,2.7
+2010,13,RCD Mallorca,M laga CF,80.0,8.6,11.4
+2010,13,Racing,Dep La Coru a,38.9,25.0,36.1
+2010,13,H rcules CF,Levante,58.3,25.0,16.7
+2010,13,Sporting Gij n,Real Sociedad,47.2,33.3,19.4
+2010,13,Athletic,CA Osasuna,80.6,8.3,11.1
+2010,13,Valencia,UD Almer a,100.0,0.0,0.0
+2010,13,FC Barcelona,Real Madrid,71.4,22.9,5.7
+2010,14,Levante,Atl tico Madrid,6.3,12.5,81.3
+2010,14,CA Osasuna,FC Barcelona,3.3,0.0,96.7
+2010,14,Real Madrid,Valencia,78.1,12.5,9.4
+2010,14,M laga CF,Racing,58.1,19.4,22.6
+2010,14,Espanyol,Sporting Gij n,80.6,12.9,6.5
+2010,14,UD Almer a,Real Zaragoza,41.9,32.3,25.8
+2010,14,Getafe,RCD Mallorca,58.1,16.1,25.8
+2010,14,Villarreal,Sevilla FC,74.2,9.7,16.1
+2010,14,Real Sociedad,Athletic,35.5,29.0,35.5
+2010,14,Dep La Coru a,H rcules CF,64.5,12.9,22.6
+2010,15,Getafe,Villarreal,36.1,11.1,52.8
+2010,15,Sevilla FC,UD Almer a,97.2,2.8,0.0
+2010,15,Atl tico Madrid,Dep La Coru a,86.1,8.3,5.6
+2010,15,RCD Mallorca,Racing,77.8,22.2,0.0
+2010,15,H rcules CF,M laga CF,58.3,27.8,13.9
+2010,15,Sporting Gij n,Levante,52.8,25.0,22.2
+2010,15,Athletic,Espanyol,66.7,13.9,19.4
+2010,15,Real Zaragoza,Real Madrid,0.0,0.0,100.0
+2010,15,FC Barcelona,Real Sociedad,100.0,0.0,0.0
+2010,15,Valencia,CA Osasuna,97.2,2.8,0.0
+2010,16,Villarreal,RCD Mallorca,100.0,0.0,0.0
+2010,16,Dep La Coru a,Sporting Gij n,79.4,14.7,5.9
+2010,16,Levante,Athletic,17.6,29.4,52.9
+2010,16,Espanyol,FC Barcelona,0.0,2.9,97.1
+2010,16,Real Sociedad,Valencia,14.7,26.5,58.8
+2010,16,CA Osasuna,Real Zaragoza,64.5,22.6,12.9
+2010,16,UD Almer a,Getafe,38.7,19.4,41.9
+2010,16,M laga CF,Atl tico Madrid,12.5,9.4,78.1
+2010,16,Real Madrid,Sevilla FC,93.8,3.1,3.1
+2010,16,Racing,H rcules CF,67.7,19.4,12.9
+2010,17,Athletic,Dep La Coru a,70.6,11.8,17.6
+2010,17,Sporting Gij n,M laga CF,44.4,16.7,38.9
+2010,17,FC Barcelona,Levante,100.0,0.0,0.0
+2010,17,Sevilla FC,CA Osasuna,89.5,5.3,5.3
+2010,17,Valencia,Espanyol,94.7,5.3,0.0
+2010,17,Villarreal,UD Almer a,100.0,0.0,0.0
+2010,17,RCD Mallorca,H rcules CF,65.0,30.0,5.0
+2010,17,Atl tico Madrid,Racing,90.0,0.0,10.0
+2010,17,Real Zaragoza,Real Sociedad,40.0,35.0,25.0
+2010,17,Getafe,Real Madrid,0.0,4.5,95.5
+2010,18,M laga CF,Athletic,41.7,29.2,29.2
+2010,18,Real Sociedad,Sevilla FC,16.7,25.0,58.3
+2010,18,Dep La Coru a,FC Barcelona,0.0,0.0,100.0
+2010,18,RCD Mallorca,UD Almer a,88.0,8.0,4.0
+2010,18,Racing,Sporting Gij n,80.0,20.0,0.0
+2010,18,Espanyol,Real Zaragoza,84.0,4.0,12.0
+2010,18,CA Osasuna,Getafe,40.0,28.0,32.0
+2010,18,Real Madrid,Villarreal,96.0,0.0,4.0
+2010,18,Levante,Valencia,8.0,8.0,84.0
+2010,18,H rcules CF,Atl tico Madrid,19.2,26.9,53.8
+2010,19,Real Zaragoza,Levante,63.6,30.3,6.1
+2010,19,Getafe,Real Sociedad,81.8,12.1,6.1
+2010,19,Villarreal,CA Osasuna,90.9,6.1,3.0
+2010,19,Sporting Gij n,H rcules CF,36.4,33.3,30.3
+2010,19,Athletic,Racing,84.8,6.1,9.1
+2010,19,Sevilla FC,Espanyol,78.8,12.1,9.1
+2010,19,Valencia,Dep La Coru a,97.1,2.9,0.0
+2010,19,UD Almer a,Real Madrid,2.9,0.0,97.1
+2010,19,FC Barcelona,M laga CF,100.0,0.0,0.0
+2010,19,Atl tico Madrid,RCD Mallorca,84.8,9.1,6.1
+2010,20,Sevilla FC,Levante,100.0,0.0,0.0
+2010,20,FC Barcelona,Racing,100.0,0.0,0.0
+2010,20,Valencia,M laga CF,100.0,0.0,0.0
+2010,20,UD Almer a,CA Osasuna,46.7,43.3,10.0
+2010,20,Real Zaragoza,Dep La Coru a,50.0,20.0,30.0
+2010,20,Sporting Gij n,Atl tico Madrid,6.7,20.0,73.3
+2010,20,Getafe,Espanyol,53.3,16.7,30.0
+2010,20,Real Madrid,RCD Mallorca,100.0,0.0,0.0
+2010,20,Villarreal,Real Sociedad,96.7,3.3,0.0
+2010,20,Athletic,H rcules CF,72.4,10.3,17.2
+2010,21,M laga CF,Real Zaragoza,64.5,9.7,25.8
+2010,21,RCD Mallorca,Sporting Gij n,76.5,17.6,5.9
+2010,21,Real Sociedad,UD Almer a,61.8,26.5,11.8
+2010,21,Levante,Getafe,29.4,20.6,50.0
+2010,21,H rcules CF,FC Barcelona,0.0,0.0,100.0
+2010,21,Dep La Coru a,Sevilla FC,22.9,20.0,57.1
+2010,21,Atl tico Madrid,Athletic,94.1,5.9,0.0
+2010,21,CA Osasuna,Real Madrid,0.0,0.0,100.0
+2010,21,Espanyol,Villarreal,41.2,17.6,41.2
+2010,21,Racing,Valencia,11.8,8.8,79.4
+2010,22,Athletic,Sporting Gij n,90.3,6.5,3.2
+2010,22,CA Osasuna,RCD Mallorca,35.5,22.6,41.9
+2010,22,UD Almer a,Espanyol,12.9,29.0,58.1
+2010,22,Getafe,Dep La Coru a,64.5,22.6,12.9
+2010,22,Real Zaragoza,Racing,77.4,16.1,6.5
+2010,22,Villarreal,Levante,96.8,3.2,0.0
+2010,22,FC Barcelona,Atl tico Madrid,96.8,3.2,0.0
+2010,22,Sevilla FC,M laga CF,90.3,3.2,6.5
+2010,22,Real Madrid,Real Sociedad,96.9,3.1,0.0
+2010,22,Valencia,H rcules CF,84.4,12.5,3.1
+2010,23,Atl tico Madrid,Valencia,40.6,25.0,34.4
+2010,23,Sporting Gij n,FC Barcelona,0.0,3.1,96.9
+2010,23,Racing,Sevilla FC,6.3,9.4,84.4
+2010,23,Levante,UD Almer a,50.0,30.0,20.0
+2010,23,M laga CF,Getafe,53.3,16.7,30.0
+2010,23,H rcules CF,Real Zaragoza,66.7,13.3,20.0
+2010,23,Real Sociedad,CA Osasuna,46.7,26.7,26.7
+2010,23,Dep La Coru a,Villarreal,25.0,28.1,46.9
+2010,23,Espanyol,Real Madrid,0.0,21.9,78.1
+2010,23,RCD Mallorca,Athletic,58.1,9.7,32.3
+2010,24,Valencia,Sporting Gij n,100.0,0.0,0.0
+2010,24,Real Madrid,Levante,100.0,0.0,0.0
+2010,24,Real Zaragoza,Atl tico Madrid,6.9,20.7,72.4
+2010,24,CA Osasuna,Espanyol,26.7,30.0,43.3
+2010,24,UD Almer a,Dep La Coru a,33.3,30.0,36.7
+2010,24,Villarreal,M laga CF,90.0,0.0,10.0
+2010,24,Getafe,Racing,73.3,16.7,10.0
+2010,24,Sevilla FC,H rcules CF,80.0,3.3,16.7
+2010,24,FC Barcelona,Athletic,100.0,0.0,0.0
+2010,24,Real Sociedad,RCD Mallorca,46.7,10.0,43.3
+2010,25,Atl tico Madrid,Sevilla FC,64.5,19.4,16.1
+2010,25,Espanyol,Real Sociedad,80.6,19.4,0.0
+2010,25,Sporting Gij n,Real Zaragoza,54.8,25.8,19.4
+2010,25,RCD Mallorca,FC Barcelona,0.0,6.5,93.5
+2010,25,Dep La Coru a,Real Madrid,0.0,0.0,100.0
+2010,25,Levante,CA Osasuna,66.7,16.7,16.7
+2010,25,H rcules CF,Getafe,63.3,20.0,16.7
+2010,25,Racing,Villarreal,13.3,23.3,63.3
+2010,25,Athletic,Valencia,30.0,20.0,50.0
+2010,25,M laga CF,UD Almer a,79.3,17.2,3.4
+2010,26,Espanyol,RCD Mallorca,72.7,9.1,18.2
+2010,26,Sevilla FC,Sporting Gij n,95.5,0.0,4.5
+2010,26,Real Sociedad,Levante,86.4,13.6,0.0
+2010,26,CA Osasuna,Dep La Coru a,45.5,31.8,22.7
+2010,26,Villarreal,H rcules CF,90.9,9.1,0.0
+2010,26,Getafe,Atl tico Madrid,27.3,18.2,54.5
+2010,26,Real Zaragoza,Athletic,36.4,36.4,27.3
+2010,26,Valencia,FC Barcelona,0.0,22.7,77.3
+2010,26,UD Almer a,Racing,64.0,8.0,28.0
+2010,26,Real Madrid,M laga CF,100.0,0.0,0.0
+2010,27,RCD Mallorca,Valencia,21.4,7.1,71.4
+2010,27,FC Barcelona,Real Zaragoza,100.0,0.0,0.0
+2010,27,Atl tico Madrid,Villarreal,44.8,34.5,20.7
+2010,27,Levante,Espanyol,23.3,23.3,53.3
+2010,27,M laga CF,CA Osasuna,63.3,20.0,16.7
+2010,27,H rcules CF,UD Almer a,73.3,13.3,13.3
+2010,27,Sporting Gij n,Getafe,33.3,20.0,46.7
+2010,27,Athletic,Sevilla FC,30.0,16.7,53.3
+2010,27,Racing,Real Madrid,0.0,0.0,100.0
+2010,27,Dep La Coru a,Real Sociedad,80.6,16.1,3.2
+2010,28,UD Almer a,Atl tico Madrid,6.5,12.9,80.6
+2010,28,Real Madrid,H rcules CF,100.0,0.0,0.0
+2010,28,Real Zaragoza,Valencia,6.5,29.0,64.5
+2010,28,Levante,RCD Mallorca,53.3,16.7,30.0
+2010,28,Espanyol,Dep La Coru a,73.3,20.0,6.7
+2010,28,Real Sociedad,M laga CF,60.0,23.3,16.7
+2010,28,CA Osasuna,Racing,63.3,23.3,13.3
+2010,28,Villarreal,Sporting Gij n,90.3,3.2,6.5
+2010,28,Sevilla FC,FC Barcelona,0.0,16.1,83.9
+2010,28,Getafe,Athletic,56.7,23.3,20.0
+2010,29,RCD Mallorca,Real Zaragoza,72.7,15.2,12.1
+2010,29,FC Barcelona,Getafe,97.0,3.0,0.0
+2010,29,Atl tico Madrid,Real Madrid,9.1,12.1,78.8
+2010,29,Dep La Coru a,Levante,87.9,6.1,6.1
+2010,29,M laga CF,Espanyol,27.3,18.2,54.5
+2010,29,Racing,Real Sociedad,66.7,15.2,18.2
+2010,29,H rcules CF,CA Osasuna,51.5,21.2,27.3
+2010,29,Sporting Gij n,UD Almer a,51.5,21.2,27.3
+2010,29,Athletic,Villarreal,21.2,21.2,57.6
+2010,29,Valencia,Sevilla FC,66.7,24.2,9.1
+2010,30,Real Madrid,Sporting Gij n,100.0,0.0,0.0
+2010,30,Getafe,Valencia,13.3,20.0,66.7
+2010,30,Villarreal,FC Barcelona,6.7,6.7,86.7
+2010,30,Dep La Coru a,RCD Mallorca,70.0,16.7,13.3
+2010,30,Levante,M laga CF,53.3,30.0,16.7
+2010,30,Espanyol,Racing,93.3,6.7,0.0
+2010,30,Real Sociedad,H rcules CF,70.0,16.7,13.3
+2010,30,Sevilla FC,Real Zaragoza,93.3,3.3,3.3
+2010,30,CA Osasuna,Atl tico Madrid,20.0,16.7,63.3
+2010,30,UD Almer a,Athletic,16.7,36.7,46.7
+2010,31,Athletic,Real Madrid,3.7,3.7,92.6
+2010,31,FC Barcelona,UD Almer a,96.4,0.0,3.6
+2010,31,RCD Mallorca,Sevilla FC,21.4,10.7,67.9
+2010,31,M laga CF,Dep La Coru a,51.7,20.7,27.6
+2010,31,Racing,Levante,58.6,27.6,13.8
+2010,31,H rcules CF,Espanyol,31.0,10.3,58.6
+2010,31,Sporting Gij n,CA Osasuna,65.5,20.7,13.8
+2010,31,Atl tico Madrid,Real Sociedad,93.1,6.9,0.0
+2010,31,Valencia,Villarreal,65.5,27.6,6.9
+2010,31,Real Zaragoza,Getafe,46.7,26.7,26.7
+2010,32,Getafe,Sevilla FC,6.9,13.8,79.3
+2010,32,M laga CF,RCD Mallorca,50.0,21.4,28.6
+2010,32,UD Almer a,Valencia,13.8,0.0,86.2
+2010,32,Real Madrid,FC Barcelona,20.7,34.5,44.8
+2010,32,Dep La Coru a,Racing,75.9,17.2,6.9
+2010,32,Levante,H rcules CF,62.1,13.8,24.1
+2010,32,Real Sociedad,Sporting Gij n,69.0,6.9,24.1
+2010,32,CA Osasuna,Athletic,40.0,33.3,26.7
+2010,32,Espanyol,Atl tico Madrid,36.7,20.0,43.3
+2010,32,Villarreal,Real Zaragoza,89.7,3.4,6.9
+2010,33,Valencia,Real Madrid,16.7,16.7,66.7
+2010,33,FC Barcelona,CA Osasuna,100.0,0.0,0.0
+2010,33,Athletic,Real Sociedad,93.3,6.7,0.0
+2010,33,RCD Mallorca,Getafe,65.5,24.1,10.3
+2010,33,Racing,M laga CF,58.6,24.1,17.2
+2010,33,H rcules CF,Dep La Coru a,27.6,27.6,44.8
+2010,33,Sporting Gij n,Espanyol,37.9,20.7,41.4
+2010,33,Atl tico Madrid,Levante,86.7,6.7,6.7
+2010,33,Sevilla FC,Villarreal,56.7,23.3,20.0
+2010,33,Real Zaragoza,UD Almer a,86.2,3.4,10.3
+2010,34,Real Madrid,Real Zaragoza,96.7,3.3,0.0
+2010,34,Real Sociedad,FC Barcelona,6.7,0.0,93.3
+2010,34,Dep La Coru a,Atl tico Madrid,33.3,26.7,40.0
+2010,34,UD Almer a,Sevilla FC,13.8,3.4,82.8
+2010,34,Racing,RCD Mallorca,62.1,20.7,17.2
+2010,34,M laga CF,H rcules CF,72.4,17.2,10.3
+2010,34,Levante,Sporting Gij n,48.3,17.2,34.5
+2010,34,Villarreal,Getafe,86.2,6.9,6.9
+2010,34,CA Osasuna,Valencia,13.8,17.2,69.0
+2010,34,Espanyol,Athletic,67.9,21.4,10.7
+2010,35,H rcules CF,Racing,32.3,32.3,35.5
+2010,35,Sporting Gij n,Dep La Coru a,45.2,29.0,25.8
+2010,35,Athletic,Levante,90.3,3.2,6.5
+2010,35,Valencia,Real Sociedad,87.1,6.5,6.5
+2010,35,Getafe,UD Almer a,93.5,6.5,0.0
+2010,35,Atl tico Madrid,M laga CF,93.5,3.2,3.2
+2010,35,Sevilla FC,Real Madrid,9.7,29.0,61.3
+2010,35,RCD Mallorca,Villarreal,40.0,23.3,36.7
+2010,35,FC Barcelona,Espanyol,96.7,3.3,0.0
+2010,35,Real Zaragoza,CA Osasuna,63.3,16.7,20.0
+2010,36,Dep La Coru a,Athletic,60.0,20.0,20.0
+2010,36,Racing,Atl tico Madrid,19.0,19.0,61.9
+2010,36,M laga CF,Sporting Gij n,57.1,14.3,28.6
+2010,36,Real Madrid,Getafe,100.0,0.0,0.0
+2010,36,UD Almer a,Villarreal,7.7,11.5,80.8
+2010,36,Levante,FC Barcelona,7.7,0.0,92.3
+2010,36,Real Sociedad,Real Zaragoza,69.2,23.1,7.7
+2010,36,H rcules CF,RCD Mallorca,26.9,26.9,46.2
+2010,36,Espanyol,Valencia,26.9,23.1,50.0
+2010,36,CA Osasuna,Sevilla FC,23.1,11.5,65.4
+2010,37,UD Almer a,RCD Mallorca,22.2,25.9,51.9
+2010,37,Atl tico Madrid,H rcules CF,92.9,7.1,0.0
+2010,37,Sporting Gij n,Racing,50.0,17.9,32.1
+2010,37,Athletic,M laga CF,85.7,14.3,0.0
+2010,37,FC Barcelona,Dep La Coru a,96.4,3.6,0.0
+2010,37,Valencia,Levante,89.3,10.7,0.0
+2010,37,Real Zaragoza,Espanyol,35.7,28.6,35.7
+2010,37,Sevilla FC,Real Sociedad,96.4,0.0,3.6
+2010,37,Getafe,CA Osasuna,57.1,28.6,14.3
+2010,37,Villarreal,Real Madrid,14.3,14.3,71.4
+2010,38,M laga CF,FC Barcelona,0.0,5.6,94.4
+2010,38,Real Madrid,UD Almer a,94.7,5.3,0.0
+2010,38,H rcules CF,Sporting Gij n,52.6,26.3,21.1
+2010,38,Racing,Athletic,57.9,21.1,21.1
+2010,38,Dep La Coru a,Valencia,44.4,11.1,44.4
+2010,38,RCD Mallorca,Atl tico Madrid,31.6,21.1,47.4
+2010,38,Levante,Real Zaragoza,42.1,36.8,21.1
+2010,38,Espanyol,Sevilla FC,31.6,21.1,47.4
+2010,38,Real Sociedad,Getafe,52.6,21.1,26.3
+2010,38,CA Osasuna,Villarreal,31.6,5.3,63.2

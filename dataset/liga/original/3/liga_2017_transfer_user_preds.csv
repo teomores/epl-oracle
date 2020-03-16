@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2017,1,CD Legan s,Alav s,33.1,46.0,20.9
+2017,1,Valencia,UD Las Palmas,88.0,8.4,3.6
+2017,1,Celta de Vigo,Real Sociedad,50.9,32.9,16.2
+2017,1,Girona,Atl tico Madrid,0.6,1.7,97.7
+2017,1,Sevilla FC,Espanyol,95.4,2.9,1.7
+2017,1,Athletic,Getafe,91.6,6.7,1.7
+2017,1,FC Barcelona,Real Betis,97.8,1.7,0.6
+2017,1,Dep La Coru a,Real Madrid,0.6,1.7,97.8
+2017,1,Levante,Villarreal,5.6,21.7,72.8
+2017,1,M laga CF,SD Eibar,69.6,22.7,7.7
+2017,2,Real Sociedad,Villarreal,63.8,21.9,14.4
+2017,2,Real Betis,Celta de Vigo,28.6,39.8,31.7
+2017,2,Alav s,FC Barcelona,1.7,0.6,97.7
+2017,2,Levante,Dep La Coru a,60.2,25.1,14.6
+2017,2,Girona,M laga CF,44.4,29.8,25.7
+2017,2,UD Las Palmas,Atl tico Madrid,2.3,6.4,91.3
+2017,2,SD Eibar,Athletic,24.0,36.9,39.1
+2017,2,Espanyol,CD Legan s,73.7,17.3,8.9
+2017,2,Getafe,Sevilla FC,2.8,18.4,78.8
+2017,2,Real Madrid,Valencia,96.1,2.2,1.7
+2017,3,CD Legan s,Getafe,71.8,19.0,9.2
+2017,3,Real Madrid,Levante,98.9,0.6,0.6
+2017,3,Valencia,Atl tico Madrid,9.0,30.9,60.1
+2017,3,Sevilla FC,SD Eibar,93.3,5.6,1.1
+2017,3,FC Barcelona,Espanyol,95.5,3.4,1.1
+2017,3,Dep La Coru a,Real Sociedad,8.5,23.9,67.6
+2017,3,Athletic,Girona,80.2,13.0,6.8
+2017,3,Celta de Vigo,Alav s,78.1,19.7,2.2
+2017,3,Villarreal,Real Betis,69.7,17.4,12.9
+2017,3,M laga CF,UD Las Palmas,66.1,25.0,8.9
+2017,4,SD Eibar,CD Legan s,49.7,25.9,24.5
+2017,4,Levante,Valencia,10.5,28.8,60.8
+2017,4,Getafe,FC Barcelona,0.0,1.3,98.7
+2017,4,Real Betis,Dep La Coru a,76.3,17.9,5.8
+2017,4,Atl tico Madrid,M laga CF,98.1,1.3,0.6
+2017,4,Alav s,Villarreal,6.4,25.0,68.6
+2017,4,Girona,Sevilla FC,3.2,14.6,82.2
+2017,4,UD Las Palmas,Athletic,10.2,18.5,71.3
+2017,4,Real Sociedad,Real Madrid,10.1,15.8,74.1
+2017,4,Espanyol,Celta de Vigo,46.9,31.9,21.3
+2017,5,Valencia,M laga CF,94.1,4.4,1.5
+2017,5,FC Barcelona,SD Eibar,99.3,0.7,0.0
+2017,5,Athletic,Atl tico Madrid,10.3,28.8,61.0
+2017,5,CD Legan s,Girona,74.7,17.1,8.2
+2017,5,Dep La Coru a,Alav s,79.5,15.1,5.5
+2017,5,Sevilla FC,UD Las Palmas,97.3,2.1,0.7
+2017,5,Real Madrid,Real Betis,97.9,1.4,0.7
+2017,5,Villarreal,Espanyol,90.6,4.7,4.7
+2017,5,Celta de Vigo,Getafe,65.1,24.8,10.1
+2017,5,Levante,Real Sociedad,6.8,22.3,70.9
+2017,6,Atl tico Madrid,Sevilla FC,81.3,17.2,1.5
+2017,6,Alav s,Real Madrid,0.0,1.5,98.5
+2017,6,M laga CF,Athletic,8.1,20.0,71.9
+2017,6,Girona,FC Barcelona,0.0,0.0,100.0
+2017,6,Espanyol,Dep La Coru a,69.5,23.4,7.1
+2017,6,Getafe,Villarreal,7.8,29.8,62.4
+2017,6,SD Eibar,Celta de Vigo,61.7,25.5,12.8
+2017,6,UD Las Palmas,CD Legan s,71.6,22.7,5.7
+2017,6,Real Sociedad,Valencia,41.5,26.1,32.4
+2017,6,Real Betis,Levante,78.5,13.9,7.6
+2017,7,Celta de Vigo,Girona,89.4,7.1,3.5
+2017,7,Dep La Coru a,Getafe,48.3,20.0,31.7
+2017,7,Sevilla FC,M laga CF,98.0,2.0,0.0
+2017,7,Levante,Alav s,87.3,8.7,4.0
+2017,7,CD Legan s,Atl tico Madrid,2.0,3.3,94.7
+2017,7,Real Sociedad,Real Betis,63.8,27.5,8.7
+2017,7,FC Barcelona,UD Las Palmas,98.0,1.3,0.7
+2017,7,Valencia,Athletic,81.5,16.6,2.0
+2017,7,Villarreal,SD Eibar,84.1,13.9,2.0
+2017,7,Real Madrid,Espanyol,98.7,0.7,0.7
+2017,8,Espanyol,Levante,70.6,23.5,5.9
+2017,8,Athletic,Sevilla FC,15.5,22.5,62.0
+2017,8,Getafe,Real Madrid,0.0,3.5,96.5
+2017,8,Alav s,Real Sociedad,4.9,9.1,86.0
+2017,8,Atl tico Madrid,FC Barcelona,18.8,35.4,45.8
+2017,8,SD Eibar,Dep La Coru a,42.7,36.4,21.0
+2017,8,Girona,Villarreal,4.2,14.6,81.3
+2017,8,M laga CF,CD Legan s,34.7,20.1,45.1
+2017,8,Real Betis,Valencia,13.1,33.8,53.1
+2017,8,UD Las Palmas,Celta de Vigo,29.0,33.8,37.2
+2017,9,Levante,Getafe,51.9,38.9,9.2
+2017,9,Real Betis,Alav s,92.4,5.3,2.3
+2017,9,Valencia,Sevilla FC,74.6,20.1,5.2
+2017,9,FC Barcelona,M laga CF,98.5,1.5,0.0
+2017,9,Villarreal,UD Las Palmas,96.2,2.3,1.5
+2017,9,Celta de Vigo,Atl tico Madrid,0.7,16.3,83.0
+2017,9,CD Legan s,Athletic,27.2,31.6,41.2
+2017,9,Real Madrid,SD Eibar,99.3,0.0,0.7
+2017,9,Real Sociedad,Espanyol,87.1,9.4,3.6
+2017,9,Dep La Coru a,Girona,69.8,25.9,4.3
+2017,10,Alav s,Valencia,0.0,0.8,99.2
+2017,10,Atl tico Madrid,Villarreal,92.7,7.3,0.0
+2017,10,Athletic,FC Barcelona,0.7,5.1,94.2
+2017,10,Sevilla FC,CD Legan s,83.9,10.2,5.8
+2017,10,Getafe,Real Sociedad,9.6,36.8,53.7
+2017,10,Girona,Real Madrid,0.0,1.4,98.6
+2017,10,SD Eibar,Levante,32.6,44.9,22.5
+2017,10,M laga CF,Celta de Vigo,15.2,14.5,70.3
+2017,10,Espanyol,Real Betis,42.1,30.0,27.9
+2017,10,UD Las Palmas,Dep La Coru a,36.4,45.0,18.6
+2017,11,Real Betis,Getafe,86.6,8.7,4.7
+2017,11,Valencia,CD Legan s,97.7,1.5,0.8
+2017,11,Dep La Coru a,Atl tico Madrid,3.8,6.2,90.0
+2017,11,Alav s,Espanyol,8.3,23.5,68.2
+2017,11,FC Barcelona,Sevilla FC,99.2,0.8,0.0
+2017,11,Levante,Girona,57.5,32.8,9.7
+2017,11,Celta de Vigo,Athletic,46.7,34.3,19.0
+2017,11,Villarreal,M laga CF,94.2,4.3,1.4
+2017,11,Real Sociedad,SD Eibar,93.5,4.3,2.2
+2017,11,Real Madrid,UD Las Palmas,100.0,0.0,0.0
+2017,12,Girona,Real Sociedad,16.8,36.8,46.4
+2017,12,Getafe,Alav s,89.6,7.2,3.2
+2017,12,CD Legan s,FC Barcelona,0.0,1.5,98.5
+2017,12,Sevilla FC,Celta de Vigo,94.6,4.6,0.8
+2017,12,Atl tico Madrid,Real Madrid,25.0,43.2,31.8
+2017,12,M laga CF,Dep La Coru a,40.2,29.5,30.3
+2017,12,Espanyol,Valencia,3.0,9.1,87.9
+2017,12,UD Las Palmas,Levante,28.0,45.5,26.5
+2017,12,Athletic,Villarreal,31.1,19.7,49.2
+2017,12,SD Eibar,Real Betis,16.4,17.9,65.7
+2017,13,Celta de Vigo,CD Legan s,73.0,13.9,13.1
+2017,13,Alav s,SD Eibar,30.2,46.0,23.8
+2017,13,Real Madrid,M laga CF,99.2,0.0,0.8
+2017,13,Real Betis,Girona,78.6,12.2,9.2
+2017,13,Levante,Atl tico Madrid,0.0,3.0,97.0
+2017,13,Dep La Coru a,Athletic,25.0,40.2,34.8
+2017,13,Real Sociedad,UD Las Palmas,95.5,4.5,0.0
+2017,13,Villarreal,Sevilla FC,51.1,31.6,17.3
+2017,13,Valencia,FC Barcelona,15.0,30.8,54.1
+2017,13,Espanyol,Getafe,62.2,24.4,13.3
+2017,14,M laga CF,Levante,52.0,27.6,20.3
+2017,14,FC Barcelona,Celta de Vigo,98.4,1.6,0.0
+2017,14,Atl tico Madrid,Real Sociedad,95.2,2.4,2.4
+2017,14,Sevilla FC,Dep La Coru a,95.3,3.1,1.6
+2017,14,Athletic,Real Madrid,2.3,6.3,91.4
+2017,14,CD Legan s,Villarreal,4.7,23.6,71.7
+2017,14,Getafe,Valencia,1.6,4.7,93.7
+2017,14,SD Eibar,Espanyol,46.5,41.7,11.8
+2017,14,UD Las Palmas,Real Betis,12.6,17.3,70.1
+2017,14,Girona,Alav s,86.6,9.4,3.9
+2017,15,Alav s,UD Las Palmas,41.9,43.5,14.5
+2017,15,Getafe,SD Eibar,80.8,12.0,7.2
+2017,15,Real Madrid,Sevilla FC,92.1,5.5,2.4
+2017,15,Dep La Coru a,CD Legan s,33.6,23.4,43.0
+2017,15,Valencia,Celta de Vigo,93.8,5.5,0.8
+2017,15,Real Sociedad,M laga CF,92.1,5.5,2.4
+2017,15,Real Betis,Atl tico Madrid,4.7,6.3,89.1
+2017,15,Levante,Athletic,27.6,40.9,31.5
+2017,15,Villarreal,FC Barcelona,0.8,11.7,87.5
+2017,15,Espanyol,Girona,63.2,27.8,9.0
+2017,16,Sevilla FC,Levante,98.4,1.6,0.0
+2017,16,Athletic,Real Sociedad,52.8,36.2,11.0
+2017,16,SD Eibar,Valencia,1.6,6.3,92.1
+2017,16,Atl tico Madrid,Alav s,99.2,0.8,0.0
+2017,16,Girona,Getafe,33.3,52.7,14.0
+2017,16,Celta de Vigo,Villarreal,27.9,34.1,38.0
+2017,16,UD Las Palmas,Espanyol,23.8,31.5,44.6
+2017,16,FC Barcelona,Dep La Coru a,97.7,2.3,0.0
+2017,16,M laga CF,Real Betis,30.1,21.1,48.9
+2017,16,CD Legan s,Real Madrid,2.1,4.2,93.7
+2017,17,Levante,CD Legan s,39.0,46.7,14.3
+2017,17,Getafe,UD Las Palmas,84.5,8.6,6.9
+2017,17,Real Sociedad,Sevilla FC,11.0,29.7,59.3
+2017,17,SD Eibar,Girona,58.3,35.0,6.7
+2017,17,Alav s,M laga CF,44.3,37.7,18.0
+2017,17,Real Betis,Athletic,37.4,29.8,32.8
+2017,17,Espanyol,Atl tico Madrid,0.8,2.3,97.0
+2017,17,Real Madrid,FC Barcelona,41.4,33.1,25.6
+2017,17,Valencia,Villarreal,91.0,6.0,3.0
+2017,17,Dep La Coru a,Celta de Vigo,26.1,34.3,39.6
+2017,18,Atl tico Madrid,Getafe,99.1,0.0,0.9
+2017,18,Valencia,Girona,97.3,1.8,0.9
+2017,18,UD Las Palmas,SD Eibar,15.9,17.7,66.4
+2017,18,Sevilla FC,Real Betis,88.5,8.8,2.7
+2017,18,CD Legan s,Real Sociedad,13.3,41.6,45.1
+2017,18,FC Barcelona,Levante,100.0,0.0,0.0
+2017,18,Athletic,Alav s,95.7,1.7,2.6
+2017,18,Villarreal,Dep La Coru a,94.0,4.3,1.7
+2017,18,Celta de Vigo,Real Madrid,1.7,5.9,92.4
+2017,18,M laga CF,Espanyol,22.2,55.6,22.2
+2017,19,Getafe,M laga CF,84.6,7.3,8.1
+2017,19,Girona,UD Las Palmas,80.3,14.8,4.9
+2017,19,Real Madrid,Villarreal,95.2,4.0,0.8
+2017,19,SD Eibar,Atl tico Madrid,1.6,11.1,87.3
+2017,19,Dep La Coru a,Valencia,2.3,13.3,84.4
+2017,19,Levante,Celta de Vigo,16.7,47.6,35.7
+2017,19,Alav s,Sevilla FC,1.6,9.4,89.0
+2017,19,Espanyol,Athletic,20.3,41.4,38.3
+2017,19,Real Sociedad,FC Barcelona,1.6,2.3,96.1
+2017,19,Real Betis,CD Legan s,71.2,25.0,3.8
+2017,20,Getafe,Athletic,39.4,33.1,27.6
+2017,20,Espanyol,Sevilla FC,12.3,16.2,71.5
+2017,20,Atl tico Madrid,Girona,100.0,0.0,0.0
+2017,20,Villarreal,Levante,96.2,3.0,0.8
+2017,20,UD Las Palmas,Valencia,0.8,0.8,98.5
+2017,20,Alav s,CD Legan s,41.9,43.4,14.7
+2017,20,Real Madrid,Dep La Coru a,97.8,2.2,0.0
+2017,20,Real Sociedad,Celta de Vigo,44.9,33.8,21.3
+2017,20,Real Betis,FC Barcelona,0.0,5.1,94.9
+2017,20,SD Eibar,M laga CF,86.1,7.3,6.6
+2017,21,Athletic,SD Eibar,72.9,22.5,4.7
+2017,21,Dep La Coru a,Levante,57.9,32.3,9.8
+2017,21,Valencia,Real Madrid,30.4,24.4,45.2
+2017,21,M laga CF,Girona,22.2,22.2,55.6
+2017,21,Villarreal,Real Sociedad,87.4,8.9,3.7
+2017,21,CD Legan s,Espanyol,40.6,43.5,15.9
+2017,21,Atl tico Madrid,UD Las Palmas,99.3,0.7,0.0
+2017,21,Sevilla FC,Getafe,94.9,2.9,2.2
+2017,21,FC Barcelona,Alav s,97.1,0.7,2.1
+2017,21,Celta de Vigo,Real Betis,75.4,19.0,5.6
+2017,22,Real Sociedad,Dep La Coru a,77.6,19.2,3.2
+2017,22,SD Eibar,Sevilla FC,11.6,31.8,56.6
+2017,22,Real Betis,Villarreal,12.8,21.1,66.2
+2017,22,Alav s,Celta de Vigo,15.7,18.7,65.7
+2017,22,Levante,Real Madrid,0.7,2.2,97.0
+2017,22,Getafe,CD Legan s,65.2,30.4,4.4
+2017,22,Espanyol,FC Barcelona,1.4,3.6,94.9
+2017,22,Girona,Athletic,30.4,43.5,26.1
+2017,22,Atl tico Madrid,Valencia,73.2,23.2,3.6
+2017,22,UD Las Palmas,M laga CF,46.0,30.2,23.7
+2017,23,Athletic,UD Las Palmas,93.0,4.7,2.3
+2017,23,Villarreal,Alav s,96.2,3.0,0.8
+2017,23,M laga CF,Atl tico Madrid,0.8,0.8,98.5
+2017,23,CD Legan s,SD Eibar,21.1,46.6,32.3
+2017,23,Real Madrid,Real Sociedad,91.9,6.7,1.5
+2017,23,Sevilla FC,Girona,87.3,10.4,2.2
+2017,23,FC Barcelona,Getafe,97.0,0.0,3.0
+2017,23,Celta de Vigo,Espanyol,80.6,14.9,4.5
+2017,23,Valencia,Levante,97.0,0.7,2.2
+2017,23,Dep La Coru a,Real Betis,11.2,36.6,52.2
+2017,24,Girona,CD Legan s,65.9,24.8,9.3
+2017,24,UD Las Palmas,Sevilla FC,3.1,3.8,93.1
+2017,24,SD Eibar,FC Barcelona,0.8,4.5,94.7
+2017,24,Alav s,Dep La Coru a,70.4,18.5,11.1
+2017,24,M laga CF,Valencia,3.7,5.2,91.1
+2017,24,Real Sociedad,Levante,81.3,15.7,3.0
+2017,24,Atl tico Madrid,Athletic,96.3,2.2,1.5
+2017,24,Espanyol,Villarreal,10.4,22.2,67.4
+2017,24,Real Betis,Real Madrid,3.7,7.4,88.9
+2017,24,Getafe,Celta de Vigo,27.9,52.9,19.1
+2017,25,Dep La Coru a,Espanyol,41.9,37.1,21.0
+2017,25,Celta de Vigo,SD Eibar,60.8,22.4,16.8
+2017,25,Real Madrid,Alav s,97.6,1.6,0.8
+2017,25,CD Legan s,UD Las Palmas,77.0,19.8,3.2
+2017,25,FC Barcelona,Girona,100.0,0.0,0.0
+2017,25,Villarreal,Getafe,78.0,18.9,3.1
+2017,25,Athletic,M laga CF,89.0,7.9,3.1
+2017,25,Valencia,Real Sociedad,96.9,1.6,1.6
+2017,25,Sevilla FC,Atl tico Madrid,4.0,33.6,62.4
+2017,25,Levante,Real Betis,8.8,25.6,65.6
+2017,26,Espanyol,Real Madrid,0.0,3.2,96.8
+2017,26,Girona,Celta de Vigo,49.0,32.3,18.8
+2017,26,Athletic,Valencia,14.7,41.2,44.1
+2017,26,Getafe,Dep La Coru a,80.4,14.7,4.9
+2017,26,M laga CF,Sevilla FC,4.9,4.9,90.2
+2017,26,SD Eibar,Villarreal,26.2,29.1,44.7
+2017,26,Atl tico Madrid,CD Legan s,97.1,1.0,1.9
+2017,26,Real Betis,Real Sociedad,67.3,17.3,15.5
+2017,26,UD Las Palmas,FC Barcelona,1.8,0.0,98.2
+2017,26,Alav s,Levante,67.3,29.1,3.6
+2017,27,Villarreal,Girona,88.4,10.7,0.9
+2017,27,Sevilla FC,Athletic,87.9,8.6,3.4
+2017,27,CD Legan s,M laga CF,69.0,18.1,12.9
+2017,27,Dep La Coru a,SD Eibar,19.0,23.3,57.8
+2017,27,Real Madrid,Getafe,97.4,2.6,0.0
+2017,27,Levante,Espanyol,9.8,42.6,47.5
+2017,27,FC Barcelona,Atl tico Madrid,69.7,22.1,8.2
+2017,27,Real Sociedad,Alav s,72.1,19.7,8.2
+2017,27,Valencia,Real Betis,92.7,5.7,1.6
+2017,27,Celta de Vigo,UD Las Palmas,85.5,9.7,4.8
+2017,28,Girona,Dep La Coru a,85.4,8.9,5.7
+2017,28,SD Eibar,Real Madrid,2.4,8.9,88.7
+2017,28,Sevilla FC,Valencia,38.8,47.3,14.0
+2017,28,Getafe,Levante,83.7,15.5,0.8
+2017,28,M laga CF,FC Barcelona,1.6,0.8,97.7
+2017,28,Espanyol,Real Sociedad,40.2,40.2,19.7
+2017,28,Atl tico Madrid,Celta de Vigo,96.9,2.3,0.8
+2017,28,UD Las Palmas,Villarreal,5.5,11.7,82.8
+2017,28,Athletic,CD Legan s,75.2,20.9,3.9
+2017,28,Alav s,Real Betis,16.8,31.3,51.9
+2017,29,Levante,SD Eibar,12.0,27.2,60.8
+2017,29,Dep La Coru a,UD Las Palmas,56.7,36.2,7.1
+2017,29,Valencia,Alav s,97.7,0.8,1.6
+2017,29,Real Sociedad,Getafe,66.7,19.4,14.0
+2017,29,Real Betis,Espanyol,68.0,18.0,14.1
+2017,29,CD Legan s,Sevilla FC,1.6,9.4,89.0
+2017,29,FC Barcelona,Athletic,96.1,3.1,0.8
+2017,29,Celta de Vigo,M laga CF,90.7,5.4,3.9
+2017,29,Villarreal,Atl tico Madrid,4.7,16.3,79.1
+2017,29,Real Madrid,Girona,93.8,6.2,0.0
+2017,30,Girona,Levante,85.7,10.1,4.2
+2017,30,Athletic,Celta de Vigo,61.2,31.4,7.4
+2017,30,UD Las Palmas,Real Madrid,0.0,2.5,97.5
+2017,30,Sevilla FC,FC Barcelona,6.5,11.4,82.1
+2017,30,Espanyol,Alav s,77.9,18.0,4.1
+2017,30,CD Legan s,Valencia,1.6,8.1,90.2
+2017,30,M laga CF,Villarreal,4.1,8.1,87.8
+2017,30,SD Eibar,Real Sociedad,57.7,30.9,11.4
+2017,30,Atl tico Madrid,Dep La Coru a,98.4,0.8,0.8
+2017,30,Getafe,Real Betis,23.8,56.6,19.7
+2017,31,Dep La Coru a,M laga CF,68.3,18.3,13.3
+2017,31,Alav s,Getafe,20.5,39.3,40.2
+2017,31,Celta de Vigo,Sevilla FC,22.8,25.2,52.0
+2017,31,Real Betis,SD Eibar,83.6,10.7,5.7
+2017,31,FC Barcelona,CD Legan s,98.4,0.8,0.8
+2017,31,Levante,UD Las Palmas,62.9,30.6,6.5
+2017,31,Real Madrid,Atl tico Madrid,67.2,21.6,11.2
+2017,31,Real Sociedad,Girona,44.0,21.6,34.4
+2017,31,Valencia,Espanyol,95.3,3.1,1.6
+2017,31,Villarreal,Athletic,79.2,18.5,2.3
+2017,32,Girona,Real Betis,32.2,34.7,33.1
+2017,32,Sevilla FC,Villarreal,77.4,18.5,4.0
+2017,32,FC Barcelona,Valencia,87.8,8.1,4.1
+2017,32,CD Legan s,Celta de Vigo,11.3,21.8,66.9
+2017,32,UD Las Palmas,Real Sociedad,9.7,19.4,71.0
+2017,32,Athletic,Dep La Coru a,91.1,4.8,4.0
+2017,32,SD Eibar,Alav s,77.8,15.9,6.3
+2017,32,Atl tico Madrid,Levante,99.2,0.0,0.8
+2017,32,Getafe,Espanyol,48.4,35.7,15.9
+2017,32,M laga CF,Real Madrid,0.0,1.6,98.4
+2017,33,Dep La Coru a,Sevilla FC,12.1,12.1,75.8
+2017,33,Celta de Vigo,FC Barcelona,5.0,5.9,89.1
+2017,33,Villarreal,CD Legan s,94.1,5.9,0.0
+2017,33,Valencia,Getafe,95.3,1.9,2.8
+2017,33,Espanyol,SD Eibar,48.6,42.1,9.3
+2017,33,Real Madrid,Athletic,97.2,2.8,0.0
+2017,33,Alav s,Girona,24.5,44.5,30.9
+2017,33,Real Sociedad,Atl tico Madrid,5.5,5.5,89.1
+2017,33,Levante,M laga CF,69.0,23.9,7.1
+2017,33,Real Betis,UD Las Palmas,96.5,2.7,0.9
+2017,34,CD Legan s,Dep La Coru a,62.5,21.2,16.3
+2017,34,SD Eibar,Getafe,46.8,34.9,18.3
+2017,34,Celta de Vigo,Valencia,9.9,18.9,71.2
+2017,34,Girona,Espanyol,76.6,15.3,8.1
+2017,34,M laga CF,Real Sociedad,10.8,10.8,78.4
+2017,34,UD Las Palmas,Alav s,39.6,27.0,33.3
+2017,34,Atl tico Madrid,Real Betis,91.9,7.2,0.9
+2017,34,Athletic,Levante,90.3,7.1,2.7
+2017,34,FC Barcelona,Villarreal,97.5,1.7,0.8
+2017,34,Sevilla FC,Real Madrid,10.7,21.5,67.8
+2017,35,Levante,Sevilla FC,6.3,12.6,81.1
+2017,35,Espanyol,UD Las Palmas,89.7,7.8,2.6
+2017,35,Real Sociedad,Athletic,64.4,28.0,7.6
+2017,35,Real Madrid,CD Legan s,98.3,1.7,0.0
+2017,35,Villarreal,Celta de Vigo,80.5,16.1,3.4
+2017,35,Getafe,Girona,56.3,37.8,5.9
+2017,35,Alav s,Atl tico Madrid,2.5,2.5,95.0
+2017,35,Valencia,SD Eibar,96.7,2.5,0.8
+2017,35,Dep La Coru a,FC Barcelona,2.5,0.8,96.7
+2017,35,Real Betis,M laga CF,96.7,2.5,0.8
+2017,36,Sevilla FC,Real Sociedad,78.1,14.9,7.0
+2017,36,Girona,SD Eibar,75.0,19.8,5.2
+2017,36,Athletic,Real Betis,27.4,22.2,50.4
+2017,36,Celta de Vigo,Dep La Coru a,91.5,2.5,5.9
+2017,36,Villarreal,Valencia,15.3,47.5,37.3
+2017,36,M laga CF,Alav s,22.0,25.4,52.5
+2017,36,Atl tico Madrid,Espanyol,98.4,0.8,0.8
+2017,36,UD Las Palmas,Getafe,12.4,9.1,78.5
+2017,36,FC Barcelona,Real Madrid,71.5,17.9,10.6
+2017,36,CD Legan s,Levante,52.1,37.2,10.7
+2017,37,Real Sociedad,CD Legan s,97.5,0.8,1.7
+2017,37,Real Betis,Sevilla FC,48.3,27.5,24.2
+2017,37,SD Eibar,UD Las Palmas,90.0,5.8,4.2
+2017,37,Girona,Valencia,10.0,20.0,70.0
+2017,37,Getafe,Atl tico Madrid,10.8,7.5,81.7
+2017,37,Dep La Coru a,Villarreal,4.2,5.0,90.8
+2017,37,Alav s,Athletic,28.3,32.5,39.2
+2017,37,Real Madrid,Celta de Vigo,95.8,2.5,1.7
+2017,37,Espanyol,M laga CF,85.4,10.6,4.1
+2017,37,Levante,FC Barcelona,1.6,0.8,97.6
+2017,38,Celta de Vigo,Levante,74.8,17.5,7.8
+2017,38,CD Legan s,Real Betis,7.1,12.4,80.5
+2017,38,Sevilla FC,Alav s,93.0,3.5,3.5
+2017,38,M laga CF,Getafe,9.6,12.3,78.1
+2017,38,UD Las Palmas,Girona,7.9,30.7,61.4
+2017,38,Villarreal,Real Madrid,11.4,21.9,66.7
+2017,38,Valencia,Dep La Coru a,97.4,2.6,0.0
+2017,38,Athletic,Espanyol,56.0,36.2,7.8
+2017,38,Atl tico Madrid,SD Eibar,96.6,1.7,1.7
+2017,38,FC Barcelona,Real Sociedad,94.9,3.4,1.7

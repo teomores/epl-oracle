@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2009,1,Bologna,Fiorentina,4.8,19.0,76.2
+2009,1,Siena,AC Milan,0.0,9.5,90.5
+2009,1,Inter,Bari,100.0,0.0,0.0
+2009,1,US Palermo,SSC Napoli,30.0,35.0,35.0
+2009,1,AS Livorno,Cagliari Calcio,40.0,30.0,30.0
+2009,1,Genoa,AS Roma,28.6,23.8,47.6
+2009,1,Catania,Sampdoria,30.0,35.0,35.0
+2009,1,Udinese,Parma,81.0,9.5,9.5
+2009,1,Lazio,Atalanta,95.2,4.8,0.0
+2009,1,Juventus,Chievo Verona,85.7,14.3,0.0
+2009,2,Bari,Bologna,36.8,36.8,26.3
+2009,2,AC Milan,Inter,20.0,55.0,25.0
+2009,2,AS Roma,Juventus,9.5,28.6,61.9
+2009,2,Atalanta,Genoa,19.0,28.6,52.4
+2009,2,Sampdoria,Udinese,54.5,31.8,13.6
+2009,2,SSC Napoli,AS Livorno,90.5,9.5,0.0
+2009,2,Fiorentina,US Palermo,72.7,22.7,4.5
+2009,2,Cagliari Calcio,Siena,42.9,38.1,19.0
+2009,2,Parma,Catania,81.0,14.3,4.8
+2009,2,Chievo Verona,Lazio,4.5,13.6,81.8
+2009,3,AS Livorno,AC Milan,0.0,4.5,95.5
+2009,3,Lazio,Juventus,9.1,27.3,63.6
+2009,3,Atalanta,Sampdoria,14.3,23.8,61.9
+2009,3,US Palermo,Bari,66.7,19.0,14.3
+2009,3,Fiorentina,Cagliari Calcio,81.0,9.5,9.5
+2009,3,Udinese,Catania,85.7,14.3,0.0
+2009,3,Siena,AS Roma,0.0,9.5,90.5
+2009,3,Inter,Parma,90.9,0.0,9.1
+2009,3,Bologna,Chievo Verona,52.4,38.1,9.5
+2009,3,Genoa,SSC Napoli,60.9,26.1,13.0
+2009,4,SSC Napoli,Udinese,63.2,10.5,26.3
+2009,4,Juventus,AS Livorno,100.0,0.0,0.0
+2009,4,Chievo Verona,Genoa,31.6,5.3,63.2
+2009,4,Sampdoria,Siena,75.0,20.0,5.0
+2009,4,Catania,Lazio,10.0,35.0,55.0
+2009,4,Cagliari Calcio,Inter,0.0,5.0,95.0
+2009,4,Bari,Atalanta,47.4,36.8,15.8
+2009,4,Parma,US Palermo,65.0,15.0,20.0
+2009,4,AC Milan,Bologna,95.0,0.0,5.0
+2009,4,AS Roma,Fiorentina,55.0,25.0,20.0
+2009,5,Atalanta,Catania,69.2,30.8,0.0
+2009,5,Udinese,AC Milan,7.7,38.5,53.8
+2009,5,Siena,Chievo Verona,23.1,30.8,46.2
+2009,5,US Palermo,AS Roma,7.7,23.1,69.2
+2009,5,Lazio,Parma,84.6,7.7,7.7
+2009,5,Inter,SSC Napoli,69.2,15.4,15.4
+2009,5,Fiorentina,Sampdoria,69.2,15.4,15.4
+2009,5,Bologna,AS Livorno,46.2,38.5,15.4
+2009,5,Bari,Cagliari Calcio,38.5,46.2,15.4
+2009,5,Genoa,Juventus,0.0,14.3,85.7
+2009,6,Sampdoria,Inter,12.5,12.5,75.0
+2009,6,AS Livorno,Fiorentina,12.5,6.3,81.3
+2009,6,Catania,AS Roma,0.0,5.9,94.1
+2009,6,Udinese,Genoa,29.4,41.2,29.4
+2009,6,Parma,Cagliari Calcio,82.4,17.6,0.0
+2009,6,SSC Napoli,Siena,88.2,11.8,0.0
+2009,6,Lazio,US Palermo,70.6,17.6,11.8
+2009,6,Juventus,Bologna,100.0,0.0,0.0
+2009,6,Chievo Verona,Atalanta,64.7,35.3,0.0
+2009,6,AC Milan,Bari,88.9,5.6,5.6
+2009,7,Bari,Catania,44.4,50.0,5.6
+2009,7,Inter,Udinese,95.0,0.0,5.0
+2009,7,Atalanta,AC Milan,0.0,35.0,65.0
+2009,7,Fiorentina,Lazio,65.0,30.0,5.0
+2009,7,Cagliari Calcio,Chievo Verona,36.8,31.6,31.6
+2009,7,Siena,AS Livorno,57.9,31.6,10.5
+2009,7,Sampdoria,Parma,63.2,26.3,10.5
+2009,7,AS Roma,SSC Napoli,85.0,15.0,0.0
+2009,7,Bologna,Genoa,15.8,5.3,78.9
+2009,7,US Palermo,Juventus,20.0,5.0,75.0
+2009,8,Juventus,Fiorentina,94.7,5.3,0.0
+2009,8,Genoa,Inter,10.5,36.8,52.6
+2009,8,Chievo Verona,Bari,50.0,38.9,11.1
+2009,8,Udinese,Atalanta,100.0,0.0,0.0
+2009,8,Parma,Siena,72.2,22.2,5.6
+2009,8,SSC Napoli,Bologna,77.8,22.2,0.0
+2009,8,AS Livorno,US Palermo,5.6,44.4,50.0
+2009,8,Catania,Cagliari Calcio,33.3,22.2,44.4
+2009,8,Lazio,Sampdoria,21.1,26.3,52.6
+2009,8,AC Milan,AS Roma,42.1,47.4,10.5
+2009,9,Sampdoria,Bologna,82.4,5.9,11.8
+2009,9,Inter,Catania,94.1,5.9,0.0
+2009,9,Atalanta,Parma,43.8,18.8,37.5
+2009,9,Siena,Juventus,0.0,5.9,94.1
+2009,9,AS Roma,AS Livorno,100.0,0.0,0.0
+2009,9,US Palermo,Udinese,37.5,37.5,25.0
+2009,9,Fiorentina,SSC Napoli,82.4,5.9,11.8
+2009,9,Cagliari Calcio,Genoa,12.5,31.3,56.3
+2009,9,Bari,Lazio,6.3,43.8,50.0
+2009,9,Chievo Verona,AC Milan,5.6,11.1,83.3
+2009,10,Bologna,Siena,83.3,8.3,8.3
+2009,10,Udinese,AS Roma,16.7,16.7,66.7
+2009,10,Parma,Bari,41.7,41.7,16.7
+2009,10,SSC Napoli,AC Milan,75.0,16.7,8.3
+2009,10,AS Livorno,Atalanta,8.3,25.0,66.7
+2009,10,Lazio,Cagliari Calcio,75.0,8.3,16.7
+2009,10,Juventus,Sampdoria,83.3,16.7,0.0
+2009,10,Genoa,Fiorentina,33.3,50.0,16.7
+2009,10,Catania,Chievo Verona,8.3,50.0,41.7
+2009,10,Inter,US Palermo,61.5,38.5,0.0
+2009,11,Juventus,SSC Napoli,89.5,10.5,0.0
+2009,11,AC Milan,Parma,94.7,0.0,5.3
+2009,11,AS Livorno,Inter,0.0,5.6,94.4
+2009,11,Fiorentina,Catania,94.1,0.0,5.9
+2009,11,Cagliari Calcio,Atalanta,29.4,47.1,23.5
+2009,11,Siena,Lazio,11.1,22.2,66.7
+2009,11,Sampdoria,Bari,88.2,11.8,0.0
+2009,11,AS Roma,Bologna,94.1,5.9,0.0
+2009,11,Chievo Verona,Udinese,11.8,29.4,58.8
+2009,11,US Palermo,Genoa,61.1,16.7,22.2
+2009,12,Catania,SSC Napoli,5.9,11.8,82.4
+2009,12,Atalanta,Juventus,0.0,5.9,94.1
+2009,12,Udinese,Fiorentina,16.7,44.4,38.9
+2009,12,Parma,Chievo Verona,72.2,16.7,11.1
+2009,12,Genoa,Siena,77.8,22.2,0.0
+2009,12,Cagliari Calcio,Sampdoria,16.7,38.9,44.4
+2009,12,Bari,AS Livorno,50.0,44.4,5.6
+2009,12,Lazio,AC Milan,16.7,11.1,72.2
+2009,12,Bologna,US Palermo,33.3,27.8,38.9
+2009,12,Inter,AS Roma,61.1,22.2,16.7
+2009,13,Bologna,Inter,0.0,5.0,95.0
+2009,13,Fiorentina,Parma,73.7,21.1,5.3
+2009,13,Siena,Atalanta,15.8,52.6,31.6
+2009,13,Sampdoria,Chievo Verona,84.2,15.8,0.0
+2009,13,AS Roma,Bari,100.0,0.0,0.0
+2009,13,US Palermo,Catania,63.2,36.8,0.0
+2009,13,SSC Napoli,Lazio,57.9,36.8,5.3
+2009,13,AC Milan,Cagliari Calcio,95.0,5.0,0.0
+2009,13,AS Livorno,Genoa,10.5,42.1,47.4
+2009,13,Juventus,Udinese,90.0,10.0,0.0
+2009,14,Udinese,AS Livorno,86.7,13.3,0.0
+2009,14,Genoa,Sampdoria,31.3,50.0,18.8
+2009,14,Atalanta,AS Roma,0.0,18.8,81.3
+2009,14,Parma,SSC Napoli,31.3,50.0,18.8
+2009,14,Lazio,Bologna,93.3,6.7,0.0
+2009,14,Inter,Fiorentina,81.3,12.5,6.3
+2009,14,Chievo Verona,US Palermo,20.0,33.3,46.7
+2009,14,Cagliari Calcio,Juventus,0.0,6.3,93.8
+2009,14,Bari,Siena,73.3,20.0,6.7
+2009,14,Catania,AC Milan,0.0,0.0,100.0
+2009,15,AC Milan,Sampdoria,75.0,18.8,6.3
+2009,15,Juventus,Inter,31.3,50.0,18.8
+2009,15,US Palermo,Cagliari Calcio,52.9,29.4,17.6
+2009,15,AS Livorno,Chievo Verona,23.5,58.8,17.6
+2009,15,Genoa,Parma,72.2,5.6,22.2
+2009,15,Fiorentina,Atalanta,100.0,0.0,0.0
+2009,15,Siena,Catania,52.9,29.4,17.6
+2009,15,SSC Napoli,Bari,83.3,5.6,11.1
+2009,15,Bologna,Udinese,29.4,17.6,52.9
+2009,15,AS Roma,Lazio,66.7,22.2,11.1
+2009,16,Cagliari Calcio,SSC Napoli,11.8,47.1,41.2
+2009,16,Bari,Juventus,0.0,11.8,88.2
+2009,16,Atalanta,Inter,5.0,5.0,90.0
+2009,16,Siena,Udinese,5.3,52.6,42.1
+2009,16,Parma,Bologna,89.5,10.5,0.0
+2009,16,Catania,AS Livorno,26.3,47.4,26.3
+2009,16,AC Milan,US Palermo,95.0,5.0,0.0
+2009,16,Lazio,Genoa,42.1,26.3,31.6
+2009,16,Chievo Verona,Fiorentina,0.0,5.3,94.7
+2009,16,Sampdoria,AS Roma,20.0,50.0,30.0
+2009,17,AS Roma,Parma,78.9,15.8,5.3
+2009,17,US Palermo,Siena,72.2,16.7,11.1
+2009,17,SSC Napoli,Chievo Verona,83.3,5.6,11.1
+2009,17,AS Livorno,Sampdoria,5.6,11.1,83.3
+2009,17,Juventus,Catania,100.0,0.0,0.0
+2009,17,Inter,Lazio,84.2,15.8,0.0
+2009,17,Bologna,Atalanta,66.7,16.7,16.7
+2009,17,Genoa,Bari,66.7,22.2,11.1
+2009,17,Udinese,Cagliari Calcio,66.7,22.2,11.1
+2009,17,Fiorentina,AC Milan,26.3,42.1,31.6
+2009,18,Chievo Verona,Inter,0.0,11.1,88.9
+2009,18,Siena,Fiorentina,16.7,0.0,83.3
+2009,18,Catania,Bologna,8.3,58.3,33.3
+2009,18,Cagliari Calcio,AS Roma,0.0,16.7,83.3
+2009,18,Bari,Udinese,41.7,25.0,33.3
+2009,18,Sampdoria,US Palermo,50.0,25.0,25.0
+2009,18,Parma,Juventus,8.3,41.7,50.0
+2009,18,Lazio,AS Livorno,91.7,0.0,8.3
+2009,18,Atalanta,SSC Napoli,16.7,50.0,33.3
+2009,18,AC Milan,Genoa,75.0,25.0,0.0
+2009,19,AS Roma,Chievo Verona,100.0,0.0,0.0
+2009,19,Inter,Siena,100.0,0.0,0.0
+2009,19,Bologna,Cagliari Calcio,41.7,50.0,8.3
+2009,19,Udinese,Lazio,41.7,58.3,0.0
+2009,19,US Palermo,Atalanta,91.7,8.3,0.0
+2009,19,SSC Napoli,Sampdoria,83.3,16.7,0.0
+2009,19,AS Livorno,Parma,0.0,8.3,91.7
+2009,19,Genoa,Catania,83.3,16.7,0.0
+2009,19,Fiorentina,Bari,83.3,16.7,0.0
+2009,19,Juventus,AC Milan,38.5,46.2,15.4
+2009,20,Cagliari Calcio,AS Livorno,66.7,25.0,8.3
+2009,20,Bari,Inter,0.0,6.7,93.3
+2009,20,Atalanta,Lazio,14.3,35.7,50.0
+2009,20,Sampdoria,Catania,78.6,21.4,0.0
+2009,20,AS Roma,Genoa,80.0,20.0,0.0
+2009,20,Parma,Udinese,64.3,21.4,14.3
+2009,20,AC Milan,Siena,85.7,7.1,7.1
+2009,20,Fiorentina,Bologna,92.9,7.1,0.0
+2009,20,Chievo Verona,Juventus,0.0,13.3,86.7
+2009,20,SSC Napoli,US Palermo,80.0,13.3,6.7
+2009,21,Catania,Parma,31.3,18.8,50.0
+2009,21,Juventus,AS Roma,37.5,50.0,12.5
+2009,21,Bologna,Bari,26.7,53.3,20.0
+2009,21,Udinese,Sampdoria,56.3,37.5,6.3
+2009,21,Siena,Cagliari Calcio,13.3,40.0,46.7
+2009,21,US Palermo,Fiorentina,25.0,18.8,56.3
+2009,21,AS Livorno,SSC Napoli,6.7,33.3,60.0
+2009,21,Lazio,Chievo Verona,81.3,12.5,6.3
+2009,21,Genoa,Atalanta,81.3,12.5,6.3
+2009,21,Inter,AC Milan,50.0,37.5,12.5
+2009,22,Bari,US Palermo,25.0,37.5,37.5
+2009,22,SSC Napoli,Genoa,76.5,5.9,17.6
+2009,22,Sampdoria,Atalanta,81.3,12.5,6.3
+2009,22,AS Roma,Siena,100.0,0.0,0.0
+2009,22,AC Milan,AS Livorno,100.0,0.0,0.0
+2009,22,Chievo Verona,Bologna,56.3,37.5,6.3
+2009,22,Catania,Udinese,31.3,37.5,31.3
+2009,22,Cagliari Calcio,Fiorentina,17.6,11.8,70.6
+2009,22,Juventus,Lazio,94.1,5.9,0.0
+2009,22,Parma,Inter,0.0,35.3,64.7
+2009,23,US Palermo,Parma,55.6,22.2,22.2
+2009,23,AS Livorno,Juventus,0.0,11.1,88.9
+2009,23,Atalanta,Bari,23.5,52.9,23.5
+2009,23,Genoa,Chievo Verona,88.2,5.9,5.9
+2009,23,Udinese,SSC Napoli,29.4,29.4,41.2
+2009,23,Siena,Sampdoria,5.9,35.3,58.8
+2009,23,Lazio,Catania,94.1,5.9,0.0
+2009,23,Inter,Cagliari Calcio,94.4,5.6,0.0
+2009,23,Bologna,AC Milan,0.0,16.7,83.3
+2009,23,Fiorentina,AS Roma,27.8,38.9,33.3
+2009,24,AC Milan,Udinese,100.0,0.0,0.0
+2009,24,AS Roma,US Palermo,87.5,12.5,0.0
+2009,24,Sampdoria,Fiorentina,31.3,37.5,31.3
+2009,24,Chievo Verona,Siena,53.3,40.0,6.7
+2009,24,AS Livorno,Bologna,26.7,60.0,13.3
+2009,24,Catania,Atalanta,53.3,33.3,13.3
+2009,24,Cagliari Calcio,Bari,53.3,26.7,20.0
+2009,24,Parma,Lazio,68.8,12.5,18.8
+2009,24,Juventus,Genoa,87.5,12.5,0.0
+2009,24,SSC Napoli,Inter,18.8,12.5,68.8
+2009,25,Genoa,Udinese,70.6,17.6,11.8
+2009,25,Inter,Sampdoria,88.2,11.8,0.0
+2009,25,Atalanta,Chievo Verona,43.8,56.3,0.0
+2009,25,Siena,SSC Napoli,6.3,12.5,81.3
+2009,25,AS Roma,Catania,100.0,0.0,0.0
+2009,25,US Palermo,Lazio,62.5,18.8,18.8
+2009,25,Fiorentina,AS Livorno,87.5,12.5,0.0
+2009,25,Cagliari Calcio,Parma,43.8,25.0,31.3
+2009,25,Bologna,Juventus,0.0,11.8,88.2
+2009,25,Bari,AC Milan,5.9,11.8,82.4
+2009,26,Catania,Bari,22.2,50.0,27.8
+2009,26,Lazio,Fiorentina,31.6,21.1,47.4
+2009,26,Udinese,Inter,0.0,10.5,89.5
+2009,26,Parma,Sampdoria,61.1,11.1,27.8
+2009,26,SSC Napoli,AS Roma,42.1,15.8,42.1
+2009,26,AC Milan,Atalanta,94.7,5.3,0.0
+2009,26,AS Livorno,Siena,55.6,38.9,5.6
+2009,26,Genoa,Bologna,77.8,11.1,11.1
+2009,26,Chievo Verona,Cagliari Calcio,27.8,38.9,33.3
+2009,26,Juventus,US Palermo,89.5,10.5,0.0
+2009,27,Fiorentina,Juventus,23.5,41.2,35.3
+2009,27,AS Roma,AC Milan,41.2,47.1,11.8
+2009,27,Atalanta,Udinese,31.3,31.3,37.5
+2009,27,US Palermo,AS Livorno,93.8,6.3,0.0
+2009,27,Cagliari Calcio,Catania,68.8,31.3,0.0
+2009,27,Bari,Chievo Verona,56.3,31.3,12.5
+2009,27,Siena,Parma,12.5,25.0,62.5
+2009,27,Sampdoria,Lazio,76.5,11.8,11.8
+2009,27,Bologna,SSC Napoli,18.8,18.8,62.5
+2009,27,Inter,Genoa,76.5,23.5,0.0
+2009,28,Catania,Inter,0.0,0.0,100.0
+2009,28,SSC Napoli,Fiorentina,56.3,31.3,12.5
+2009,28,Bologna,Sampdoria,33.3,33.3,33.3
+2009,28,Udinese,US Palermo,33.3,53.3,13.3
+2009,28,Parma,Atalanta,66.7,33.3,0.0
+2009,28,AS Livorno,AS Roma,0.0,0.0,100.0
+2009,28,Genoa,Cagliari Calcio,73.3,20.0,6.7
+2009,28,Lazio,Bari,68.8,25.0,6.3
+2009,28,Juventus,Siena,100.0,0.0,0.0
+2009,28,AC Milan,Chievo Verona,100.0,0.0,0.0
+2009,29,Fiorentina,Genoa,82.4,17.6,0.0
+2009,29,AS Roma,Udinese,100.0,0.0,0.0
+2009,29,US Palermo,Inter,11.8,29.4,58.8
+2009,29,Atalanta,AS Livorno,56.3,25.0,18.8
+2009,29,Siena,Bologna,25.0,31.3,43.8
+2009,29,AC Milan,SSC Napoli,76.5,11.8,11.8
+2009,29,Chievo Verona,Catania,50.0,31.3,18.8
+2009,29,Cagliari Calcio,Lazio,50.0,18.8,31.3
+2009,29,Bari,Parma,25.0,50.0,25.0
+2009,29,Sampdoria,Juventus,17.6,23.5,58.8
+2009,30,Atalanta,Cagliari Calcio,50.0,30.0,20.0
+2009,30,Udinese,Chievo Verona,90.0,0.0,10.0
+2009,30,Parma,AC Milan,20.0,20.0,60.0
+2009,30,Lazio,Siena,80.0,20.0,0.0
+2009,30,Inter,AS Livorno,100.0,0.0,0.0
+2009,30,Genoa,US Palermo,20.0,60.0,20.0
+2009,30,Catania,Fiorentina,10.0,40.0,50.0
+2009,30,Bologna,AS Roma,0.0,20.0,80.0
+2009,30,Bari,Sampdoria,10.0,60.0,30.0
+2009,30,SSC Napoli,Juventus,28.6,28.6,42.9
+2009,31,AS Roma,Inter,33.3,38.9,27.8
+2009,31,US Palermo,Bologna,88.9,5.6,5.6
+2009,31,Chievo Verona,Parma,27.8,61.1,11.1
+2009,31,Siena,Genoa,22.2,16.7,61.1
+2009,31,Sampdoria,Cagliari Calcio,77.8,22.2,0.0
+2009,31,SSC Napoli,Catania,88.9,5.6,5.6
+2009,31,AS Livorno,Bari,11.1,44.4,44.4
+2009,31,Juventus,Atalanta,100.0,0.0,0.0
+2009,31,Fiorentina,Udinese,73.7,26.3,0.0
+2009,31,AC Milan,Lazio,95.0,5.0,0.0
+2009,32,Atalanta,Siena,54.5,36.4,9.1
+2009,32,Genoa,AS Livorno,72.7,22.7,4.5
+2009,32,Cagliari Calcio,AC Milan,0.0,13.0,87.0
+2009,32,Bari,AS Roma,0.0,13.0,87.0
+2009,32,Parma,Fiorentina,13.6,22.7,63.6
+2009,32,Lazio,SSC Napoli,40.9,31.8,27.3
+2009,32,Inter,Bologna,95.7,4.3,0.0
+2009,32,Chievo Verona,Sampdoria,9.1,36.4,54.5
+2009,32,Catania,US Palermo,9.1,27.3,63.6
+2009,32,Udinese,Juventus,8.7,34.8,56.5
+2009,33,SSC Napoli,Parma,81.8,4.5,13.6
+2009,33,Fiorentina,Inter,0.0,50.0,50.0
+2009,33,Bologna,Lazio,19.0,19.0,61.9
+2009,33,Siena,Bari,22.7,36.4,40.9
+2009,33,US Palermo,Chievo Verona,86.4,9.1,4.5
+2009,33,AS Livorno,Udinese,23.8,28.6,47.6
+2009,33,AS Roma,Atalanta,100.0,0.0,0.0
+2009,33,AC Milan,Catania,100.0,0.0,0.0
+2009,33,Juventus,Cagliari Calcio,90.9,9.1,0.0
+2009,33,Sampdoria,Genoa,45.5,36.4,18.2
+2009,34,Inter,Juventus,62.5,16.7,20.8
+2009,34,Chievo Verona,AS Livorno,61.9,28.6,9.5
+2009,34,Atalanta,Fiorentina,13.0,8.7,78.3
+2009,34,Udinese,Bologna,59.1,22.7,18.2
+2009,34,Sampdoria,AC Milan,4.2,45.8,50.0
+2009,34,Parma,Genoa,72.7,13.6,13.6
+2009,34,Catania,Siena,65.2,26.1,8.7
+2009,34,Cagliari Calcio,US Palermo,4.3,30.4,65.2
+2009,34,Bari,SSC Napoli,13.0,47.8,39.1
+2009,34,Lazio,AS Roma,0.0,29.2,70.8
+2009,35,Inter,Atalanta,100.0,0.0,0.0
+2009,35,US Palermo,AC Milan,27.8,33.3,38.9
+2009,35,Bologna,Parma,47.1,23.5,29.4
+2009,35,Udinese,Siena,88.2,5.9,5.9
+2009,35,SSC Napoli,Cagliari Calcio,76.5,17.6,5.9
+2009,35,AS Livorno,Catania,23.5,41.2,35.3
+2009,35,Juventus,Bari,88.9,11.1,0.0
+2009,35,Genoa,Lazio,58.8,23.5,17.6
+2009,35,Fiorentina,Chievo Verona,100.0,0.0,0.0
+2009,35,AS Roma,Sampdoria,94.4,5.6,0.0
+2009,36,Parma,AS Roma,4.8,19.0,76.2
+2009,36,AC Milan,Fiorentina,71.4,23.8,4.8
+2009,36,Siena,US Palermo,10.0,5.0,85.0
+2009,36,Catania,Juventus,0.0,14.3,85.7
+2009,36,Cagliari Calcio,Udinese,40.0,20.0,40.0
+2009,36,Bari,Genoa,45.0,15.0,40.0
+2009,36,Sampdoria,AS Livorno,95.0,0.0,5.0
+2009,36,Chievo Verona,SSC Napoli,5.0,35.0,60.0
+2009,36,Atalanta,Bologna,45.0,45.0,10.0
+2009,36,Lazio,Inter,4.8,28.6,66.7
+2009,37,Juventus,Parma,84.2,10.5,5.3
+2009,37,Genoa,AC Milan,10.5,26.3,63.2
+2009,37,Fiorentina,Siena,89.5,5.3,5.3
+2009,37,Udinese,Bari,73.7,15.8,10.5
+2009,37,US Palermo,Sampdoria,47.4,31.6,21.1
+2009,37,SSC Napoli,Atalanta,73.7,21.1,5.3
+2009,37,AS Livorno,Lazio,5.3,15.8,78.9
+2009,37,Inter,Chievo Verona,100.0,0.0,0.0
+2009,37,Bologna,Catania,31.6,47.4,21.1
+2009,37,AS Roma,Cagliari Calcio,100.0,0.0,0.0
+2009,38,AC Milan,Juventus,70.0,0.0,30.0
+2009,38,Lazio,Udinese,60.0,20.0,20.0
+2009,38,Atalanta,US Palermo,20.0,20.0,60.0
+2009,38,Siena,Inter,0.0,0.0,100.0
+2009,38,Sampdoria,SSC Napoli,30.0,50.0,20.0
+2009,38,Parma,AS Livorno,80.0,10.0,10.0
+2009,38,Chievo Verona,AS Roma,0.0,0.0,100.0
+2009,38,Catania,Genoa,30.0,30.0,40.0
+2009,38,Cagliari Calcio,Bologna,90.0,0.0,10.0
+2009,38,Bari,Fiorentina,0.0,30.0,70.0

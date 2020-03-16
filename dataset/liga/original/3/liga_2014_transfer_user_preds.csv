@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2014,1,M laga CF,Athletic,24.7,24.7,50.7
+2014,1,Sevilla FC,Valencia,61.3,24.4,14.3
+2014,1,Granada CF,Dep La Coru a,42.4,33.6,24.0
+2014,1,UD Almer a,Espanyol,14.2,28.9,56.9
+2014,1,SD Eibar,Real Sociedad,3.2,8.1,88.7
+2014,1,FC Barcelona,Elche CF,100.0,0.0,0.0
+2014,1,Celta de Vigo,Getafe,51.1,26.9,22.0
+2014,1,Levante,Villarreal,14.9,24.9,60.2
+2014,1,Real Madrid,C rdoba CF,99.6,0.4,0.0
+2014,1,Rayo Vallecano,Atl tico Madrid,0.4,3.9,95.6
+2014,2,Getafe,UD Almer a,79.7,13.9,6.4
+2014,2,Valencia,M laga CF,84.5,11.1,4.3
+2014,2,Athletic,Levante,93.8,6.3,0.0
+2014,2,C rdoba CF,Celta de Vigo,8.0,27.2,64.7
+2014,2,Atl tico Madrid,SD Eibar,98.7,1.3,0.0
+2014,2,Espanyol,Sevilla FC,15.2,26.3,58.5
+2014,2,Villarreal,FC Barcelona,0.9,7.0,92.1
+2014,2,Dep La Coru a,Rayo Vallecano,56.8,33.0,10.1
+2014,2,Real Sociedad,Real Madrid,1.8,6.1,92.1
+2014,2,Elche CF,Granada CF,30.2,46.7,23.1
+2014,3,UD Almer a,C rdoba CF,66.8,25.7,7.5
+2014,3,FC Barcelona,Athletic,96.3,2.3,1.4
+2014,3,M laga CF,Levante,91.2,8.3,0.5
+2014,3,Real Madrid,Atl tico Madrid,53.9,33.6,12.4
+2014,3,Celta de Vigo,Real Sociedad,28.6,26.3,45.2
+2014,3,Rayo Vallecano,Elche CF,68.8,23.9,7.3
+2014,3,Valencia,Espanyol,95.0,4.1,0.9
+2014,3,Sevilla FC,Getafe,91.9,5.4,2.7
+2014,3,Granada CF,Villarreal,14.9,29.9,55.2
+2014,3,SD Eibar,Dep La Coru a,28.5,38.5,33.0
+2014,4,Elche CF,SD Eibar,63.6,32.6,3.8
+2014,4,Dep La Coru a,Real Madrid,1.5,3.1,95.4
+2014,4,Athletic,Granada CF,89.8,7.1,3.0
+2014,4,Atl tico Madrid,Celta de Vigo,96.4,2.0,1.5
+2014,4,Espanyol,M laga CF,28.8,41.9,29.3
+2014,4,Real Sociedad,UD Almer a,91.5,5.0,3.5
+2014,4,Villarreal,Rayo Vallecano,92.9,5.6,1.5
+2014,4,C rdoba CF,Sevilla FC,3.0,7.0,89.9
+2014,4,Levante,FC Barcelona,0.0,0.0,100.0
+2014,4,Getafe,Valencia,1.0,14.1,84.9
+2014,5,Real Madrid,Elche CF,98.9,1.1,0.0
+2014,5,Celta de Vigo,Dep La Coru a,70.3,22.3,7.4
+2014,5,Rayo Vallecano,Athletic,3.3,26.0,70.7
+2014,5,SD Eibar,Villarreal,7.2,20.6,72.2
+2014,5,UD Almer a,Atl tico Madrid,0.6,1.7,97.8
+2014,5,M laga CF,FC Barcelona,0.6,1.1,98.3
+2014,5,Granada CF,Levante,66.7,21.7,11.7
+2014,5,Sevilla FC,Real Sociedad,85.5,12.3,2.2
+2014,5,Espanyol,Getafe,59.3,29.7,11.0
+2014,5,Valencia,C rdoba CF,96.2,2.2,1.6
+2014,6,Elche CF,Celta de Vigo,19.4,36.6,44.0
+2014,6,Villarreal,Real Madrid,0.5,9.1,90.4
+2014,6,FC Barcelona,Granada CF,100.0,0.0,0.0
+2014,6,Atl tico Madrid,Sevilla FC,74.1,21.2,4.8
+2014,6,Levante,Rayo Vallecano,44.4,41.7,13.9
+2014,6,Athletic,SD Eibar,86.2,7.4,6.4
+2014,6,Getafe,M laga CF,16.1,31.2,52.7
+2014,6,Dep La Coru a,UD Almer a,69.3,21.7,9.0
+2014,6,Real Sociedad,Valencia,14.7,19.5,65.8
+2014,6,C rdoba CF,Espanyol,15.8,36.3,47.9
+2014,7,Getafe,C rdoba CF,91.6,7.3,1.1
+2014,7,Valencia,Atl tico Madrid,14.7,47.1,38.2
+2014,7,Rayo Vallecano,FC Barcelona,0.5,1.0,98.5
+2014,7,SD Eibar,Levante,68.6,18.0,13.4
+2014,7,M laga CF,Granada CF,73.6,20.2,6.2
+2014,7,UD Almer a,Elche CF,76.3,18.6,5.2
+2014,7,Sevilla FC,Dep La Coru a,96.4,2.1,1.6
+2014,7,Celta de Vigo,Villarreal,25.5,39.1,35.4
+2014,7,Espanyol,Real Sociedad,39.8,38.2,22.0
+2014,7,Real Madrid,Athletic,96.9,3.1,0.0
+2014,8,Granada CF,Rayo Vallecano,49.4,36.9,13.6
+2014,8,Levante,Real Madrid,0.0,0.5,99.5
+2014,8,Athletic,Celta de Vigo,62.7,17.3,20.0
+2014,8,FC Barcelona,SD Eibar,100.0,0.0,0.0
+2014,8,C rdoba CF,M laga CF,7.6,23.8,68.6
+2014,8,Atl tico Madrid,Espanyol,98.4,1.6,0.0
+2014,8,Dep La Coru a,Valencia,0.5,5.9,93.6
+2014,8,Elche CF,Sevilla FC,1.6,6.4,92.0
+2014,8,Villarreal,UD Almer a,90.9,7.0,2.2
+2014,8,Real Sociedad,Getafe,63.8,34.1,2.2
+2014,9,Celta de Vigo,Levante,88.9,7.6,3.5
+2014,9,UD Almer a,Athletic,19.8,38.4,41.8
+2014,9,Real Madrid,FC Barcelona,55.7,25.7,18.6
+2014,9,Valencia,Elche CF,99.4,0.6,0.0
+2014,9,C rdoba CF,Real Sociedad,9.4,26.5,64.1
+2014,9,SD Eibar,Granada CF,49.7,40.3,9.9
+2014,9,M laga CF,Rayo Vallecano,81.0,14.7,4.3
+2014,9,Espanyol,Dep La Coru a,79.3,16.8,3.8
+2014,9,Sevilla FC,Villarreal,84.7,14.2,1.1
+2014,9,Getafe,Atl tico Madrid,1.1,5.9,93.0
+2014,10,Dep La Coru a,Getafe,53.4,28.7,17.8
+2014,10,Granada CF,Real Madrid,0.0,1.7,98.3
+2014,10,Atl tico Madrid,C rdoba CF,100.0,0.0,0.0
+2014,10,FC Barcelona,Celta de Vigo,98.9,1.1,0.0
+2014,10,Real Sociedad,M laga CF,26.2,34.4,39.3
+2014,10,Athletic,Sevilla FC,11.0,19.8,69.2
+2014,10,Villarreal,Valencia,19.2,48.9,31.9
+2014,10,Levante,UD Almer a,40.7,26.9,32.4
+2014,10,Elche CF,Espanyol,12.6,19.8,67.6
+2014,10,Rayo Vallecano,SD Eibar,70.1,23.4,6.5
+2014,11,C rdoba CF,Dep La Coru a,20.7,36.6,42.7
+2014,11,UD Almer a,FC Barcelona,0.6,0.6,98.8
+2014,11,Getafe,Elche CF,88.3,10.5,1.2
+2014,11,Real Madrid,Rayo Vallecano,98.8,0.6,0.6
+2014,11,M laga CF,SD Eibar,84.8,12.9,2.3
+2014,11,Celta de Vigo,Granada CF,89.5,9.9,0.6
+2014,11,Sevilla FC,Levante,96.5,1.7,1.7
+2014,11,Espanyol,Villarreal,15.1,41.9,43.0
+2014,11,Valencia,Athletic,94.8,3.5,1.7
+2014,11,Real Sociedad,Atl tico Madrid,1.7,8.0,90.2
+2014,12,Athletic,Espanyol,87.0,13.0,0.0
+2014,12,Atl tico Madrid,M laga CF,94.9,4.0,1.1
+2014,12,SD Eibar,Real Madrid,0.0,3.4,96.6
+2014,12,FC Barcelona,Sevilla FC,91.6,7.9,0.6
+2014,12,Dep La Coru a,Real Sociedad,30.3,43.3,26.4
+2014,12,Rayo Vallecano,Celta de Vigo,16.4,28.2,55.4
+2014,12,Levante,Valencia,1.7,2.3,96.0
+2014,12,Elche CF,C rdoba CF,69.1,29.7,1.1
+2014,12,Villarreal,Getafe,83.4,16.0,0.6
+2014,12,Granada CF,UD Almer a,53.7,39.4,6.9
+2014,13,Real Sociedad,Elche CF,86.2,12.5,1.3
+2014,13,Getafe,Athletic,21.3,38.8,40.0
+2014,13,Espanyol,Levante,67.5,25.6,6.9
+2014,13,M laga CF,Real Madrid,0.6,4.3,95.1
+2014,13,Celta de Vigo,SD Eibar,89.5,7.4,3.1
+2014,13,Atl tico Madrid,Dep La Coru a,99.4,0.0,0.6
+2014,13,Sevilla FC,Granada CF,93.3,6.1,0.6
+2014,13,C rdoba CF,Villarreal,3.7,8.0,88.3
+2014,13,Valencia,FC Barcelona,5.5,22.6,72.0
+2014,13,UD Almer a,Rayo Vallecano,23.2,48.8,28.0
+2014,14,Elche CF,Atl tico Madrid,0.0,0.0,100.0
+2014,14,Athletic,C rdoba CF,98.8,1.2,0.0
+2014,14,Real Madrid,Celta de Vigo,99.4,0.6,0.0
+2014,14,Dep La Coru a,M laga CF,10.6,22.4,67.1
+2014,14,Rayo Vallecano,Sevilla FC,4.3,13.7,82.0
+2014,14,FC Barcelona,Espanyol,100.0,0.0,0.0
+2014,14,Villarreal,Real Sociedad,86.0,12.2,1.8
+2014,14,Granada CF,Valencia,0.6,4.3,95.1
+2014,14,SD Eibar,UD Almer a,68.7,25.9,5.4
+2014,14,Levante,Getafe,36.4,51.5,12.1
+2014,15,UD Almer a,Real Madrid,0.0,0.0,100.0
+2014,15,Getafe,FC Barcelona,0.0,1.2,98.8
+2014,15,Valencia,Rayo Vallecano,97.7,2.3,0.0
+2014,15,C rdoba CF,Levante,22.8,50.3,26.9
+2014,15,M laga CF,Celta de Vigo,77.2,18.1,4.7
+2014,15,Espanyol,Granada CF,84.1,14.7,1.2
+2014,15,Sevilla FC,SD Eibar,95.9,4.1,0.0
+2014,15,Atl tico Madrid,Villarreal,94.2,5.8,0.0
+2014,15,Real Sociedad,Athletic,26.9,38.6,34.5
+2014,15,Dep La Coru a,Elche CF,71.7,25.4,2.9
+2014,16,Celta de Vigo,UD Almer a,91.1,5.7,3.2
+2014,16,FC Barcelona,C rdoba CF,100.0,0.0,0.0
+2014,16,Levante,Real Sociedad,19.1,48.8,32.1
+2014,16,SD Eibar,Valencia,4.3,14.1,81.6
+2014,16,Rayo Vallecano,Espanyol,45.7,34.1,20.1
+2014,16,Villarreal,Dep La Coru a,93.9,4.3,1.8
+2014,16,Granada CF,Getafe,20.7,44.5,34.8
+2014,16,Elche CF,M laga CF,2.4,9.8,87.8
+2014,16,Athletic,Atl tico Madrid,2.4,14.6,82.9
+2014,16,Real Madrid,Sevilla FC,93.7,5.7,0.6
+2014,17,Atl tico Madrid,Levante,100.0,0.0,0.0
+2014,17,Sevilla FC,Celta de Vigo,92.5,6.8,0.8
+2014,17,Elche CF,Villarreal,1.5,9.7,88.8
+2014,17,M laga CF,UD Almer a,93.3,6.0,0.7
+2014,17,Dep La Coru a,Athletic,6.0,35.1,59.0
+2014,17,Getafe,Rayo Vallecano,58.8,35.3,5.9
+2014,17,Valencia,Real Madrid,2.1,20.0,77.9
+2014,17,Espanyol,SD Eibar,75.0,17.9,7.1
+2014,17,Real Sociedad,FC Barcelona,1.4,2.9,95.7
+2014,17,C rdoba CF,Granada CF,24.6,54.9,20.4
+2014,18,Levante,Dep La Coru a,52.0,35.0,13.0
+2014,18,Real Madrid,Espanyol,100.0,0.0,0.0
+2014,18,M laga CF,Villarreal,33.8,43.4,22.8
+2014,18,Celta de Vigo,Valencia,2.2,9.6,88.2
+2014,18,SD Eibar,Getafe,66.9,18.4,14.7
+2014,18,UD Almer a,Sevilla FC,1.4,8.6,89.9
+2014,18,Athletic,Elche CF,99.3,0.0,0.7
+2014,18,Granada CF,Real Sociedad,11.5,39.6,48.9
+2014,18,FC Barcelona,Atl tico Madrid,64.7,25.2,10.1
+2014,18,Rayo Vallecano,C rdoba CF,87.4,9.8,2.8
+2014,19,C rdoba CF,SD Eibar,13.6,40.2,46.2
+2014,19,Real Sociedad,Rayo Vallecano,79.0,18.8,2.2
+2014,19,Valencia,UD Almer a,99.3,0.7,0.0
+2014,19,Villarreal,Athletic,83.5,12.2,4.3
+2014,19,Espanyol,Celta de Vigo,55.4,36.7,7.9
+2014,19,Getafe,Real Madrid,0.0,1.4,98.6
+2014,19,Atl tico Madrid,Granada CF,99.3,0.7,0.0
+2014,19,Dep La Coru a,FC Barcelona,1.4,1.4,97.2
+2014,19,Sevilla FC,M laga CF,86.6,11.3,2.1
+2014,19,Elche CF,Levante,29.6,56.3,14.1
+2014,20,C rdoba CF,Real Madrid,0.0,0.0,100.0
+2014,20,Elche CF,FC Barcelona,0.8,0.0,99.2
+2014,20,Atl tico Madrid,Rayo Vallecano,98.4,0.8,0.8
+2014,20,Real Sociedad,SD Eibar,58.3,27.6,14.2
+2014,20,Villarreal,Levante,99.2,0.8,0.0
+2014,20,Dep La Coru a,Granada CF,80.0,19.2,0.8
+2014,20,Athletic,M laga CF,38.5,36.2,25.4
+2014,20,Espanyol,UD Almer a,91.6,5.3,3.1
+2014,20,Valencia,Sevilla FC,67.9,24.4,7.6
+2014,20,Getafe,Celta de Vigo,41.0,32.1,26.9
+2014,21,Rayo Vallecano,Dep La Coru a,79.4,14.2,6.4
+2014,21,Real Madrid,Real Sociedad,97.3,2.1,0.7
+2014,21,SD Eibar,Atl tico Madrid,0.0,6.2,93.8
+2014,21,Granada CF,Elche CF,47.9,39.0,13.0
+2014,21,Celta de Vigo,C rdoba CF,77.9,19.3,2.8
+2014,21,Levante,Athletic,10.3,30.3,59.3
+2014,21,UD Almer a,Getafe,33.1,41.4,25.5
+2014,21,Sevilla FC,Espanyol,95.2,3.4,1.4
+2014,21,FC Barcelona,Villarreal,96.6,3.4,0.0
+2014,21,M laga CF,Valencia,9.5,28.4,62.2
+2014,22,Dep La Coru a,SD Eibar,47.5,29.8,22.7
+2014,22,Atl tico Madrid,Real Madrid,34.2,32.2,33.6
+2014,22,Villarreal,Granada CF,98.7,0.0,1.3
+2014,22,Levante,M laga CF,2.7,13.4,83.9
+2014,22,Real Sociedad,Celta de Vigo,63.8,28.9,7.4
+2014,22,C rdoba CF,UD Almer a,48.3,40.9,10.7
+2014,22,Getafe,Sevilla FC,2.0,9.2,88.8
+2014,22,Espanyol,Valencia,6.6,19.1,74.3
+2014,22,Athletic,FC Barcelona,2.0,3.3,94.7
+2014,22,Elche CF,Rayo Vallecano,17.1,33.6,49.3
+2014,23,UD Almer a,Real Sociedad,15.4,36.9,47.7
+2014,23,Sevilla FC,C rdoba CF,96.8,2.5,0.6
+2014,23,Real Madrid,Dep La Coru a,98.1,0.6,1.3
+2014,23,Granada CF,Athletic,6.4,17.9,75.6
+2014,23,M laga CF,Espanyol,77.4,17.4,5.2
+2014,23,Valencia,Getafe,98.1,1.9,0.0
+2014,23,FC Barcelona,Levante,100.0,0.0,0.0
+2014,23,Rayo Vallecano,Villarreal,7.0,12.7,80.3
+2014,23,Celta de Vigo,Atl tico Madrid,2.5,3.2,94.3
+2014,23,SD Eibar,Elche CF,76.6,17.7,5.7
+2014,24,Getafe,Espanyol,19.7,36.7,43.5
+2014,24,FC Barcelona,M laga CF,99.3,0.7,0.0
+2014,24,C rdoba CF,Valencia,2.0,3.9,94.1
+2014,24,Atl tico Madrid,UD Almer a,98.7,1.3,0.0
+2014,24,Dep La Coru a,Celta de Vigo,30.1,38.6,31.4
+2014,24,Real Sociedad,Sevilla FC,10.5,25.5,64.1
+2014,24,Athletic,Rayo Vallecano,80.5,14.9,4.5
+2014,24,Villarreal,SD Eibar,89.6,7.8,2.6
+2014,24,Elche CF,Real Madrid,0.0,0.0,100.0
+2014,24,Levante,Granada CF,55.5,38.7,5.8
+2014,25,Espanyol,C rdoba CF,97.2,2.1,0.7
+2014,25,Granada CF,FC Barcelona,0.0,0.0,100.0
+2014,25,Rayo Vallecano,Levante,72.5,22.2,5.2
+2014,25,UD Almer a,Dep La Coru a,45.8,40.5,13.7
+2014,25,M laga CF,Getafe,94.1,4.6,1.3
+2014,25,Valencia,Real Sociedad,96.8,3.2,0.0
+2014,25,SD Eibar,Athletic,16.2,45.5,38.3
+2014,25,Sevilla FC,Atl tico Madrid,11.0,24.5,64.5
+2014,25,Real Madrid,Villarreal,93.6,4.5,1.9
+2014,25,Celta de Vigo,Elche CF,91.6,7.1,1.3
+2014,26,Levante,SD Eibar,35.6,39.0,25.3
+2014,26,Dep La Coru a,Sevilla FC,4.1,7.6,88.3
+2014,26,Athletic,Real Madrid,2.7,11.5,85.8
+2014,26,Elche CF,UD Almer a,62.8,30.4,6.8
+2014,26,Granada CF,M laga CF,8.8,15.5,75.7
+2014,26,FC Barcelona,Rayo Vallecano,100.0,0.0,0.0
+2014,26,Real Sociedad,Espanyol,53.7,30.2,16.1
+2014,26,Villarreal,Celta de Vigo,89.3,8.7,2.0
+2014,26,Atl tico Madrid,Valencia,79.2,17.4,3.4
+2014,26,C rdoba CF,Getafe,12.8,36.2,51.0
+2014,27,Valencia,Dep La Coru a,99.3,0.7,0.0
+2014,27,Espanyol,Atl tico Madrid,1.4,12.3,86.3
+2014,27,SD Eibar,FC Barcelona,0.0,0.7,99.3
+2014,27,Rayo Vallecano,Granada CF,81.1,15.5,3.4
+2014,27,Celta de Vigo,Athletic,25.5,44.3,30.2
+2014,27,UD Almer a,Villarreal,2.7,8.2,89.1
+2014,27,M laga CF,C rdoba CF,98.0,2.0,0.0
+2014,27,Sevilla FC,Elche CF,97.3,2.7,0.0
+2014,27,Real Madrid,Levante,98.7,0.7,0.7
+2014,27,Getafe,Real Sociedad,35.8,47.0,17.2
+2014,28,Elche CF,Valencia,1.4,3.5,95.1
+2014,28,Atl tico Madrid,Getafe,98.6,1.4,0.0
+2014,28,Rayo Vallecano,M laga CF,16.8,32.9,50.3
+2014,28,Levante,Celta de Vigo,20.7,36.6,42.8
+2014,28,Granada CF,SD Eibar,48.6,28.5,22.9
+2014,28,Athletic,UD Almer a,96.6,2.8,0.7
+2014,28,Dep La Coru a,Espanyol,29.2,25.0,45.8
+2014,28,Villarreal,Sevilla FC,38.6,33.1,28.3
+2014,28,Real Sociedad,C rdoba CF,95.9,3.4,0.7
+2014,28,FC Barcelona,Real Madrid,70.3,20.9,8.8
+2014,29,SD Eibar,Rayo Vallecano,33.1,37.6,29.3
+2014,29,Sevilla FC,Athletic,93.1,5.6,1.4
+2014,29,C rdoba CF,Atl tico Madrid,0.7,0.7,98.6
+2014,29,UD Almer a,Levante,30.6,50.0,19.4
+2014,29,M laga CF,Real Sociedad,76.6,16.6,6.9
+2014,29,Real Madrid,Granada CF,99.3,0.0,0.7
+2014,29,Valencia,Villarreal,90.4,8.2,1.4
+2014,29,Getafe,Dep La Coru a,67.1,25.3,7.5
+2014,29,Celta de Vigo,FC Barcelona,0.7,3.4,95.9
+2014,29,Espanyol,Elche CF,92.5,5.5,2.1
+2014,30,Atl tico Madrid,Real Sociedad,100.0,0.0,0.0
+2014,30,SD Eibar,M laga CF,6.8,24.8,68.4
+2014,30,Levante,Sevilla FC,1.7,5.1,93.2
+2014,30,FC Barcelona,UD Almer a,100.0,0.0,0.0
+2014,30,Dep La Coru a,C rdoba CF,82.8,13.9,3.3
+2014,30,Rayo Vallecano,Real Madrid,1.6,1.6,96.8
+2014,30,Granada CF,Celta de Vigo,19.2,28.8,52.0
+2014,30,Athletic,Valencia,15.7,41.7,42.5
+2014,30,Villarreal,Espanyol,96.1,1.6,2.4
+2014,30,Elche CF,Getafe,37.8,48.8,13.4
+2014,31,Real Madrid,SD Eibar,99.3,0.0,0.7
+2014,31,M laga CF,Atl tico Madrid,5.0,14.2,80.9
+2014,31,Sevilla FC,FC Barcelona,6.9,22.8,70.3
+2014,31,Celta de Vigo,Rayo Vallecano,64.8,22.1,13.1
+2014,31,UD Almer a,Granada CF,54.2,38.2,7.6
+2014,31,Getafe,Villarreal,10.4,14.6,75.0
+2014,31,Espanyol,Athletic,34.7,34.0,31.3
+2014,31,Real Sociedad,Dep La Coru a,90.2,5.6,4.2
+2014,31,C rdoba CF,Elche CF,35.9,43.4,20.7
+2014,31,Valencia,Levante,98.6,1.4,0.0
+2014,32,Levante,Espanyol,8.6,33.1,58.3
+2014,32,FC Barcelona,Valencia,89.7,8.2,2.1
+2014,32,Dep La Coru a,Atl tico Madrid,2.7,2.7,94.5
+2014,32,Real Madrid,M laga CF,95.9,3.4,0.7
+2014,32,Athletic,Getafe,91.2,6.8,2.0
+2014,32,Rayo Vallecano,UD Almer a,81.4,13.1,5.5
+2014,32,Granada CF,Sevilla FC,2.7,1.4,95.9
+2014,32,Villarreal,C rdoba CF,96.6,2.7,0.7
+2014,32,SD Eibar,Celta de Vigo,17.0,52.4,30.6
+2014,32,Elche CF,Real Sociedad,15.4,28.2,56.4
+2014,33,C rdoba CF,Athletic,0.7,8.6,90.6
+2014,33,Espanyol,FC Barcelona,0.7,2.1,97.2
+2014,33,Atl tico Madrid,Elche CF,98.6,1.4,0.0
+2014,33,Getafe,Levante,69.2,28.1,2.7
+2014,33,Real Sociedad,Villarreal,21.8,36.7,41.5
+2014,33,M laga CF,Dep La Coru a,91.1,8.2,0.7
+2014,33,UD Almer a,SD Eibar,34.9,50.7,14.4
+2014,33,Sevilla FC,Rayo Vallecano,95.2,4.1,0.7
+2014,33,Celta de Vigo,Real Madrid,0.7,10.2,89.1
+2014,33,Valencia,Granada CF,99.3,0.7,0.0
+2014,34,FC Barcelona,Getafe,100.0,0.0,0.0
+2014,34,Levante,C rdoba CF,92.3,6.8,0.9
+2014,34,Athletic,Real Sociedad,85.5,12.8,1.7
+2014,34,Celta de Vigo,M laga CF,28.5,48.0,23.6
+2014,34,Real Madrid,UD Almer a,99.2,0.8,0.0
+2014,34,SD Eibar,Sevilla FC,0.0,4.9,95.1
+2014,34,Elche CF,Dep La Coru a,50.0,41.4,8.6
+2014,34,Villarreal,Atl tico Madrid,5.5,20.3,74.2
+2014,34,Rayo Vallecano,Valencia,2.3,10.8,86.9
+2014,34,Granada CF,Espanyol,12.2,27.5,60.3
+2014,35,Real Sociedad,Levante,81.0,16.7,2.4
+2014,35,C rdoba CF,FC Barcelona,0.0,0.0,100.0
+2014,35,Atl tico Madrid,Athletic,92.8,6.5,0.7
+2014,35,Sevilla FC,Real Madrid,10.1,23.7,66.2
+2014,35,Dep La Coru a,Villarreal,7.9,17.3,74.8
+2014,35,Espanyol,Rayo Vallecano,75.9,19.0,5.1
+2014,35,Getafe,Granada CF,84.9,8.6,6.5
+2014,35,Valencia,SD Eibar,99.3,0.7,0.0
+2014,35,M laga CF,Elche CF,90.6,7.2,2.2
+2014,35,UD Almer a,Celta de Vigo,14.5,27.5,58.0
+2014,36,SD Eibar,Espanyol,10.9,25.5,63.5
+2014,36,Granada CF,C rdoba CF,76.0,20.5,3.4
+2014,36,FC Barcelona,Real Sociedad,99.3,0.7,0.0
+2014,36,Real Madrid,Valencia,81.2,15.4,3.4
+2014,36,Athletic,Dep La Coru a,93.3,4.0,2.7
+2014,36,Levante,Atl tico Madrid,0.7,0.7,98.7
+2014,36,Villarreal,Elche CF,94.7,4.0,1.3
+2014,36,UD Almer a,M laga CF,12.0,24.0,64.0
+2014,36,Celta de Vigo,Sevilla FC,7.3,30.5,62.3
+2014,36,Rayo Vallecano,Getafe,68.0,26.7,5.3
+2014,37,Sevilla FC,UD Almer a,100.0,0.0,0.0
+2014,37,Valencia,Celta de Vigo,96.4,3.6,0.0
+2014,37,Espanyol,Real Madrid,0.7,6.5,92.8
+2014,37,Getafe,SD Eibar,74.8,21.6,3.6
+2014,37,C rdoba CF,Rayo Vallecano,7.2,15.1,77.7
+2014,37,Real Sociedad,Granada CF,88.5,9.4,2.2
+2014,37,Atl tico Madrid,FC Barcelona,16.5,30.9,52.5
+2014,37,Dep La Coru a,Levante,43.2,36.7,20.1
+2014,37,Elche CF,Athletic,10.8,23.7,65.5
+2014,37,Villarreal,M laga CF,80.6,17.3,2.2
+2014,38,Levante,Elche CF,68.7,24.6,6.7
+2014,38,Athletic,Villarreal,60.0,26.7,13.3
+2014,38,M laga CF,Sevilla FC,6.7,19.3,74.1
+2014,38,UD Almer a,Valencia,1.5,3.7,94.8
+2014,38,Celta de Vigo,Espanyol,46.7,33.3,20.0
+2014,38,SD Eibar,C rdoba CF,77.6,17.2,5.2
+2014,38,Rayo Vallecano,Real Sociedad,53.3,25.9,20.7
+2014,38,Granada CF,Atl tico Madrid,1.5,5.9,92.6
+2014,38,FC Barcelona,Dep La Coru a,96.3,3.7,0.0
+2014,38,Real Madrid,Getafe,97.8,1.5,0.7

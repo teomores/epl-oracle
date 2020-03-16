@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2018,1,Girona,Real Valladolid,67.5,22.5,9.9
+2018,1,Real Betis,Levante,88.4,8.4,3.2
+2018,1,Celta de Vigo,Espanyol,60.6,28.3,11.1
+2018,1,Villarreal,Real Sociedad,77.8,16.2,6.1
+2018,1,FC Barcelona,Alav s,98.0,1.0,1.0
+2018,1,SD Eibar,SD Huesca,73.4,23.2,3.4
+2018,1,Rayo Vallecano,Sevilla FC,4.9,4.9,90.2
+2018,1,Real Madrid,Getafe,97.1,1.9,1.0
+2018,1,Valencia,Atl tico Madrid,8.1,33.0,58.9
+2018,1,Athletic,CD Legan s,86.1,10.1,3.8
+2018,2,Getafe,SD Eibar,67.2,26.6,6.2
+2018,2,CD Legan s,Real Sociedad,6.2,19.1,74.7
+2018,2,Alav s,Real Betis,12.8,34.8,52.4
+2018,2,Atl tico Madrid,Rayo Vallecano,98.4,1.6,0.0
+2018,2,Real Valladolid,FC Barcelona,2.1,2.1,95.7
+2018,2,Espanyol,Valencia,3.7,17.4,78.9
+2018,2,Sevilla FC,Villarreal,81.7,15.7,2.6
+2018,2,Girona,Real Madrid,2.6,4.2,93.2
+2018,2,Levante,Celta de Vigo,41.8,37.1,21.1
+2018,2,Athletic,SD Huesca,90.2,8.8,1.0
+2018,3,Getafe,Real Valladolid,76.1,20.0,3.9
+2018,3,Villarreal,Girona,91.7,7.2,1.1
+2018,3,SD Eibar,Real Sociedad,8.8,28.2,63.0
+2018,3,Celta de Vigo,Atl tico Madrid,2.2,7.0,90.8
+2018,3,Real Madrid,CD Legan s,98.4,1.1,0.5
+2018,3,Levante,Valencia,9.3,14.3,76.4
+2018,3,Alav s,Espanyol,10.3,42.4,47.3
+2018,3,FC Barcelona,SD Huesca,99.5,0.5,0.0
+2018,3,Real Betis,Sevilla FC,7.5,25.7,66.8
+2018,3,Rayo Vallecano,Athletic,3.8,14.2,82.0
+2018,4,SD Huesca,Rayo Vallecano,64.7,24.6,10.8
+2018,4,Atl tico Madrid,SD Eibar,99.4,0.0,0.6
+2018,4,Real Sociedad,FC Barcelona,3.4,4.5,92.1
+2018,4,Valencia,Real Betis,71.2,22.6,6.2
+2018,4,Athletic,Real Madrid,3.4,10.7,86.0
+2018,4,CD Legan s,Villarreal,7.8,28.5,63.7
+2018,4,Espanyol,Levante,56.4,27.4,16.2
+2018,4,Real Valladolid,Alav s,47.2,31.7,21.1
+2018,4,Sevilla FC,Getafe,94.4,3.3,2.2
+2018,4,Girona,Celta de Vigo,9.8,21.9,68.3
+2018,5,SD Huesca,Real Sociedad,11.7,22.1,66.3
+2018,5,Rayo Vallecano,Alav s,21.1,26.3,52.6
+2018,5,SD Eibar,CD Legan s,72.0,20.6,7.4
+2018,5,Celta de Vigo,Real Valladolid,94.9,2.9,2.3
+2018,5,Getafe,Atl tico Madrid,4.5,15.8,79.7
+2018,5,Real Madrid,Espanyol,94.9,4.5,0.6
+2018,5,Levante,Sevilla FC,7.3,28.1,64.6
+2018,5,Villarreal,Valencia,31.5,44.4,24.2
+2018,5,Real Betis,Athletic,25.7,43.0,31.3
+2018,5,FC Barcelona,Girona,98.3,1.1,0.6
+2018,6,Espanyol,SD Eibar,84.6,12.2,3.2
+2018,6,Real Sociedad,Rayo Vallecano,94.2,5.1,0.6
+2018,6,Atl tico Madrid,SD Huesca,98.7,0.6,0.6
+2018,6,CD Legan s,FC Barcelona,0.6,1.2,98.2
+2018,6,Athletic,Villarreal,52.1,39.9,8.0
+2018,6,Sevilla FC,Real Madrid,7.3,25.6,67.1
+2018,6,Valencia,Celta de Vigo,52.1,27.6,20.2
+2018,6,Alav s,Getafe,59.5,31.0,9.5
+2018,6,Real Valladolid,Levante,33.9,47.6,18.5
+2018,6,Girona,Real Betis,50.9,22.5,26.6
+2018,7,Rayo Vallecano,Espanyol,8.7,17.3,74.0
+2018,7,Real Sociedad,Valencia,46.8,26.0,27.3
+2018,7,FC Barcelona,Athletic,96.8,2.5,0.6
+2018,7,SD Eibar,Sevilla FC,3.7,10.6,85.7
+2018,7,Real Madrid,Atl tico Madrid,46.9,31.5,21.6
+2018,7,SD Huesca,Girona,14.2,21.6,64.2
+2018,7,Villarreal,Real Valladolid,92.0,5.5,2.5
+2018,7,Levante,Alav s,23.8,25.0,51.2
+2018,7,Real Betis,CD Legan s,93.9,4.9,1.2
+2018,7,Celta de Vigo,Getafe,79.3,15.9,4.9
+2018,8,Athletic,Real Sociedad,62.8,27.0,10.1
+2018,8,Girona,SD Eibar,78.9,11.2,9.9
+2018,8,Getafe,Levante,81.0,12.4,6.5
+2018,8,Alav s,Real Madrid,0.6,6.4,93.0
+2018,8,CD Legan s,Rayo Vallecano,43.0,37.3,19.6
+2018,8,Real Valladolid,SD Huesca,90.4,7.1,2.6
+2018,8,Atl tico Madrid,Real Betis,91.1,7.0,1.9
+2018,8,Sevilla FC,Celta de Vigo,93.7,5.1,1.3
+2018,8,Espanyol,Villarreal,44.9,36.1,19.0
+2018,8,Valencia,FC Barcelona,8.2,10.1,81.6
+2018,9,Celta de Vigo,Alav s,57.1,29.3,13.6
+2018,9,Real Madrid,Levante,97.4,1.9,0.6
+2018,9,Valencia,CD Legan s,96.1,3.3,0.7
+2018,9,Villarreal,Atl tico Madrid,3.2,9.7,87.0
+2018,9,FC Barcelona,Sevilla FC,75.0,19.9,5.1
+2018,9,Rayo Vallecano,Getafe,21.8,36.5,41.7
+2018,9,SD Eibar,Athletic,35.3,36.5,28.2
+2018,9,SD Huesca,Espanyol,6.4,9.0,84.6
+2018,9,Real Betis,Real Valladolid,77.6,21.8,0.6
+2018,9,Real Sociedad,Girona,86.7,10.8,2.5
+2018,10,Real Valladolid,Espanyol,14.8,44.4,40.8
+2018,10,Girona,Rayo Vallecano,74.8,15.0,10.2
+2018,10,Athletic,Valencia,20.3,45.1,34.6
+2018,10,Levante,CD Legan s,85.6,7.8,6.5
+2018,10,Celta de Vigo,SD Eibar,68.0,24.2,7.8
+2018,10,Atl tico Madrid,Real Sociedad,92.8,5.2,2.0
+2018,10,Getafe,Real Betis,30.7,39.2,30.1
+2018,10,FC Barcelona,Real Madrid,82.6,12.3,5.2
+2018,10,Alav s,Villarreal,62.3,14.3,23.4
+2018,10,Sevilla FC,SD Huesca,96.8,3.2,0.0
+2018,11,CD Legan s,Atl tico Madrid,2.1,2.1,95.8
+2018,11,Real Madrid,Real Valladolid,88.0,9.2,2.8
+2018,11,Valencia,Girona,83.1,15.5,1.4
+2018,11,Rayo Vallecano,FC Barcelona,1.4,0.7,97.9
+2018,11,SD Eibar,Alav s,13.2,17.4,69.4
+2018,11,Villarreal,Levante,53.5,25.0,21.5
+2018,11,SD Huesca,Getafe,4.8,17.2,77.9
+2018,11,Real Sociedad,Sevilla FC,6.2,24.8,69.0
+2018,11,Real Betis,Celta de Vigo,57.9,29.7,12.4
+2018,11,Espanyol,Athletic,77.4,15.1,7.5
+2018,12,Levante,Real Sociedad,62.6,26.6,10.8
+2018,12,Real Valladolid,SD Eibar,68.5,21.7,9.8
+2018,12,Getafe,Valencia,31.3,33.3,35.4
+2018,12,Atl tico Madrid,Athletic,97.2,1.4,1.4
+2018,12,Girona,CD Legan s,86.1,10.4,3.5
+2018,12,Alav s,SD Huesca,94.4,2.1,3.5
+2018,12,FC Barcelona,Real Betis,96.6,2.0,1.4
+2018,12,Sevilla FC,Espanyol,76.9,19.7,3.4
+2018,12,Rayo Vallecano,Villarreal,12.3,34.2,53.4
+2018,12,Celta de Vigo,Real Madrid,5.4,12.2,82.3
+2018,13,CD Legan s,Alav s,6.5,19.4,74.1
+2018,13,SD Eibar,Real Madrid,0.7,4.1,95.2
+2018,13,Valencia,Rayo Vallecano,93.9,4.1,2.0
+2018,13,SD Huesca,Levante,7.4,16.9,75.7
+2018,13,Atl tico Madrid,FC Barcelona,23.0,45.3,31.8
+2018,13,Athletic,Getafe,64.9,20.3,14.9
+2018,13,Sevilla FC,Real Valladolid,93.9,4.7,1.4
+2018,13,Espanyol,Girona,78.4,16.9,4.7
+2018,13,Villarreal,Real Betis,34.5,39.9,25.7
+2018,13,Real Sociedad,Celta de Vigo,63.1,26.8,10.1
+2018,14,Rayo Vallecano,SD Eibar,10.9,26.6,62.5
+2018,14,Celta de Vigo,SD Huesca,94.8,5.2,0.0
+2018,14,Real Valladolid,CD Legan s,79.6,16.8,3.6
+2018,14,Getafe,Espanyol,13.1,36.5,50.4
+2018,14,Real Madrid,Valencia,83.3,10.1,6.5
+2018,14,Real Betis,Real Sociedad,55.4,27.3,17.3
+2018,14,Girona,Atl tico Madrid,2.1,8.6,89.3
+2018,14,FC Barcelona,Villarreal,97.9,0.7,1.4
+2018,14,Alav s,Sevilla FC,8.5,22.7,68.8
+2018,14,Levante,Athletic,59.0,24.3,16.7
+2018,15,CD Legan s,Getafe,20.9,35.1,44.0
+2018,15,Atl tico Madrid,Alav s,95.6,3.6,0.7
+2018,15,Valencia,Sevilla FC,13.8,29.7,56.5
+2018,15,Villarreal,Celta de Vigo,57.6,31.7,10.8
+2018,15,Espanyol,FC Barcelona,1.4,6.5,92.1
+2018,15,SD Eibar,Levante,45.0,37.9,17.1
+2018,15,SD Huesca,Real Madrid,0.7,0.7,98.6
+2018,15,Real Sociedad,Real Valladolid,85.8,11.3,2.8
+2018,15,Real Betis,Rayo Vallecano,97.2,1.4,1.4
+2018,15,Athletic,Girona,49.3,20.4,30.3
+2018,16,Celta de Vigo,CD Legan s,87.6,7.8,4.7
+2018,16,Getafe,Real Sociedad,70.4,14.8,14.8
+2018,16,Real Valladolid,Atl tico Madrid,0.7,5.1,94.2
+2018,16,Real Madrid,Rayo Vallecano,97.8,2.2,0.0
+2018,16,SD Eibar,Valencia,13.9,39.4,46.7
+2018,16,Sevilla FC,Girona,94.2,5.1,0.7
+2018,16,Espanyol,Real Betis,37.7,39.1,23.2
+2018,16,SD Huesca,Villarreal,4.3,13.0,82.6
+2018,16,Levante,FC Barcelona,1.4,0.7,97.8
+2018,16,Alav s,Athletic,67.1,17.9,15.0
+2018,17,Girona,Getafe,30.2,54.3,15.5
+2018,17,Real Sociedad,Alav s,45.4,22.3,32.3
+2018,17,Real Betis,SD Eibar,93.2,6.1,0.8
+2018,17,Atl tico Madrid,Espanyol,97.0,1.5,1.5
+2018,17,FC Barcelona,Celta de Vigo,97.8,0.7,1.5
+2018,17,Athletic,Real Valladolid,48.9,34.6,16.5
+2018,17,Valencia,SD Huesca,94.8,3.7,1.5
+2018,17,CD Legan s,Sevilla FC,2.3,7.5,90.2
+2018,17,Rayo Vallecano,Levante,15.8,34.6,49.6
+2018,17,Villarreal,Real Madrid,2.1,14.1,83.8
+2018,18,Levante,Girona,40.4,52.6,7.0
+2018,18,Espanyol,CD Legan s,83.6,9.5,6.9
+2018,18,Real Valladolid,Rayo Vallecano,85.2,12.3,2.5
+2018,18,Alav s,Valencia,34.4,36.8,28.8
+2018,18,SD Huesca,Real Betis,1.6,4.8,93.6
+2018,18,SD Eibar,Villarreal,48.0,31.2,20.8
+2018,18,Sevilla FC,Atl tico Madrid,11.0,53.5,35.4
+2018,18,Real Madrid,Real Sociedad,98.4,1.6,0.0
+2018,18,Getafe,FC Barcelona,0.8,2.4,96.9
+2018,18,Celta de Vigo,Athletic,66.7,23.5,9.8
+2018,19,Rayo Vallecano,Celta de Vigo,12.8,33.3,53.8
+2018,19,CD Legan s,SD Huesca,82.4,15.1,2.5
+2018,19,Valencia,Real Valladolid,91.8,6.6,1.6
+2018,19,Girona,Alav s,8.2,53.3,38.5
+2018,19,Villarreal,Getafe,49.2,21.3,29.5
+2018,19,Atl tico Madrid,Levante,98.3,0.8,0.8
+2018,19,Athletic,Sevilla FC,3.3,22.0,74.8
+2018,19,FC Barcelona,SD Eibar,98.4,0.8,0.8
+2018,19,Real Betis,Real Madrid,11.3,21.8,66.9
+2018,19,Real Sociedad,Espanyol,52.7,31.8,15.5
+2018,20,Getafe,Alav s,41.5,39.2,19.2
+2018,20,Real Madrid,Sevilla FC,73.9,14.5,11.6
+2018,20,SD Huesca,Atl tico Madrid,0.0,0.0,100.0
+2018,20,Celta de Vigo,Valencia,12.5,37.5,50.0
+2018,20,Real Betis,Girona,84.4,14.1,1.5
+2018,20,Villarreal,Athletic,43.8,29.9,26.3
+2018,20,Rayo Vallecano,Real Sociedad,13.8,30.4,55.8
+2018,20,Levante,Real Valladolid,71.0,22.5,6.5
+2018,20,FC Barcelona,CD Legan s,99.3,0.0,0.7
+2018,20,SD Eibar,Espanyol,41.3,31.2,27.5
+2018,21,Sevilla FC,Levante,96.9,3.1,0.0
+2018,21,Atl tico Madrid,Getafe,96.2,2.3,1.5
+2018,21,CD Legan s,SD Eibar,29.0,55.7,15.3
+2018,21,Valencia,Villarreal,86.3,11.5,2.3
+2018,21,Real Valladolid,Celta de Vigo,38.5,42.3,19.2
+2018,21,Girona,FC Barcelona,0.8,2.3,97.0
+2018,21,Real Sociedad,SD Huesca,96.2,2.3,1.5
+2018,21,Athletic,Real Betis,32.6,31.8,35.6
+2018,21,Espanyol,Real Madrid,0.0,6.1,93.9
+2018,21,Alav s,Rayo Vallecano,85.9,11.1,3.0
+2018,22,SD Huesca,Real Valladolid,10.8,20.0,69.2
+2018,22,Levante,Getafe,28.7,49.2,22.1
+2018,22,Real Sociedad,Athletic,55.6,35.7,8.7
+2018,22,FC Barcelona,Valencia,96.0,2.4,1.6
+2018,22,Celta de Vigo,Sevilla FC,3.2,10.3,86.5
+2018,22,Villarreal,Espanyol,48.8,34.6,16.5
+2018,22,Real Betis,Atl tico Madrid,3.2,15.1,81.7
+2018,22,SD Eibar,Girona,74.0,21.3,4.7
+2018,22,Real Madrid,Alav s,90.6,6.3,3.1
+2018,22,Rayo Vallecano,CD Legan s,63.6,29.5,7.0
+2018,23,Real Valladolid,Villarreal,39.7,38.1,22.2
+2018,23,Getafe,Celta de Vigo,82.4,9.9,7.6
+2018,23,Atl tico Madrid,Real Madrid,33.8,48.1,18.0
+2018,23,Espanyol,Rayo Vallecano,79.7,15.0,5.3
+2018,23,Girona,SD Huesca,78.4,12.7,9.0
+2018,23,CD Legan s,Real Betis,10.5,18.0,71.4
+2018,23,Valencia,Real Sociedad,75.9,21.1,3.0
+2018,23,Sevilla FC,SD Eibar,96.2,2.3,1.5
+2018,23,Athletic,FC Barcelona,0.7,7.5,91.8
+2018,23,Alav s,Levante,79.7,15.9,4.3
+2018,24,SD Eibar,Getafe,32.8,37.6,29.6
+2018,24,Celta de Vigo,Levante,69.5,21.1,9.4
+2018,24,Rayo Vallecano,Atl tico Madrid,2.3,0.0,97.7
+2018,24,Real Sociedad,CD Legan s,81.4,14.7,3.9
+2018,24,FC Barcelona,Real Valladolid,98.4,0.8,0.8
+2018,24,Real Madrid,Girona,96.0,2.4,1.6
+2018,24,Valencia,Espanyol,90.6,8.6,0.8
+2018,24,Villarreal,Sevilla FC,4.7,12.5,82.8
+2018,24,Real Betis,Alav s,71.9,25.8,2.3
+2018,24,SD Huesca,Athletic,6.9,15.4,77.7
+2018,25,Espanyol,SD Huesca,97.5,0.8,1.6
+2018,25,Getafe,Rayo Vallecano,91.2,7.2,1.6
+2018,25,Sevilla FC,FC Barcelona,8.8,22.4,68.8
+2018,25,Alav s,Celta de Vigo,81.6,12.0,6.4
+2018,25,Athletic,SD Eibar,68.3,28.6,3.2
+2018,25,CD Legan s,Valencia,11.8,21.3,66.9
+2018,25,Atl tico Madrid,Villarreal,96.1,2.3,1.6
+2018,25,Real Valladolid,Real Betis,7.8,34.9,57.4
+2018,25,Levante,Real Madrid,2.3,2.3,95.3
+2018,25,Girona,Real Sociedad,17.7,31.5,50.8
+2018,26,Rayo Vallecano,Girona,45.5,31.7,22.8
+2018,26,Espanyol,Real Valladolid,80.6,15.3,4.0
+2018,26,Villarreal,Alav s,49.6,23.2,27.2
+2018,26,SD Huesca,Sevilla FC,1.6,2.4,96.0
+2018,26,Real Madrid,FC Barcelona,21.4,25.4,53.2
+2018,26,SD Eibar,Celta de Vigo,79.5,9.4,11.0
+2018,26,Real Betis,Getafe,62.2,29.1,8.7
+2018,26,Real Sociedad,Atl tico Madrid,4.7,10.2,85.0
+2018,26,Valencia,Athletic,78.1,21.1,0.8
+2018,26,CD Legan s,Levante,51.2,39.5,9.3
+2018,27,Athletic,Espanyol,72.2,23.0,4.8
+2018,27,Alav s,SD Eibar,83.2,12.2,4.6
+2018,27,Atl tico Madrid,CD Legan s,100.0,0.0,0.0
+2018,27,FC Barcelona,Rayo Vallecano,98.5,0.8,0.8
+2018,27,Getafe,SD Huesca,95.4,3.1,1.5
+2018,27,Celta de Vigo,Real Betis,20.5,33.3,46.2
+2018,27,Girona,Valencia,5.3,25.0,69.7
+2018,27,Sevilla FC,Real Sociedad,84.7,12.2,3.1
+2018,27,Levante,Villarreal,38.2,42.7,19.1
+2018,27,Real Valladolid,Real Madrid,4.6,3.8,91.6
+2018,28,Real Sociedad,Levante,91.2,6.4,2.4
+2018,28,SD Huesca,Alav s,4.7,19.4,76.0
+2018,28,Real Madrid,Celta de Vigo,97.7,1.5,0.8
+2018,28,Athletic,Atl tico Madrid,3.8,11.4,84.8
+2018,28,CD Legan s,Girona,47.0,44.7,8.3
+2018,28,SD Eibar,Real Valladolid,81.1,15.2,3.8
+2018,28,Espanyol,Sevilla FC,15.0,19.5,65.4
+2018,28,Villarreal,Rayo Vallecano,82.7,13.5,3.8
+2018,28,Valencia,Getafe,61.7,27.8,10.5
+2018,28,Real Betis,FC Barcelona,2.3,3.8,94.0
+2018,29,Girona,Athletic,8.2,37.7,54.1
+2018,29,Getafe,CD Legan s,92.8,4.8,2.4
+2018,29,FC Barcelona,Espanyol,98.4,0.0,1.6
+2018,29,Celta de Vigo,Villarreal,17.3,55.9,26.8
+2018,29,Alav s,Atl tico Madrid,3.9,13.4,82.7
+2018,29,Levante,SD Eibar,33.9,40.9,25.2
+2018,29,Rayo Vallecano,Real Betis,7.8,6.2,86.0
+2018,29,Sevilla FC,Valencia,63.6,31.0,5.4
+2018,29,Real Valladolid,Real Sociedad,14.7,20.9,64.3
+2018,29,Real Madrid,SD Huesca,99.2,0.8,0.0
+2018,30,Atl tico Madrid,Girona,98.1,1.9,0.0
+2018,30,Espanyol,Getafe,37.4,37.4,25.2
+2018,30,Villarreal,FC Barcelona,0.9,0.9,98.1
+2018,30,Athletic,Levante,91.9,5.4,2.7
+2018,30,SD Huesca,Celta de Vigo,22.5,31.5,45.9
+2018,30,SD Eibar,Rayo Vallecano,74.8,19.8,5.4
+2018,30,Valencia,Real Madrid,16.8,18.6,64.6
+2018,30,Sevilla FC,Alav s,83.5,13.0,3.5
+2018,30,CD Legan s,Real Valladolid,67.5,25.6,6.8
+2018,30,Real Sociedad,Real Betis,47.5,37.3,15.3
+2018,31,Girona,Espanyol,27.2,54.4,18.4
+2018,31,Real Madrid,SD Eibar,95.7,3.4,0.9
+2018,31,Rayo Vallecano,Valencia,2.6,0.9,96.6
+2018,31,FC Barcelona,Atl tico Madrid,80.5,11.9,7.6
+2018,31,Alav s,CD Legan s,79.7,16.9,3.4
+2018,31,Getafe,Athletic,62.2,24.4,13.4
+2018,31,Real Valladolid,Sevilla FC,2.5,8.4,89.1
+2018,31,Levante,SD Huesca,86.6,9.2,4.2
+2018,31,Celta de Vigo,Real Sociedad,21.8,42.9,35.3
+2018,31,Real Betis,Villarreal,73.9,16.8,9.2
+2018,32,Espanyol,Alav s,30.6,38.7,30.6
+2018,32,SD Huesca,FC Barcelona,0.8,0.0,99.2
+2018,32,Atl tico Madrid,Celta de Vigo,96.0,3.2,0.8
+2018,32,Sevilla FC,Real Betis,82.5,13.5,4.0
+2018,32,Real Valladolid,Getafe,6.3,19.8,73.8
+2018,32,Athletic,Rayo Vallecano,93.7,4.7,1.6
+2018,32,Real Sociedad,SD Eibar,68.5,23.6,7.9
+2018,32,Girona,Villarreal,33.1,40.9,26.0
+2018,32,Valencia,Levante,92.1,6.3,1.6
+2018,32,CD Legan s,Real Madrid,1.6,5.5,93.0
+2018,33,Alav s,Real Valladolid,88.0,7.4,4.6
+2018,33,Celta de Vigo,Girona,66.4,30.2,3.4
+2018,33,SD Eibar,Atl tico Madrid,0.0,5.1,94.9
+2018,33,Rayo Vallecano,SD Huesca,58.8,29.4,11.8
+2018,33,FC Barcelona,Real Sociedad,97.5,1.7,0.8
+2018,33,Levante,Espanyol,13.9,42.6,43.4
+2018,33,Getafe,Sevilla FC,14.8,34.4,50.8
+2018,33,Real Madrid,Athletic,89.4,6.5,4.1
+2018,33,Villarreal,CD Legan s,71.0,19.4,9.7
+2018,33,Real Betis,Valencia,14.5,31.5,54.0
+2018,34,SD Huesca,SD Eibar,16.2,29.3,54.5
+2018,34,Real Valladolid,Girona,55.9,32.4,11.8
+2018,34,Alav s,FC Barcelona,1.0,4.9,94.2
+2018,34,Atl tico Madrid,Valencia,85.2,13.0,1.9
+2018,34,Espanyol,Celta de Vigo,80.6,11.1,8.3
+2018,34,CD Legan s,Athletic,11.1,35.2,53.7
+2018,34,Levante,Real Betis,8.3,20.4,71.3
+2018,34,Sevilla FC,Rayo Vallecano,97.3,2.7,0.0
+2018,34,Real Sociedad,Villarreal,57.1,33.0,9.8
+2018,34,Getafe,Real Madrid,13.4,15.2,71.4
+2018,35,Athletic,Alav s,84.0,11.0,5.0
+2018,35,Atl tico Madrid,Real Valladolid,100.0,0.0,0.0
+2018,35,CD Legan s,Celta de Vigo,49.5,32.7,17.8
+2018,35,FC Barcelona,Levante,100.0,0.0,0.0
+2018,35,Valencia,SD Eibar,98.0,2.0,0.0
+2018,35,Girona,Sevilla FC,1.9,10.7,87.4
+2018,35,Real Sociedad,Getafe,26.0,29.8,44.2
+2018,35,Villarreal,SD Huesca,93.3,2.9,3.8
+2018,35,Rayo Vallecano,Real Madrid,0.0,2.8,97.2
+2018,35,Real Betis,Espanyol,64.8,29.6,5.6
+2018,36,Sevilla FC,CD Legan s,97.2,1.9,0.9
+2018,36,Levante,Rayo Vallecano,71.0,20.6,8.4
+2018,36,Espanyol,Atl tico Madrid,2.8,11.1,86.1
+2018,36,Alav s,Real Sociedad,58.7,31.2,10.1
+2018,36,Celta de Vigo,FC Barcelona,8.3,6.5,85.2
+2018,36,Getafe,Girona,89.7,10.3,0.0
+2018,36,SD Eibar,Real Betis,29.6,33.3,37.0
+2018,36,Real Madrid,Villarreal,88.3,9.9,1.8
+2018,36,Real Valladolid,Athletic,10.0,21.8,68.2
+2018,36,SD Huesca,Valencia,2.7,8.9,88.4
+2018,37,Athletic,Celta de Vigo,78.5,15.9,5.6
+2018,37,Real Sociedad,Real Madrid,12.1,13.1,74.8
+2018,37,CD Legan s,Espanyol,29.9,31.8,38.3
+2018,37,Villarreal,SD Eibar,71.0,18.7,10.3
+2018,37,Valencia,Alav s,95.3,2.8,1.9
+2018,37,Rayo Vallecano,Real Valladolid,19.6,49.5,30.8
+2018,37,Girona,Levante,53.3,29.0,17.8
+2018,37,Real Betis,SD Huesca,95.3,3.7,0.9
+2018,37,FC Barcelona,Getafe,81.5,13.0,5.6
+2018,37,Atl tico Madrid,Sevilla FC,85.0,11.2,3.7
+2018,38,Levante,Atl tico Madrid,1.0,6.9,92.1
+2018,38,Real Valladolid,Valencia,1.0,7.8,91.3
+2018,38,Sevilla FC,Athletic,78.6,15.5,5.8
+2018,38,Getafe,Villarreal,87.4,8.7,3.9
+2018,38,Espanyol,Real Sociedad,63.1,23.3,13.6
+2018,38,Alav s,Girona,69.5,11.4,19.0
+2018,38,SD Huesca,CD Legan s,16.2,21.0,62.9
+2018,38,Celta de Vigo,Rayo Vallecano,82.9,13.3,3.8
+2018,38,Real Madrid,Real Betis,93.3,3.8,2.9
+2018,38,SD Eibar,FC Barcelona,2.8,4.7,92.5

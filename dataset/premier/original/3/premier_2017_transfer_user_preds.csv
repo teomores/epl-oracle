@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2017,1,Arsenal,Leicester,91.0,6.6,2.4
+2017,1,Watford,Liverpool,1.8,7.2,91.0
+2017,1,West Brom,Bournemouth,50.9,34.4,14.7
+2017,1,Southampton,Swansea,70.1,24.6,5.4
+2017,1,Everton,Stoke City,88.8,8.5,2.7
+2017,1,Crystal Palace,Huddersfield,59.6,31.6,8.9
+2017,1,Chelsea,Burnley,98.2,1.3,0.4
+2017,1,Brighton,Man City,0.9,4.0,95.2
+2017,1,Newcastle,Spurs,7.4,19.1,73.5
+2017,1,Man Utd,West Ham,88.3,8.7,3.0
+2017,2,Swansea,Man Utd,0.0,2.1,97.9
+2017,2,Bournemouth,Watford,34.6,43.5,22.0
+2017,2,Southampton,West Ham,55.9,31.4,12.7
+2017,2,Liverpool,Crystal Palace,95.9,3.3,0.8
+2017,2,Leicester,Brighton,91.1,5.7,3.2
+2017,2,Burnley,West Brom,46.9,38.7,14.4
+2017,2,Stoke City,Arsenal,3.2,7.3,89.5
+2017,2,Huddersfield,Newcastle,51.4,32.5,16.1
+2017,2,Spurs,Chelsea,52.7,31.8,15.5
+2017,2,Man City,Everton,82.5,15.7,1.9
+2017,3,Bournemouth,Man City,0.4,1.3,98.3
+2017,3,Watford,Brighton,81.4,12.0,6.6
+2017,3,Newcastle,West Ham,42.6,29.3,28.1
+2017,3,Huddersfield,Southampton,49.8,30.7,19.5
+2017,3,Crystal Palace,Swansea,52.7,31.1,16.2
+2017,3,Man Utd,Leicester,92.7,5.3,2.0
+2017,3,West Brom,Stoke City,58.7,27.8,13.5
+2017,3,Chelsea,Everton,77.4,17.5,5.2
+2017,3,Spurs,Burnley,99.2,0.4,0.4
+2017,3,Liverpool,Arsenal,69.3,20.9,9.8
+2017,4,Man City,Liverpool,35.0,33.9,31.1
+2017,4,Arsenal,Bournemouth,94.8,4.0,1.2
+2017,4,Southampton,Watford,73.9,20.2,5.9
+2017,4,Leicester,Chelsea,6.3,11.9,81.7
+2017,4,Everton,Spurs,15.9,41.3,42.9
+2017,4,Brighton,West Brom,13.9,27.1,59.0
+2017,4,Stoke City,Man Utd,1.6,5.1,93.3
+2017,4,Burnley,Crystal Palace,66.0,22.9,11.1
+2017,4,Swansea,Newcastle,45.1,35.6,19.4
+2017,4,West Ham,Huddersfield,38.5,22.5,38.9
+2017,5,Bournemouth,Brighton,50.0,30.2,19.8
+2017,5,Crystal Palace,Southampton,21.5,30.5,48.0
+2017,5,West Brom,West Ham,58.0,19.6,22.3
+2017,5,Watford,Man City,4.0,5.3,90.7
+2017,5,Newcastle,Stoke City,53.8,30.7,15.6
+2017,5,Liverpool,Burnley,95.5,3.1,1.3
+2017,5,Huddersfield,Leicester,40.4,29.6,30.0
+2017,5,Spurs,Swansea,96.9,1.8,1.3
+2017,5,Chelsea,Arsenal,86.8,10.1,3.1
+2017,5,Man Utd,Everton,92.6,6.5,0.9
+2017,6,West Ham,Spurs,6.6,10.9,82.5
+2017,6,Swansea,Watford,48.4,31.5,20.2
+2017,6,Stoke City,Chelsea,1.9,8.5,89.6
+2017,6,Southampton,Man Utd,0.9,9.4,89.7
+2017,6,Man City,Crystal Palace,99.5,0.5,0.0
+2017,6,Everton,Bournemouth,93.5,3.7,2.8
+2017,6,Burnley,Huddersfield,38.0,46.0,16.0
+2017,6,Leicester,Liverpool,9.3,25.1,65.6
+2017,6,Brighton,Newcastle,14.2,25.6,60.3
+2017,6,Arsenal,West Brom,96.0,3.1,0.9
+2017,7,Huddersfield,Spurs,3.4,9.9,86.7
+2017,7,Bournemouth,Leicester,12.6,25.6,61.8
+2017,7,West Ham,Swansea,72.0,20.8,7.2
+2017,7,West Brom,Watford,33.0,36.4,30.6
+2017,7,Stoke City,Southampton,41.5,38.2,20.3
+2017,7,Man Utd,Crystal Palace,99.5,0.0,0.5
+2017,7,Chelsea,Man City,30.8,43.6,25.6
+2017,7,Arsenal,Brighton,99.5,0.5,0.0
+2017,7,Everton,Burnley,84.4,9.2,6.4
+2017,7,Newcastle,Liverpool,5.0,14.2,80.8
+2017,8,Liverpool,Man Utd,22.7,31.5,45.8
+2017,8,Spurs,Bournemouth,96.6,1.9,1.5
+2017,8,Swansea,Huddersfield,34.5,40.8,24.8
+2017,8,Man City,Stoke City,99.5,0.5,0.0
+2017,8,Crystal Palace,Chelsea,1.9,1.5,96.6
+2017,8,Burnley,West Ham,58.7,22.3,18.9
+2017,8,Watford,Arsenal,8.3,19.4,72.3
+2017,8,Brighton,Everton,17.8,26.0,56.3
+2017,8,Southampton,Newcastle,52.9,28.8,18.3
+2017,8,Leicester,West Brom,73.0,15.6,11.4
+2017,9,West Ham,Brighton,79.7,15.5,4.8
+2017,9,Chelsea,Watford,88.5,8.3,3.1
+2017,9,Swansea,Leicester,33.3,40.6,26.0
+2017,9,Stoke City,Bournemouth,70.5,23.8,5.7
+2017,9,Newcastle,Crystal Palace,81.3,14.5,4.1
+2017,9,Man City,Burnley,97.9,1.0,1.0
+2017,9,Huddersfield,Man Utd,1.0,7.3,91.7
+2017,9,Southampton,West Brom,66.2,27.2,6.7
+2017,9,Everton,Arsenal,9.8,22.7,67.5
+2017,9,Spurs,Liverpool,57.7,28.6,13.8
+2017,10,Man Utd,Spurs,49.5,33.0,17.5
+2017,10,West Brom,Man City,0.5,4.1,95.4
+2017,10,Watford,Stoke City,81.7,11.2,7.1
+2017,10,Liverpool,Huddersfield,90.9,5.1,4.1
+2017,10,Crystal Palace,West Ham,22.3,36.5,41.1
+2017,10,Arsenal,Swansea,97.5,2.5,0.0
+2017,10,Bournemouth,Chelsea,1.5,2.5,96.0
+2017,10,Brighton,Southampton,35.5,39.5,25.0
+2017,10,Leicester,Everton,61.8,24.6,13.6
+2017,10,Burnley,Newcastle,40.6,31.7,27.7
+2017,11,Stoke City,Leicester,24.2,44.1,31.7
+2017,11,Swansea,Brighton,40.1,36.9,23.0
+2017,11,Southampton,Burnley,60.4,27.8,11.8
+2017,11,Newcastle,Bournemouth,87.1,8.6,4.3
+2017,11,Huddersfield,West Brom,70.6,19.8,9.6
+2017,11,West Ham,Liverpool,5.9,6.4,87.8
+2017,11,Spurs,Crystal Palace,99.0,1.0,0.0
+2017,11,Man City,Arsenal,90.3,7.2,2.6
+2017,11,Everton,Watford,47.4,20.9,31.6
+2017,11,Chelsea,Man Utd,31.6,46.4,21.9
+2017,12,Arsenal,Spurs,19.0,47.3,33.7
+2017,12,Bournemouth,Huddersfield,30.0,35.3,34.7
+2017,12,West Brom,Chelsea,1.1,3.2,95.8
+2017,12,Liverpool,Southampton,95.8,3.2,1.1
+2017,12,Leicester,Man City,3.7,7.4,88.9
+2017,12,Crystal Palace,Everton,16.3,29.5,54.2
+2017,12,Burnley,Swansea,81.1,11.1,7.9
+2017,12,Man Utd,Newcastle,97.4,1.6,1.0
+2017,12,Watford,West Ham,62.9,23.7,13.4
+2017,12,Brighton,Stoke City,55.3,25.4,19.3
+2017,13,West Ham,Leicester,20.9,41.3,37.8
+2017,13,Spurs,West Brom,97.8,2.2,0.0
+2017,13,Swansea,Bournemouth,33.7,32.0,34.3
+2017,13,Newcastle,Watford,57.9,28.7,13.5
+2017,13,Man Utd,Brighton,100.0,0.0,0.0
+2017,13,Crystal Palace,Stoke City,26.4,34.8,38.8
+2017,13,Liverpool,Chelsea,37.4,35.2,27.4
+2017,13,Southampton,Everton,66.1,20.9,13.0
+2017,13,Burnley,Arsenal,6.7,17.4,75.8
+2017,13,Huddersfield,Man City,2.2,3.9,93.9
+2017,14,Leicester,Spurs,8.2,13.6,78.2
+2017,14,Brighton,Crystal Palace,78.2,14.3,7.5
+2017,14,West Brom,Newcastle,32.7,42.7,24.7
+2017,14,Watford,Man Utd,1.3,14.0,84.7
+2017,14,Bournemouth,Burnley,28.3,44.0,27.7
+2017,14,Chelsea,Swansea,99.4,0.6,0.0
+2017,14,Arsenal,Huddersfield,93.7,3.8,2.5
+2017,14,Stoke City,Liverpool,5.0,11.9,83.0
+2017,14,Man City,Southampton,98.1,0.6,1.3
+2017,14,Everton,West Ham,61.6,30.2,8.2
+2017,15,Chelsea,Newcastle,96.4,1.8,1.8
+2017,15,West Brom,Crystal Palace,60.6,29.4,10.0
+2017,15,Watford,Spurs,7.1,20.7,72.2
+2017,15,Stoke City,Swansea,79.4,15.3,5.3
+2017,15,Leicester,Burnley,68.2,26.5,5.3
+2017,15,Everton,Huddersfield,75.3,13.5,11.2
+2017,15,Brighton,Liverpool,3.5,5.3,91.2
+2017,15,Arsenal,Man Utd,22.9,39.4,37.6
+2017,15,Bournemouth,Southampton,24.7,35.6,39.7
+2017,15,Man City,West Ham,97.7,1.1,1.1
+2017,16,West Ham,Chelsea,1.2,4.7,94.1
+2017,16,Burnley,Watford,55.5,32.4,12.1
+2017,16,Spurs,Stoke City,97.7,1.7,0.6
+2017,16,Swansea,West Brom,34.1,36.4,29.5
+2017,16,Huddersfield,Brighton,56.1,28.9,15.0
+2017,16,Crystal Palace,Bournemouth,46.2,34.1,19.7
+2017,16,Newcastle,Leicester,18.8,32.4,48.9
+2017,16,Southampton,Arsenal,3.3,8.8,87.8
+2017,16,Liverpool,Everton,92.3,5.5,2.2
+2017,16,Man Utd,Man City,20.3,45.6,34.1
+2017,17,Burnley,Stoke City,73.7,18.0,8.4
+2017,17,Huddersfield,Chelsea,4.2,3.6,92.2
+2017,17,Crystal Palace,Watford,18.6,25.1,56.3
+2017,17,Southampton,Leicester,38.7,34.7,26.6
+2017,17,Newcastle,Everton,22.5,41.6,35.8
+2017,17,Swansea,Man City,1.7,1.7,96.5
+2017,17,Spurs,Brighton,96.5,2.9,0.6
+2017,17,Liverpool,West Brom,98.3,0.6,1.2
+2017,17,West Ham,Arsenal,8.1,14.5,77.5
+2017,17,Man Utd,Bournemouth,100.0,0.0,0.0
+2017,18,Leicester,Crystal Palace,95.2,3.0,1.8
+2017,18,Watford,Huddersfield,69.5,23.4,7.2
+2017,18,Chelsea,Southampton,97.6,2.4,0.0
+2017,18,Brighton,Burnley,18.5,38.7,42.9
+2017,18,Arsenal,Newcastle,94.6,4.2,1.2
+2017,18,Stoke City,West Ham,51.8,32.7,15.5
+2017,18,Man City,Spurs,82.8,13.0,4.1
+2017,18,West Brom,Man Utd,0.0,4.0,96.0
+2017,18,Bournemouth,Liverpool,2.8,4.0,93.2
+2017,18,Everton,Swansea,92.4,4.3,3.3
+2017,19,Arsenal,Liverpool,18.8,51.0,30.2
+2017,19,Everton,Chelsea,9.6,16.6,73.9
+2017,19,West Ham,Newcastle,79.6,15.3,5.1
+2017,19,Swansea,Crystal Palace,33.8,31.8,34.4
+2017,19,Stoke City,West Brom,60.5,28.0,11.5
+2017,19,Southampton,Huddersfield,67.5,22.3,10.2
+2017,19,Man City,Bournemouth,99.4,0.0,0.6
+2017,19,Brighton,Watford,26.1,46.5,27.4
+2017,19,Burnley,Spurs,8.1,20.6,71.3
+2017,19,Leicester,Man Utd,6.8,16.1,77.0
+2017,20,Spurs,Southampton,96.1,3.1,0.8
+2017,20,Bournemouth,West Ham,32.0,28.9,39.1
+2017,20,West Brom,Everton,7.0,21.9,71.1
+2017,20,Watford,Leicester,19.5,41.4,39.1
+2017,20,Man Utd,Burnley,95.3,4.7,0.0
+2017,20,Huddersfield,Stoke City,69.3,18.9,11.8
+2017,20,Chelsea,Brighton,99.2,0.8,0.0
+2017,20,Liverpool,Swansea,96.2,2.3,1.5
+2017,20,Newcastle,Man City,2.9,2.2,94.9
+2017,20,Crystal Palace,Arsenal,2.8,9.2,87.9
+2017,21,Bournemouth,Everton,8.6,35.3,56.1
+2017,21,Watford,Swansea,80.6,11.5,7.9
+2017,21,Newcastle,Brighton,72.7,19.4,7.9
+2017,21,Liverpool,Leicester,89.2,9.4,1.4
+2017,21,Huddersfield,Burnley,31.9,42.0,26.1
+2017,21,Chelsea,Stoke City,97.1,1.4,1.4
+2017,21,Man Utd,Southampton,93.6,5.7,0.7
+2017,21,Crystal Palace,Man City,2.8,0.7,96.5
+2017,21,West Brom,Arsenal,2.1,7.1,90.8
+2017,21,Spurs,West Ham,94.7,2.6,2.6
+2017,22,Brighton,Bournemouth,57.0,36.4,6.5
+2017,22,Stoke City,Newcastle,57.0,30.7,12.3
+2017,22,Leicester,Huddersfield,86.0,8.8,5.3
+2017,22,Burnley,Liverpool,4.4,14.9,80.7
+2017,22,Everton,Man Utd,11.0,24.6,64.4
+2017,22,West Ham,West Brom,80.8,16.9,2.3
+2017,22,Swansea,Spurs,1.5,2.3,96.2
+2017,22,Southampton,Crystal Palace,73.1,18.5,8.5
+2017,22,Man City,Watford,96.2,3.1,0.8
+2017,22,Arsenal,Chelsea,17.1,37.9,45.0
+2017,23,West Brom,Brighton,29.9,41.4,28.7
+2017,23,Watford,Southampton,66.1,21.3,12.6
+2017,23,Newcastle,Swansea,88.5,8.6,2.9
+2017,23,Huddersfield,West Ham,51.7,27.6,20.7
+2017,23,Crystal Palace,Burnley,23.0,30.5,46.6
+2017,23,Chelsea,Leicester,97.1,2.3,0.6
+2017,23,Spurs,Everton,90.3,8.6,1.1
+2017,23,Bournemouth,Arsenal,0.0,4.5,95.5
+2017,23,Liverpool,Man City,16.9,37.6,45.5
+2017,23,Man Utd,Stoke City,98.4,0.5,1.1
+2017,24,Brighton,Chelsea,0.6,4.0,95.4
+2017,24,Arsenal,Crystal Palace,91.5,7.4,1.1
+2017,24,West Ham,Bournemouth,72.7,22.7,4.5
+2017,24,Stoke City,Huddersfield,33.0,45.5,21.6
+2017,24,Leicester,Watford,86.4,9.7,4.0
+2017,24,Everton,West Brom,90.9,7.4,1.7
+2017,24,Burnley,Man Utd,2.8,13.1,84.1
+2017,24,Man City,Newcastle,98.3,1.7,0.0
+2017,24,Southampton,Spurs,2.7,9.9,87.4
+2017,24,Swansea,Liverpool,3.8,0.5,95.7
+2017,25,West Ham,Crystal Palace,78.7,19.0,2.3
+2017,25,Swansea,Arsenal,3.5,3.5,93.1
+2017,25,Huddersfield,Liverpool,2.3,4.6,93.1
+2017,25,Southampton,Brighton,69.3,24.4,6.3
+2017,25,Newcastle,Burnley,29.5,43.8,26.7
+2017,25,Everton,Leicester,41.2,41.8,16.9
+2017,25,Chelsea,Bournemouth,98.3,1.1,0.6
+2017,25,Spurs,Man Utd,33.9,42.4,23.7
+2017,25,Stoke City,Watford,44.6,31.1,24.3
+2017,25,Man City,West Brom,98.9,1.1,0.0
+2017,26,Burnley,Man City,1.2,4.3,94.4
+2017,26,Bournemouth,Stoke City,69.1,18.8,12.1
+2017,26,West Brom,Southampton,26.8,42.7,30.5
+2017,26,Man Utd,Huddersfield,98.2,1.2,0.6
+2017,26,Leicester,Swansea,85.5,10.3,4.2
+2017,26,Brighton,West Ham,18.8,34.5,46.7
+2017,26,Arsenal,Everton,87.4,8.4,4.2
+2017,26,Crystal Palace,Newcastle,51.8,36.5,11.8
+2017,26,Liverpool,Spurs,66.1,26.3,7.6
+2017,26,Watford,Chelsea,2.9,4.6,92.5
+2017,27,Spurs,Arsenal,62.9,26.5,10.6
+2017,27,West Ham,Watford,59.4,30.6,10.0
+2017,27,Swansea,Burnley,32.0,26.0,42.0
+2017,27,Stoke City,Brighton,52.9,31.8,15.3
+2017,27,Everton,Crystal Palace,86.5,11.8,1.8
+2017,27,Man City,Leicester,95.9,2.9,1.2
+2017,27,Huddersfield,Bournemouth,29.7,29.1,41.3
+2017,27,Newcastle,Man Utd,2.3,5.2,92.4
+2017,27,Southampton,Liverpool,2.9,4.1,93.0
+2017,27,Chelsea,West Brom,96.0,2.3,1.7
+2017,28,Leicester,Stoke City,93.3,5.0,1.7
+2017,28,Bournemouth,Newcastle,51.1,33.9,15.0
+2017,28,West Brom,Huddersfield,28.3,39.4,32.2
+2017,28,Liverpool,West Ham,96.7,1.7,1.7
+2017,28,Burnley,Southampton,70.4,15.1,14.5
+2017,28,Brighton,Swansea,50.0,32.8,17.2
+2017,28,Watford,Everton,20.0,37.2,42.8
+2017,28,Crystal Palace,Spurs,0.5,5.5,94.0
+2017,28,Man Utd,Chelsea,56.0,34.1,9.9
+2017,28,Arsenal,Man City,9.5,14.8,75.7
+2017,29,Burnley,Everton,34.0,36.4,29.6
+2017,29,Watford,West Brom,86.6,9.8,3.7
+2017,29,Spurs,Huddersfield,99.4,0.0,0.6
+2017,29,Swansea,West Ham,22.6,36.6,40.9
+2017,29,Southampton,Stoke City,68.9,24.4,6.7
+2017,29,Leicester,Bournemouth,92.7,6.7,0.6
+2017,29,Liverpool,Newcastle,96.4,2.4,1.2
+2017,29,Brighton,Arsenal,2.9,17.6,79.4
+2017,29,Man City,Chelsea,83.6,11.7,4.7
+2017,29,Crystal Palace,Man Utd,1.7,4.0,94.3
+2017,30,Man Utd,Liverpool,32.1,38.8,29.1
+2017,30,West Ham,Burnley,47.3,23.1,29.6
+2017,30,West Brom,Leicester,8.3,14.8,76.9
+2017,30,Newcastle,Southampton,54.8,32.1,13.1
+2017,30,Huddersfield,Swansea,51.5,33.1,15.4
+2017,30,Everton,Brighton,83.4,12.4,4.1
+2017,30,Chelsea,Crystal Palace,94.7,4.1,1.2
+2017,30,Arsenal,Watford,85.6,9.0,5.4
+2017,30,Bournemouth,Spurs,1.2,4.1,94.7
+2017,30,Stoke City,Man City,1.2,0.6,98.3
+2017,31,Bournemouth,West Brom,82.7,11.0,6.4
+2017,31,Stoke City,Everton,10.3,23.0,66.7
+2017,31,Huddersfield,Crystal Palace,63.6,27.2,9.2
+2017,31,Liverpool,Watford,98.9,0.6,0.6
+2017,31,Burnley,Chelsea,9.3,21.3,69.4
+2017,31,Swansea,Southampton,60.4,24.6,15.0
+2017,31,Leicester,Arsenal,17.0,36.7,46.3
+2017,31,Spurs,Newcastle,96.8,2.7,0.5
+2017,31,Man City,Brighton,98.9,1.1,0.0
+2017,31,West Ham,Man Utd,4.3,5.3,90.4
+2017,32,Crystal Palace,Liverpool,1.2,1.8,97.0
+2017,32,West Brom,Burnley,10.2,14.5,75.3
+2017,32,Watford,Bournemouth,56.9,33.5,9.6
+2017,32,West Ham,Southampton,57.8,31.3,10.8
+2017,32,Newcastle,Huddersfield,70.5,24.1,5.4
+2017,32,Man Utd,Swansea,96.4,2.4,1.2
+2017,32,Brighton,Leicester,9.1,35.8,55.2
+2017,32,Everton,Man City,1.2,9.0,89.8
+2017,32,Arsenal,Stoke City,95.9,3.0,1.2
+2017,32,Chelsea,Spurs,33.5,48.8,17.6
+2017,33,Everton,Liverpool,3.1,12.3,84.7
+2017,33,Bournemouth,Crystal Palace,64.8,24.1,11.1
+2017,33,West Brom,Swansea,19.1,34.6,46.3
+2017,33,Watford,Burnley,34.6,38.3,27.2
+2017,33,Stoke City,Spurs,1.8,3.1,95.1
+2017,33,Leicester,Newcastle,91.4,7.4,1.2
+2017,33,Brighton,Huddersfield,53.7,38.3,8.0
+2017,33,Man City,Man Utd,78.5,13.5,8.0
+2017,33,Arsenal,Southampton,94.6,3.0,2.4
+2017,33,Chelsea,West Ham,95.2,4.8,0.0
+2017,34,Southampton,Chelsea,4.4,5.7,89.9
+2017,34,Burnley,Leicester,43.9,40.8,15.3
+2017,34,Swansea,Everton,9.5,26.6,63.9
+2017,34,Huddersfield,Watford,39.9,37.3,22.8
+2017,34,Crystal Palace,Brighton,51.6,33.8,14.6
+2017,34,Liverpool,Bournemouth,97.5,1.3,1.3
+2017,34,Spurs,Man City,34.4,35.6,30.0
+2017,34,Newcastle,Arsenal,11.0,12.3,76.7
+2017,34,Man Utd,West Brom,98.2,1.2,0.6
+2017,34,West Ham,Stoke City,81.2,14.5,4.2
+2017,35,Brighton,Spurs,0.9,1.8,97.3
+2017,35,Bournemouth,Man Utd,2.5,6.7,90.8
+2017,35,Leicester,Southampton,84.4,9.4,6.3
+2017,35,West Brom,Liverpool,0.6,2.6,96.8
+2017,35,Watford,Crystal Palace,60.8,32.3,7.0
+2017,35,Stoke City,Burnley,31.0,23.4,45.6
+2017,35,Arsenal,West Ham,88.6,8.9,2.5
+2017,35,Man City,Swansea,96.9,2.5,0.6
+2017,35,Everton,Newcastle,66.7,27.7,5.7
+2017,35,Chelsea,Huddersfield,94.0,4.8,1.2
+2017,36,Liverpool,Stoke City,96.1,2.6,1.3
+2017,36,Burnley,Brighton,87.3,11.4,1.3
+2017,36,Southampton,Bournemouth,50.0,27.2,22.8
+2017,36,Newcastle,West Brom,88.6,6.3,5.1
+2017,36,Huddersfield,Everton,13.3,30.4,56.3
+2017,36,Crystal Palace,Leicester,20.9,28.5,50.6
+2017,36,Swansea,Chelsea,1.9,6.4,91.7
+2017,36,West Ham,Man City,2.5,3.8,93.8
+2017,36,Man Utd,Arsenal,81.3,17.5,1.3
+2017,36,Spurs,Watford,98.1,1.9,0.0
+2017,37,Brighton,Man Utd,0.6,3.2,96.1
+2017,37,Stoke City,Crystal Palace,31.0,27.8,41.1
+2017,37,Bournemouth,Swansea,56.6,27.0,16.4
+2017,37,West Brom,Spurs,1.9,5.6,92.5
+2017,37,Watford,Newcastle,33.8,43.1,23.1
+2017,37,Leicester,West Ham,78.1,16.3,5.6
+2017,37,Everton,Southampton,77.5,11.9,10.6
+2017,37,Man City,Huddersfield,96.3,1.8,1.8
+2017,37,Chelsea,Liverpool,22.0,40.2,37.8
+2017,37,Arsenal,Burnley,86.1,8.5,5.5
+2017,38,Burnley,Bournemouth,84.6,14.7,0.6
+2017,38,West Ham,Everton,29.5,38.5,32.1
+2017,38,Spurs,Leicester,91.7,7.1,1.3
+2017,38,Swansea,Stoke City,68.4,24.5,7.1
+2017,38,Southampton,Man City,3.2,8.3,88.5
+2017,38,Newcastle,Chelsea,6.4,9.0,84.6
+2017,38,Man Utd,Watford,97.5,1.9,0.6
+2017,38,Liverpool,Brighton,96.8,1.9,1.3
+2017,38,Huddersfield,Arsenal,12.8,11.5,75.6
+2017,38,Crystal Palace,West Brom,69.2,16.0,14.7

@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2015,1,Hellas Verona,AS Roma,2.3,7.0,90.7
+2015,1,Lazio,Bologna,95.9,3.5,0.6
+2015,1,Juventus,Udinese Calcio,97.2,2.3,0.6
+2015,1,FC Empoli,Chievo Verona,36.7,52.0,11.3
+2015,1,Sassuolo,SSC Napoli,4.0,9.6,86.4
+2015,1,Sampdoria,Carpi,87.6,7.3,5.1
+2015,1,US Palermo,Genoa,42.9,42.9,14.1
+2015,1,Inter,Atalanta,89.3,7.9,2.8
+2015,1,Frosinone,Torino,4.5,22.6,72.9
+2015,1,Fiorentina,AC Milan,36.2,37.9,26.0
+2015,2,Bologna,Sassuolo,29.9,48.7,21.4
+2015,2,AC Milan,FC Empoli,95.5,1.9,2.6
+2015,2,AS Roma,Juventus,22.1,43.6,34.4
+2015,2,Atalanta,Frosinone,79.4,12.5,8.1
+2015,2,Udinese Calcio,US Palermo,67.1,26.1,6.8
+2015,2,Torino,Fiorentina,11.2,27.3,61.5
+2015,2,SSC Napoli,Sampdoria,78.4,16.0,5.6
+2015,2,Genoa,Hellas Verona,53.7,30.9,15.4
+2015,2,Chievo Verona,Lazio,8.1,14.9,77.0
+2015,2,Carpi,Inter,4.3,6.2,89.5
+2015,3,Frosinone,AS Roma,1.3,0.7,98.0
+2015,3,Fiorentina,Genoa,77.5,17.2,5.3
+2015,3,Juventus,Chievo Verona,91.5,3.9,4.6
+2015,3,Hellas Verona,Torino,10.4,27.3,62.3
+2015,3,FC Empoli,SSC Napoli,5.1,12.7,82.3
+2015,3,Sassuolo,Atalanta,63.7,27.4,8.9
+2015,3,US Palermo,Carpi,91.7,5.1,3.2
+2015,3,Lazio,Udinese Calcio,77.8,17.1,5.1
+2015,3,Inter,AC Milan,54.1,34.0,11.9
+2015,3,Sampdoria,Bologna,88.5,9.6,1.9
+2015,4,Udinese Calcio,FC Empoli,84.0,10.0,6.0
+2015,4,AC Milan,US Palermo,81.3,13.3,5.3
+2015,4,Chievo Verona,Inter,6.6,23.7,69.7
+2015,4,Atalanta,Hellas Verona,54.2,33.3,12.4
+2015,4,Torino,Sampdoria,50.3,37.9,11.8
+2015,4,AS Roma,Sassuolo,94.1,4.6,1.3
+2015,4,Genoa,Juventus,6.5,14.4,79.1
+2015,4,Bologna,Frosinone,67.3,26.8,5.9
+2015,4,Carpi,Fiorentina,4.5,3.2,92.2
+2015,4,SSC Napoli,Lazio,53.9,28.6,17.5
+2015,5,Udinese Calcio,AC Milan,8.8,20.6,70.6
+2015,5,Carpi,SSC Napoli,2.2,2.9,95.0
+2015,5,Fiorentina,Bologna,97.1,1.4,1.4
+2015,5,Sampdoria,AS Roma,5.8,28.8,65.5
+2015,5,US Palermo,Sassuolo,62.6,28.8,8.6
+2015,5,Lazio,Genoa,83.5,12.9,3.6
+2015,5,Juventus,Frosinone,99.3,0.0,0.7
+2015,5,Inter,Hellas Verona,94.2,4.3,1.4
+2015,5,Chievo Verona,Torino,15.9,48.6,35.5
+2015,5,FC Empoli,Atalanta,40.8,39.4,19.7
+2015,6,AS Roma,Carpi,100.0,0.0,0.0
+2015,6,SSC Napoli,Juventus,29.4,42.7,28.0
+2015,6,Genoa,AC Milan,11.1,18.1,70.8
+2015,6,Torino,US Palermo,82.8,11.7,5.5
+2015,6,Sassuolo,Chievo Verona,56.6,37.2,6.2
+2015,6,Hellas Verona,Lazio,6.2,22.8,71.0
+2015,6,Bologna,Udinese Calcio,37.9,37.2,24.8
+2015,6,Inter,Fiorentina,70.5,24.0,5.5
+2015,6,Frosinone,FC Empoli,14.4,27.4,58.2
+2015,6,Atalanta,Sampdoria,17.0,34.7,48.3
+2015,7,Carpi,Torino,3.6,5.8,90.6
+2015,7,Chievo Verona,Hellas Verona,66.0,26.2,7.8
+2015,7,FC Empoli,Sassuolo,21.0,28.0,51.0
+2015,7,Udinese Calcio,Genoa,56.9,36.1,6.9
+2015,7,Sampdoria,Inter,9.0,18.8,72.2
+2015,7,US Palermo,AS Roma,4.9,18.8,76.4
+2015,7,Lazio,Frosinone,97.9,1.4,0.7
+2015,7,Juventus,Bologna,97.2,1.4,1.4
+2015,7,AC Milan,SSC Napoli,29.0,38.6,32.4
+2015,7,Fiorentina,Atalanta,95.2,2.1,2.8
+2015,8,AS Roma,FC Empoli,97.0,0.7,2.2
+2015,8,Torino,AC Milan,38.8,32.8,28.4
+2015,8,Bologna,US Palermo,17.0,34.1,48.9
+2015,8,Atalanta,Carpi,88.1,5.9,5.9
+2015,8,Sassuolo,Lazio,11.9,14.9,73.1
+2015,8,SSC Napoli,Fiorentina,45.2,34.8,20.0
+2015,8,Hellas Verona,Udinese Calcio,36.3,40.0,23.7
+2015,8,Genoa,Chievo Verona,47.4,28.1,24.4
+2015,8,Frosinone,Sampdoria,5.2,6.7,88.1
+2015,8,Inter,Juventus,44.4,31.1,24.4
+2015,9,FC Empoli,Genoa,18.0,40.6,41.4
+2015,9,Carpi,Bologna,48.9,34.4,16.8
+2015,9,US Palermo,Inter,6.9,14.5,78.6
+2015,9,Sampdoria,Hellas Verona,87.9,7.6,4.5
+2015,9,Udinese Calcio,Frosinone,79.5,16.7,3.8
+2015,9,AC Milan,Sassuolo,70.5,17.4,12.1
+2015,9,Juventus,Atalanta,90.9,4.5,4.5
+2015,9,Lazio,Torino,72.0,25.0,3.0
+2015,9,Fiorentina,AS Roma,36.4,42.4,21.2
+2015,9,Chievo Verona,SSC Napoli,5.3,6.8,87.9
+2015,10,Bologna,Inter,1.8,5.4,92.8
+2015,10,Torino,Genoa,86.8,11.4,1.8
+2015,10,Sassuolo,Juventus,8.8,16.7,74.6
+2015,10,AS Roma,Udinese Calcio,98.2,0.9,0.9
+2015,10,SSC Napoli,US Palermo,96.5,1.8,1.8
+2015,10,AC Milan,Chievo Verona,84.2,12.3,3.5
+2015,10,Hellas Verona,Fiorentina,7.9,8.8,83.3
+2015,10,Frosinone,Carpi,57.9,36.0,6.1
+2015,10,Atalanta,Lazio,9.6,17.5,72.8
+2015,10,Sampdoria,FC Empoli,87.6,9.1,3.3
+2015,11,Juventus,Torino,83.1,13.7,3.2
+2015,11,Inter,AS Roma,38.1,34.9,27.0
+2015,11,Fiorentina,Frosinone,98.4,0.0,1.6
+2015,11,Bologna,Atalanta,27.9,28.7,43.4
+2015,11,Udinese Calcio,Sassuolo,31.8,30.2,38.0
+2015,11,Genoa,SSC Napoli,3.9,3.9,92.2
+2015,11,Carpi,Hellas Verona,26.4,45.0,28.7
+2015,11,Lazio,AC Milan,67.7,23.1,9.2
+2015,11,Chievo Verona,Sampdoria,26.0,36.6,37.4
+2015,11,US Palermo,FC Empoli,72.0,22.0,6.1
+2015,12,Hellas Verona,Bologna,55.9,33.9,10.2
+2015,12,AC Milan,Atalanta,91.4,6.3,2.3
+2015,12,Torino,Inter,6.3,21.1,72.7
+2015,12,FC Empoli,Juventus,3.9,8.7,87.4
+2015,12,Sassuolo,Carpi,96.1,3.1,0.8
+2015,12,AS Roma,Lazio,69.5,27.3,3.1
+2015,12,US Palermo,Chievo Verona,62.2,26.8,11.0
+2015,12,Frosinone,Genoa,17.3,40.2,42.5
+2015,12,SSC Napoli,Udinese Calcio,96.1,2.3,1.6
+2015,12,Sampdoria,Fiorentina,7.9,18.1,74.0
+2015,13,Bologna,AS Roma,1.6,1.6,96.9
+2015,13,Juventus,AC Milan,74.8,17.6,7.6
+2015,13,Hellas Verona,SSC Napoli,2.3,0.8,97.0
+2015,13,Udinese Calcio,Sampdoria,29.1,39.6,31.3
+2015,13,Lazio,US Palermo,93.3,3.7,3.0
+2015,13,Genoa,Sassuolo,26.9,39.6,33.6
+2015,13,Fiorentina,FC Empoli,97.0,2.2,0.7
+2015,13,Carpi,Chievo Verona,12.7,30.6,56.7
+2015,13,Atalanta,Torino,52.2,34.3,13.4
+2015,13,Inter,Frosinone,98.5,0.7,0.7
+2015,14,Torino,Bologna,87.1,7.6,5.3
+2015,14,AC Milan,Sampdoria,88.0,9.8,2.3
+2015,14,Chievo Verona,Udinese Calcio,47.4,36.1,16.5
+2015,14,AS Roma,Atalanta,97.7,1.5,0.8
+2015,14,Genoa,Carpi,92.5,6.8,0.8
+2015,14,Frosinone,Hellas Verona,32.3,51.1,16.5
+2015,14,FC Empoli,Lazio,12.0,21.1,66.9
+2015,14,US Palermo,Juventus,3.8,9.0,87.2
+2015,14,Sassuolo,Fiorentina,8.1,27.4,64.4
+2015,14,SSC Napoli,Inter,56.6,32.4,11.0
+2015,15,Lazio,Juventus,16.7,25.8,57.5
+2015,15,Torino,AS Roma,15.2,24.0,60.8
+2015,15,Inter,Genoa,95.3,4.7,0.0
+2015,15,Bologna,SSC Napoli,1.6,2.4,96.1
+2015,15,Atalanta,US Palermo,77.3,12.5,10.2
+2015,15,Hellas Verona,FC Empoli,26.6,32.0,41.4
+2015,15,Frosinone,Chievo Verona,22.7,44.5,32.8
+2015,15,Fiorentina,Udinese Calcio,93.8,5.5,0.8
+2015,15,Sampdoria,Sassuolo,38.3,35.9,25.8
+2015,15,Carpi,AC Milan,3.1,3.9,93.0
+2015,16,Genoa,Bologna,54.0,31.5,14.5
+2015,16,US Palermo,Frosinone,80.8,17.6,1.6
+2015,16,Udinese Calcio,Inter,3.2,7.9,88.9
+2015,16,Chievo Verona,Atalanta,18.9,52.0,29.1
+2015,16,AC Milan,Hellas Verona,93.7,3.1,3.1
+2015,16,FC Empoli,Carpi,86.6,10.2,3.1
+2015,16,SSC Napoli,AS Roma,74.8,21.3,3.9
+2015,16,Juventus,Fiorentina,71.7,23.6,4.7
+2015,16,Lazio,Sampdoria,79.1,14.0,7.0
+2015,16,Sassuolo,Torino,70.0,17.7,12.3
+2015,17,Bologna,FC Empoli,52.1,31.1,16.8
+2015,17,Carpi,Juventus,2.5,0.8,96.6
+2015,17,Atalanta,SSC Napoli,3.3,11.7,85.0
+2015,17,AS Roma,Genoa,95.8,1.7,2.5
+2015,17,Hellas Verona,Sassuolo,10.8,20.8,68.3
+2015,17,Fiorentina,Chievo Verona,93.3,5.0,1.7
+2015,17,Torino,Udinese Calcio,72.5,22.5,5.0
+2015,17,Sampdoria,US Palermo,54.2,33.3,12.5
+2015,17,Frosinone,AC Milan,1.7,8.4,89.9
+2015,17,Inter,Lazio,87.5,8.3,4.2
+2015,18,Genoa,Sampdoria,27.1,51.4,21.5
+2015,18,Udinese Calcio,Atalanta,54.6,28.7,16.7
+2015,18,Chievo Verona,AS Roma,3.7,17.4,78.9
+2015,18,Sassuolo,Frosinone,93.6,3.7,2.8
+2015,18,US Palermo,Fiorentina,4.6,4.6,90.8
+2015,18,AC Milan,Bologna,93.6,5.5,0.9
+2015,18,Lazio,Carpi,98.1,1.9,0.0
+2015,18,Juventus,Hellas Verona,97.2,2.8,0.0
+2015,18,FC Empoli,Inter,5.5,17.4,77.1
+2015,18,SSC Napoli,Torino,96.4,2.7,0.9
+2015,19,Carpi,Udinese Calcio,11.7,17.0,71.3
+2015,19,Fiorentina,Lazio,86.6,9.3,4.1
+2015,19,AS Roma,AC Milan,64.9,28.9,6.2
+2015,19,Inter,Sassuolo,94.8,4.1,1.0
+2015,19,Atalanta,Genoa,82.8,14.1,3.0
+2015,19,Torino,FC Empoli,50.5,29.3,20.2
+2015,19,Hellas Verona,US Palermo,35.4,30.3,34.3
+2015,19,Frosinone,SSC Napoli,1.0,3.0,96.0
+2015,19,Bologna,Chievo Verona,55.6,30.3,14.1
+2015,19,Sampdoria,Juventus,1.0,5.1,93.9
+2015,20,Atalanta,Inter,6.5,12.0,81.5
+2015,20,Torino,Frosinone,92.0,5.3,2.7
+2015,20,SSC Napoli,Sassuolo,95.6,4.4,0.0
+2015,20,Genoa,US Palermo,44.2,46.0,9.7
+2015,20,Carpi,Sampdoria,12.6,21.6,65.8
+2015,20,Bologna,Lazio,10.8,16.2,73.0
+2015,20,Udinese Calcio,Juventus,3.6,4.5,92.0
+2015,20,AS Roma,Hellas Verona,96.4,2.7,0.9
+2015,20,Chievo Verona,FC Empoli,30.4,43.8,25.9
+2015,20,AC Milan,Fiorentina,27.4,35.9,36.8
+2015,21,Frosinone,Atalanta,13.1,25.4,61.5
+2015,21,FC Empoli,AC Milan,18.9,27.9,53.3
+2015,21,Fiorentina,Torino,91.8,6.6,1.6
+2015,21,US Palermo,Udinese Calcio,21.3,55.7,23.0
+2015,21,Sampdoria,SSC Napoli,4.9,10.7,84.4
+2015,21,Hellas Verona,Genoa,23.8,36.9,39.3
+2015,21,Lazio,Chievo Verona,82.8,13.1,4.1
+2015,21,Inter,Carpi,97.5,1.6,0.8
+2015,21,Sassuolo,Bologna,82.6,11.6,5.8
+2015,21,Juventus,AS Roma,86.3,12.1,1.6
+2015,22,Carpi,US Palermo,23.5,35.7,40.9
+2015,22,Atalanta,Sassuolo,31.9,31.1,37.0
+2015,22,AS Roma,Frosinone,98.3,0.0,1.7
+2015,22,Chievo Verona,Juventus,0.8,4.8,94.4
+2015,22,Bologna,Sampdoria,62.9,23.4,13.7
+2015,22,Udinese Calcio,Lazio,11.3,23.4,65.3
+2015,22,Torino,Hellas Verona,88.5,6.6,4.9
+2015,22,Genoa,Fiorentina,6.5,12.9,80.6
+2015,22,SSC Napoli,FC Empoli,96.0,2.4,1.6
+2015,22,AC Milan,Inter,27.4,52.4,20.2
+2015,23,Sassuolo,AS Roma,16.2,19.8,64.0
+2015,23,Frosinone,Bologna,25.4,17.5,57.0
+2015,23,Hellas Verona,Atalanta,16.8,42.0,41.2
+2015,23,FC Empoli,Udinese Calcio,75.6,16.8,7.6
+2015,23,Sampdoria,Torino,44.5,27.7,27.7
+2015,23,Lazio,SSC Napoli,6.7,22.7,70.6
+2015,23,US Palermo,AC Milan,9.2,14.3,76.5
+2015,23,Juventus,Genoa,99.2,0.0,0.8
+2015,23,Inter,Chievo Verona,92.4,5.0,2.5
+2015,23,Fiorentina,Carpi,95.8,1.7,2.5
+2015,24,Bologna,Fiorentina,5.2,16.5,78.3
+2015,24,Genoa,Lazio,16.4,23.3,60.3
+2015,24,Hellas Verona,Inter,4.3,8.6,87.1
+2015,24,SSC Napoli,Carpi,100.0,0.0,0.0
+2015,24,AC Milan,Udinese Calcio,94.0,3.4,2.6
+2015,24,Sassuolo,US Palermo,77.6,13.8,8.6
+2015,24,Frosinone,Juventus,1.7,1.7,96.6
+2015,24,Torino,Chievo Verona,69.0,25.0,6.0
+2015,24,Atalanta,FC Empoli,26.5,44.4,29.1
+2015,24,AS Roma,Sampdoria,94.0,3.4,2.6
+2015,25,Lazio,Hellas Verona,92.8,5.2,2.1
+2015,25,Carpi,AS Roma,2.6,4.3,93.0
+2015,25,FC Empoli,Frosinone,91.5,8.5,0.0
+2015,25,Chievo Verona,Sassuolo,24.6,47.5,28.0
+2015,25,Juventus,SSC Napoli,61.0,29.7,9.3
+2015,25,AC Milan,Genoa,94.0,1.7,4.3
+2015,25,Sampdoria,Atalanta,50.4,30.4,19.1
+2015,25,US Palermo,Torino,23.3,53.4,23.3
+2015,25,Udinese Calcio,Bologna,47.4,34.5,18.1
+2015,25,Fiorentina,Inter,55.1,33.9,11.0
+2015,26,Bologna,Juventus,0.0,1.8,98.2
+2015,26,Hellas Verona,Chievo Verona,23.7,34.2,42.1
+2015,26,Inter,Sampdoria,94.8,3.5,1.7
+2015,26,Torino,Carpi,88.0,7.7,4.3
+2015,26,Genoa,Udinese Calcio,30.8,54.7,14.5
+2015,26,Atalanta,Fiorentina,5.1,9.4,85.5
+2015,26,Sassuolo,FC Empoli,61.5,28.2,10.3
+2015,26,Frosinone,Lazio,5.1,6.8,88.0
+2015,26,AS Roma,US Palermo,96.6,2.5,0.8
+2015,26,SSC Napoli,AC Milan,80.0,17.5,2.5
+2015,27,FC Empoli,AS Roma,1.8,9.2,89.0
+2015,27,AC Milan,Torino,91.7,6.4,1.8
+2015,27,US Palermo,Bologna,27.7,35.7,36.6
+2015,27,Carpi,Atalanta,17.9,43.8,38.4
+2015,27,Udinese Calcio,Hellas Verona,66.1,24.1,9.8
+2015,27,Chievo Verona,Genoa,43.8,39.3,17.0
+2015,27,Sampdoria,Frosinone,73.2,21.4,5.4
+2015,27,Juventus,Inter,91.1,8.0,0.9
+2015,27,Lazio,Sassuolo,78.8,15.9,5.3
+2015,27,Fiorentina,SSC Napoli,16.5,48.7,34.8
+2015,28,AS Roma,Fiorentina,71.4,24.1,4.5
+2015,28,Hellas Verona,Sampdoria,25.6,34.2,40.2
+2015,28,SSC Napoli,Chievo Verona,98.3,1.7,0.0
+2015,28,Torino,Lazio,23.1,42.7,34.2
+2015,28,Genoa,FC Empoli,36.4,44.1,19.5
+2015,28,Bologna,Carpi,91.5,6.8,1.7
+2015,28,Frosinone,Udinese Calcio,22.9,33.9,43.2
+2015,28,Sassuolo,AC Milan,22.0,28.0,50.0
+2015,28,Atalanta,Juventus,0.8,1.7,97.5
+2015,28,Inter,US Palermo,94.9,3.4,1.7
+2015,29,Juventus,Sassuolo,93.6,5.5,0.9
+2015,29,FC Empoli,Sampdoria,61.1,30.1,8.8
+2015,29,Inter,Bologna,92.9,6.2,0.9
+2015,29,Chievo Verona,AC Milan,7.1,16.8,76.1
+2015,29,Genoa,Torino,33.6,48.7,17.7
+2015,29,Udinese Calcio,AS Roma,2.7,8.8,88.5
+2015,29,Fiorentina,Hellas Verona,97.3,1.8,0.9
+2015,29,Carpi,Frosinone,38.1,46.0,15.9
+2015,29,Lazio,Atalanta,88.5,6.2,5.3
+2015,29,US Palermo,SSC Napoli,1.8,1.8,96.5
+2015,30,FC Empoli,US Palermo,75.7,15.0,9.3
+2015,30,AS Roma,Inter,78.5,16.8,4.7
+2015,30,Atalanta,Bologna,21.6,41.4,36.9
+2015,30,Frosinone,Fiorentina,3.6,4.5,91.9
+2015,30,Sampdoria,Chievo Verona,63.1,23.4,13.5
+2015,30,Hellas Verona,Carpi,52.3,29.7,18.0
+2015,30,Sassuolo,Udinese Calcio,84.7,9.9,5.4
+2015,30,Torino,Juventus,3.6,1.8,94.6
+2015,30,SSC Napoli,Genoa,98.2,0.9,0.9
+2015,30,AC Milan,Lazio,75.7,21.6,2.7
+2015,31,Carpi,Sassuolo,8.0,23.0,69.0
+2015,31,Juventus,FC Empoli,95.6,0.9,3.5
+2015,31,Udinese Calcio,SSC Napoli,1.8,0.9,97.4
+2015,31,Fiorentina,Sampdoria,93.8,2.7,3.6
+2015,31,Lazio,AS Roma,7.2,42.3,50.5
+2015,31,Chievo Verona,US Palermo,79.5,10.7,9.8
+2015,31,Atalanta,AC Milan,4.5,17.0,78.6
+2015,31,Genoa,Frosinone,80.4,17.9,1.8
+2015,31,Inter,Torino,91.2,8.0,0.9
+2015,31,Bologna,Hellas Verona,86.1,9.6,4.3
+2015,32,Frosinone,Inter,0.9,4.3,94.9
+2015,32,Sassuolo,Genoa,80.3,13.7,6.0
+2015,32,Chievo Verona,Carpi,78.6,12.0,9.4
+2015,32,AC Milan,Juventus,5.9,16.1,78.0
+2015,32,FC Empoli,Fiorentina,5.1,15.4,79.5
+2015,32,Torino,Atalanta,61.0,37.3,1.7
+2015,32,Sampdoria,Udinese Calcio,48.3,39.0,12.7
+2015,32,SSC Napoli,Hellas Verona,98.3,0.8,0.8
+2015,32,US Palermo,Lazio,11.0,12.7,76.3
+2015,32,AS Roma,Bologna,95.0,4.2,0.8
+2015,33,Bologna,Torino,36.4,46.3,17.4
+2015,33,Carpi,Genoa,18.2,16.5,65.3
+2015,33,Inter,SSC Napoli,25.4,31.1,43.4
+2015,33,Atalanta,AS Roma,3.3,4.9,91.8
+2015,33,Udinese Calcio,Chievo Verona,45.9,24.6,29.5
+2015,33,Fiorentina,Sassuolo,78.7,18.0,3.3
+2015,33,Juventus,US Palermo,96.7,3.3,0.0
+2015,33,Hellas Verona,Frosinone,45.5,40.5,14.0
+2015,33,Lazio,FC Empoli,87.6,7.4,5.0
+2015,33,Sampdoria,AC Milan,10.7,24.0,65.3
+2015,34,SSC Napoli,Bologna,97.9,2.1,0.0
+2015,34,Sassuolo,Sampdoria,75.5,17.3,7.1
+2015,34,US Palermo,Atalanta,36.4,38.4,25.3
+2015,34,AS Roma,Torino,94.9,2.0,3.0
+2015,34,Juventus,Lazio,94.9,3.0,2.0
+2015,34,Genoa,Inter,5.1,15.2,79.8
+2015,34,FC Empoli,Hellas Verona,80.8,15.2,4.0
+2015,34,Chievo Verona,Frosinone,74.7,16.2,9.1
+2015,34,Udinese Calcio,Fiorentina,8.1,22.2,69.7
+2015,34,AC Milan,Carpi,99.0,1.0,0.0
+2015,35,Inter,Udinese Calcio,94.2,3.8,1.9
+2015,35,Frosinone,US Palermo,50.0,34.0,16.0
+2015,35,Torino,Sassuolo,39.6,43.4,17.0
+2015,35,Sampdoria,Lazio,8.5,23.6,67.9
+2015,35,Bologna,Genoa,39.6,24.5,35.8
+2015,35,Atalanta,Chievo Verona,42.5,33.0,24.5
+2015,35,Fiorentina,Juventus,7.4,12.0,80.6
+2015,35,AS Roma,SSC Napoli,41.1,43.0,15.9
+2015,35,Hellas Verona,AC Milan,3.7,3.7,92.5
+2015,35,Carpi,FC Empoli,23.6,31.1,45.3
+2015,36,Udinese Calcio,Torino,40.6,32.1,27.4
+2015,36,Chievo Verona,Fiorentina,13.1,22.4,64.5
+2015,36,Juventus,Carpi,97.2,0.9,1.9
+2015,36,US Palermo,Sampdoria,42.6,29.6,27.8
+2015,36,Sassuolo,Hellas Verona,96.3,0.9,2.8
+2015,36,AC Milan,Frosinone,94.4,2.8,2.8
+2015,36,FC Empoli,Bologna,53.3,39.3,7.5
+2015,36,Lazio,Inter,14.7,33.0,52.3
+2015,36,Genoa,AS Roma,1.8,7.2,91.0
+2015,36,SSC Napoli,Atalanta,100.0,0.0,0.0
+2015,37,Inter,FC Empoli,95.4,2.8,1.8
+2015,37,Bologna,AC Milan,9.2,21.1,69.7
+2015,37,AS Roma,Chievo Verona,97.3,0.9,1.8
+2015,37,Atalanta,Udinese Calcio,49.5,40.5,9.9
+2015,37,Frosinone,Sassuolo,15.5,15.5,69.1
+2015,37,Fiorentina,US Palermo,87.3,7.3,5.5
+2015,37,Carpi,Lazio,7.2,14.4,78.4
+2015,37,Sampdoria,Genoa,35.1,48.6,16.2
+2015,37,Torino,SSC Napoli,7.2,8.1,84.7
+2015,37,Hellas Verona,Juventus,1.8,3.6,94.6
+2015,38,Juventus,Sampdoria,98.1,1.9,0.0
+2015,38,AC Milan,AS Roma,17.9,38.7,43.4
+2015,38,Sassuolo,Inter,28.3,33.0,38.7
+2015,38,SSC Napoli,Frosinone,97.2,0.9,1.9
+2015,38,Genoa,Atalanta,67.6,23.1,9.3
+2015,38,FC Empoli,Torino,25.9,49.1,25.0
+2015,38,Chievo Verona,Bologna,70.4,22.2,7.4
+2015,38,US Palermo,Hellas Verona,80.7,13.8,5.5
+2015,38,Lazio,Fiorentina,43.1,37.6,19.3
+2015,38,Udinese Calcio,Carpi,68.5,16.7,14.8

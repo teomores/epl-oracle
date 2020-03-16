@@ -17,7 +17,7 @@ def get_transfer_user_predictions(league: str) -> None:
         n_matches = 34
     else:
         n_matches = 38
-    years = [2016,2017]
+    years = [2013]
     match_rounds = [x for x in range(1,n_matches+1)]
     driver = webdriver.Chrome('E:/USDE/scrapers/chromedriver.exe')
     for year in years:
@@ -63,4 +63,6 @@ def get_transfer_user_predictions(league: str) -> None:
 
 if __name__ == '__main__':
     # la lega può essere : serie-a, liga, bundesliga o premier
+    get_transfer_user_predictions('bundesliga')
     get_transfer_user_predictions('liga')
+    get_transfer_user_predictions('premier')

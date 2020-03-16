@@ -1,0 +1,307 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2009,1,VfL Wolfsburg,VfB Stuttgart,62.3,28.6,9.1
+2009,1,FSV Mainz,Bay Leverkusen,5.3,16.0,78.7
+2009,1,Hertha BSC,Hannover,68.6,26.6,4.8
+2009,1,Werder Bremen,E Frankfurt,95.5,3.5,1.0
+2009,1,FC Nuremberg,FC Schalke,11.0,31.8,57.2
+2009,1,Bor Dortmund,FC K ln,85.9,10.4,3.6
+2009,1,TSG Hoffenheim,Bayern Munich,10.8,28.3,60.9
+2009,1,VfL Bochum,Bor M gladbach,31.8,42.2,26.0
+2009,1,SC Freiburg,Hamburger SV,6.2,11.8,82.0
+2009,2,Bayern Munich,Werder Bremen,81.5,12.9,5.7
+2009,2,E Frankfurt,FC Nuremberg,64.8,23.7,11.4
+2009,2,Hannover,FSV Mainz,50.2,29.7,20.1
+2009,2,Bay Leverkusen,TSG Hoffenheim,37.1,35.3,27.6
+2009,2,Hamburger SV,Bor Dortmund,39.6,41.0,19.3
+2009,2,VfB Stuttgart,SC Freiburg,96.0,3.0,1.0
+2009,2,FC K ln,VfL Wolfsburg,4.7,9.4,85.9
+2009,2,Bor M gladbach,Hertha BSC,42.9,30.8,26.3
+2009,2,FC Schalke,VfL Bochum,92.2,6.1,1.7
+2009,3,TSG Hoffenheim,FC Schalke,34.6,33.6,31.9
+2009,3,FC Nuremberg,Hannover,70.6,22.6,6.8
+2009,3,FSV Mainz,Bayern Munich,1.9,5.0,93.1
+2009,3,SC Freiburg,Bay Leverkusen,8.7,18.4,72.9
+2009,3,FC K ln,E Frankfurt,61.1,24.3,14.6
+2009,3,Bor Dortmund,VfB Stuttgart,35.6,34.5,29.9
+2009,3,VfL Bochum,Hertha BSC,27.6,36.3,36.1
+2009,3,Werder Bremen,Bor M gladbach,86.1,9.5,4.4
+2009,3,VfL Wolfsburg,Hamburger SV,67.4,25.2,7.5
+2009,4,Bor M gladbach,FSV Mainz,61.7,25.2,13.2
+2009,4,E Frankfurt,Bor Dortmund,12.5,35.7,51.9
+2009,4,Hannover,TSG Hoffenheim,11.6,31.6,56.8
+2009,4,Bay Leverkusen,VfL Bochum,93.5,5.6,0.9
+2009,4,FC Schalke,SC Freiburg,94.1,4.6,1.3
+2009,4,VfB Stuttgart,FC Nuremberg,95.7,3.1,1.2
+2009,4,Bayern Munich,VfL Wolfsburg,48.6,28.4,23.0
+2009,4,Hertha BSC,Werder Bremen,11.2,22.7,66.2
+2009,4,Hamburger SV,FC K ln,93.5,4.4,2.1
+2009,5,VfL Wolfsburg,Bay Leverkusen,60.2,29.7,10.1
+2009,5,FC Nuremberg,Bor M gladbach,40.1,33.2,26.7
+2009,5,FSV Mainz,Hertha BSC,44.1,30.9,25.0
+2009,5,SC Freiburg,E Frankfurt,41.4,39.1,19.5
+2009,5,TSG Hoffenheim,VfL Bochum,93.7,4.6,1.7
+2009,5,Bor Dortmund,Bayern Munich,7.2,20.6,72.1
+2009,5,Hamburger SV,VfB Stuttgart,71.4,21.3,7.3
+2009,5,Werder Bremen,Hannover,96.0,2.9,1.1
+2009,5,FC K ln,FC Schalke,18.9,25.3,55.7
+2009,6,FC Schalke,VfL Wolfsburg,31.1,32.8,36.1
+2009,6,Bayern Munich,FC Nuremberg,98.3,1.4,0.3
+2009,6,Bor M gladbach,TSG Hoffenheim,15.7,24.6,59.7
+2009,6,VfL Bochum,FSV Mainz,44.2,33.2,22.6
+2009,6,Hannover,Bor Dortmund,15.3,34.9,49.8
+2009,6,VfB Stuttgart,FC K ln,87.4,7.8,4.8
+2009,6,E Frankfurt,Hamburger SV,11.2,20.9,68.0
+2009,6,Bay Leverkusen,Werder Bremen,59.5,27.6,12.9
+2009,6,Hertha BSC,SC Freiburg,66.4,23.8,9.8
+2009,7,FC Nuremberg,VfL Bochum,76.1,17.6,6.3
+2009,7,E Frankfurt,VfB Stuttgart,32.1,35.2,32.7
+2009,7,FC K ln,Bay Leverkusen,15.9,26.7,57.3
+2009,7,Werder Bremen,FSV Mainz,88.9,8.1,3.0
+2009,7,VfL Wolfsburg,Hannover,96.1,2.8,1.1
+2009,7,Bor Dortmund,FC Schalke,36.9,44.0,19.1
+2009,7,Hamburger SV,Bayern Munich,18.5,27.3,54.2
+2009,7,SC Freiburg,Bor M gladbach,52.8,28.5,18.7
+2009,7,TSG Hoffenheim,Hertha BSC,91.9,5.1,3.0
+2009,8,FC Schalke,E Frankfurt,89.7,7.5,2.7
+2009,8,Bay Leverkusen,FC Nuremberg,95.6,3.4,1.0
+2009,8,FSV Mainz,TSG Hoffenheim,7.4,18.3,74.3
+2009,8,VfL Bochum,VfL Wolfsburg,3.0,7.6,89.4
+2009,8,Hannover,SC Freiburg,39.6,37.4,23.0
+2009,8,Bayern Munich,FC K ln,94.2,3.8,2.0
+2009,8,Bor M gladbach,Bor Dortmund,20.7,38.6,40.7
+2009,8,VfB Stuttgart,Werder Bremen,31.7,38.2,30.1
+2009,8,Hertha BSC,Hamburger SV,7.9,10.2,81.9
+2009,9,FC Nuremberg,Hertha BSC,43.3,31.9,24.8
+2009,9,SC Freiburg,Bayern Munich,3.5,5.4,91.1
+2009,9,E Frankfurt,Hannover,61.1,27.3,11.7
+2009,9,FC K ln,FSV Mainz,52.3,25.8,21.9
+2009,9,Werder Bremen,TSG Hoffenheim,72.4,20.3,7.3
+2009,9,VfB Stuttgart,FC Schalke,41.0,32.1,26.9
+2009,9,Hamburger SV,Bay Leverkusen,45.9,34.9,19.2
+2009,9,VfL Wolfsburg,Bor M gladbach,96.5,2.3,1.1
+2009,9,Bor Dortmund,VfL Bochum,87.7,10.1,2.2
+2009,10,Bay Leverkusen,Bor Dortmund,81.8,11.4,6.8
+2009,10,Bayern Munich,E Frankfurt,94.3,4.2,1.5
+2009,10,FSV Mainz,SC Freiburg,68.2,24.2,7.6
+2009,10,Hannover,VfB Stuttgart,23.4,32.1,44.5
+2009,10,TSG Hoffenheim,FC Nuremberg,93.2,4.6,2.3
+2009,10,Bor M gladbach,FC K ln,42.6,36.0,21.4
+2009,10,Hertha BSC,VfL Wolfsburg,6.2,7.8,86.0
+2009,10,VfL Bochum,Werder Bremen,4.1,6.4,89.5
+2009,10,FC Schalke,Hamburger SV,36.2,41.2,22.5
+2009,11,Bor Dortmund,Hertha BSC,86.4,9.8,3.8
+2009,11,VfL Wolfsburg,FSV Mainz,91.9,6.4,1.7
+2009,11,FC Nuremberg,Werder Bremen,3.1,7.0,90.0
+2009,11,FC K ln,Hannover,56.2,33.8,10.0
+2009,11,Hamburger SV,Bor M gladbach,96.3,2.8,0.9
+2009,11,VfB Stuttgart,Bayern Munich,8.8,16.0,75.2
+2009,11,FC Schalke,Bay Leverkusen,33.8,47.8,18.3
+2009,11,SC Freiburg,TSG Hoffenheim,7.1,14.0,79.0
+2009,11,E Frankfurt,VfL Bochum,68.4,23.1,8.5
+2009,12,Bay Leverkusen,E Frankfurt,95.4,3.0,1.6
+2009,12,FSV Mainz,FC Nuremberg,81.5,12.1,6.4
+2009,12,TSG Hoffenheim,VfL Wolfsburg,45.1,39.1,15.8
+2009,12,Bor M gladbach,VfB Stuttgart,23.7,27.1,49.2
+2009,12,VfL Bochum,SC Freiburg,48.1,30.5,21.4
+2009,12,Bayern Munich,FC Schalke,55.8,28.6,15.6
+2009,12,Hannover,Hamburger SV,9.8,21.8,68.4
+2009,12,Werder Bremen,Bor Dortmund,81.9,12.8,5.3
+2009,12,Hertha BSC,FC K ln,58.7,26.4,14.9
+2009,13,SC Freiburg,Werder Bremen,4.5,9.9,85.5
+2009,13,E Frankfurt,Bor M gladbach,47.6,36.9,15.5
+2009,13,FC K ln,TSG Hoffenheim,7.8,18.2,73.9
+2009,13,VfL Wolfsburg,FC Nuremberg,96.6,2.4,1.0
+2009,13,FC Schalke,Hannover,87.3,8.6,4.1
+2009,13,VfB Stuttgart,Hertha BSC,86.0,11.3,2.7
+2009,13,Bor Dortmund,FSV Mainz,71.9,22.7,5.4
+2009,13,Bayern Munich,Bay Leverkusen,47.7,31.5,20.8
+2009,13,Hamburger SV,VfL Bochum,95.3,3.5,1.3
+2009,14,VfL Bochum,FC K ln,58.1,26.7,15.2
+2009,14,Hertha BSC,E Frankfurt,60.1,24.3,15.6
+2009,14,FC Nuremberg,SC Freiburg,67.7,22.9,9.4
+2009,14,FSV Mainz,Hamburger SV,32.1,30.9,37.0
+2009,14,Werder Bremen,VfL Wolfsburg,77.4,18.1,4.4
+2009,14,TSG Hoffenheim,Bor Dortmund,81.9,13.0,5.1
+2009,14,Bor M gladbach,FC Schalke,10.3,21.7,68.0
+2009,14,Bay Leverkusen,VfB Stuttgart,81.7,13.0,5.3
+2009,14,Hannover,Bayern Munich,7.5,14.2,78.2
+2009,15,Bayern Munich,Bor M gladbach,94.8,4.0,1.2
+2009,15,VfL Wolfsburg,SC Freiburg,95.5,3.3,1.2
+2009,15,Hannover,Bay Leverkusen,3.7,9.3,87.0
+2009,15,Hamburger SV,TSG Hoffenheim,33.9,41.7,24.3
+2009,15,VfB Stuttgart,VfL Bochum,78.4,16.8,4.8
+2009,15,Bor Dortmund,FC Nuremberg,91.1,7.0,1.9
+2009,15,E Frankfurt,FSV Mainz,31.7,44.8,23.5
+2009,15,FC K ln,Werder Bremen,3.9,5.2,90.8
+2009,15,FC Schalke,Hertha BSC,92.0,5.4,2.6
+2009,16,Hertha BSC,Bay Leverkusen,6.7,10.1,83.2
+2009,16,SC Freiburg,FC K ln,49.4,35.1,15.4
+2009,16,TSG Hoffenheim,E Frankfurt,91.5,6.7,1.8
+2009,16,FC Nuremberg,Hamburger SV,9.1,23.9,66.9
+2009,16,Bor M gladbach,Hannover,67.4,25.0,7.5
+2009,16,VfL Bochum,Bayern Munich,1.4,4.1,94.5
+2009,16,Werder Bremen,FC Schalke,64.4,30.7,4.9
+2009,16,FSV Mainz,VfB Stuttgart,28.3,30.5,41.2
+2009,16,VfL Wolfsburg,Bor Dortmund,53.4,30.7,15.9
+2009,17,FC Schalke,FSV Mainz,91.5,7.2,1.3
+2009,17,Bayern Munich,Hertha BSC,97.0,2.4,0.6
+2009,17,E Frankfurt,VfL Wolfsburg,13.7,32.5,53.8
+2009,17,Hannover,VfL Bochum,65.0,28.9,6.1
+2009,17,Bay Leverkusen,Bor M gladbach,82.6,14.5,2.9
+2009,17,Bor Dortmund,SC Freiburg,94.2,4.8,1.0
+2009,17,VfB Stuttgart,TSG Hoffenheim,39.6,36.7,23.7
+2009,17,Hamburger SV,Werder Bremen,24.2,44.2,31.6
+2009,17,FC K ln,FC Nuremberg,53.9,33.8,12.3
+2009,18,Bayern Munich,TSG Hoffenheim,90.6,7.5,1.9
+2009,18,Bay Leverkusen,FSV Mainz,92.9,6.0,1.2
+2009,18,E Frankfurt,Werder Bremen,4.3,15.9,79.9
+2009,18,Bor M gladbach,VfL Bochum,75.7,19.4,4.8
+2009,18,Hannover,Hertha BSC,37.3,40.2,22.5
+2009,18,Hamburger SV,SC Freiburg,94.6,4.6,0.8
+2009,18,VfB Stuttgart,VfL Wolfsburg,40.4,41.3,18.3
+2009,18,FC Schalke,FC Nuremberg,92.9,5.4,1.7
+2009,18,FC K ln,Bor Dortmund,8.3,27.1,64.6
+2009,19,SC Freiburg,VfB Stuttgart,5.2,15.1,79.6
+2009,19,Werder Bremen,Bayern Munich,14.4,29.3,56.4
+2009,19,FSV Mainz,Hannover,72.5,18.7,8.9
+2009,19,Hertha BSC,Bor M gladbach,73.0,17.9,9.2
+2009,19,FC Nuremberg,E Frankfurt,44.4,33.2,22.4
+2009,19,VfL Bochum,FC Schalke,8.4,18.8,72.8
+2009,19,Bor Dortmund,Hamburger SV,37.2,41.1,21.7
+2009,19,VfL Wolfsburg,FC K ln,90.2,7.1,2.7
+2009,19,TSG Hoffenheim,Bay Leverkusen,14.6,34.0,51.4
+2009,20,Hamburger SV,VfL Wolfsburg,81.6,13.8,4.6
+2009,20,Hannover,FC Nuremberg,44.8,38.1,17.1
+2009,20,Bayern Munich,FSV Mainz,97.7,1.7,0.5
+2009,20,Hertha BSC,VfL Bochum,69.3,20.3,10.3
+2009,20,E Frankfurt,FC K ln,57.8,30.3,11.9
+2009,20,Bor M gladbach,Werder Bremen,11.2,21.4,67.4
+2009,20,FC Schalke,TSG Hoffenheim,73.4,19.5,7.1
+2009,20,VfB Stuttgart,Bor Dortmund,35.3,37.2,27.5
+2009,20,Bay Leverkusen,SC Freiburg,97.5,1.8,0.7
+2009,21,Werder Bremen,Hertha BSC,87.6,8.6,3.8
+2009,21,TSG Hoffenheim,Hannover,87.7,9.3,2.9
+2009,21,FC K ln,Hamburger SV,11.2,28.4,60.4
+2009,21,VfL Bochum,Bay Leverkusen,3.2,10.5,86.3
+2009,21,SC Freiburg,FC Schalke,5.1,11.5,83.4
+2009,21,VfL Wolfsburg,Bayern Munich,6.3,14.9,78.7
+2009,21,FC Nuremberg,VfB Stuttgart,9.1,27.0,63.8
+2009,21,FSV Mainz,Bor M gladbach,51.7,33.2,15.1
+2009,21,Bor Dortmund,E Frankfurt,90.9,6.9,2.2
+2009,22,Bor M gladbach,FC Nuremberg,67.6,21.5,10.8
+2009,22,Bay Leverkusen,VfL Wolfsburg,83.3,12.5,4.2
+2009,22,VfL Bochum,TSG Hoffenheim,17.6,31.9,50.5
+2009,22,VfB Stuttgart,Hamburger SV,46.7,35.4,17.9
+2009,22,Hertha BSC,FSV Mainz,57.3,28.1,14.6
+2009,22,Hannover,Werder Bremen,5.9,12.5,81.6
+2009,22,Bayern Munich,Bor Dortmund,90.7,6.5,2.8
+2009,22,FC Schalke,FC K ln,88.1,8.5,3.4
+2009,22,E Frankfurt,SC Freiburg,80.2,15.0,4.8
+2009,23,TSG Hoffenheim,Bor M gladbach,78.5,15.9,5.6
+2009,23,FC Nuremberg,Bayern Munich,1.6,3.2,95.3
+2009,23,FSV Mainz,VfL Bochum,60.1,32.8,7.1
+2009,23,Hamburger SV,E Frankfurt,91.3,7.0,1.7
+2009,23,Bor Dortmund,Hannover,95.3,3.6,1.1
+2009,23,FC K ln,VfB Stuttgart,10.2,27.1,62.6
+2009,23,SC Freiburg,Hertha BSC,30.9,37.1,32.0
+2009,23,Werder Bremen,Bay Leverkusen,35.5,37.3,27.2
+2009,23,VfL Wolfsburg,FC Schalke,25.9,32.6,41.5
+2009,24,FC Schalke,Bor Dortmund,52.2,36.4,11.4
+2009,24,VfL Bochum,FC Nuremberg,52.7,33.0,14.2
+2009,24,VfB Stuttgart,E Frankfurt,87.7,9.8,2.6
+2009,24,FSV Mainz,Werder Bremen,9.7,21.0,69.3
+2009,24,Hertha BSC,TSG Hoffenheim,29.9,34.7,35.4
+2009,24,Bor M gladbach,SC Freiburg,90.9,6.8,2.2
+2009,24,Bay Leverkusen,FC K ln,95.3,2.9,1.8
+2009,24,Hannover,VfL Wolfsburg,4.4,8.9,86.7
+2009,24,Bayern Munich,Hamburger SV,75.6,19.4,5.0
+2009,25,E Frankfurt,FC Schalke,11.5,34.3,54.2
+2009,25,FC K ln,Bayern Munich,2.1,4.9,93.1
+2009,25,VfL Wolfsburg,VfL Bochum,91.8,6.3,1.9
+2009,25,SC Freiburg,Hannover,45.9,32.3,21.7
+2009,25,Werder Bremen,VfB Stuttgart,53.9,33.9,12.1
+2009,25,Hamburger SV,Hertha BSC,95.0,3.4,1.6
+2009,25,Bor Dortmund,Bor M gladbach,86.6,11.1,2.2
+2009,25,FC Nuremberg,Bay Leverkusen,4.1,13.5,82.4
+2009,25,TSG Hoffenheim,FSV Mainz,82.3,14.4,3.3
+2009,26,FC Schalke,VfB Stuttgart,57.4,30.1,12.5
+2009,26,Bor M gladbach,VfL Wolfsburg,18.8,24.2,56.9
+2009,26,FSV Mainz,FC K ln,63.0,25.1,11.9
+2009,26,VfL Bochum,Bor Dortmund,6.9,21.4,71.7
+2009,26,Hertha BSC,FC Nuremberg,48.9,29.2,22.0
+2009,26,Hannover,E Frankfurt,37.4,30.7,31.9
+2009,26,Bayern Munich,SC Freiburg,98.5,1.0,0.5
+2009,26,TSG Hoffenheim,Werder Bremen,13.9,26.7,59.4
+2009,26,Bay Leverkusen,Hamburger SV,45.1,38.5,16.5
+2009,27,FC K ln,Bor M gladbach,43.2,35.0,21.7
+2009,27,E Frankfurt,Bayern Munich,2.0,6.2,91.8
+2009,27,SC Freiburg,FSV Mainz,24.7,35.2,40.1
+2009,27,Werder Bremen,VfL Bochum,93.6,4.9,1.6
+2009,27,VfB Stuttgart,Hannover,90.5,7.0,2.4
+2009,27,FC Nuremberg,TSG Hoffenheim,39.2,28.8,31.9
+2009,27,Bor Dortmund,Bay Leverkusen,29.0,40.8,30.3
+2009,27,Hamburger SV,FC Schalke,33.8,33.1,33.1
+2009,27,VfL Wolfsburg,Hertha BSC,93.9,3.3,2.8
+2009,28,TSG Hoffenheim,SC Freiburg,83.1,12.6,4.3
+2009,28,VfL Bochum,E Frankfurt,35.7,33.0,31.4
+2009,28,Bayern Munich,VfB Stuttgart,82.1,13.1,4.9
+2009,28,Werder Bremen,FC Nuremberg,91.3,7.2,1.5
+2009,28,Hannover,FC K ln,55.0,33.0,12.0
+2009,28,Hertha BSC,Bor Dortmund,16.6,16.7,66.7
+2009,28,FSV Mainz,VfL Wolfsburg,24.3,28.9,46.8
+2009,28,Bay Leverkusen,FC Schalke,41.2,41.2,17.6
+2009,28,Bor M gladbach,Hamburger SV,10.8,16.9,72.2
+2009,29,Bor Dortmund,Werder Bremen,46.1,32.4,21.5
+2009,29,SC Freiburg,VfL Bochum,46.4,32.1,21.4
+2009,29,E Frankfurt,Bay Leverkusen,18.3,26.1,55.6
+2009,29,FC Nuremberg,FSV Mainz,61.8,23.5,14.7
+2009,29,VfB Stuttgart,Bor M gladbach,93.4,4.5,2.0
+2009,29,FC Schalke,Bayern Munich,33.5,30.1,36.4
+2009,29,FC K ln,Hertha BSC,40.6,22.1,37.2
+2009,29,VfL Wolfsburg,TSG Hoffenheim,84.2,12.1,3.6
+2009,29,Hamburger SV,Hannover,91.9,5.8,2.3
+2009,30,Bor M gladbach,E Frankfurt,33.8,31.3,34.8
+2009,30,Werder Bremen,SC Freiburg,97.3,1.9,0.8
+2009,30,TSG Hoffenheim,FC K ln,72.6,20.9,6.5
+2009,30,FSV Mainz,Bor Dortmund,9.6,20.4,70.1
+2009,30,Hannover,FC Schalke,4.8,8.3,86.9
+2009,30,Hertha BSC,VfB Stuttgart,27.0,27.2,45.8
+2009,30,Bay Leverkusen,Bayern Munich,15.0,21.6,63.4
+2009,30,VfL Bochum,Hamburger SV,13.7,24.5,61.7
+2009,30,FC Nuremberg,VfL Wolfsburg,25.4,25.4,49.2
+2009,31,FC K ln,VfL Bochum,58.6,27.3,14.1
+2009,31,SC Freiburg,FC Nuremberg,30.1,32.3,37.6
+2009,31,Hamburger SV,FSV Mainz,91.3,6.8,1.9
+2009,31,FC Schalke,Bor M gladbach,90.4,7.1,2.5
+2009,31,VfL Wolfsburg,Werder Bremen,25.6,33.7,40.7
+2009,31,VfB Stuttgart,Bay Leverkusen,52.5,28.7,18.8
+2009,31,Bayern Munich,Hannover,95.4,3.5,1.2
+2009,31,Bor Dortmund,TSG Hoffenheim,90.1,7.0,2.9
+2009,31,E Frankfurt,Hertha BSC,52.2,20.1,27.7
+2009,32,VfL Bochum,VfB Stuttgart,6.3,9.6,84.1
+2009,32,Bor M gladbach,Bayern Munich,5.8,13.3,80.9
+2009,32,FSV Mainz,E Frankfurt,51.4,36.9,11.8
+2009,32,FC Nuremberg,Bor Dortmund,15.5,27.5,56.9
+2009,32,Bay Leverkusen,Hannover,93.3,4.8,1.9
+2009,32,Hertha BSC,FC Schalke,13.1,15.1,71.8
+2009,32,Werder Bremen,FC K ln,95.4,2.9,1.7
+2009,32,TSG Hoffenheim,Hamburger SV,26.2,40.0,33.8
+2009,32,SC Freiburg,VfL Wolfsburg,11.3,13.1,75.6
+2009,33,Bay Leverkusen,Hertha BSC,88.1,6.1,5.8
+2009,33,VfB Stuttgart,FSV Mainz,93.3,5.0,1.6
+2009,33,FC K ln,SC Freiburg,52.2,30.8,17.0
+2009,33,E Frankfurt,TSG Hoffenheim,45.8,29.6,24.6
+2009,33,Hamburger SV,FC Nuremberg,66.3,18.7,15.0
+2009,33,Hannover,Bor M gladbach,41.3,26.9,31.7
+2009,33,FC Schalke,Werder Bremen,46.8,28.9,24.3
+2009,33,Bor Dortmund,VfL Wolfsburg,77.3,16.1,6.6
+2009,33,Bayern Munich,VfL Bochum,95.5,3.7,0.8
+2009,34,Hertha BSC,Bayern Munich,6.4,11.7,81.9
+2009,34,VfL Wolfsburg,E Frankfurt,82.5,13.5,4.0
+2009,34,FSV Mainz,FC Schalke,19.4,30.0,50.5
+2009,34,SC Freiburg,Bor Dortmund,9.1,14.4,76.5
+2009,34,TSG Hoffenheim,VfB Stuttgart,21.5,27.9,50.6
+2009,34,FC Nuremberg,FC K ln,64.6,22.0,13.4
+2009,34,VfL Bochum,Hannover,39.1,27.8,33.1
+2009,34,Bor M gladbach,Bay Leverkusen,15.1,21.3,63.6
+2009,34,Werder Bremen,Hamburger SV,76.8,13.9,9.3

@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2017,1,Juventus,Cagliari Calcio,98.6,1.4,0.0
+2017,1,Hellas Verona,SSC Napoli,0.9,5.2,93.9
+2017,1,Atalanta,AS Roma,8.9,37.7,53.4
+2017,1,Udinese Calcio,Chievo Verona,48.0,44.4,7.7
+2017,1,Sassuolo,Genoa,47.4,44.6,8.0
+2017,1,Sampdoria,Benevento,88.3,9.3,2.4
+2017,1,Lazio,SPAL,97.6,1.2,1.2
+2017,1,Inter,Fiorentina,79.8,15.3,4.8
+2017,1,Crotone,AC Milan,0.8,5.2,94.0
+2017,1,Bologna,Torino,11.3,33.9,54.8
+2017,2,Benevento,Bologna,18.6,43.4,38.0
+2017,2,Genoa,Juventus,0.0,2.3,97.7
+2017,2,AS Roma,Inter,40.4,34.1,25.6
+2017,2,Torino,Sassuolo,79.7,17.7,2.6
+2017,2,SPAL,Udinese Calcio,20.3,38.4,41.4
+2017,2,SSC Napoli,Atalanta,96.1,1.3,2.6
+2017,2,AC Milan,Cagliari Calcio,97.4,1.3,1.3
+2017,2,Fiorentina,Sampdoria,59.9,24.6,15.5
+2017,2,Crotone,Hellas Verona,32.3,44.0,23.7
+2017,2,Chievo Verona,Lazio,11.2,23.7,65.1
+2017,3,Juventus,Chievo Verona,98.5,0.5,1.0
+2017,3,Inter,SPAL,96.0,2.0,2.0
+2017,3,Atalanta,Sassuolo,74.0,19.6,6.4
+2017,3,Udinese Calcio,Genoa,25.0,54.4,20.6
+2017,3,Hellas Verona,Fiorentina,18.3,28.7,53.0
+2017,3,Cagliari Calcio,Crotone,59.8,27.9,12.3
+2017,3,Lazio,AC Milan,13.7,32.4,53.9
+2017,3,Benevento,Torino,2.9,9.3,87.7
+2017,3,Bologna,SSC Napoli,2.5,2.0,95.5
+2017,3,Sampdoria,AS Roma,15.0,32.0,53.0
+2017,4,Crotone,Inter,1.1,3.8,95.1
+2017,4,Fiorentina,Bologna,80.0,15.7,4.3
+2017,4,AS Roma,Hellas Verona,98.9,0.5,0.5
+2017,4,Sassuolo,Juventus,0.5,4.7,94.8
+2017,4,Torino,Sampdoria,59.9,32.8,7.3
+2017,4,SPAL,Cagliari Calcio,52.1,36.5,11.5
+2017,4,SSC Napoli,Benevento,98.4,0.5,1.0
+2017,4,AC Milan,Udinese Calcio,93.2,5.2,1.6
+2017,4,Chievo Verona,Atalanta,16.7,41.7,41.7
+2017,4,Genoa,Lazio,7.3,10.4,82.4
+2017,5,Bologna,Inter,1.3,10.6,88.1
+2017,5,Benevento,AS Roma,0.0,2.9,97.1
+2017,5,Atalanta,Crotone,93.2,5.1,1.7
+2017,5,Udinese Calcio,Torino,15.4,30.9,53.7
+2017,5,AC Milan,SPAL,95.5,2.8,1.7
+2017,5,Lazio,SSC Napoli,10.9,30.3,58.9
+2017,5,Juventus,Fiorentina,94.3,5.1,0.6
+2017,5,Hellas Verona,Sampdoria,13.1,17.6,69.3
+2017,5,Genoa,Chievo Verona,56.3,33.5,10.2
+2017,5,Cagliari Calcio,Sassuolo,55.1,29.0,15.9
+2017,6,AS Roma,Udinese Calcio,98.7,0.6,0.6
+2017,6,SPAL,SSC Napoli,0.6,2.6,96.8
+2017,6,Juventus,Torino,90.4,9.6,0.0
+2017,6,Sampdoria,AC Milan,3.7,32.9,63.4
+2017,6,Cagliari Calcio,Chievo Verona,56.5,39.8,3.7
+2017,6,Inter,Genoa,95.7,1.9,2.5
+2017,6,Hellas Verona,Lazio,4.3,8.1,87.6
+2017,6,Crotone,Benevento,67.7,26.7,5.6
+2017,6,Sassuolo,Bologna,40.4,41.0,18.6
+2017,6,Fiorentina,Atalanta,62.1,26.7,11.2
+2017,7,Udinese Calcio,Sampdoria,12.0,22.2,65.9
+2017,7,Genoa,Bologna,30.4,41.7,28.0
+2017,7,SSC Napoli,Cagliari Calcio,97.0,1.2,1.8
+2017,7,Torino,Hellas Verona,95.8,3.0,1.2
+2017,7,SPAL,Crotone,56.0,39.3,4.8
+2017,7,Lazio,Sassuolo,92.9,4.8,2.4
+2017,7,Chievo Verona,Fiorentina,19.6,30.4,50.0
+2017,7,Benevento,Inter,2.4,1.8,95.8
+2017,7,AC Milan,AS Roma,33.1,39.6,27.2
+2017,7,Atalanta,Juventus,4.1,12.4,83.5
+2017,8,Juventus,Lazio,90.5,7.6,1.9
+2017,8,AS Roma,SSC Napoli,14.6,34.2,51.3
+2017,8,Fiorentina,Udinese Calcio,83.8,14.4,1.9
+2017,8,Crotone,Torino,5.6,12.5,81.9
+2017,8,Cagliari Calcio,Genoa,61.3,23.8,15.0
+2017,8,Bologna,SPAL,81.9,11.9,6.3
+2017,8,Sassuolo,Chievo Verona,33.1,33.8,33.1
+2017,8,Sampdoria,Atalanta,41.9,38.8,19.4
+2017,8,Inter,AC Milan,55.0,28.8,16.3
+2017,8,Hellas Verona,Benevento,73.8,18.1,8.1
+2017,9,Sampdoria,Crotone,95.8,2.8,1.4
+2017,9,SSC Napoli,Inter,77.6,17.5,4.9
+2017,9,Chievo Verona,Hellas Verona,71.5,25.7,2.8
+2017,9,Atalanta,Bologna,67.6,20.7,11.7
+2017,9,Torino,AS Roma,6.9,13.1,80.0
+2017,9,SPAL,Sassuolo,22.8,51.7,25.5
+2017,9,AC Milan,Genoa,91.0,7.6,1.4
+2017,9,Benevento,Fiorentina,1.4,9.7,89.0
+2017,9,Udinese Calcio,Juventus,0.7,2.1,97.2
+2017,9,Lazio,Cagliari Calcio,97.9,1.4,0.7
+2017,10,Inter,Sampdoria,93.5,4.8,1.6
+2017,10,Atalanta,Hellas Verona,90.2,6.0,3.8
+2017,10,Sassuolo,Udinese Calcio,46.3,38.8,14.9
+2017,10,AS Roma,Crotone,98.5,0.0,1.5
+2017,10,Juventus,SPAL,97.0,1.5,1.5
+2017,10,Genoa,SSC Napoli,2.2,4.5,93.3
+2017,10,Fiorentina,Torino,63.4,29.9,6.7
+2017,10,Chievo Verona,AC Milan,17.2,26.1,56.7
+2017,10,Cagliari Calcio,Benevento,85.9,10.4,3.7
+2017,10,Bologna,Lazio,3.0,14.9,82.1
+2017,11,AC Milan,Juventus,4.8,24.0,71.2
+2017,11,AS Roma,Bologna,96.6,2.1,1.4
+2017,11,Benevento,Lazio,0.7,2.7,96.6
+2017,11,Udinese Calcio,Atalanta,14.2,47.3,38.5
+2017,11,SPAL,Genoa,19.6,36.5,43.9
+2017,11,Sampdoria,Chievo Verona,84.5,13.5,2.0
+2017,11,SSC Napoli,Sassuolo,98.6,0.7,0.7
+2017,11,Crotone,Fiorentina,3.4,12.2,84.5
+2017,11,Torino,Cagliari Calcio,81.2,17.4,1.3
+2017,11,Hellas Verona,Inter,0.7,1.3,98.0
+2017,12,Bologna,Crotone,85.8,10.6,3.5
+2017,12,Genoa,Sampdoria,11.0,18.6,70.3
+2017,12,Inter,Torino,93.9,4.1,2.0
+2017,12,Juventus,Benevento,98.7,0.7,0.7
+2017,12,Fiorentina,AS Roma,6.8,25.0,68.2
+2017,12,Chievo Verona,SSC Napoli,1.4,4.8,93.9
+2017,12,Cagliari Calcio,Hellas Verona,74.5,16.1,9.4
+2017,12,Atalanta,SPAL,94.6,4.7,0.7
+2017,12,Sassuolo,AC Milan,6.7,18.7,74.7
+2017,12,Lazio,Udinese Calcio,97.6,1.2,1.2
+2017,13,AS Roma,Lazio,46.8,41.7,11.5
+2017,13,SSC Napoli,AC Milan,89.3,7.9,2.9
+2017,13,Crotone,Genoa,47.5,31.2,21.3
+2017,13,Benevento,Sassuolo,17.0,28.4,54.6
+2017,13,Udinese Calcio,Cagliari Calcio,70.9,22.0,7.1
+2017,13,Torino,Chievo Verona,85.1,12.1,2.8
+2017,13,SPAL,Fiorentina,6.4,13.5,80.1
+2017,13,Sampdoria,Juventus,3.5,7.1,89.4
+2017,13,Inter,Atalanta,87.2,7.8,5.0
+2017,13,Hellas Verona,Bologna,18.8,42.4,38.9
+2017,14,Bologna,Sampdoria,13.0,25.4,61.6
+2017,14,Sassuolo,Hellas Verona,78.4,16.5,5.0
+2017,14,Chievo Verona,SPAL,84.2,12.9,2.9
+2017,14,Cagliari Calcio,Inter,1.4,7.2,91.3
+2017,14,Udinese Calcio,SSC Napoli,0.7,2.1,97.1
+2017,14,AC Milan,Torino,75.0,22.9,2.1
+2017,14,Genoa,AS Roma,0.7,2.1,97.1
+2017,14,Lazio,Fiorentina,91.5,7.0,1.4
+2017,14,Juventus,Crotone,99.3,0.7,0.0
+2017,14,Atalanta,Benevento,95.1,3.5,1.4
+2017,15,AS Roma,SPAL,100.0,0.0,0.0
+2017,15,SSC Napoli,Juventus,47.0,40.2,12.9
+2017,15,Torino,Atalanta,52.2,33.6,14.2
+2017,15,Benevento,AC Milan,2.2,2.9,94.9
+2017,15,Inter,Chievo Verona,96.3,3.0,0.7
+2017,15,Fiorentina,Sassuolo,89.6,8.1,2.2
+2017,15,Bologna,Cagliari Calcio,82.1,14.9,3.0
+2017,15,Sampdoria,Lazio,17.0,33.3,49.6
+2017,15,Crotone,Udinese Calcio,27.6,38.1,34.3
+2017,15,Hellas Verona,Genoa,35.1,41.8,23.1
+2017,16,Cagliari Calcio,Sampdoria,10.0,16.2,73.8
+2017,16,Juventus,Inter,63.8,24.6,11.5
+2017,16,Chievo Verona,AS Roma,1.5,5.3,93.2
+2017,16,Udinese Calcio,Benevento,90.2,7.6,2.3
+2017,16,SPAL,Hellas Verona,47.0,42.4,10.6
+2017,16,SSC Napoli,Fiorentina,91.7,7.6,0.8
+2017,16,Sassuolo,Crotone,65.9,29.5,4.5
+2017,16,AC Milan,Bologna,82.7,15.0,2.3
+2017,16,Lazio,Torino,93.3,3.7,3.0
+2017,16,Genoa,Atalanta,10.2,33.6,56.2
+2017,17,Inter,Udinese Calcio,97.6,1.6,0.8
+2017,17,Torino,SSC Napoli,4.0,15.2,80.8
+2017,17,AS Roma,Cagliari Calcio,98.4,1.6,0.0
+2017,17,Hellas Verona,AC Milan,2.3,8.6,89.1
+2017,17,Sampdoria,Sassuolo,90.6,7.0,2.3
+2017,17,Fiorentina,Genoa,87.5,5.5,7.0
+2017,17,Crotone,Chievo Verona,16.4,47.7,35.9
+2017,17,Bologna,Juventus,3.1,3.1,93.8
+2017,17,Benevento,SPAL,23.3,46.5,30.2
+2017,17,Atalanta,Lazio,17.1,36.4,46.5
+2017,18,Chievo Verona,Bologna,25.2,49.5,25.2
+2017,18,Cagliari Calcio,Fiorentina,8.5,22.2,69.2
+2017,18,Lazio,Crotone,99.1,0.0,0.9
+2017,18,Udinese Calcio,Hellas Verona,84.2,13.3,2.5
+2017,18,SPAL,Torino,4.2,20.0,75.8
+2017,18,Sassuolo,Inter,0.8,6.7,92.5
+2017,18,SSC Napoli,Sampdoria,97.5,1.7,0.8
+2017,18,Genoa,Benevento,94.2,4.2,1.7
+2017,18,AC Milan,Atalanta,42.6,36.1,21.3
+2017,18,Juventus,AS Roma,87.1,8.9,4.0
+2017,19,Crotone,SSC Napoli,1.7,0.0,98.3
+2017,19,Fiorentina,AC Milan,58.1,28.2,13.7
+2017,19,Atalanta,Cagliari Calcio,96.6,2.6,0.9
+2017,19,Torino,Genoa,78.6,20.5,0.9
+2017,19,Sampdoria,SPAL,92.3,6.0,1.7
+2017,19,AS Roma,Sassuolo,94.0,4.3,1.7
+2017,19,Bologna,Udinese Calcio,36.8,41.0,22.2
+2017,19,Benevento,Chievo Verona,10.3,22.2,67.5
+2017,19,Inter,Lazio,53.3,30.8,15.8
+2017,19,Hellas Verona,Juventus,0.0,0.8,99.2
+2017,20,Chievo Verona,Udinese Calcio,11.6,25.9,62.5
+2017,20,Fiorentina,Inter,12.2,38.3,49.6
+2017,20,Torino,Bologna,68.9,23.0,8.2
+2017,20,Genoa,Sassuolo,38.9,48.4,12.7
+2017,20,Benevento,Sampdoria,4.0,7.1,88.9
+2017,20,SPAL,Lazio,0.0,2.4,97.6
+2017,20,SSC Napoli,Hellas Verona,97.6,1.6,0.8
+2017,20,AC Milan,Crotone,92.9,4.8,2.4
+2017,20,AS Roma,Atalanta,79.5,13.4,7.1
+2017,20,Cagliari Calcio,Juventus,0.0,2.3,97.7
+2017,21,Atalanta,SSC Napoli,12.4,22.1,65.5
+2017,21,Bologna,Benevento,86.8,7.6,5.6
+2017,21,Sassuolo,Torino,14.6,31.3,54.2
+2017,21,Udinese Calcio,SPAL,85.5,11.7,2.8
+2017,21,Sampdoria,Fiorentina,33.3,43.1,23.6
+2017,21,Hellas Verona,Crotone,45.8,45.1,9.0
+2017,21,Lazio,Chievo Verona,94.4,4.2,1.4
+2017,21,Cagliari Calcio,AC Milan,13.2,22.2,64.6
+2017,21,Inter,AS Roma,46.9,38.5,14.7
+2017,21,Juventus,Genoa,99.3,0.7,0.0
+2017,22,Sassuolo,Atalanta,5.3,28.0,66.7
+2017,22,Chievo Verona,Juventus,0.0,0.0,100.0
+2017,22,SPAL,Inter,0.7,3.7,95.5
+2017,22,Genoa,Udinese Calcio,32.8,35.8,31.3
+2017,22,Fiorentina,Hellas Verona,94.8,1.5,3.7
+2017,22,Crotone,Cagliari Calcio,23.9,58.2,17.9
+2017,22,SSC Napoli,Bologna,96.3,3.0,0.7
+2017,22,Torino,Benevento,92.5,4.5,3.0
+2017,22,AC Milan,Lazio,15.7,37.3,47.0
+2017,22,AS Roma,Sampdoria,86.0,9.6,4.4
+2017,23,Sampdoria,Torino,72.8,22.1,5.1
+2017,23,Inter,Crotone,97.8,2.2,0.0
+2017,23,Hellas Verona,AS Roma,1.4,6.4,92.1
+2017,23,Atalanta,Chievo Verona,92.9,5.0,2.1
+2017,23,Cagliari Calcio,SPAL,71.4,25.0,3.6
+2017,23,Juventus,Sassuolo,98.6,0.7,0.7
+2017,23,Udinese Calcio,AC Milan,16.4,39.3,44.3
+2017,23,Bologna,Fiorentina,22.0,53.9,24.1
+2017,23,Benevento,SSC Napoli,0.0,0.0,100.0
+2017,23,Lazio,Genoa,97.2,2.8,0.0
+2017,24,Fiorentina,Juventus,3.9,9.3,86.8
+2017,24,SPAL,AC Milan,5.9,8.9,85.2
+2017,24,Crotone,Atalanta,6.6,12.5,80.9
+2017,24,SSC Napoli,Lazio,81.0,15.3,3.6
+2017,24,Sassuolo,Cagliari Calcio,39.1,51.4,9.4
+2017,24,Torino,Udinese Calcio,55.8,35.5,8.7
+2017,24,Sampdoria,Hellas Verona,93.5,5.1,1.4
+2017,24,Chievo Verona,Genoa,32.6,44.2,23.2
+2017,24,Inter,Bologna,88.4,8.7,2.9
+2017,24,AS Roma,Benevento,100.0,0.0,0.0
+2017,25,Udinese Calcio,AS Roma,4.5,12.1,83.3
+2017,25,Chievo Verona,Cagliari Calcio,36.6,51.5,11.9
+2017,25,Genoa,Inter,6.0,19.4,74.6
+2017,25,Torino,Juventus,1.5,8.2,90.3
+2017,25,SSC Napoli,SPAL,99.3,0.0,0.7
+2017,25,Bologna,Sassuolo,63.4,27.6,9.0
+2017,25,Benevento,Crotone,20.9,40.3,38.8
+2017,25,Atalanta,Fiorentina,62.7,25.4,11.9
+2017,25,AC Milan,Sampdoria,64.0,27.9,8.1
+2017,25,Lazio,Hellas Verona,99.3,0.0,0.7
+2017,26,Bologna,Genoa,29.6,52.0,18.4
+2017,26,Inter,Benevento,100.0,0.0,0.0
+2017,26,Crotone,SPAL,63.6,31.8,4.7
+2017,26,Sampdoria,Udinese Calcio,87.6,12.4,0.0
+2017,26,Hellas Verona,Torino,5.4,17.1,77.5
+2017,26,Sassuolo,Lazio,1.6,7.8,90.7
+2017,26,Fiorentina,Chievo Verona,89.9,8.5,1.6
+2017,26,AS Roma,AC Milan,70.0,24.6,5.4
+2017,26,Cagliari Calcio,SSC Napoli,2.3,4.6,93.1
+2017,26,Juventus,Atalanta,93.3,4.4,2.2
+2017,27,SPAL,Bologna,12.9,27.4,59.7
+2017,27,Lazio,Juventus,11.1,32.5,56.3
+2017,27,SSC Napoli,AS Roma,85.7,10.3,4.0
+2017,27,Atalanta,Sampdoria,63.4,25.2,11.5
+2017,27,Udinese Calcio,Fiorentina,29.0,45.0,26.0
+2017,27,Genoa,Cagliari Calcio,72.0,26.5,1.5
+2017,27,Benevento,Hellas Verona,46.2,25.0,28.8
+2017,27,Chievo Verona,Sassuolo,49.2,40.9,9.8
+2017,27,AC Milan,Inter,38.2,37.4,24.4
+2017,27,Torino,Crotone,92.4,5.3,2.3
+2017,28,AS Roma,Torino,94.9,5.1,0.0
+2017,28,Hellas Verona,Chievo Verona,25.4,53.2,21.4
+2017,28,Fiorentina,Benevento,93.0,5.5,1.6
+2017,28,Bologna,Atalanta,7.9,33.9,58.3
+2017,28,Juventus,Udinese Calcio,94.5,3.1,2.4
+2017,28,Sassuolo,SPAL,48.8,42.5,8.7
+2017,28,Crotone,Sampdoria,7.1,10.2,82.7
+2017,28,Cagliari Calcio,Lazio,1.6,3.9,94.5
+2017,28,Genoa,AC Milan,10.3,15.9,73.8
+2017,28,Inter,SSC Napoli,16.5,27.6,55.9
+2017,29,Udinese Calcio,Sassuolo,84.0,12.0,4.0
+2017,29,SPAL,Juventus,0.0,0.8,99.2
+2017,29,Sampdoria,Inter,16.7,39.7,43.7
+2017,29,Hellas Verona,Atalanta,4.7,19.5,75.8
+2017,29,Crotone,AS Roma,2.3,0.8,96.9
+2017,29,Torino,Fiorentina,28.9,53.9,17.2
+2017,29,AC Milan,Chievo Verona,96.9,3.1,0.0
+2017,29,Benevento,Cagliari Calcio,17.2,21.1,61.7
+2017,29,SSC Napoli,Genoa,99.2,0.8,0.0
+2017,29,Lazio,Bologna,96.1,1.6,2.4
+2017,30,Bologna,AS Roma,2.5,7.5,90.0
+2017,30,Lazio,Benevento,99.2,0.8,0.0
+2017,30,Atalanta,Udinese Calcio,85.2,12.3,2.5
+2017,30,Cagliari Calcio,Torino,14.8,53.3,32.0
+2017,30,Genoa,SPAL,71.3,26.2,2.5
+2017,30,Inter,Hellas Verona,100.0,0.0,0.0
+2017,30,Fiorentina,Crotone,89.3,8.2,2.5
+2017,30,Chievo Verona,Sampdoria,10.7,27.0,62.3
+2017,30,Sassuolo,SSC Napoli,2.5,1.6,95.9
+2017,30,Juventus,AC Milan,84.3,15.7,0.0
+2017,31,Benevento,Juventus,0.8,0.0,99.2
+2017,31,SPAL,Atalanta,4.0,18.3,77.8
+2017,31,AS Roma,Fiorentina,81.7,13.5,4.8
+2017,31,Sampdoria,Genoa,65.1,28.6,6.3
+2017,31,Torino,Inter,10.4,16.0,73.6
+2017,31,SSC Napoli,Chievo Verona,97.6,0.0,2.4
+2017,31,Hellas Verona,Cagliari Calcio,19.0,46.0,34.9
+2017,31,Crotone,Bologna,15.9,40.5,43.7
+2017,31,Udinese Calcio,Lazio,3.2,11.1,85.7
+2017,31,AC Milan,Sassuolo,94.4,3.2,2.4
+2017,32,Cagliari Calcio,Udinese Calcio,23.7,49.2,27.1
+2017,32,Chievo Verona,Torino,9.2,24.4,66.4
+2017,32,Genoa,Crotone,87.4,8.4,4.2
+2017,32,Atalanta,Inter,17.5,40.8,41.7
+2017,32,Fiorentina,SPAL,97.6,1.6,0.8
+2017,32,Sassuolo,Benevento,79.7,12.2,8.1
+2017,32,AC Milan,SSC Napoli,10.6,26.0,63.4
+2017,32,Bologna,Hellas Verona,82.9,13.8,3.3
+2017,32,Juventus,Sampdoria,92.7,5.7,1.6
+2017,32,Lazio,AS Roma,22.0,45.5,32.5
+2017,33,Inter,Cagliari Calcio,96.9,2.1,1.0
+2017,33,Benevento,Atalanta,3.8,9.5,86.7
+2017,33,SSC Napoli,Udinese Calcio,95.3,2.8,1.9
+2017,33,Hellas Verona,Sassuolo,39.6,32.1,28.3
+2017,33,Torino,AC Milan,11.3,42.5,46.2
+2017,33,Fiorentina,Lazio,23.6,44.3,32.1
+2017,33,Crotone,Juventus,0.9,0.0,99.1
+2017,33,AS Roma,Genoa,96.2,2.8,0.9
+2017,33,SPAL,Chievo Verona,31.1,48.1,20.8
+2017,33,Sampdoria,Bologna,71.7,21.7,6.6
+2017,34,SPAL,AS Roma,1.0,8.7,90.4
+2017,34,Sassuolo,Fiorentina,6.7,24.8,68.6
+2017,34,AC Milan,Benevento,98.1,1.9,0.0
+2017,34,Cagliari Calcio,Bologna,24.5,54.7,20.8
+2017,34,Lazio,Sampdoria,91.5,5.7,2.8
+2017,34,Chievo Verona,Inter,3.8,4.7,91.5
+2017,34,Udinese Calcio,Crotone,75.5,18.9,5.7
+2017,34,Atalanta,Torino,73.6,20.8,5.7
+2017,34,Juventus,SSC Napoli,64.5,23.4,12.1
+2017,34,Genoa,Hellas Verona,88.2,7.3,4.5
+2017,35,AS Roma,Chievo Verona,94.8,3.5,1.7
+2017,35,Inter,Juventus,13.0,33.0,53.9
+2017,35,Crotone,Sassuolo,32.2,41.7,26.1
+2017,35,Sampdoria,Cagliari Calcio,86.2,8.6,5.2
+2017,35,Benevento,Udinese Calcio,20.7,15.5,63.8
+2017,35,Hellas Verona,SPAL,39.7,43.1,17.2
+2017,35,Bologna,AC Milan,6.0,25.0,69.0
+2017,35,Atalanta,Genoa,92.2,6.9,0.9
+2017,35,Fiorentina,SSC Napoli,8.6,9.5,81.9
+2017,35,Torino,Lazio,5.2,24.1,70.7
+2017,36,AC Milan,Hellas Verona,97.3,0.9,1.8
+2017,36,Juventus,Bologna,98.2,1.8,0.0
+2017,36,Udinese Calcio,Inter,2.6,7.0,90.4
+2017,36,Lazio,Atalanta,75.0,19.8,5.2
+2017,36,SSC Napoli,Torino,98.3,0.0,1.7
+2017,36,Genoa,Fiorentina,11.2,25.9,62.9
+2017,36,Chievo Verona,Crotone,33.6,44.8,21.6
+2017,36,SPAL,Benevento,69.0,24.1,6.9
+2017,36,Sassuolo,Sampdoria,19.8,30.2,50.0
+2017,36,Cagliari Calcio,AS Roma,2.6,6.0,91.5
+2017,37,Benevento,Genoa,11.0,22.9,66.1
+2017,37,Inter,Sassuolo,94.5,2.8,2.8
+2017,37,Fiorentina,Cagliari Calcio,95.5,3.6,0.9
+2017,37,Hellas Verona,Udinese Calcio,13.6,41.8,44.5
+2017,37,Torino,SPAL,80.0,12.7,7.3
+2017,37,Crotone,Lazio,2.7,6.4,90.9
+2017,37,Bologna,Chievo Verona,56.4,33.6,10.0
+2017,37,Atalanta,AC Milan,41.4,32.4,26.1
+2017,37,Sampdoria,SSC Napoli,6.3,10.7,83.0
+2017,37,AS Roma,Juventus,26.8,44.6,28.6
+2017,38,Juventus,Hellas Verona,97.1,2.0,1.0
+2017,38,Genoa,Torino,21.2,55.8,23.1
+2017,38,Cagliari Calcio,Atalanta,8.5,20.8,70.8
+2017,38,SPAL,Sampdoria,33.0,16.0,50.9
+2017,38,AC Milan,Fiorentina,60.7,27.1,12.1
+2017,38,SSC Napoli,Crotone,86.0,10.3,3.7
+2017,38,Udinese Calcio,Bologna,49.1,41.5,9.4
+2017,38,Chievo Verona,Benevento,80.2,12.3,7.5
+2017,38,Sassuolo,AS Roma,0.9,13.2,85.8
+2017,38,Lazio,Inter,44.3,33.0,22.6

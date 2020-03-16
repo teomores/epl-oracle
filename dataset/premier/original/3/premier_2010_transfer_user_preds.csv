@@ -1,0 +1,381 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2010,1,Spurs,Man City,5.9,47.1,47.1
+2010,1,Aston Villa,West Ham,82.4,17.6,0.0
+2010,1,Wigan,Blackpool,-1.0,-1.0,-1.0
+2010,1,Wolves,Stoke City,35.3,47.1,17.6
+2010,1,Sunderland,Birmingham,58.8,29.4,11.8
+2010,1,Bolton,Fulham,11.8,35.3,52.9
+2010,1,Blackburn,Everton,23.5,23.5,52.9
+2010,1,Chelsea,West Brom,100.0,0.0,0.0
+2010,1,Liverpool,Arsenal,22.2,55.6,22.2
+2010,1,Man Utd,Newcastle,100.0,0.0,0.0
+2010,2,Arsenal,Blackpool,100.0,0.0,0.0
+2010,2,West Ham,Bolton,69.0,27.6,3.4
+2010,2,West Brom,Sunderland,31.0,24.1,44.8
+2010,2,Stoke City,Spurs,3.4,17.2,79.3
+2010,2,Everton,Wolves,93.1,3.4,3.4
+2010,2,Birmingham,Blackburn,51.7,41.4,6.9
+2010,2,Wigan,Chelsea,0.0,0.0,100.0
+2010,2,Newcastle,Aston Villa,24.1,24.1,51.7
+2010,2,Fulham,Man Utd,3.4,3.4,93.1
+2010,2,Man City,Liverpool,48.3,37.9,13.8
+2010,3,Blackburn,Arsenal,0.0,0.0,100.0
+2010,3,Wolves,Newcastle,11.5,26.9,61.5
+2010,3,Spurs,Wigan,100.0,0.0,0.0
+2010,3,Chelsea,Stoke City,100.0,0.0,0.0
+2010,3,Blackpool,Fulham,11.5,46.2,42.3
+2010,3,Man Utd,West Ham,100.0,0.0,0.0
+2010,3,Bolton,Birmingham,53.6,28.6,17.9
+2010,3,Sunderland,Man City,3.6,0.0,96.4
+2010,3,Liverpool,West Brom,100.0,0.0,0.0
+2010,3,Aston Villa,Everton,39.3,35.7,25.0
+2010,4,Everton,Man Utd,3.4,17.2,79.3
+2010,4,Arsenal,Bolton,100.0,0.0,0.0
+2010,4,Wigan,Sunderland,37.9,37.9,24.1
+2010,4,West Ham,Chelsea,0.0,3.4,96.6
+2010,4,West Brom,Spurs,3.4,6.9,89.7
+2010,4,Newcastle,Blackpool,69.0,17.2,13.8
+2010,4,Man City,Blackburn,100.0,0.0,0.0
+2010,4,Fulham,Wolves,86.2,10.3,3.4
+2010,4,Birmingham,Liverpool,3.4,17.2,79.3
+2010,4,Stoke City,Aston Villa,3.4,31.0,65.5
+2010,5,Stoke City,West Ham,48.3,27.6,24.1
+2010,5,Aston Villa,Bolton,86.2,6.9,6.9
+2010,5,West Brom,Birmingham,20.7,48.3,31.0
+2010,5,Spurs,Wolves,93.1,6.9,0.0
+2010,5,Everton,Newcastle,64.3,21.4,14.3
+2010,5,Blackburn,Fulham,20.7,41.4,37.9
+2010,5,Sunderland,Arsenal,3.4,0.0,96.6
+2010,5,Man Utd,Liverpool,75.9,13.8,10.3
+2010,5,Wigan,Man City,3.3,6.7,90.0
+2010,5,Chelsea,Blackpool,100.0,0.0,0.0
+2010,6,Man City,Chelsea,18.5,25.9,55.6
+2010,6,Arsenal,West Brom,100.0,0.0,0.0
+2010,6,West Ham,Spurs,3.7,18.5,77.8
+2010,6,Liverpool,Sunderland,92.6,7.4,0.0
+2010,6,Fulham,Everton,37.0,44.4,18.5
+2010,6,Blackpool,Blackburn,25.9,48.1,25.9
+2010,6,Birmingham,Wigan,55.6,29.6,14.8
+2010,6,Bolton,Man Utd,0.0,0.0,100.0
+2010,6,Wolves,Aston Villa,11.1,25.9,63.0
+2010,6,Newcastle,Stoke City,78.6,17.9,3.6
+2010,7,Wigan,Wolves,45.2,25.8,29.0
+2010,7,Birmingham,Everton,38.7,25.8,35.5
+2010,7,West Ham,Fulham,38.7,32.3,29.0
+2010,7,West Brom,Bolton,41.9,25.8,32.3
+2010,7,Spurs,Aston Villa,80.6,12.9,6.5
+2010,7,Sunderland,Man Utd,0.0,0.0,100.0
+2010,7,Stoke City,Blackburn,48.4,29.0,22.6
+2010,7,Man City,Newcastle,84.4,9.4,6.3
+2010,7,Liverpool,Blackpool,93.8,6.3,0.0
+2010,7,Chelsea,Arsenal,75.0,12.5,12.5
+2010,8,Arsenal,Birmingham,96.6,0.0,3.4
+2010,8,Wolves,West Ham,24.1,48.3,27.6
+2010,8,Newcastle,Wigan,86.2,10.3,3.4
+2010,8,Man Utd,West Brom,100.0,0.0,0.0
+2010,8,Fulham,Spurs,10.3,24.1,65.5
+2010,8,Bolton,Stoke City,62.1,34.5,3.4
+2010,8,Aston Villa,Chelsea,0.0,0.0,100.0
+2010,8,Everton,Liverpool,24.1,31.0,44.8
+2010,8,Blackpool,Man City,0.0,10.3,89.7
+2010,8,Blackburn,Sunderland,44.8,27.6,27.6
+2010,9,Spurs,Everton,85.2,11.1,3.7
+2010,9,Wigan,Bolton,33.3,40.7,25.9
+2010,9,West Brom,Fulham,33.3,18.5,48.1
+2010,9,Sunderland,Aston Villa,22.2,18.5,59.3
+2010,9,Chelsea,Wolves,100.0,0.0,0.0
+2010,9,Birmingham,Blackpool,70.4,25.9,3.7
+2010,9,West Ham,Newcastle,37.0,37.0,25.9
+2010,9,Stoke City,Man Utd,0.0,3.7,96.3
+2010,9,Liverpool,Blackburn,85.2,14.8,0.0
+2010,9,Man City,Arsenal,55.6,22.2,22.2
+2010,10,Arsenal,West Ham,100.0,0.0,0.0
+2010,10,Wolves,Man City,0.0,15.4,84.6
+2010,10,Fulham,Wigan,88.5,7.7,3.8
+2010,10,Everton,Stoke City,76.9,19.2,3.8
+2010,10,Blackburn,Chelsea,0.0,0.0,100.0
+2010,10,Man Utd,Spurs,73.1,23.1,3.8
+2010,10,Aston Villa,Birmingham,85.2,11.1,3.7
+2010,10,Newcastle,Sunderland,74.1,11.1,14.8
+2010,10,Bolton,Liverpool,3.7,37.0,59.3
+2010,10,Blackpool,West Brom,37.0,29.6,33.3
+2010,11,Bolton,Spurs,4.2,20.8,75.0
+2010,11,Sunderland,Stoke City,68.0,20.0,12.0
+2010,11,Man Utd,Wolves,96.0,0.0,4.0
+2010,11,Fulham,Aston Villa,40.0,28.0,32.0
+2010,11,Blackpool,Everton,16.7,16.7,66.7
+2010,11,Blackburn,Wigan,68.0,20.0,12.0
+2010,11,Birmingham,West Ham,56.0,24.0,20.0
+2010,11,Arsenal,Newcastle,100.0,0.0,0.0
+2010,11,West Brom,Man City,4.2,12.5,83.3
+2010,11,Liverpool,Chelsea,0.0,16.7,83.3
+2010,12,Stoke City,Birmingham,64.7,17.6,17.6
+2010,12,Spurs,Sunderland,100.0,0.0,0.0
+2010,12,Newcastle,Blackburn,78.9,21.1,0.0
+2010,12,Chelsea,Fulham,100.0,0.0,0.0
+2010,12,Aston Villa,Blackpool,84.2,15.8,0.0
+2010,12,Wolves,Arsenal,0.0,5.3,94.7
+2010,12,Wigan,Liverpool,0.0,21.1,78.9
+2010,12,West Ham,West Brom,42.1,42.1,15.8
+2010,12,Everton,Bolton,78.9,10.5,10.5
+2010,12,Man City,Man Utd,10.5,47.4,42.1
+2010,13,Aston Villa,Man Utd,0.0,28.0,72.0
+2010,13,Wolves,Bolton,44.0,24.0,32.0
+2010,13,Wigan,West Brom,48.0,16.0,36.0
+2010,13,West Ham,Blackpool,72.0,20.0,8.0
+2010,13,Spurs,Blackburn,96.0,4.0,0.0
+2010,13,Newcastle,Fulham,68.0,16.0,16.0
+2010,13,Man City,Birmingham,100.0,0.0,0.0
+2010,13,Stoke City,Liverpool,7.7,3.8,88.5
+2010,13,Everton,Arsenal,0.0,26.9,73.1
+2010,13,Chelsea,Sunderland,96.2,3.8,0.0
+2010,14,Arsenal,Spurs,84.0,16.0,0.0
+2010,14,West Brom,Stoke City,63.0,25.9,11.1
+2010,14,Man Utd,Wigan,96.3,3.7,0.0
+2010,14,Bolton,Newcastle,22.2,14.8,63.0
+2010,14,Blackpool,Wolves,55.6,22.2,22.2
+2010,14,Birmingham,Chelsea,7.4,0.0,92.6
+2010,14,Liverpool,West Ham,92.6,7.4,0.0
+2010,14,Blackburn,Aston Villa,25.9,14.8,59.3
+2010,14,Fulham,Man City,7.4,18.5,74.1
+2010,14,Sunderland,Everton,44.4,14.8,40.7
+2010,15,Aston Villa,Arsenal,3.8,19.2,76.9
+2010,15,Wolves,Sunderland,38.5,23.1,38.5
+2010,15,West Ham,Wigan,69.2,15.4,15.4
+2010,15,Stoke City,Man City,3.8,15.4,80.8
+2010,15,Man Utd,Blackburn,96.2,0.0,3.8
+2010,15,Fulham,Birmingham,69.2,23.1,7.7
+2010,15,Everton,West Brom,92.3,3.8,3.8
+2010,15,Bolton,Blackpool,57.7,30.8,11.5
+2010,15,Newcastle,Chelsea,4.0,4.0,92.0
+2010,15,Spurs,Liverpool,72.0,16.0,12.0
+2010,16,Arsenal,Fulham,100.0,0.0,0.0
+2010,16,Wigan,Stoke City,52.0,28.0,20.0
+2010,16,Man City,Bolton,100.0,0.0,0.0
+2010,16,Chelsea,Everton,96.0,0.0,4.0
+2010,16,Blackburn,Wolves,56.0,28.0,16.0
+2010,16,Birmingham,Spurs,8.0,24.0,68.0
+2010,16,West Brom,Newcastle,40.0,28.0,32.0
+2010,16,Sunderland,West Ham,52.0,12.0,36.0
+2010,16,Liverpool,Aston Villa,96.0,0.0,4.0
+2010,16,Blackpool,Man Utd,0.0,4.3,95.7
+2010,17,Aston Villa,West Brom,88.0,4.0,8.0
+2010,17,West Ham,Man City,4.0,16.0,80.0
+2010,17,Stoke City,Blackpool,80.0,12.0,8.0
+2010,17,Fulham,Sunderland,56.0,28.0,16.0
+2010,17,Everton,Wigan,80.0,8.0,12.0
+2010,17,Newcastle,Liverpool,16.0,16.0,68.0
+2010,17,Wolves,Birmingham,40.0,28.0,32.0
+2010,17,Bolton,Blackburn,72.0,16.0,12.0
+2010,17,Spurs,Chelsea,28.0,36.0,36.0
+2010,17,Man Utd,Arsenal,76.0,4.0,20.0
+2010,18,Sunderland,Bolton,52.2,26.1,21.7
+2010,18,Blackburn,West Ham,60.9,21.7,17.4
+2010,18,Man City,Everton,95.7,4.3,0.0
+2010,18,Wigan,Aston Villa,23.1,23.1,53.8
+2010,18,Liverpool,Fulham,92.3,7.7,0.0
+2010,18,Birmingham,Newcastle,25.0,32.1,42.9
+2010,18,West Brom,Wolves,42.9,28.6,28.6
+2010,18,Blackpool,Spurs,0.0,10.0,90.0
+2010,18,Arsenal,Stoke City,100.0,0.0,0.0
+2010,18,Chelsea,Man Utd,31.3,37.5,31.3
+2010,19,Fulham,West Ham,68.4,15.8,15.8
+2010,19,Wolves,Wigan,42.1,42.1,15.8
+2010,19,Newcastle,Man City,5.3,26.3,68.4
+2010,19,Man Utd,Sunderland,100.0,0.0,0.0
+2010,19,Bolton,West Brom,78.9,15.8,5.3
+2010,19,Blackburn,Stoke City,52.6,26.3,21.1
+2010,19,Aston Villa,Spurs,15.0,40.0,45.0
+2010,19,Arsenal,Chelsea,31.6,47.4,21.1
+2010,19,Blackpool,Liverpool,0.0,15.8,84.2
+2010,19,Everton,Birmingham,84.6,15.4,0.0
+2010,20,West Brom,Blackburn,46.7,13.3,40.0
+2010,20,Spurs,Newcastle,86.7,6.7,6.7
+2010,20,Sunderland,Blackpool,60.0,33.3,6.7
+2010,20,Stoke City,Fulham,33.3,20.0,46.7
+2010,20,Man City,Aston Villa,80.0,13.3,6.7
+2010,20,West Ham,Everton,31.3,25.0,43.8
+2010,20,Birmingham,Man Utd,0.0,0.0,100.0
+2010,20,Wigan,Arsenal,0.0,0.0,100.0
+2010,20,Chelsea,Bolton,100.0,0.0,0.0
+2010,20,Liverpool,Wolves,100.0,0.0,0.0
+2010,21,West Brom,Man Utd,0.0,5.9,94.1
+2010,21,West Ham,Wolves,70.6,17.6,11.8
+2010,21,Spurs,Fulham,94.1,0.0,5.9
+2010,21,Sunderland,Blackburn,52.9,35.3,11.8
+2010,21,Stoke City,Everton,23.5,29.4,47.1
+2010,21,Man City,Blackpool,100.0,0.0,0.0
+2010,21,Liverpool,Bolton,94.1,5.9,0.0
+2010,21,Birmingham,Arsenal,0.0,17.6,82.4
+2010,21,Chelsea,Aston Villa,100.0,0.0,0.0
+2010,21,Wigan,Newcastle,29.4,29.4,41.2
+2010,22,Fulham,West Brom,62.5,25.0,12.5
+2010,22,Man Utd,Stoke City,100.0,0.0,0.0
+2010,22,Blackpool,Birmingham,43.8,43.8,12.5
+2010,22,Arsenal,Man City,56.3,25.0,18.8
+2010,22,Newcastle,West Ham,62.5,25.0,12.5
+2010,22,Aston Villa,Sunderland,93.8,6.3,0.0
+2010,22,Wolves,Chelsea,0.0,0.0,100.0
+2010,22,Everton,Spurs,12.5,43.8,43.8
+2010,22,Blackburn,Liverpool,0.0,18.8,81.3
+2010,22,Bolton,Wigan,75.0,12.5,12.5
+2010,23,Wigan,Fulham,25.0,41.7,33.3
+2010,23,West Brom,Blackpool,50.0,25.0,25.0
+2010,23,Stoke City,Bolton,58.3,20.8,20.8
+2010,23,Man City,Wolves,100.0,0.0,0.0
+2010,23,Chelsea,Blackburn,100.0,0.0,0.0
+2010,23,West Ham,Arsenal,0.0,4.2,95.8
+2010,23,Birmingham,Aston Villa,33.3,29.2,37.5
+2010,23,Sunderland,Newcastle,33.3,16.7,50.0
+2010,23,Liverpool,Everton,66.7,20.8,12.5
+2010,23,Spurs,Man Utd,16.7,29.2,54.2
+2010,24,Wolves,Liverpool,8.0,24.0,68.0
+2010,24,Arsenal,Wigan,100.0,0.0,0.0
+2010,24,Newcastle,Spurs,12.0,32.0,56.0
+2010,24,Man Utd,Birmingham,100.0,0.0,0.0
+2010,24,Fulham,Stoke City,52.0,28.0,20.0
+2010,24,Everton,West Ham,76.0,16.0,8.0
+2010,24,Blackpool,Sunderland,32.0,40.0,28.0
+2010,24,Aston Villa,Man City,8.0,16.0,76.0
+2010,24,Blackburn,West Brom,60.0,28.0,12.0
+2010,24,Bolton,Chelsea,0.0,0.0,100.0
+2010,25,Arsenal,Everton,100.0,0.0,0.0
+2010,25,Sunderland,Chelsea,0.0,0.0,100.0
+2010,25,Man Utd,Aston Villa,96.2,0.0,3.8
+2010,25,West Brom,Wigan,53.8,26.9,19.2
+2010,25,Birmingham,Man City,3.7,18.5,77.8
+2010,25,Liverpool,Stoke City,84.6,11.5,3.8
+2010,25,Fulham,Newcastle,38.5,38.5,23.1
+2010,25,Blackburn,Spurs,3.8,19.2,76.9
+2010,25,Bolton,Wolves,65.4,34.6,0.0
+2010,25,Blackpool,West Ham,30.8,26.9,42.3
+2010,26,Stoke City,Sunderland,42.3,26.9,30.8
+2010,26,Aston Villa,Fulham,84.6,7.7,7.7
+2010,26,Wigan,Blackburn,38.5,42.3,19.2
+2010,26,Spurs,Bolton,100.0,0.0,0.0
+2010,26,Newcastle,Arsenal,3.8,19.2,76.9
+2010,26,Man City,West Brom,100.0,0.0,0.0
+2010,26,Everton,Blackpool,73.1,11.5,15.4
+2010,26,Wolves,Man Utd,0.0,0.0,100.0
+2010,26,West Ham,Birmingham,73.1,15.4,11.5
+2010,26,Chelsea,Liverpool,80.8,11.5,7.7
+2010,27,Man Utd,Man City,60.0,32.0,8.0
+2010,27,Arsenal,Wolves,100.0,0.0,0.0
+2010,27,West Brom,West Ham,28.0,16.0,56.0
+2010,27,Liverpool,Wigan,100.0,0.0,0.0
+2010,27,Blackpool,Aston Villa,12.0,32.0,56.0
+2010,27,Blackburn,Newcastle,24.0,24.0,52.0
+2010,27,Birmingham,Stoke City,60.0,28.0,12.0
+2010,27,Sunderland,Spurs,3.8,19.2,76.9
+2010,27,Bolton,Everton,48.0,16.0,36.0
+2010,27,Fulham,Chelsea,0.0,3.8,96.2
+2010,28,Aston Villa,Blackburn,82.8,6.9,10.3
+2010,28,Wolves,Blackpool,27.6,37.9,34.5
+2010,28,Wigan,Man Utd,0.0,3.4,96.6
+2010,28,Newcastle,Bolton,79.3,17.2,3.4
+2010,28,Everton,Sunderland,58.6,34.5,6.9
+2010,28,West Ham,Liverpool,3.4,17.2,79.3
+2010,28,Man City,Fulham,100.0,0.0,0.0
+2010,28,Stoke City,West Brom,62.1,24.1,13.8
+2010,28,Spurs,Arsenal,31.3,12.5,56.3
+2010,28,Chelsea,Birmingham,100.0,0.0,0.0
+2010,29,Birmingham,West Brom,80.8,11.5,7.7
+2010,29,Arsenal,Sunderland,100.0,0.0,0.0
+2010,29,West Ham,Stoke City,70.4,18.5,11.1
+2010,29,Newcastle,Everton,33.3,40.7,25.9
+2010,29,Fulham,Blackburn,55.6,29.6,14.8
+2010,29,Bolton,Aston Villa,33.3,18.5,48.1
+2010,29,Man City,Wigan,96.3,3.7,0.0
+2010,29,Liverpool,Man Utd,7.1,25.0,67.9
+2010,29,Wolves,Spurs,0.0,11.1,88.9
+2010,29,Blackpool,Chelsea,3.8,7.7,88.5
+2010,30,Spurs,West Ham,88.5,11.5,0.0
+2010,30,Aston Villa,Wolves,81.5,11.1,7.4
+2010,30,Wigan,Birmingham,37.0,37.0,25.9
+2010,30,West Brom,Arsenal,0.0,0.0,100.0
+2010,30,Stoke City,Newcastle,37.0,33.3,29.6
+2010,30,Man Utd,Bolton,96.3,3.7,0.0
+2010,30,Blackburn,Blackpool,66.7,25.9,7.4
+2010,30,Everton,Fulham,71.4,10.7,17.9
+2010,30,Sunderland,Liverpool,14.8,18.5,66.7
+2010,30,Chelsea,Man City,77.8,18.5,3.7
+2010,31,West Ham,Man Utd,4.0,8.0,88.0
+2010,31,Wigan,Spurs,7.7,15.4,76.9
+2010,31,West Brom,Liverpool,0.0,15.4,84.6
+2010,31,Stoke City,Chelsea,0.0,7.7,92.3
+2010,31,Newcastle,Wolves,84.6,11.5,3.8
+2010,31,Everton,Aston Villa,50.0,46.2,3.8
+2010,31,Birmingham,Bolton,57.7,30.8,11.5
+2010,31,Arsenal,Blackburn,96.2,0.0,3.8
+2010,31,Fulham,Blackpool,88.5,7.7,3.8
+2010,31,Man City,Sunderland,96.2,0.0,3.8
+2010,32,Wolves,Everton,16.0,24.0,60.0
+2010,32,Spurs,Stoke City,95.8,4.2,0.0
+2010,32,Sunderland,West Brom,62.5,20.8,16.7
+2010,32,Man Utd,Fulham,100.0,0.0,0.0
+2010,32,Chelsea,Wigan,95.8,4.2,0.0
+2010,32,Bolton,West Ham,29.2,25.0,45.8
+2010,32,Blackburn,Birmingham,62.5,33.3,4.2
+2010,32,Blackpool,Arsenal,4.0,4.0,92.0
+2010,32,Aston Villa,Newcastle,68.0,20.0,12.0
+2010,32,Liverpool,Man City,44.0,24.0,32.0
+2010,33,Blackpool,Wigan,48.4,19.4,32.3
+2010,33,West Ham,Aston Villa,44.0,28.0,28.0
+2010,33,West Brom,Chelsea,0.0,8.0,92.0
+2010,33,Everton,Blackburn,80.0,8.0,12.0
+2010,33,Birmingham,Sunderland,56.0,24.0,20.0
+2010,33,Arsenal,Liverpool,72.0,16.0,12.0
+2010,33,Newcastle,Man Utd,4.0,8.0,88.0
+2010,33,Stoke City,Wolves,84.0,12.0,4.0
+2010,33,Fulham,Bolton,69.2,23.1,7.7
+2010,33,Man City,Spurs,63.0,29.6,7.4
+2010,34,Man Utd,Everton,100.0,0.0,0.0
+2010,34,Aston Villa,Stoke City,73.9,17.4,8.7
+2010,34,Wolves,Fulham,39.1,17.4,43.5
+2010,34,Spurs,West Brom,100.0,0.0,0.0
+2010,34,Sunderland,Wigan,60.9,21.7,17.4
+2010,34,Liverpool,Birmingham,91.3,8.7,0.0
+2010,34,Blackpool,Newcastle,17.4,17.4,65.2
+2010,34,Chelsea,West Ham,95.7,4.3,0.0
+2010,34,Bolton,Arsenal,0.0,13.0,87.0
+2010,34,Blackburn,Man City,4.5,22.7,72.7
+2010,35,Wigan,Everton,24.0,24.0,52.0
+2010,35,West Brom,Aston Villa,24.0,32.0,44.0
+2010,35,Sunderland,Fulham,44.0,16.0,40.0
+2010,35,Blackpool,Stoke City,48.0,12.0,40.0
+2010,35,Blackburn,Bolton,64.0,16.0,20.0
+2010,35,Chelsea,Spurs,96.0,4.0,0.0
+2010,35,Liverpool,Newcastle,92.0,8.0,0.0
+2010,35,Birmingham,Wolves,68.0,16.0,16.0
+2010,35,Arsenal,Man Utd,20.0,20.0,60.0
+2010,35,Man City,West Ham,96.0,4.0,0.0
+2010,36,Aston Villa,Wigan,88.0,12.0,0.0
+2010,36,West Ham,Blackburn,64.0,28.0,8.0
+2010,36,Newcastle,Birmingham,64.0,20.0,16.0
+2010,36,Everton,Man City,28.0,24.0,48.0
+2010,36,Bolton,Sunderland,76.0,20.0,4.0
+2010,36,Spurs,Blackpool,100.0,0.0,0.0
+2010,36,Wolves,West Brom,60.0,28.0,12.0
+2010,36,Stoke City,Arsenal,0.0,16.0,84.0
+2010,36,Man Utd,Chelsea,72.0,20.0,8.0
+2010,36,Fulham,Liverpool,8.0,12.0,80.0
+2010,37,West Brom,Everton,26.1,26.1,47.8
+2010,37,Sunderland,Wolves,73.9,17.4,8.7
+2010,37,Blackpool,Bolton,43.5,26.1,30.4
+2010,37,Blackburn,Man Utd,0.0,4.3,95.7
+2010,37,Chelsea,Newcastle,100.0,0.0,0.0
+2010,37,Arsenal,Aston Villa,96.2,3.8,0.0
+2010,37,Wigan,West Ham,19.2,30.8,50.0
+2010,37,Liverpool,Spurs,69.2,11.5,19.2
+2010,37,Birmingham,Fulham,42.3,26.9,30.8
+2010,37,Man City,Stoke City,-1.0,-1.0,-1.0
+2010,38,Aston Villa,Liverpool,16.7,11.1,72.2
+2010,38,Wolves,Blackburn,50.0,33.3,16.7
+2010,38,West Ham,Sunderland,66.7,16.7,16.7
+2010,38,Spurs,Birmingham,83.3,11.1,5.6
+2010,38,Stoke City,Wigan,66.7,22.2,11.1
+2010,38,Newcastle,West Brom,77.8,11.1,11.1
+2010,38,Man Utd,Blackpool,83.3,16.7,0.0
+2010,38,Fulham,Arsenal,5.6,27.8,66.7
+2010,38,Everton,Chelsea,5.6,27.8,66.7
+2010,38,Bolton,Man City,0.0,11.1,88.9
