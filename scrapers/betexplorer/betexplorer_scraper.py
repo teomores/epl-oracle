@@ -50,7 +50,7 @@ def _scrape_league_matches(league_url: str) -> list:
 
 def scrape(country: str, league: str, start_year: int) -> None:
     # create pandas dataframe
-    columns = ['match_date', 'match_hour', 'match_round', 'home_team','away_team','home_goals','away_goals','bookmaker','1','X','2','opening_1','opening_X','opening_2']
+    columns = ['match_date', 'match_hour', 'match_round', 'home_team','away_team','home_goals','away_goals','bookmaker','1','X','2','opening_1','opening_X','opening_2','league_year']
     df_results = pd.DataFrame(columns=columns)
     with open(f'{league}_{start_year}.csv', 'a+', newline='') as f:
                     dict_writer = DictWriter(f, fieldnames=df_results.columns)
@@ -69,7 +69,8 @@ def scrape(country: str, league: str, start_year: int) -> None:
                         '2' : '2',
                         'opening_1' : 'opening_1',
                         'opening_X' : 'opening_X',
-                        'opening_2' : 'opening_2'
+                        'opening_2' : 'opening_2',
+                        'league_year' : 'league_year'
                         }
                     )
 
@@ -134,9 +135,10 @@ def scrape(country: str, league: str, start_year: int) -> None:
                         '2' : aw_odd,
                         'opening_1' : hw_opening_odd,
                         'opening_X' : draw_opening_odd,
-                        'opening_2' : aw_opening_odd
+                        'opening_2' : aw_opening_odd,
+                        'league_year' : start_year
                         }
                     )
 
 if __name__=='__main__':
-    scrape('england','premier-league',2013)
+    scrape('england','premier-league',2009)

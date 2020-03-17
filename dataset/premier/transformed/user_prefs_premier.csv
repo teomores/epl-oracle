@@ -1,0 +1,3801 @@
+match_year,match_round,home_team,away_team,ht_win_pred_transfer,draw_pred_transfer,at_win_pred_transfer
+2009,1,Chelsea,Hull City,100.0,0.0,0.0
+2009,1,Aston Villa,Wigan,88.1,9.5,2.4
+2009,1,Wolves,West Ham,11.9,31.0,57.1
+2009,1,Stoke City,Burnley,54.8,35.7,9.5
+2009,1,Portsmouth,Fulham,33.3,35.7,31.0
+2009,1,Bolton,Sunderland,45.2,45.2,9.5
+2009,1,Blackburn,Man City,7.1,16.7,76.2
+2009,1,Everton,Arsenal,16.7,28.6,54.8
+2009,1,Man Utd,Birmingham,100.0,0.0,0.0
+2009,1,Spurs,Liverpool,4.8,31.0,64.3
+2009,2,Wigan,Wolves,61.9,33.3,4.8
+2009,2,Sunderland,Chelsea,0.0,4.8,95.2
+2009,2,Burnley,Man Utd,0.0,0.0,100.0
+2009,2,Birmingham,Portsmouth,30.4,56.5,13.0
+2009,2,Liverpool,Stoke City,100.0,0.0,0.0
+2009,2,Hull City,Spurs,21.7,26.1,52.2
+2009,2,West Ham,Aston Villa,42.9,28.6,28.6
+2009,2,Fulham,Blackburn,71.0,16.1,12.9
+2009,2,Arsenal,Bolton,-1.0,-1.0,-1.0
+2009,2,Man City,Everton,84.6,10.3,5.1
+2009,3,Arsenal,Portsmouth,100.0,0.0,0.0
+2009,3,Wigan,Man Utd,0.0,5.9,94.1
+2009,3,Sunderland,Blackburn,73.5,17.6,8.8
+2009,3,Man City,Wolves,100.0,0.0,0.0
+2009,3,Hull City,Bolton,38.2,41.2,20.6
+2009,3,Birmingham,Stoke City,47.1,35.3,17.6
+2009,3,West Ham,Spurs,20.0,20.0,60.0
+2009,3,Burnley,Everton,14.3,20.0,65.7
+2009,3,Fulham,Chelsea,2.9,14.3,82.9
+2009,3,Liverpool,Aston Villa,94.3,5.7,0.0
+2009,4,Chelsea,Burnley,100.0,0.0,0.0
+2009,4,Wolves,Hull City,58.1,35.5,6.5
+2009,4,Spurs,Birmingham,93.8,6.3,0.0
+2009,4,Stoke City,Sunderland,35.5,41.9,22.6
+2009,4,Bolton,Liverpool,0.0,9.4,90.6
+2009,4,Blackburn,West Ham,40.6,40.6,18.8
+2009,4,Man Utd,Arsenal,53.1,28.1,18.8
+2009,4,Portsmouth,Man City,0.0,0.0,100.0
+2009,4,Everton,Wigan,87.9,9.1,3.0
+2009,4,Aston Villa,Fulham,81.8,18.2,0.0
+2009,5,Wigan,West Ham,23.5,38.2,38.2
+2009,5,Sunderland,Hull City,73.5,11.8,14.7
+2009,5,Stoke City,Chelsea,0.0,0.0,100.0
+2009,5,Portsmouth,Bolton,55.9,35.3,8.8
+2009,5,Man City,Arsenal,34.3,40.0,25.7
+2009,5,Liverpool,Burnley,100.0,0.0,0.0
+2009,5,Blackburn,Wolves,70.6,23.5,5.9
+2009,5,Spurs,Man Utd,11.4,25.7,62.9
+2009,5,Birmingham,Aston Villa,14.3,25.7,60.0
+2009,5,Fulham,Everton,42.9,31.4,25.7
+2009,6,Burnley,Sunderland,31.3,37.5,31.3
+2009,6,Arsenal,Wigan,100.0,0.0,0.0
+2009,6,Hull City,Birmingham,50.0,38.9,11.1
+2009,6,Bolton,Stoke City,48.6,45.7,5.7
+2009,6,Aston Villa,Portsmouth,88.9,11.1,0.0
+2009,6,West Ham,Liverpool,0.0,8.3,91.7
+2009,6,Man Utd,Man City,72.2,22.2,5.6
+2009,6,Wolves,Fulham,22.2,44.4,33.3
+2009,6,Everton,Blackburn,88.9,8.3,2.8
+2009,6,Chelsea,Spurs,86.1,11.1,2.8
+2009,7,Portsmouth,Everton,22.6,9.7,67.7
+2009,7,Birmingham,Bolton,56.3,37.5,6.3
+2009,7,Wigan,Chelsea,3.1,3.1,93.8
+2009,7,Spurs,Burnley,96.9,3.1,0.0
+2009,7,Stoke City,Man Utd,0.0,0.0,100.0
+2009,7,Liverpool,Hull City,96.9,0.0,3.1
+2009,7,Blackburn,Aston Villa,12.5,25.0,62.5
+2009,7,Fulham,Arsenal,0.0,12.5,87.5
+2009,7,Sunderland,Wolves,78.1,18.8,3.1
+2009,7,Man City,West Ham,87.5,12.5,0.0
+2009,8,Wolves,Portsmouth,63.6,24.2,12.1
+2009,8,Hull City,Wigan,48.5,21.2,30.3
+2009,8,Burnley,Birmingham,48.5,39.4,12.1
+2009,8,Bolton,Spurs,5.9,8.8,85.3
+2009,8,Man Utd,Sunderland,97.0,3.0,0.0
+2009,8,Arsenal,Blackburn,100.0,0.0,0.0
+2009,8,West Ham,Fulham,50.0,38.2,11.8
+2009,8,Everton,Stoke City,91.2,5.9,2.9
+2009,8,Chelsea,Liverpool,44.1,44.1,11.8
+2009,8,Aston Villa,Man City,2.9,23.5,73.5
+2009,9,Aston Villa,Chelsea,8.8,14.7,76.5
+2009,9,Arsenal,Birmingham,100.0,0.0,0.0
+2009,9,Sunderland,Liverpool,0.0,13.9,86.1
+2009,9,Stoke City,West Ham,36.1,33.3,30.6
+2009,9,Portsmouth,Spurs,8.3,8.3,83.3
+2009,9,Man Utd,Bolton,100.0,0.0,0.0
+2009,9,Everton,Wolves,82.9,14.3,2.9
+2009,9,Blackburn,Burnley,68.6,28.6,2.9
+2009,9,Wigan,Man City,2.8,8.3,88.9
+2009,9,Fulham,Hull City,80.6,8.3,11.1
+2009,10,Wolves,Aston Villa,8.3,11.1,80.6
+2009,10,Birmingham,Sunderland,38.9,25.0,36.1
+2009,10,Spurs,Stoke City,97.3,0.0,2.7
+2009,10,Hull City,Portsmouth,41.7,27.8,30.6
+2009,10,Burnley,Wigan,47.2,27.8,25.0
+2009,10,Chelsea,Blackburn,100.0,0.0,0.0
+2009,10,Bolton,Everton,19.4,27.8,52.8
+2009,10,Liverpool,Man Utd,18.9,18.9,62.2
+2009,10,Man City,Fulham,97.3,2.7,0.0
+2009,10,West Ham,Arsenal,2.7,10.8,86.5
+2009,11,Arsenal,Spurs,85.7,11.4,2.9
+2009,11,Sunderland,West Ham,60.0,20.0,20.0
+2009,11,Stoke City,Wolves,77.1,14.3,8.6
+2009,11,Portsmouth,Wigan,51.4,25.7,22.9
+2009,11,Fulham,Liverpool,0.0,13.9,86.1
+2009,11,Everton,Aston Villa,27.8,47.2,25.0
+2009,11,Burnley,Hull City,65.7,20.0,14.3
+2009,11,Bolton,Chelsea,0.0,2.8,97.2
+2009,11,Man Utd,Blackburn,100.0,0.0,0.0
+2009,11,Birmingham,Man City,0.0,13.9,86.1
+2009,12,Aston Villa,Bolton,100.0,0.0,0.0
+2009,12,Spurs,Sunderland,68.8,21.9,9.4
+2009,12,Man City,Burnley,100.0,0.0,0.0
+2009,12,Blackburn,Portsmouth,40.6,43.8,15.6
+2009,12,Wolves,Arsenal,0.0,3.1,96.9
+2009,12,Hull City,Stoke City,36.4,45.5,18.2
+2009,12,Wigan,Fulham,36.4,33.3,30.3
+2009,12,West Ham,Everton,33.3,30.3,36.4
+2009,12,Chelsea,Man Utd,61.8,26.5,11.8
+2009,12,Liverpool,Birmingham,100.0,0.0,0.0
+2009,13,Liverpool,Man City,71.4,14.3,14.3
+2009,13,Sunderland,Arsenal,0.0,5.7,94.3
+2009,13,Hull City,West Ham,38.2,38.2,23.5
+2009,13,Chelsea,Wolves,100.0,0.0,0.0
+2009,13,Burnley,Aston Villa,8.8,35.3,55.9
+2009,13,Birmingham,Fulham,26.5,44.1,29.4
+2009,13,Man Utd,Everton,97.1,2.9,0.0
+2009,13,Bolton,Blackburn,50.0,35.3,14.7
+2009,13,Spurs,Wigan,88.2,11.8,0.0
+2009,13,Stoke City,Portsmouth,35.3,26.5,38.2
+2009,14,Blackburn,Stoke City,67.6,20.6,11.8
+2009,14,Wigan,Sunderland,26.5,26.5,47.1
+2009,14,West Ham,Burnley,64.7,23.5,11.8
+2009,14,Portsmouth,Man Utd,0.0,0.0,100.0
+2009,14,Man City,Hull City,88.6,11.4,0.0
+2009,14,Fulham,Bolton,76.5,23.5,0.0
+2009,14,Aston Villa,Spurs,28.6,31.4,40.0
+2009,14,Wolves,Birmingham,32.4,35.3,32.4
+2009,14,Everton,Liverpool,17.1,20.0,62.9
+2009,14,Arsenal,Chelsea,22.9,37.1,40.0
+2009,15,Portsmouth,Burnley,72.4,24.1,3.4
+2009,15,Arsenal,Stoke City,100.0,0.0,0.0
+2009,15,Wolves,Bolton,39.3,50.0,10.7
+2009,15,Wigan,Birmingham,42.9,42.9,14.3
+2009,15,West Ham,Man Utd,3.4,3.4,93.1
+2009,15,Blackburn,Liverpool,3.4,6.9,89.7
+2009,15,Aston Villa,Hull City,92.9,7.1,0.0
+2009,15,Man City,Chelsea,10.3,34.5,55.2
+2009,15,Fulham,Sunderland,51.6,32.3,16.1
+2009,15,Everton,Spurs,25.0,31.3,43.8
+2009,16,Stoke City,Wigan,61.3,25.8,12.9
+2009,16,Birmingham,West Ham,34.4,34.4,31.3
+2009,16,Spurs,Wolves,97.0,0.0,3.0
+2009,16,Sunderland,Portsmouth,75.0,6.3,18.8
+2009,16,Hull City,Blackburn,18.8,46.9,34.4
+2009,16,Chelsea,Everton,100.0,0.0,0.0
+2009,16,Burnley,Fulham,21.9,43.8,34.4
+2009,16,Bolton,Man City,6.1,6.1,87.9
+2009,16,Man Utd,Aston Villa,79.4,17.6,2.9
+2009,16,Liverpool,Arsenal,45.9,40.5,13.5
+2009,17,Hull City,Everton,25.0,50.0,25.0
+2009,17,Sunderland,Aston Villa,38.5,7.7,53.8
+2009,17,Birmingham,Blackburn,76.9,15.4,7.7
+2009,17,Bolton,West Ham,15.4,46.2,38.5
+2009,17,Man Utd,Wolves,100.0,0.0,0.0
+2009,17,Chelsea,Portsmouth,100.0,0.0,0.0
+2009,17,Burnley,Arsenal,0.0,5.9,94.1
+2009,17,Liverpool,Wigan,100.0,0.0,0.0
+2009,17,Spurs,Man City,29.4,52.9,17.6
+2009,17,Stoke City,Fulham,13.6,50.0,36.4
+2009,18,Portsmouth,Liverpool,3.2,3.2,93.5
+2009,18,Man City,Sunderland,83.9,12.9,3.2
+2009,18,Fulham,Man Utd,0.0,9.7,90.3
+2009,18,Blackburn,Spurs,9.7,22.6,67.7
+2009,18,Aston Villa,Stoke City,100.0,0.0,0.0
+2009,18,Arsenal,Hull City,100.0,0.0,0.0
+2009,18,Wolves,Burnley,37.9,48.3,13.8
+2009,18,Everton,Birmingham,76.7,13.3,10.0
+2009,18,West Ham,Chelsea,0.0,3.2,96.8
+2009,18,Wigan,Bolton,31.3,50.0,18.8
+2009,19,Birmingham,Chelsea,0.0,5.9,94.1
+2009,19,West Ham,Portsmouth,64.7,35.3,0.0
+2009,19,Fulham,Spurs,23.5,35.3,41.2
+2009,19,Wigan,Blackburn,55.6,27.8,16.7
+2009,19,Sunderland,Everton,33.3,50.0,16.7
+2009,19,Man City,Stoke City,94.4,5.6,0.0
+2009,19,Burnley,Bolton,50.0,33.3,16.7
+2009,19,Liverpool,Wolves,94.4,5.6,0.0
+2009,19,Arsenal,Aston Villa,80.0,15.0,5.0
+2009,19,Hull City,Man Utd,0.0,0.0,100.0
+2009,20,Spurs,West Ham,100.0,0.0,0.0
+2009,20,Stoke City,Birmingham,50.0,37.5,12.5
+2009,20,Everton,Burnley,93.8,6.3,0.0
+2009,20,Chelsea,Fulham,93.8,6.3,0.0
+2009,20,Blackburn,Sunderland,43.8,18.8,37.5
+2009,20,Wolves,Man City,0.0,17.6,82.4
+2009,20,Aston Villa,Liverpool,35.0,40.0,25.0
+2009,20,Bolton,Hull City,60.0,30.0,10.0
+2009,20,Portsmouth,Arsenal,0.0,4.8,95.2
+2009,20,Man Utd,Wigan,100.0,0.0,0.0
+2009,21,Arsenal,Everton,100.0,0.0,0.0
+2009,21,Birmingham,Man Utd,0.0,0.0,100.0
+2009,21,Man City,Blackburn,90.0,5.0,5.0
+2009,21,Liverpool,Spurs,81.8,13.6,4.5
+2009,21,Hull City,Chelsea,0.0,0.0,100.0
+2009,21,Fulham,Portsmouth,88.5,3.8,7.7
+2009,21,Sunderland,Bolton,69.2,19.2,11.5
+2009,21,Burnley,Stoke City,53.8,38.5,7.7
+2009,21,Wigan,Aston Villa,3.8,26.9,69.2
+2009,21,West Ham,Wolves,82.1,17.9,0.0
+2009,22,Stoke City,Liverpool,3.4,13.8,82.8
+2009,22,Wolves,Wigan,42.9,46.4,10.7
+2009,22,Spurs,Hull City,96.6,3.4,0.0
+2009,22,Man Utd,Burnley,100.0,0.0,0.0
+2009,22,Chelsea,Sunderland,93.1,6.9,0.0
+2009,22,Everton,Man City,20.7,37.9,41.4
+2009,22,Aston Villa,West Ham,100.0,0.0,0.0
+2009,22,Blackburn,Fulham,39.3,28.6,32.1
+2009,22,Bolton,Arsenal,0.0,6.9,93.1
+2009,22,Portsmouth,Birmingham,26.7,36.7,36.7
+2009,23,Man Utd,Hull City,96.4,0.0,3.6
+2009,23,Wolves,Liverpool,0.0,11.5,88.5
+2009,23,Portsmouth,West Ham,38.5,30.8,30.8
+2009,23,Bolton,Burnley,65.4,34.6,0.0
+2009,23,Spurs,Fulham,92.3,7.7,0.0
+2009,23,Chelsea,Birmingham,100.0,0.0,0.0
+2009,23,Aston Villa,Arsenal,7.7,34.6,57.7
+2009,23,Everton,Sunderland,84.0,8.0,8.0
+2009,23,Blackburn,Wigan,60.0,32.0,8.0
+2009,23,Stoke City,Man City,3.6,14.3,82.1
+2009,24,Wigan,Everton,10.3,10.3,79.3
+2009,24,West Ham,Blackburn,69.0,24.1,6.9
+2009,24,Liverpool,Bolton,100.0,0.0,0.0
+2009,24,Hull City,Wolves,37.9,51.7,10.3
+2009,24,Fulham,Aston Villa,26.7,23.3,50.0
+2009,24,Birmingham,Spurs,10.0,30.0,60.0
+2009,24,Burnley,Chelsea,0.0,0.0,100.0
+2009,24,Man City,Portsmouth,100.0,0.0,0.0
+2009,24,Arsenal,Man Utd,25.8,45.2,29.0
+2009,24,Sunderland,Stoke City,67.7,25.8,6.5
+2009,25,Liverpool,Everton,92.6,7.4,0.0
+2009,25,Sunderland,Wigan,75.0,14.3,10.7
+2009,25,Stoke City,Blackburn,55.6,29.6,14.8
+2009,25,Man Utd,Portsmouth,100.0,0.0,0.0
+2009,25,Hull City,Man City,0.0,0.0,100.0
+2009,25,Burnley,West Ham,22.2,33.3,44.4
+2009,25,Bolton,Fulham,29.6,44.4,25.9
+2009,25,Spurs,Aston Villa,57.1,32.1,10.7
+2009,25,Birmingham,Wolves,71.4,21.4,7.1
+2009,25,Chelsea,Arsenal,89.3,10.7,0.0
+2009,26,Man City,Bolton,91.7,8.3,0.0
+2009,26,Wigan,Stoke City,33.3,41.7,25.0
+2009,26,Portsmouth,Sunderland,33.3,16.7,50.0
+2009,26,Fulham,Burnley,83.3,16.7,0.0
+2009,26,Arsenal,Liverpool,68.8,25.0,6.3
+2009,26,Aston Villa,Man Utd,6.3,25.0,68.8
+2009,26,Wolves,Spurs,0.0,6.3,93.8
+2009,26,West Ham,Birmingham,56.3,18.8,25.0
+2009,26,Everton,Chelsea,0.0,12.5,87.5
+2009,26,Blackburn,Hull City,62.5,31.3,6.3
+2009,27,Arsenal,Sunderland,96.7,3.3,0.0
+2009,27,Wolves,Chelsea,0.0,0.0,100.0
+2009,27,West Ham,Hull City,83.3,10.0,6.7
+2009,27,Everton,Man Utd,3.3,23.3,73.3
+2009,27,Portsmouth,Stoke City,44.8,34.5,20.7
+2009,27,Blackburn,Bolton,64.3,28.6,7.1
+2009,27,Aston Villa,Burnley,100.0,0.0,0.0
+2009,27,Man City,Liverpool,33.3,40.0,26.7
+2009,27,Fulham,Birmingham,66.7,26.7,6.7
+2009,27,Wigan,Spurs,13.3,16.7,70.0
+2009,28,Man Utd,West Ham,100.0,0.0,0.0
+2009,28,Chelsea,Man City,93.1,6.9,0.0
+2009,28,Birmingham,Wigan,78.6,21.4,0.0
+2009,28,Burnley,Portsmouth,60.7,32.1,7.1
+2009,28,Bolton,Wolves,75.0,25.0,0.0
+2009,28,Stoke City,Arsenal,0.0,6.9,93.1
+2009,28,Spurs,Everton,76.7,16.7,6.7
+2009,28,Sunderland,Fulham,55.2,34.5,10.3
+2009,28,Liverpool,Blackburn,100.0,0.0,0.0
+2009,28,Hull City,Aston Villa,13.2,15.8,71.1
+2009,29,Arsenal,Burnley,100.0,0.0,0.0
+2009,29,West Ham,Bolton,67.9,28.6,3.6
+2009,29,Wolves,Man Utd,0.0,0.0,100.0
+2009,29,Everton,Hull City,96.6,3.4,0.0
+2009,29,Wigan,Liverpool,0.0,3.3,96.7
+2009,29,Portsmouth,Chelsea,0.0,0.0,100.0
+2009,29,Aston Villa,Sunderland,90.6,9.4,0.0
+2009,29,Blackburn,Birmingham,50.0,46.9,3.1
+2009,29,Man City,Spurs,85.3,11.8,2.9
+2009,29,Fulham,Stoke City,70.3,21.6,8.1
+2009,30,Spurs,Blackburn,100.0,0.0,0.0
+2009,30,Birmingham,Everton,24.0,36.0,40.0
+2009,30,Stoke City,Aston Villa,11.5,23.1,65.4
+2009,30,Chelsea,West Ham,100.0,0.0,0.0
+2009,30,Burnley,Wolves,32.0,64.0,4.0
+2009,30,Bolton,Wigan,52.0,36.0,12.0
+2009,30,Hull City,Arsenal,0.0,0.0,100.0
+2009,30,Man Utd,Fulham,100.0,0.0,0.0
+2009,30,Sunderland,Man City,3.8,26.9,69.2
+2009,30,Liverpool,Portsmouth,96.3,0.0,3.7
+2009,31,Aston Villa,Wolves,96.6,3.4,0.0
+2009,31,Wigan,Burnley,57.1,39.3,3.6
+2009,31,Sunderland,Birmingham,64.3,28.6,7.1
+2009,31,Stoke City,Spurs,13.8,24.1,62.1
+2009,31,Portsmouth,Hull City,46.4,28.6,25.0
+2009,31,Everton,Bolton,100.0,0.0,0.0
+2009,31,Arsenal,West Ham,100.0,0.0,0.0
+2009,31,Man Utd,Liverpool,86.7,10.0,3.3
+2009,31,Fulham,Man City,6.7,33.3,60.0
+2009,31,Blackburn,Chelsea,0.0,3.3,96.7
+2009,32,Birmingham,Arsenal,0.0,8.1,91.9
+2009,32,Wolves,Everton,2.8,19.4,77.8
+2009,32,West Ham,Stoke City,63.9,30.6,5.6
+2009,32,Spurs,Portsmouth,97.2,2.8,0.0
+2009,32,Hull City,Fulham,19.4,19.4,61.1
+2009,32,Chelsea,Aston Villa,100.0,0.0,0.0
+2009,32,Bolton,Man Utd,0.0,2.7,97.3
+2009,32,Burnley,Blackburn,44.4,30.6,25.0
+2009,32,Liverpool,Sunderland,100.0,0.0,0.0
+2009,32,Man City,Wigan,100.0,0.0,0.0
+2009,33,Man Utd,Chelsea,28.2,51.3,20.5
+2009,33,Arsenal,Wolves,100.0,0.0,0.0
+2009,33,Sunderland,Spurs,20.5,28.2,51.3
+2009,33,Stoke City,Hull City,51.3,33.3,15.4
+2009,33,Portsmouth,Blackburn,25.6,17.9,56.4
+2009,33,Bolton,Aston Villa,10.3,20.5,69.2
+2009,33,Burnley,Man City,2.6,10.3,87.2
+2009,33,Fulham,Wigan,84.6,7.7,7.7
+2009,33,Birmingham,Liverpool,0.0,12.8,87.2
+2009,33,Everton,West Ham,77.8,19.4,2.8
+2009,34,West Ham,Sunderland,67.6,14.7,17.6
+2009,34,Hull City,Burnley,52.9,32.4,14.7
+2009,34,Wolves,Stoke City,44.1,29.4,26.5
+2009,34,Blackburn,Man Utd,2.9,2.9,94.1
+2009,34,Liverpool,Fulham,91.2,5.9,2.9
+2009,34,Man City,Birmingham,91.2,5.9,2.9
+2009,34,Chelsea,Bolton,100.0,0.0,0.0
+2009,34,Aston Villa,Everton,61.8,20.6,17.6
+2009,34,Wigan,Portsmouth,55.9,20.6,23.5
+2009,34,Spurs,Arsenal,9.1,30.3,60.6
+2009,35,Man City,Man Utd,27.3,27.3,45.5
+2009,35,Birmingham,Hull City,78.1,15.6,6.3
+2009,35,Sunderland,Burnley,78.8,15.2,6.1
+2009,35,Stoke City,Bolton,56.3,21.9,21.9
+2009,35,Fulham,Wolves,81.8,6.1,12.1
+2009,35,Blackburn,Everton,24.2,30.3,45.5
+2009,35,Spurs,Chelsea,15.2,12.1,72.7
+2009,35,Wigan,Arsenal,2.9,5.9,91.2
+2009,35,Portsmouth,Aston Villa,15.2,9.1,75.8
+2009,35,Liverpool,West Ham,97.1,2.9,0.0
+2009,36,Man Utd,Spurs,90.3,6.5,3.2
+2009,36,Wolves,Blackburn,46.7,30.0,23.3
+2009,36,West Ham,Wigan,70.0,13.3,16.7
+2009,36,Hull City,Sunderland,20.0,30.0,50.0
+2009,36,Bolton,Portsmouth,76.7,16.7,6.7
+2009,36,Arsenal,Man City,61.3,25.8,12.9
+2009,36,Aston Villa,Birmingham,89.7,6.9,3.4
+2009,36,Everton,Fulham,76.7,16.7,6.7
+2009,36,Burnley,Liverpool,0.0,6.7,93.3
+2009,36,Chelsea,Stoke City,100.0,0.0,0.0
+2009,37,Birmingham,Burnley,82.8,13.8,3.4
+2009,37,Spurs,Bolton,100.0,0.0,0.0
+2009,37,Stoke City,Everton,23.3,16.7,60.0
+2009,37,Portsmouth,Wolves,50.0,26.7,23.3
+2009,37,Man City,Aston Villa,90.3,6.5,3.2
+2009,37,Liverpool,Chelsea,9.7,22.6,67.7
+2009,37,Fulham,West Ham,63.3,30.0,6.7
+2009,37,Sunderland,Man Utd,0.0,3.2,96.8
+2009,37,Wigan,Hull City,65.5,20.7,13.8
+2009,37,Blackburn,Arsenal,3.3,6.7,90.0
+2009,38,Arsenal,Fulham,100.0,0.0,0.0
+2009,38,Wolves,Sunderland,40.0,26.7,33.3
+2009,38,West Ham,Man City,6.7,10.0,83.3
+2009,38,Man Utd,Stoke City,100.0,0.0,0.0
+2009,38,Hull City,Liverpool,0.0,6.7,93.3
+2009,38,Everton,Portsmouth,96.7,3.3,0.0
+2009,38,Chelsea,Wigan,96.8,3.2,0.0
+2009,38,Burnley,Spurs,6.7,0.0,93.3
+2009,38,Bolton,Birmingham,40.0,36.7,23.3
+2009,38,Aston Villa,Blackburn,86.7,6.7,6.7
+2010,1,Spurs,Man City,5.9,47.1,47.1
+2010,1,Aston Villa,West Ham,82.4,17.6,0.0
+2010,1,Wigan,Blackpool,-1.0,-1.0,-1.0
+2010,1,Wolves,Stoke City,35.3,47.1,17.6
+2010,1,Sunderland,Birmingham,58.8,29.4,11.8
+2010,1,Bolton,Fulham,11.8,35.3,52.9
+2010,1,Blackburn,Everton,23.5,23.5,52.9
+2010,1,Chelsea,West Brom,100.0,0.0,0.0
+2010,1,Liverpool,Arsenal,22.2,55.6,22.2
+2010,1,Man Utd,Newcastle,100.0,0.0,0.0
+2010,2,Arsenal,Blackpool,100.0,0.0,0.0
+2010,2,West Ham,Bolton,69.0,27.6,3.4
+2010,2,West Brom,Sunderland,31.0,24.1,44.8
+2010,2,Stoke City,Spurs,3.4,17.2,79.3
+2010,2,Everton,Wolves,93.1,3.4,3.4
+2010,2,Birmingham,Blackburn,51.7,41.4,6.9
+2010,2,Wigan,Chelsea,0.0,0.0,100.0
+2010,2,Newcastle,Aston Villa,24.1,24.1,51.7
+2010,2,Fulham,Man Utd,3.4,3.4,93.1
+2010,2,Man City,Liverpool,48.3,37.9,13.8
+2010,3,Blackburn,Arsenal,0.0,0.0,100.0
+2010,3,Wolves,Newcastle,11.5,26.9,61.5
+2010,3,Spurs,Wigan,100.0,0.0,0.0
+2010,3,Chelsea,Stoke City,100.0,0.0,0.0
+2010,3,Blackpool,Fulham,11.5,46.2,42.3
+2010,3,Man Utd,West Ham,100.0,0.0,0.0
+2010,3,Bolton,Birmingham,53.6,28.6,17.9
+2010,3,Sunderland,Man City,3.6,0.0,96.4
+2010,3,Liverpool,West Brom,100.0,0.0,0.0
+2010,3,Aston Villa,Everton,39.3,35.7,25.0
+2010,4,Everton,Man Utd,3.4,17.2,79.3
+2010,4,Arsenal,Bolton,100.0,0.0,0.0
+2010,4,Wigan,Sunderland,37.9,37.9,24.1
+2010,4,West Ham,Chelsea,0.0,3.4,96.6
+2010,4,West Brom,Spurs,3.4,6.9,89.7
+2010,4,Newcastle,Blackpool,69.0,17.2,13.8
+2010,4,Man City,Blackburn,100.0,0.0,0.0
+2010,4,Fulham,Wolves,86.2,10.3,3.4
+2010,4,Birmingham,Liverpool,3.4,17.2,79.3
+2010,4,Stoke City,Aston Villa,3.4,31.0,65.5
+2010,5,Stoke City,West Ham,48.3,27.6,24.1
+2010,5,Aston Villa,Bolton,86.2,6.9,6.9
+2010,5,West Brom,Birmingham,20.7,48.3,31.0
+2010,5,Spurs,Wolves,93.1,6.9,0.0
+2010,5,Everton,Newcastle,64.3,21.4,14.3
+2010,5,Blackburn,Fulham,20.7,41.4,37.9
+2010,5,Sunderland,Arsenal,3.4,0.0,96.6
+2010,5,Man Utd,Liverpool,75.9,13.8,10.3
+2010,5,Wigan,Man City,3.3,6.7,90.0
+2010,5,Chelsea,Blackpool,100.0,0.0,0.0
+2010,6,Man City,Chelsea,18.5,25.9,55.6
+2010,6,Arsenal,West Brom,100.0,0.0,0.0
+2010,6,West Ham,Spurs,3.7,18.5,77.8
+2010,6,Liverpool,Sunderland,92.6,7.4,0.0
+2010,6,Fulham,Everton,37.0,44.4,18.5
+2010,6,Blackpool,Blackburn,25.9,48.1,25.9
+2010,6,Birmingham,Wigan,55.6,29.6,14.8
+2010,6,Bolton,Man Utd,0.0,0.0,100.0
+2010,6,Wolves,Aston Villa,11.1,25.9,63.0
+2010,6,Newcastle,Stoke City,78.6,17.9,3.6
+2010,7,Wigan,Wolves,45.2,25.8,29.0
+2010,7,Birmingham,Everton,38.7,25.8,35.5
+2010,7,West Ham,Fulham,38.7,32.3,29.0
+2010,7,West Brom,Bolton,41.9,25.8,32.3
+2010,7,Spurs,Aston Villa,80.6,12.9,6.5
+2010,7,Sunderland,Man Utd,0.0,0.0,100.0
+2010,7,Stoke City,Blackburn,48.4,29.0,22.6
+2010,7,Man City,Newcastle,84.4,9.4,6.3
+2010,7,Liverpool,Blackpool,93.8,6.3,0.0
+2010,7,Chelsea,Arsenal,75.0,12.5,12.5
+2010,8,Arsenal,Birmingham,96.6,0.0,3.4
+2010,8,Wolves,West Ham,24.1,48.3,27.6
+2010,8,Newcastle,Wigan,86.2,10.3,3.4
+2010,8,Man Utd,West Brom,100.0,0.0,0.0
+2010,8,Fulham,Spurs,10.3,24.1,65.5
+2010,8,Bolton,Stoke City,62.1,34.5,3.4
+2010,8,Aston Villa,Chelsea,0.0,0.0,100.0
+2010,8,Everton,Liverpool,24.1,31.0,44.8
+2010,8,Blackpool,Man City,0.0,10.3,89.7
+2010,8,Blackburn,Sunderland,44.8,27.6,27.6
+2010,9,Spurs,Everton,85.2,11.1,3.7
+2010,9,Wigan,Bolton,33.3,40.7,25.9
+2010,9,West Brom,Fulham,33.3,18.5,48.1
+2010,9,Sunderland,Aston Villa,22.2,18.5,59.3
+2010,9,Chelsea,Wolves,100.0,0.0,0.0
+2010,9,Birmingham,Blackpool,70.4,25.9,3.7
+2010,9,West Ham,Newcastle,37.0,37.0,25.9
+2010,9,Stoke City,Man Utd,0.0,3.7,96.3
+2010,9,Liverpool,Blackburn,85.2,14.8,0.0
+2010,9,Man City,Arsenal,55.6,22.2,22.2
+2010,10,Arsenal,West Ham,100.0,0.0,0.0
+2010,10,Wolves,Man City,0.0,15.4,84.6
+2010,10,Fulham,Wigan,88.5,7.7,3.8
+2010,10,Everton,Stoke City,76.9,19.2,3.8
+2010,10,Blackburn,Chelsea,0.0,0.0,100.0
+2010,10,Man Utd,Spurs,73.1,23.1,3.8
+2010,10,Aston Villa,Birmingham,85.2,11.1,3.7
+2010,10,Newcastle,Sunderland,74.1,11.1,14.8
+2010,10,Bolton,Liverpool,3.7,37.0,59.3
+2010,10,Blackpool,West Brom,37.0,29.6,33.3
+2010,11,Bolton,Spurs,4.2,20.8,75.0
+2010,11,Sunderland,Stoke City,68.0,20.0,12.0
+2010,11,Man Utd,Wolves,96.0,0.0,4.0
+2010,11,Fulham,Aston Villa,40.0,28.0,32.0
+2010,11,Blackpool,Everton,16.7,16.7,66.7
+2010,11,Blackburn,Wigan,68.0,20.0,12.0
+2010,11,Birmingham,West Ham,56.0,24.0,20.0
+2010,11,Arsenal,Newcastle,100.0,0.0,0.0
+2010,11,West Brom,Man City,4.2,12.5,83.3
+2010,11,Liverpool,Chelsea,0.0,16.7,83.3
+2010,12,Stoke City,Birmingham,64.7,17.6,17.6
+2010,12,Spurs,Sunderland,100.0,0.0,0.0
+2010,12,Newcastle,Blackburn,78.9,21.1,0.0
+2010,12,Chelsea,Fulham,100.0,0.0,0.0
+2010,12,Aston Villa,Blackpool,84.2,15.8,0.0
+2010,12,Wolves,Arsenal,0.0,5.3,94.7
+2010,12,Wigan,Liverpool,0.0,21.1,78.9
+2010,12,West Ham,West Brom,42.1,42.1,15.8
+2010,12,Everton,Bolton,78.9,10.5,10.5
+2010,12,Man City,Man Utd,10.5,47.4,42.1
+2010,13,Aston Villa,Man Utd,0.0,28.0,72.0
+2010,13,Wolves,Bolton,44.0,24.0,32.0
+2010,13,Wigan,West Brom,48.0,16.0,36.0
+2010,13,West Ham,Blackpool,72.0,20.0,8.0
+2010,13,Spurs,Blackburn,96.0,4.0,0.0
+2010,13,Newcastle,Fulham,68.0,16.0,16.0
+2010,13,Man City,Birmingham,100.0,0.0,0.0
+2010,13,Stoke City,Liverpool,7.7,3.8,88.5
+2010,13,Everton,Arsenal,0.0,26.9,73.1
+2010,13,Chelsea,Sunderland,96.2,3.8,0.0
+2010,14,Arsenal,Spurs,84.0,16.0,0.0
+2010,14,West Brom,Stoke City,63.0,25.9,11.1
+2010,14,Man Utd,Wigan,96.3,3.7,0.0
+2010,14,Bolton,Newcastle,22.2,14.8,63.0
+2010,14,Blackpool,Wolves,55.6,22.2,22.2
+2010,14,Birmingham,Chelsea,7.4,0.0,92.6
+2010,14,Liverpool,West Ham,92.6,7.4,0.0
+2010,14,Blackburn,Aston Villa,25.9,14.8,59.3
+2010,14,Fulham,Man City,7.4,18.5,74.1
+2010,14,Sunderland,Everton,44.4,14.8,40.7
+2010,15,Aston Villa,Arsenal,3.8,19.2,76.9
+2010,15,Wolves,Sunderland,38.5,23.1,38.5
+2010,15,West Ham,Wigan,69.2,15.4,15.4
+2010,15,Stoke City,Man City,3.8,15.4,80.8
+2010,15,Man Utd,Blackburn,96.2,0.0,3.8
+2010,15,Fulham,Birmingham,69.2,23.1,7.7
+2010,15,Everton,West Brom,92.3,3.8,3.8
+2010,15,Bolton,Blackpool,57.7,30.8,11.5
+2010,15,Newcastle,Chelsea,4.0,4.0,92.0
+2010,15,Spurs,Liverpool,72.0,16.0,12.0
+2010,16,Arsenal,Fulham,100.0,0.0,0.0
+2010,16,Wigan,Stoke City,52.0,28.0,20.0
+2010,16,Man City,Bolton,100.0,0.0,0.0
+2010,16,Chelsea,Everton,96.0,0.0,4.0
+2010,16,Blackburn,Wolves,56.0,28.0,16.0
+2010,16,Birmingham,Spurs,8.0,24.0,68.0
+2010,16,West Brom,Newcastle,40.0,28.0,32.0
+2010,16,Sunderland,West Ham,52.0,12.0,36.0
+2010,16,Liverpool,Aston Villa,96.0,0.0,4.0
+2010,16,Blackpool,Man Utd,0.0,4.3,95.7
+2010,17,Aston Villa,West Brom,88.0,4.0,8.0
+2010,17,West Ham,Man City,4.0,16.0,80.0
+2010,17,Stoke City,Blackpool,80.0,12.0,8.0
+2010,17,Fulham,Sunderland,56.0,28.0,16.0
+2010,17,Everton,Wigan,80.0,8.0,12.0
+2010,17,Newcastle,Liverpool,16.0,16.0,68.0
+2010,17,Wolves,Birmingham,40.0,28.0,32.0
+2010,17,Bolton,Blackburn,72.0,16.0,12.0
+2010,17,Spurs,Chelsea,28.0,36.0,36.0
+2010,17,Man Utd,Arsenal,76.0,4.0,20.0
+2010,18,Sunderland,Bolton,52.2,26.1,21.7
+2010,18,Blackburn,West Ham,60.9,21.7,17.4
+2010,18,Man City,Everton,95.7,4.3,0.0
+2010,18,Wigan,Aston Villa,23.1,23.1,53.8
+2010,18,Liverpool,Fulham,92.3,7.7,0.0
+2010,18,Birmingham,Newcastle,25.0,32.1,42.9
+2010,18,West Brom,Wolves,42.9,28.6,28.6
+2010,18,Blackpool,Spurs,0.0,10.0,90.0
+2010,18,Arsenal,Stoke City,100.0,0.0,0.0
+2010,18,Chelsea,Man Utd,31.3,37.5,31.3
+2010,19,Fulham,West Ham,68.4,15.8,15.8
+2010,19,Wolves,Wigan,42.1,42.1,15.8
+2010,19,Newcastle,Man City,5.3,26.3,68.4
+2010,19,Man Utd,Sunderland,100.0,0.0,0.0
+2010,19,Bolton,West Brom,78.9,15.8,5.3
+2010,19,Blackburn,Stoke City,52.6,26.3,21.1
+2010,19,Aston Villa,Spurs,15.0,40.0,45.0
+2010,19,Arsenal,Chelsea,31.6,47.4,21.1
+2010,19,Blackpool,Liverpool,0.0,15.8,84.2
+2010,19,Everton,Birmingham,84.6,15.4,0.0
+2010,20,West Brom,Blackburn,46.7,13.3,40.0
+2010,20,Spurs,Newcastle,86.7,6.7,6.7
+2010,20,Sunderland,Blackpool,60.0,33.3,6.7
+2010,20,Stoke City,Fulham,33.3,20.0,46.7
+2010,20,Man City,Aston Villa,80.0,13.3,6.7
+2010,20,West Ham,Everton,31.3,25.0,43.8
+2010,20,Birmingham,Man Utd,0.0,0.0,100.0
+2010,20,Wigan,Arsenal,0.0,0.0,100.0
+2010,20,Chelsea,Bolton,100.0,0.0,0.0
+2010,20,Liverpool,Wolves,100.0,0.0,0.0
+2010,21,West Brom,Man Utd,0.0,5.9,94.1
+2010,21,West Ham,Wolves,70.6,17.6,11.8
+2010,21,Spurs,Fulham,94.1,0.0,5.9
+2010,21,Sunderland,Blackburn,52.9,35.3,11.8
+2010,21,Stoke City,Everton,23.5,29.4,47.1
+2010,21,Man City,Blackpool,100.0,0.0,0.0
+2010,21,Liverpool,Bolton,94.1,5.9,0.0
+2010,21,Birmingham,Arsenal,0.0,17.6,82.4
+2010,21,Chelsea,Aston Villa,100.0,0.0,0.0
+2010,21,Wigan,Newcastle,29.4,29.4,41.2
+2010,22,Fulham,West Brom,62.5,25.0,12.5
+2010,22,Man Utd,Stoke City,100.0,0.0,0.0
+2010,22,Blackpool,Birmingham,43.8,43.8,12.5
+2010,22,Arsenal,Man City,56.3,25.0,18.8
+2010,22,Newcastle,West Ham,62.5,25.0,12.5
+2010,22,Aston Villa,Sunderland,93.8,6.3,0.0
+2010,22,Wolves,Chelsea,0.0,0.0,100.0
+2010,22,Everton,Spurs,12.5,43.8,43.8
+2010,22,Blackburn,Liverpool,0.0,18.8,81.3
+2010,22,Bolton,Wigan,75.0,12.5,12.5
+2010,23,Wigan,Fulham,25.0,41.7,33.3
+2010,23,West Brom,Blackpool,50.0,25.0,25.0
+2010,23,Stoke City,Bolton,58.3,20.8,20.8
+2010,23,Man City,Wolves,100.0,0.0,0.0
+2010,23,Chelsea,Blackburn,100.0,0.0,0.0
+2010,23,West Ham,Arsenal,0.0,4.2,95.8
+2010,23,Birmingham,Aston Villa,33.3,29.2,37.5
+2010,23,Sunderland,Newcastle,33.3,16.7,50.0
+2010,23,Liverpool,Everton,66.7,20.8,12.5
+2010,23,Spurs,Man Utd,16.7,29.2,54.2
+2010,24,Wolves,Liverpool,8.0,24.0,68.0
+2010,24,Arsenal,Wigan,100.0,0.0,0.0
+2010,24,Newcastle,Spurs,12.0,32.0,56.0
+2010,24,Man Utd,Birmingham,100.0,0.0,0.0
+2010,24,Fulham,Stoke City,52.0,28.0,20.0
+2010,24,Everton,West Ham,76.0,16.0,8.0
+2010,24,Blackpool,Sunderland,32.0,40.0,28.0
+2010,24,Aston Villa,Man City,8.0,16.0,76.0
+2010,24,Blackburn,West Brom,60.0,28.0,12.0
+2010,24,Bolton,Chelsea,0.0,0.0,100.0
+2010,25,Arsenal,Everton,100.0,0.0,0.0
+2010,25,Sunderland,Chelsea,0.0,0.0,100.0
+2010,25,Man Utd,Aston Villa,96.2,0.0,3.8
+2010,25,West Brom,Wigan,53.8,26.9,19.2
+2010,25,Birmingham,Man City,3.7,18.5,77.8
+2010,25,Liverpool,Stoke City,84.6,11.5,3.8
+2010,25,Fulham,Newcastle,38.5,38.5,23.1
+2010,25,Blackburn,Spurs,3.8,19.2,76.9
+2010,25,Bolton,Wolves,65.4,34.6,0.0
+2010,25,Blackpool,West Ham,30.8,26.9,42.3
+2010,26,Stoke City,Sunderland,42.3,26.9,30.8
+2010,26,Aston Villa,Fulham,84.6,7.7,7.7
+2010,26,Wigan,Blackburn,38.5,42.3,19.2
+2010,26,Spurs,Bolton,100.0,0.0,0.0
+2010,26,Newcastle,Arsenal,3.8,19.2,76.9
+2010,26,Man City,West Brom,100.0,0.0,0.0
+2010,26,Everton,Blackpool,73.1,11.5,15.4
+2010,26,Wolves,Man Utd,0.0,0.0,100.0
+2010,26,West Ham,Birmingham,73.1,15.4,11.5
+2010,26,Chelsea,Liverpool,80.8,11.5,7.7
+2010,27,Man Utd,Man City,60.0,32.0,8.0
+2010,27,Arsenal,Wolves,100.0,0.0,0.0
+2010,27,West Brom,West Ham,28.0,16.0,56.0
+2010,27,Liverpool,Wigan,100.0,0.0,0.0
+2010,27,Blackpool,Aston Villa,12.0,32.0,56.0
+2010,27,Blackburn,Newcastle,24.0,24.0,52.0
+2010,27,Birmingham,Stoke City,60.0,28.0,12.0
+2010,27,Sunderland,Spurs,3.8,19.2,76.9
+2010,27,Bolton,Everton,48.0,16.0,36.0
+2010,27,Fulham,Chelsea,0.0,3.8,96.2
+2010,28,Aston Villa,Blackburn,82.8,6.9,10.3
+2010,28,Wolves,Blackpool,27.6,37.9,34.5
+2010,28,Wigan,Man Utd,0.0,3.4,96.6
+2010,28,Newcastle,Bolton,79.3,17.2,3.4
+2010,28,Everton,Sunderland,58.6,34.5,6.9
+2010,28,West Ham,Liverpool,3.4,17.2,79.3
+2010,28,Man City,Fulham,100.0,0.0,0.0
+2010,28,Stoke City,West Brom,62.1,24.1,13.8
+2010,28,Spurs,Arsenal,31.3,12.5,56.3
+2010,28,Chelsea,Birmingham,100.0,0.0,0.0
+2010,29,Birmingham,West Brom,80.8,11.5,7.7
+2010,29,Arsenal,Sunderland,100.0,0.0,0.0
+2010,29,West Ham,Stoke City,70.4,18.5,11.1
+2010,29,Newcastle,Everton,33.3,40.7,25.9
+2010,29,Fulham,Blackburn,55.6,29.6,14.8
+2010,29,Bolton,Aston Villa,33.3,18.5,48.1
+2010,29,Man City,Wigan,96.3,3.7,0.0
+2010,29,Liverpool,Man Utd,7.1,25.0,67.9
+2010,29,Wolves,Spurs,0.0,11.1,88.9
+2010,29,Blackpool,Chelsea,3.8,7.7,88.5
+2010,30,Spurs,West Ham,88.5,11.5,0.0
+2010,30,Aston Villa,Wolves,81.5,11.1,7.4
+2010,30,Wigan,Birmingham,37.0,37.0,25.9
+2010,30,West Brom,Arsenal,0.0,0.0,100.0
+2010,30,Stoke City,Newcastle,37.0,33.3,29.6
+2010,30,Man Utd,Bolton,96.3,3.7,0.0
+2010,30,Blackburn,Blackpool,66.7,25.9,7.4
+2010,30,Everton,Fulham,71.4,10.7,17.9
+2010,30,Sunderland,Liverpool,14.8,18.5,66.7
+2010,30,Chelsea,Man City,77.8,18.5,3.7
+2010,31,West Ham,Man Utd,4.0,8.0,88.0
+2010,31,Wigan,Spurs,7.7,15.4,76.9
+2010,31,West Brom,Liverpool,0.0,15.4,84.6
+2010,31,Stoke City,Chelsea,0.0,7.7,92.3
+2010,31,Newcastle,Wolves,84.6,11.5,3.8
+2010,31,Everton,Aston Villa,50.0,46.2,3.8
+2010,31,Birmingham,Bolton,57.7,30.8,11.5
+2010,31,Arsenal,Blackburn,96.2,0.0,3.8
+2010,31,Fulham,Blackpool,88.5,7.7,3.8
+2010,31,Man City,Sunderland,96.2,0.0,3.8
+2010,32,Wolves,Everton,16.0,24.0,60.0
+2010,32,Spurs,Stoke City,95.8,4.2,0.0
+2010,32,Sunderland,West Brom,62.5,20.8,16.7
+2010,32,Man Utd,Fulham,100.0,0.0,0.0
+2010,32,Chelsea,Wigan,95.8,4.2,0.0
+2010,32,Bolton,West Ham,29.2,25.0,45.8
+2010,32,Blackburn,Birmingham,62.5,33.3,4.2
+2010,32,Blackpool,Arsenal,4.0,4.0,92.0
+2010,32,Aston Villa,Newcastle,68.0,20.0,12.0
+2010,32,Liverpool,Man City,44.0,24.0,32.0
+2010,33,Blackpool,Wigan,48.4,19.4,32.3
+2010,33,West Ham,Aston Villa,44.0,28.0,28.0
+2010,33,West Brom,Chelsea,0.0,8.0,92.0
+2010,33,Everton,Blackburn,80.0,8.0,12.0
+2010,33,Birmingham,Sunderland,56.0,24.0,20.0
+2010,33,Arsenal,Liverpool,72.0,16.0,12.0
+2010,33,Newcastle,Man Utd,4.0,8.0,88.0
+2010,33,Stoke City,Wolves,84.0,12.0,4.0
+2010,33,Fulham,Bolton,69.2,23.1,7.7
+2010,33,Man City,Spurs,63.0,29.6,7.4
+2010,34,Man Utd,Everton,100.0,0.0,0.0
+2010,34,Aston Villa,Stoke City,73.9,17.4,8.7
+2010,34,Wolves,Fulham,39.1,17.4,43.5
+2010,34,Spurs,West Brom,100.0,0.0,0.0
+2010,34,Sunderland,Wigan,60.9,21.7,17.4
+2010,34,Liverpool,Birmingham,91.3,8.7,0.0
+2010,34,Blackpool,Newcastle,17.4,17.4,65.2
+2010,34,Chelsea,West Ham,95.7,4.3,0.0
+2010,34,Bolton,Arsenal,0.0,13.0,87.0
+2010,34,Blackburn,Man City,4.5,22.7,72.7
+2010,35,Wigan,Everton,24.0,24.0,52.0
+2010,35,West Brom,Aston Villa,24.0,32.0,44.0
+2010,35,Sunderland,Fulham,44.0,16.0,40.0
+2010,35,Blackpool,Stoke City,48.0,12.0,40.0
+2010,35,Blackburn,Bolton,64.0,16.0,20.0
+2010,35,Chelsea,Spurs,96.0,4.0,0.0
+2010,35,Liverpool,Newcastle,92.0,8.0,0.0
+2010,35,Birmingham,Wolves,68.0,16.0,16.0
+2010,35,Arsenal,Man Utd,20.0,20.0,60.0
+2010,35,Man City,West Ham,96.0,4.0,0.0
+2010,36,Aston Villa,Wigan,88.0,12.0,0.0
+2010,36,West Ham,Blackburn,64.0,28.0,8.0
+2010,36,Newcastle,Birmingham,64.0,20.0,16.0
+2010,36,Everton,Man City,28.0,24.0,48.0
+2010,36,Bolton,Sunderland,76.0,20.0,4.0
+2010,36,Spurs,Blackpool,100.0,0.0,0.0
+2010,36,Wolves,West Brom,60.0,28.0,12.0
+2010,36,Stoke City,Arsenal,0.0,16.0,84.0
+2010,36,Man Utd,Chelsea,72.0,20.0,8.0
+2010,36,Fulham,Liverpool,8.0,12.0,80.0
+2010,37,West Brom,Everton,26.1,26.1,47.8
+2010,37,Sunderland,Wolves,73.9,17.4,8.7
+2010,37,Blackpool,Bolton,43.5,26.1,30.4
+2010,37,Blackburn,Man Utd,0.0,4.3,95.7
+2010,37,Chelsea,Newcastle,100.0,0.0,0.0
+2010,37,Arsenal,Aston Villa,96.2,3.8,0.0
+2010,37,Wigan,West Ham,19.2,30.8,50.0
+2010,37,Liverpool,Spurs,69.2,11.5,19.2
+2010,37,Birmingham,Fulham,42.3,26.9,30.8
+2010,37,Man City,Stoke City,-1.0,-1.0,-1.0
+2010,38,Aston Villa,Liverpool,16.7,11.1,72.2
+2010,38,Wolves,Blackburn,50.0,33.3,16.7
+2010,38,West Ham,Sunderland,66.7,16.7,16.7
+2010,38,Spurs,Birmingham,83.3,11.1,5.6
+2010,38,Stoke City,Wigan,66.7,22.2,11.1
+2010,38,Newcastle,West Brom,77.8,11.1,11.1
+2010,38,Man Utd,Blackpool,83.3,16.7,0.0
+2010,38,Fulham,Arsenal,5.6,27.8,66.7
+2010,38,Everton,Chelsea,5.6,27.8,66.7
+2010,38,Bolton,Man City,0.0,11.1,88.9
+2011,1,Blackburn,Wolves,76.0,15.3,8.7
+2011,1,Wigan,Norwich,71.3,20.0,8.7
+2011,1,QPR,Bolton,22.0,24.0,54.0
+2011,1,Liverpool,Sunderland,90.7,6.7,2.7
+2011,1,Fulham,Aston Villa,33.3,38.7,28.0
+2011,1,Newcastle,Arsenal,6.0,10.7,83.3
+2011,1,Stoke City,Chelsea,0.6,3.8,95.6
+2011,1,West Brom,Man Utd,0.0,1.2,98.8
+2011,1,Man City,Swansea,98.8,1.2,0.0
+2011,1,Spurs,Everton,79.6,18.8,1.6
+2011,2,Sunderland,Newcastle,41.4,29.0,29.7
+2011,2,Arsenal,Liverpool,43.5,36.1,20.4
+2011,2,Swansea,Wigan,20.1,31.5,48.3
+2011,2,Everton,QPR,91.3,5.4,3.4
+2011,2,Aston Villa,Blackburn,80.5,12.1,7.4
+2011,2,Chelsea,West Brom,97.4,2.0,0.7
+2011,2,Norwich,Stoke City,14.9,31.2,53.9
+2011,2,Wolves,Fulham,26.6,31.2,42.2
+2011,2,Bolton,Man City,4.5,5.2,90.3
+2011,2,Man Utd,Spurs,81.6,16.0,2.5
+2011,3,Aston Villa,Wolves,78.4,14.2,7.5
+2011,3,Wigan,QPR,55.6,31.6,12.8
+2011,3,Swansea,Sunderland,19.0,22.6,58.4
+2011,3,Chelsea,Norwich,99.3,0.0,0.7
+2011,3,Blackburn,Everton,22.6,34.3,43.1
+2011,3,Liverpool,Bolton,94.3,4.3,1.4
+2011,3,Newcastle,Fulham,59.5,28.4,12.2
+2011,3,Spurs,Man City,10.1,35.6,54.4
+2011,3,West Brom,Stoke City,26.4,37.8,35.8
+2011,3,Man Utd,Arsenal,89.3,7.4,3.4
+2011,4,Arsenal,Swansea,96.4,3.0,0.6
+2011,4,Wolves,Spurs,11.4,24.7,63.9
+2011,4,Sunderland,Chelsea,3.0,8.4,88.6
+2011,4,Stoke City,Liverpool,6.0,16.9,77.1
+2011,4,Man City,Wigan,99.4,0.6,0.0
+2011,4,Everton,Aston Villa,44.6,39.8,15.7
+2011,4,Bolton,Man Utd,1.8,2.4,95.8
+2011,4,Norwich,West Brom,39.6,40.8,19.5
+2011,4,Fulham,Blackburn,64.5,30.2,5.3
+2011,4,QPR,Newcastle,16.0,30.3,53.7
+2011,5,Blackburn,Arsenal,4.1,8.8,87.1
+2011,5,Wolves,QPR,61.8,27.0,11.2
+2011,5,Swansea,West Brom,33.6,34.9,31.6
+2011,5,Everton,Wigan,84.9,10.5,4.6
+2011,5,Bolton,Norwich,78.3,18.4,3.3
+2011,5,Aston Villa,Newcastle,62.5,26.3,11.2
+2011,5,Spurs,Liverpool,28.0,28.0,43.9
+2011,5,Sunderland,Stoke City,38.9,32.5,28.7
+2011,5,Fulham,Man City,0.6,3.2,96.2
+2011,5,Man Utd,Chelsea,80.3,14.0,5.7
+2011,6,Man City,Everton,97.9,2.1,0.0
+2011,6,Wigan,Spurs,2.0,8.8,89.2
+2011,6,West Brom,Fulham,17.6,42.6,39.9
+2011,6,Newcastle,Blackburn,58.8,28.4,12.8
+2011,6,Liverpool,Wolves,93.9,4.1,2.0
+2011,6,Chelsea,Swansea,99.3,0.7,0.0
+2011,6,Arsenal,Bolton,83.8,11.5,4.7
+2011,6,Stoke City,Man Utd,2.0,6.0,92.1
+2011,6,QPR,Aston Villa,27.3,32.5,40.3
+2011,6,Norwich,Sunderland,28.0,30.4,41.6
+2011,7,Everton,Liverpool,12.4,30.3,57.2
+2011,7,Aston Villa,Wigan,87.0,11.0,2.1
+2011,7,Wolves,Newcastle,21.2,30.8,47.9
+2011,7,Sunderland,West Brom,67.1,26.0,6.8
+2011,7,Man Utd,Norwich,100.0,0.0,0.0
+2011,7,Blackburn,Man City,2.7,6.8,90.4
+2011,7,Bolton,Chelsea,0.7,2.0,97.4
+2011,7,Swansea,Stoke City,14.9,34.4,50.6
+2011,7,Fulham,QPR,68.8,22.1,9.1
+2011,7,Spurs,Arsenal,47.4,29.9,22.7
+2011,8,Liverpool,Man Utd,15.5,25.0,59.5
+2011,8,Wigan,Bolton,43.3,25.3,31.3
+2011,8,Stoke City,Fulham,50.7,20.0,29.3
+2011,8,QPR,Blackburn,44.3,20.1,35.6
+2011,8,Norwich,Swansea,48.7,32.0,19.3
+2011,8,Man City,Aston Villa,96.0,3.3,0.7
+2011,8,Chelsea,Everton,95.4,3.3,1.3
+2011,8,West Brom,Wolves,37.1,41.1,21.9
+2011,8,Arsenal,Sunderland,84.9,13.2,2.0
+2011,8,Newcastle,Spurs,17.6,24.8,57.5
+2011,9,Wolves,Swansea,66.9,23.5,9.6
+2011,9,Newcastle,Wigan,89.3,7.9,2.9
+2011,9,Bolton,Sunderland,53.6,19.3,27.1
+2011,9,Aston Villa,West Brom,84.3,11.4,4.3
+2011,9,Liverpool,Norwich,99.3,0.0,0.7
+2011,9,Arsenal,Stoke City,85.6,11.6,2.7
+2011,9,Man Utd,Man City,63.7,26.0,10.3
+2011,9,Fulham,Everton,28.1,42.5,29.5
+2011,9,Blackburn,Spurs,6.1,10.1,83.8
+2011,9,QPR,Chelsea,1.4,3.4,95.3
+2011,10,Everton,Man Utd,3.7,5.9,90.4
+2011,10,Chelsea,Arsenal,83.3,11.6,5.1
+2011,10,Wigan,Fulham,23.4,27.0,49.6
+2011,10,Swansea,Bolton,45.4,30.5,24.1
+2011,10,Sunderland,Aston Villa,43.3,24.1,32.6
+2011,10,Norwich,Blackburn,47.5,27.7,24.8
+2011,10,Man City,Wolves,99.3,0.0,0.7
+2011,10,West Brom,Liverpool,2.1,5.5,92.4
+2011,10,Spurs,QPR,96.6,2.1,1.4
+2011,10,Stoke City,Newcastle,34.0,33.3,32.7
+2011,11,Newcastle,Everton,71.9,15.1,13.0
+2011,11,Arsenal,West Brom,99.3,0.0,0.7
+2011,11,Man Utd,Sunderland,97.9,0.7,1.4
+2011,11,Liverpool,Swansea,98.6,1.4,0.0
+2011,11,Blackburn,Chelsea,0.7,6.8,92.5
+2011,11,Aston Villa,Norwich,78.1,18.5,3.4
+2011,11,QPR,Man City,0.7,4.1,95.2
+2011,11,Wolves,Wigan,47.4,38.8,13.8
+2011,11,Bolton,Stoke City,33.8,33.1,33.1
+2011,11,Fulham,Spurs,12.3,16.9,70.8
+2011,12,Norwich,Arsenal,1.5,3.8,94.7
+2011,12,Wigan,Blackburn,26.9,40.3,32.8
+2011,12,West Brom,Bolton,39.6,23.9,36.6
+2011,12,Sunderland,Fulham,50.7,26.1,23.1
+2011,12,Stoke City,QPR,72.4,16.4,11.2
+2011,12,Man City,Newcastle,96.3,3.0,0.7
+2011,12,Everton,Wolves,89.6,6.0,4.5
+2011,12,Swansea,Man Utd,0.7,3.0,96.3
+2011,12,Chelsea,Liverpool,68.4,22.1,9.6
+2011,12,Spurs,Aston Villa,95.0,4.3,0.7
+2011,13,Stoke City,Blackburn,69.6,17.8,12.6
+2011,13,West Brom,Spurs,2.2,6.6,91.2
+2011,13,Sunderland,Wigan,69.3,22.6,8.0
+2011,13,Norwich,QPR,41.6,29.2,29.2
+2011,13,Man Utd,Newcastle,94.9,4.4,0.7
+2011,13,Chelsea,Wolves,97.1,2.2,0.7
+2011,13,Bolton,Everton,15.4,31.6,52.9
+2011,13,Arsenal,Fulham,97.8,1.4,0.7
+2011,13,Swansea,Aston Villa,22.1,30.0,47.9
+2011,13,Liverpool,Man City,19.3,32.9,47.9
+2011,14,Newcastle,Chelsea,24.8,22.4,52.8
+2011,14,Wigan,Arsenal,2.3,3.1,94.6
+2011,14,Spurs,Bolton,96.9,3.1,0.0
+2011,14,QPR,West Brom,58.1,29.5,12.4
+2011,14,Man City,Norwich,100.0,0.0,0.0
+2011,14,Blackburn,Swansea,41.1,39.5,19.4
+2011,14,Aston Villa,Man Utd,3.8,13.7,82.4
+2011,14,Everton,Stoke City,74.1,17.0,8.9
+2011,14,Wolves,Sunderland,35.0,35.0,29.9
+2011,14,Fulham,Liverpool,4.2,14.8,81.0
+2011,15,Arsenal,Everton,97.1,2.2,0.7
+2011,15,West Brom,Wigan,47.5,40.3,12.2
+2011,15,Swansea,Fulham,21.6,38.8,39.6
+2011,15,Norwich,Newcastle,9.4,17.3,73.4
+2011,15,Man Utd,Wolves,99.3,0.7,0.0
+2011,15,Liverpool,QPR,100.0,0.0,0.0
+2011,15,Bolton,Aston Villa,20.1,22.3,57.6
+2011,15,Sunderland,Blackburn,57.9,24.1,17.9
+2011,15,Stoke City,Spurs,9.6,13.0,77.4
+2011,15,Chelsea,Man City,25.2,29.9,44.9
+2011,16,Wolves,Stoke City,18.1,28.5,53.5
+2011,16,Newcastle,Swansea,91.7,4.9,3.5
+2011,16,Fulham,Bolton,75.0,17.4,7.6
+2011,16,Everton,Norwich,80.6,13.9,5.6
+2011,16,Blackburn,West Brom,59.0,30.6,10.4
+2011,16,Wigan,Chelsea,1.4,0.0,98.6
+2011,16,QPR,Man Utd,2.0,2.0,95.9
+2011,16,Aston Villa,Liverpool,8.1,32.4,59.5
+2011,16,Spurs,Sunderland,95.3,3.4,1.4
+2011,16,Man City,Arsenal,79.3,17.3,3.3
+2011,17,Wolves,Norwich,45.6,33.0,21.4
+2011,17,Blackburn,Bolton,54.4,27.2,18.4
+2011,17,Newcastle,West Brom,86.2,12.9,0.9
+2011,17,Man City,Stoke City,100.0,0.0,0.0
+2011,17,Aston Villa,Arsenal,1.7,12.1,86.2
+2011,17,QPR,Sunderland,40.2,39.3,20.5
+2011,17,Fulham,Man Utd,0.9,2.6,96.6
+2011,17,Everton,Swansea,84.6,9.4,6.0
+2011,17,Wigan,Liverpool,0.9,10.3,88.9
+2011,17,Spurs,Chelsea,32.8,28.7,38.5
+2011,18,Chelsea,Fulham,99.1,0.9,0.0
+2011,18,West Brom,Man City,1.8,0.9,97.3
+2011,18,Sunderland,Everton,21.6,45.9,32.4
+2011,18,Man Utd,Wigan,100.0,0.0,0.0
+2011,18,Liverpool,Blackburn,97.3,2.7,0.0
+2011,18,Bolton,Newcastle,10.8,28.8,60.4
+2011,18,Stoke City,Aston Villa,50.0,38.6,11.4
+2011,18,Arsenal,Wolves,100.0,0.0,0.0
+2011,18,Swansea,QPR,39.0,42.4,18.6
+2011,18,Norwich,Spurs,1.7,11.0,87.3
+2011,19,Liverpool,Newcastle,80.4,13.7,5.9
+2011,19,Man Utd,Blackburn,99.0,1.0,0.0
+2011,19,Arsenal,QPR,96.2,0.0,3.8
+2011,19,Swansea,Spurs,3.8,11.4,84.8
+2011,19,Stoke City,Wigan,73.3,16.2,10.5
+2011,19,Norwich,Fulham,26.7,40.0,33.3
+2011,19,Chelsea,Aston Villa,98.1,1.0,1.0
+2011,19,Bolton,Wolves,44.8,39.0,16.2
+2011,19,West Brom,Everton,18.3,31.2,50.5
+2011,19,Sunderland,Man City,0.9,3.7,95.4
+2011,20,Blackburn,Stoke City,27.4,32.6,40.0
+2011,20,Wolves,Chelsea,3.2,10.5,86.3
+2011,20,QPR,Norwich,44.2,42.1,13.7
+2011,20,Aston Villa,Swansea,87.4,8.4,4.2
+2011,20,Fulham,Arsenal,3.0,24.0,73.0
+2011,20,Wigan,Sunderland,27.9,39.4,32.7
+2011,20,Spurs,West Brom,96.2,2.9,1.0
+2011,20,Man City,Liverpool,69.2,23.1,7.7
+2011,20,Newcastle,Man Utd,3.7,13.1,83.2
+2011,20,Everton,Bolton,85.0,10.3,4.7
+2011,21,West Brom,Norwich,28.2,46.2,25.6
+2011,21,Spurs,Wolves,98.3,1.7,0.0
+2011,21,Man Utd,Bolton,99.1,0.0,0.9
+2011,21,Liverpool,Stoke City,89.7,8.5,1.7
+2011,21,Chelsea,Sunderland,94.0,5.1,0.9
+2011,21,Blackburn,Fulham,25.6,29.9,44.4
+2011,21,Aston Villa,Everton,54.7,30.8,14.5
+2011,21,Newcastle,QPR,85.8,9.2,5.0
+2011,21,Swansea,Arsenal,3.3,4.2,92.5
+2011,21,Wigan,Man City,0.8,1.6,97.6
+2011,22,Norwich,Chelsea,2.3,4.6,93.1
+2011,22,Sunderland,Swansea,65.9,18.2,15.9
+2011,22,Stoke City,West Brom,78.8,16.7,4.5
+2011,22,QPR,Wigan,53.0,30.3,16.7
+2011,22,Fulham,Newcastle,30.3,27.3,42.4
+2011,22,Everton,Blackburn,77.3,18.9,3.8
+2011,22,Wolves,Aston Villa,18.9,33.3,47.7
+2011,22,Bolton,Liverpool,2.2,5.1,92.6
+2011,22,Man City,Spurs,69.5,22.0,8.5
+2011,22,Arsenal,Man Utd,14.9,25.5,59.6
+2011,23,Wolves,Liverpool,3.7,8.9,87.4
+2011,23,Spurs,Wigan,97.8,2.2,0.0
+2011,23,Swansea,Chelsea,3.7,6.7,89.6
+2011,23,Everton,Man City,4.4,9.6,85.9
+2011,23,Man Utd,Stoke City,97.8,1.5,0.7
+2011,23,Aston Villa,QPR,69.3,22.9,7.9
+2011,23,Bolton,Arsenal,7.9,7.9,84.3
+2011,23,Blackburn,Newcastle,17.9,35.7,46.4
+2011,23,Fulham,West Brom,79.9,15.8,4.3
+2011,23,Sunderland,Norwich,55.7,31.4,12.9
+2011,24,Arsenal,Blackburn,98.5,1.5,0.0
+2011,24,Wigan,Everton,10.4,21.5,68.1
+2011,24,West Brom,Swansea,45.9,33.3,20.7
+2011,24,Stoke City,Sunderland,53.3,29.6,17.0
+2011,24,QPR,Wolves,71.9,17.0,11.1
+2011,24,Norwich,Bolton,45.2,28.1,26.7
+2011,24,Man City,Fulham,100.0,0.0,0.0
+2011,24,Newcastle,Aston Villa,76.1,15.9,8.0
+2011,24,Chelsea,Man Utd,19.6,35.5,44.9
+2011,24,Liverpool,Spurs,54.9,26.4,18.8
+2011,25,Man Utd,Liverpool,86.9,8.8,4.4
+2011,25,Swansea,Norwich,56.8,31.7,11.5
+2011,25,Sunderland,Arsenal,3.6,13.7,82.7
+2011,25,Fulham,Stoke City,56.1,30.2,13.7
+2011,25,Everton,Chelsea,3.6,19.4,77.0
+2011,25,Bolton,Wigan,66.2,28.8,5.0
+2011,25,Blackburn,QPR,39.6,22.3,38.1
+2011,25,Spurs,Newcastle,70.7,22.1,7.1
+2011,25,Wolves,West Brom,44.0,36.9,19.1
+2011,25,Aston Villa,Man City,2.8,4.9,92.3
+2011,26,Wigan,Aston Villa,11.4,29.5,59.1
+2011,26,West Brom,Sunderland,26.2,33.6,40.3
+2011,26,QPR,Fulham,34.9,33.6,31.5
+2011,26,Newcastle,Wolves,93.3,4.7,2.0
+2011,26,Chelsea,Bolton,93.3,3.4,3.4
+2011,26,Man City,Blackburn,100.0,0.0,0.0
+2011,26,Arsenal,Spurs,35.7,29.9,34.4
+2011,26,Norwich,Man Utd,1.9,4.5,93.5
+2011,26,Stoke City,Swansea,64.3,28.6,7.1
+2011,26,Liverpool,Everton,84.7,11.7,3.7
+2011,27,Liverpool,Arsenal,41.5,31.7,26.8
+2011,27,Blackburn,Aston Villa,25.7,24.3,50.0
+2011,27,Wigan,Swansea,39.6,31.9,28.5
+2011,27,West Brom,Chelsea,2.8,4.2,93.1
+2011,27,Stoke City,Norwich,68.8,23.6,7.6
+2011,27,QPR,Everton,30.6,18.1,51.4
+2011,27,Man City,Bolton,99.3,0.0,0.7
+2011,27,Newcastle,Sunderland,85.5,10.3,4.1
+2011,27,Fulham,Wolves,78.1,18.5,3.4
+2011,27,Spurs,Man Utd,16.4,26.0,57.5
+2011,28,Bolton,QPR,53.1,29.4,17.5
+2011,28,Wolves,Blackburn,40.0,32.4,27.6
+2011,28,Sunderland,Liverpool,10.3,17.2,72.4
+2011,28,Chelsea,Stoke City,94.5,2.8,2.8
+2011,28,Aston Villa,Fulham,45.5,31.0,23.4
+2011,28,Everton,Spurs,12.2,17.0,70.7
+2011,28,Swansea,Man City,2.7,2.7,94.6
+2011,28,Man Utd,West Brom,100.0,0.0,0.0
+2011,28,Norwich,Wigan,63.1,28.2,8.7
+2011,28,Arsenal,Newcastle,85.5,11.8,2.6
+2011,29,Wigan,West Brom,39.3,30.3,30.3
+2011,29,Fulham,Swansea,75.9,15.2,9.0
+2011,29,Wolves,Man Utd,2.0,2.0,95.9
+2011,29,Newcastle,Norwich,89.2,7.4,3.4
+2011,29,Blackburn,Sunderland,36.8,25.8,37.4
+2011,29,Spurs,Stoke City,93.6,2.5,3.8
+2011,29,Man City,Chelsea,61.8,24.8,13.4
+2011,29,QPR,Liverpool,8.3,13.4,78.3
+2011,29,Everton,Arsenal,5.7,15.3,79.0
+2011,29,Aston Villa,Bolton,86.8,9.2,3.9
+2011,30,Chelsea,Spurs,78.6,11.4,10.0
+2011,30,Arsenal,Aston Villa,95.7,2.8,1.4
+2011,30,Swansea,Everton,39.7,27.7,32.6
+2011,30,Sunderland,QPR,56.7,29.8,13.5
+2011,30,Norwich,Wolves,58.2,29.1,12.8
+2011,30,Liverpool,Wigan,95.7,3.5,0.7
+2011,30,Bolton,Blackburn,45.4,34.0,20.6
+2011,30,Stoke City,Man City,4.9,4.2,91.0
+2011,30,West Brom,Newcastle,6.2,25.3,68.5
+2011,30,Man Utd,Fulham,97.3,2.7,0.0
+2011,31,Aston Villa,Chelsea,4.3,14.4,81.3
+2011,31,Wolves,Bolton,27.3,39.6,33.1
+2011,31,Wigan,Stoke City,20.9,36.7,42.4
+2011,31,QPR,Arsenal,3.6,2.2,94.2
+2011,31,Man City,Sunderland,97.8,1.4,0.7
+2011,31,Fulham,Norwich,78.4,14.4,7.2
+2011,31,Everton,West Brom,85.6,11.5,2.9
+2011,31,Newcastle,Liverpool,47.2,26.4,26.4
+2011,31,Spurs,Swansea,93.8,3.5,2.8
+2011,31,Blackburn,Man Utd,0.7,2.0,97.3
+2011,32,Swansea,Newcastle,17.9,14.2,67.9
+2011,32,Sunderland,Spurs,7.9,20.5,71.5
+2011,32,West Brom,Blackburn,44.9,31.4,23.7
+2011,32,Norwich,Everton,21.8,32.1,46.2
+2011,32,Liverpool,Aston Villa,86.5,11.5,1.9
+2011,32,Chelsea,Wigan,98.7,0.6,0.6
+2011,32,Bolton,Fulham,24.4,37.2,38.5
+2011,32,Stoke City,Wolves,77.7,15.9,6.4
+2011,32,Man Utd,QPR,98.8,0.0,1.2
+2011,32,Arsenal,Man City,32.9,34.8,32.3
+2011,33,Spurs,Norwich,96.4,3.6,0.0
+2011,33,Newcastle,Bolton,92.8,2.7,4.5
+2011,33,Everton,Sunderland,68.5,20.7,10.8
+2011,33,Aston Villa,Stoke City,50.9,35.1,14.0
+2011,33,Fulham,Chelsea,4.2,15.1,80.7
+2011,33,Blackburn,Liverpool,12.0,12.0,76.0
+2011,33,Wolves,Arsenal,1.3,3.8,94.9
+2011,33,Wigan,Man Utd,1.3,3.2,95.5
+2011,33,Man City,West Brom,97.5,1.3,1.3
+2011,33,QPR,Swansea,45.2,38.2,16.6
+2011,34,Norwich,Man City,2.0,6.6,91.4
+2011,34,West Brom,QPR,40.8,35.5,23.7
+2011,34,Swansea,Blackburn,66.4,21.1,12.5
+2011,34,Sunderland,Wolves,77.6,16.4,5.9
+2011,34,Man Utd,Aston Villa,96.8,1.9,1.3
+2011,34,Arsenal,Wigan,98.1,1.3,0.6
+2011,34,Stoke City,Everton,33.7,33.7,32.5
+2011,34,Liverpool,Fulham,79.3,14.8,5.9
+2011,34,Chelsea,Newcastle,69.8,17.8,12.4
+2011,34,Bolton,Spurs,4.7,11.2,84.1
+2011,35,Arsenal,Chelsea,49.0,27.9,23.1
+2011,35,Newcastle,Stoke City,85.3,10.0,4.7
+2011,35,Fulham,Wigan,77.5,13.2,9.3
+2011,35,Bolton,Swansea,44.0,23.3,32.7
+2011,35,Blackburn,Norwich,51.3,24.7,24.0
+2011,35,Aston Villa,Sunderland,51.3,31.3,17.3
+2011,35,QPR,Spurs,7.3,9.9,82.8
+2011,35,Man Utd,Everton,96.7,2.0,1.3
+2011,35,Wolves,Man City,1.3,1.3,97.4
+2011,35,Liverpool,West Brom,92.9,5.8,1.3
+2011,36,Wigan,Newcastle,7.9,13.2,78.9
+2011,36,West Brom,Aston Villa,30.5,26.5,43.0
+2011,36,Swansea,Wolves,79.5,15.9,4.6
+2011,36,Sunderland,Bolton,70.2,19.9,9.9
+2011,36,Stoke City,Arsenal,4.6,9.9,85.4
+2011,36,Everton,Fulham,65.6,22.5,11.9
+2011,36,Norwich,Liverpool,13.2,21.9,64.9
+2011,36,Chelsea,QPR,93.5,5.2,1.3
+2011,36,Spurs,Blackburn,90.3,7.1,2.6
+2011,36,Man City,Man Utd,40.8,32.5,26.8
+2011,37,Arsenal,Norwich,99.3,0.0,0.7
+2011,37,Newcastle,Man City,16.4,23.0,60.5
+2011,37,Wolves,Everton,13.1,11.8,75.2
+2011,37,QPR,Stoke City,43.8,32.0,24.2
+2011,37,Fulham,Sunderland,70.6,22.9,6.5
+2011,37,Bolton,West Brom,51.6,32.7,15.7
+2011,37,Aston Villa,Spurs,11.1,22.9,66.0
+2011,37,Man Utd,Swansea,98.0,0.7,1.3
+2011,37,Blackburn,Wigan,51.3,26.3,22.4
+2011,37,Liverpool,Chelsea,23.3,30.2,46.5
+2011,38,Chelsea,Blackburn,98.5,0.8,0.8
+2011,38,Wigan,Wolves,61.1,29.0,9.9
+2011,38,West Brom,Arsenal,3.1,4.6,92.4
+2011,38,Spurs,Fulham,90.8,7.6,1.5
+2011,38,Swansea,Liverpool,16.0,16.0,67.9
+2011,38,Sunderland,Man Utd,2.3,5.3,92.4
+2011,38,Stoke City,Bolton,66.4,19.8,13.7
+2011,38,Norwich,Aston Villa,30.5,35.9,33.6
+2011,38,Man City,QPR,93.1,6.1,0.8
+2011,38,Everton,Newcastle,19.8,23.7,56.5
+2012,1,QPR,Swansea,52.8,23.2,24.0
+2012,1,West Brom,Liverpool,4.7,9.8,85.4
+2012,1,Fulham,Norwich,79.1,15.4,5.5
+2012,1,Arsenal,Sunderland,94.5,4.3,1.2
+2012,1,Reading,Stoke City,18.9,29.5,51.6
+2012,1,West Ham,Aston Villa,22.4,39.8,37.8
+2012,1,Newcastle,Spurs,23.1,36.2,40.8
+2012,1,Wigan,Chelsea,1.8,1.8,96.4
+2012,1,Man City,Southampton,98.5,0.7,0.7
+2012,1,Everton,Man Utd,1.8,8.5,89.8
+2012,2,Swansea,West Ham,60.2,18.2,21.6
+2012,2,Norwich,QPR,28.9,35.6,35.6
+2012,2,Spurs,West Brom,90.7,6.3,3.0
+2012,2,Man Utd,Fulham,94.4,4.1,1.5
+2012,2,Southampton,Wigan,46.3,26.3,27.4
+2012,2,Aston Villa,Everton,24.8,37.4,37.8
+2012,2,Chelsea,Newcastle,79.6,14.2,6.2
+2012,2,Stoke City,Arsenal,4.6,13.9,81.5
+2012,2,Liverpool,Man City,11.0,23.3,65.7
+2012,2,Sunderland,Reading,71.5,23.0,5.6
+2012,3,Chelsea,Reading,97.5,2.0,0.5
+2012,3,West Ham,Fulham,24.8,26.3,48.9
+2012,3,Wigan,Stoke City,22.2,42.8,35.0
+2012,3,West Brom,Everton,10.8,24.6,64.7
+2012,3,Swansea,Sunderland,56.0,27.2,16.8
+2012,3,Spurs,Norwich,96.4,2.7,0.9
+2012,3,Man City,QPR,98.5,1.2,0.3
+2012,3,Liverpool,Arsenal,27.9,42.2,29.9
+2012,3,Newcastle,Aston Villa,78.4,12.8,8.7
+2012,3,Southampton,Man Utd,0.9,0.9,98.3
+2012,4,Norwich,West Ham,18.9,25.6,55.6
+2012,4,Aston Villa,Swansea,36.4,32.1,31.5
+2012,4,Arsenal,Southampton,94.4,5.0,0.7
+2012,4,Fulham,West Brom,73.8,22.9,3.3
+2012,4,Man Utd,Wigan,97.0,3.0,0.0
+2012,4,QPR,Chelsea,4.6,8.6,86.8
+2012,4,Stoke City,Man City,2.0,7.3,90.8
+2012,4,Sunderland,Liverpool,9.9,26.4,63.7
+2012,4,Reading,Spurs,5.8,8.8,85.4
+2012,4,Everton,Newcastle,33.8,38.6,27.6
+2012,5,Swansea,Everton,34.4,28.0,37.6
+2012,5,Chelsea,Stoke City,95.5,3.5,1.0
+2012,5,Southampton,Aston Villa,16.4,20.3,63.3
+2012,5,Wigan,Fulham,11.5,23.1,65.4
+2012,5,West Ham,Sunderland,57.7,29.7,12.6
+2012,5,West Brom,Reading,66.8,26.2,7.0
+2012,5,Liverpool,Man Utd,13.5,18.9,67.6
+2012,5,Newcastle,Norwich,95.3,3.4,1.4
+2012,5,Man City,Arsenal,49.8,31.5,18.6
+2012,5,Spurs,QPR,87.1,10.5,2.4
+2012,6,Arsenal,Chelsea,42.8,31.2,26.0
+2012,6,Norwich,Liverpool,7.3,12.7,80.0
+2012,6,Fulham,Man City,3.3,10.9,85.8
+2012,6,Stoke City,Swansea,56.0,25.8,18.2
+2012,6,Reading,Newcastle,4.4,10.9,84.7
+2012,6,Sunderland,Wigan,64.7,27.3,8.0
+2012,6,Everton,Southampton,93.5,4.7,1.8
+2012,6,Man Utd,Spurs,88.8,10.1,1.1
+2012,6,Aston Villa,West Brom,66.5,23.2,10.2
+2012,6,QPR,West Ham,36.8,38.1,25.1
+2012,7,Man City,Sunderland,99.6,0.4,0.0
+2012,7,Wigan,Everton,6.2,16.3,77.4
+2012,7,West Brom,QPR,46.3,27.6,26.1
+2012,7,Chelsea,Norwich,99.6,0.4,0.0
+2012,7,Swansea,Reading,81.3,15.2,3.5
+2012,7,West Ham,Arsenal,2.7,8.8,88.5
+2012,7,Southampton,Fulham,14.1,30.8,55.1
+2012,7,Spurs,Aston Villa,95.8,3.8,0.4
+2012,7,Liverpool,Stoke City,86.3,11.4,2.3
+2012,7,Newcastle,Man Utd,5.3,17.0,77.7
+2012,8,Spurs,Chelsea,14.8,26.5,58.8
+2012,8,West Ham,Southampton,77.3,16.7,6.1
+2012,8,Fulham,Aston Villa,61.4,27.7,11.0
+2012,8,Man Utd,Stoke City,98.9,1.1,0.0
+2012,8,Liverpool,Reading,96.6,3.4,0.0
+2012,8,West Brom,Man City,1.9,5.7,92.4
+2012,8,Swansea,Wigan,70.5,23.1,6.4
+2012,8,Norwich,Arsenal,0.8,2.6,96.6
+2012,8,Sunderland,Newcastle,11.6,30.3,58.1
+2012,8,QPR,Everton,14.3,15.8,69.9
+2012,9,Aston Villa,Norwich,81.0,14.2,4.9
+2012,9,Arsenal,QPR,95.7,2.7,1.6
+2012,9,Wigan,West Ham,18.3,42.4,39.3
+2012,9,Reading,Fulham,6.6,14.8,78.6
+2012,9,Stoke City,Sunderland,59.9,28.0,12.1
+2012,9,Man City,Swansea,96.9,1.9,1.2
+2012,9,Everton,Liverpool,33.6,30.2,36.2
+2012,9,Southampton,Spurs,5.3,8.7,86.0
+2012,9,Newcastle,West Brom,84.5,11.7,3.8
+2012,9,Chelsea,Man Utd,41.1,31.3,27.5
+2012,10,Man Utd,Arsenal,86.5,9.5,4.0
+2012,10,Spurs,Wigan,94.5,4.7,0.8
+2012,10,Swansea,Chelsea,2.4,3.9,93.7
+2012,10,Sunderland,Aston Villa,49.6,24.0,26.4
+2012,10,Norwich,Stoke City,33.9,33.1,33.1
+2012,10,Fulham,Everton,24.8,41.3,33.9
+2012,10,West Ham,Man City,2.7,10.6,86.7
+2012,10,QPR,Reading,61.4,30.1,8.5
+2012,10,Liverpool,Newcastle,66.2,23.8,10.0
+2012,10,West Brom,Southampton,64.8,24.2,11.0
+2012,11,Wigan,West Brom,30.6,45.7,23.7
+2012,11,Arsenal,Fulham,91.4,5.6,3.0
+2012,11,Stoke City,QPR,71.1,18.1,10.8
+2012,11,Southampton,Swansea,18.6,22.1,59.3
+2012,11,Reading,Norwich,33.2,47.8,19.0
+2012,11,Everton,Sunderland,93.5,4.3,2.2
+2012,11,Aston Villa,Man Utd,1.7,3.0,95.3
+2012,11,Man City,Spurs,70.3,22.9,6.8
+2012,11,Newcastle,West Ham,79.3,12.7,8.0
+2012,11,Chelsea,Liverpool,84.5,10.5,5.0
+2012,12,Arsenal,Spurs,69.2,19.4,11.4
+2012,12,West Brom,Chelsea,0.8,11.9,87.3
+2012,12,Reading,Everton,4.5,13.1,82.4
+2012,12,Liverpool,Wigan,91.0,7.0,2.0
+2012,12,QPR,Southampton,57.4,31.6,11.1
+2012,12,Man City,Aston Villa,95.9,2.4,1.6
+2012,12,Newcastle,Swansea,84.0,11.9,4.1
+2012,12,Norwich,Man Utd,0.0,1.2,98.8
+2012,12,Fulham,Sunderland,83.1,15.3,1.6
+2012,12,West Ham,Stoke City,50.2,37.4,12.5
+2012,13,Sunderland,West Brom,32.7,32.3,35.0
+2012,13,Everton,Norwich,93.0,5.2,1.7
+2012,13,Stoke City,Fulham,25.2,37.0,37.8
+2012,13,Wigan,Reading,58.3,36.1,5.7
+2012,13,Man Utd,QPR,99.6,0.4,0.0
+2012,13,Aston Villa,Arsenal,2.6,9.6,87.8
+2012,13,Swansea,Liverpool,12.8,19.1,68.1
+2012,13,Southampton,Newcastle,10.6,18.7,70.6
+2012,13,Spurs,West Ham,89.8,6.4,3.8
+2012,13,Chelsea,Man City,36.6,36.2,27.2
+2012,14,Sunderland,QPR,70.0,21.6,8.4
+2012,14,Aston Villa,Reading,86.5,10.5,3.1
+2012,14,Chelsea,Fulham,94.0,3.0,3.0
+2012,14,Everton,Arsenal,16.7,24.1,59.2
+2012,14,Spurs,Liverpool,62.3,22.7,15.0
+2012,14,Swansea,West Brom,30.0,30.0,40.1
+2012,14,Stoke City,Newcastle,30.8,34.4,34.8
+2012,14,Southampton,Norwich,38.5,38.5,23.1
+2012,14,Wigan,Man City,1.6,2.8,95.5
+2012,14,Man Utd,West Ham,96.4,3.2,0.4
+2012,15,West Ham,Chelsea,4.8,14.3,81.0
+2012,15,Arsenal,Swansea,96.7,2.3,0.9
+2012,15,West Brom,Stoke City,69.5,19.2,11.3
+2012,15,QPR,Aston Villa,30.0,33.8,36.2
+2012,15,Man City,Everton,89.2,10.3,0.5
+2012,15,Liverpool,Southampton,93.4,5.6,0.9
+2012,15,Fulham,Spurs,12.2,28.2,59.6
+2012,15,Reading,Man Utd,1.4,3.3,95.3
+2012,15,Norwich,Sunderland,36.6,44.0,19.4
+2012,15,Newcastle,Wigan,80.4,15.6,4.0
+2012,16,Arsenal,West Brom,82.2,11.7,6.1
+2012,16,Wigan,QPR,53.9,29.6,16.5
+2012,16,Swansea,Norwich,77.4,17.4,5.2
+2012,16,Sunderland,Chelsea,1.3,7.4,91.3
+2012,16,Southampton,Reading,51.3,36.1,12.6
+2012,16,Aston Villa,Stoke City,53.0,29.6,17.4
+2012,16,Man City,Man Utd,17.1,41.5,41.5
+2012,16,Everton,Spurs,30.2,32.3,37.4
+2012,16,West Ham,Liverpool,25.5,22.6,51.9
+2012,16,Fulham,Newcastle,51.5,25.1,23.4
+2012,17,Newcastle,Man City,3.6,14.0,82.4
+2012,17,Stoke City,Everton,20.7,34.4,44.9
+2012,17,QPR,Fulham,21.1,23.3,55.5
+2012,17,Norwich,Wigan,63.0,26.0,11.0
+2012,17,Man Utd,Sunderland,97.4,2.6,0.0
+2012,17,Liverpool,Aston Villa,85.9,11.5,2.6
+2012,17,Spurs,Swansea,86.5,9.1,4.3
+2012,17,West Brom,West Ham,56.7,25.5,17.7
+2012,17,Reading,Arsenal,2.6,5.1,92.3
+2012,17,Chelsea,Southampton,98.6,1.4,0.0
+2012,18,Wigan,Arsenal,2.1,3.7,94.1
+2012,18,West Ham,Everton,19.7,40.9,39.4
+2012,18,West Brom,Norwich,71.7,19.2,9.1
+2012,18,Spurs,Stoke City,90.9,7.1,2.0
+2012,18,Southampton,Sunderland,23.7,53.5,22.7
+2012,18,Newcastle,QPR,82.3,14.1,3.5
+2012,18,Man City,Reading,99.5,0.0,0.5
+2012,18,Liverpool,Fulham,82.6,12.9,4.5
+2012,18,Swansea,Man Utd,1.5,5.9,92.6
+2012,18,Chelsea,Aston Villa,91.7,6.3,2.0
+2012,19,Sunderland,Man City,2.2,9.3,88.5
+2012,19,Reading,Swansea,14.8,31.1,54.1
+2012,19,QPR,West Brom,26.2,32.8,41.0
+2012,19,Norwich,Chelsea,2.7,12.0,85.2
+2012,19,Man Utd,Newcastle,96.2,3.8,0.0
+2012,19,Fulham,Southampton,84.2,13.7,2.2
+2012,19,Everton,Wigan,92.9,5.5,1.6
+2012,19,Aston Villa,Spurs,10.8,25.3,64.0
+2012,19,Stoke City,Liverpool,19.9,35.5,44.6
+2012,19,Arsenal,West Ham,92.7,5.5,1.8
+2012,20,Sunderland,Spurs,6.9,17.2,75.9
+2012,20,Stoke City,Southampton,81.1,12.4,6.5
+2012,20,Reading,West Ham,13.5,36.8,49.7
+2012,20,Norwich,Man City,2.2,10.8,87.0
+2012,20,Man Utd,West Brom,95.1,2.7,2.2
+2012,20,Fulham,Swansea,56.8,29.7,13.5
+2012,20,Aston Villa,Wigan,72.4,16.2,11.4
+2012,20,Arsenal,Newcastle,88.8,9.1,2.1
+2012,20,Everton,Chelsea,15.7,28.8,55.5
+2012,20,QPR,Liverpool,6.8,19.8,73.4
+2012,21,West Brom,Fulham,61.4,25.7,12.9
+2012,21,Wigan,Man Utd,1.1,3.4,95.4
+2012,21,West Ham,Norwich,63.8,31.6,4.6
+2012,21,Spurs,Reading,98.3,1.7,0.0
+2012,21,Swansea,Aston Villa,69.0,19.5,11.5
+2012,21,Man City,Stoke City,98.3,1.7,0.0
+2012,21,Southampton,Arsenal,2.3,11.3,86.4
+2012,21,Chelsea,QPR,98.4,0.5,1.0
+2012,21,Liverpool,Sunderland,86.9,11.0,2.1
+2012,21,Newcastle,Everton,30.9,46.6,22.5
+2012,22,QPR,Spurs,5.4,12.4,82.2
+2012,22,Sunderland,West Ham,37.2,40.3,22.5
+2012,22,Stoke City,Chelsea,1.0,19.4,79.6
+2012,22,Reading,West Brom,17.8,27.2,55.0
+2012,22,Norwich,Newcastle,27.7,27.2,45.0
+2012,22,Fulham,Wigan,78.5,16.2,5.2
+2012,22,Everton,Swansea,78.6,14.6,6.8
+2012,22,Aston Villa,Southampton,70.7,20.9,8.4
+2012,22,Man Utd,Liverpool,90.4,5.1,4.6
+2012,22,Arsenal,Man City,30.8,34.8,34.3
+2012,23,Wigan,Sunderland,24.1,41.5,34.4
+2012,23,West Ham,QPR,65.1,20.8,14.2
+2012,23,Swansea,Stoke City,63.2,27.8,9.0
+2012,23,Newcastle,Reading,88.2,7.5,4.2
+2012,23,Man City,Fulham,99.1,0.5,0.5
+2012,23,Liverpool,Norwich,96.2,2.8,0.9
+2012,23,West Brom,Aston Villa,67.0,17.2,15.8
+2012,23,Chelsea,Arsenal,72.9,17.2,10.0
+2012,23,Spurs,Man Utd,10.0,20.4,69.7
+2012,23,Southampton,Everton,10.9,20.8,68.3
+2012,24,Aston Villa,Newcastle,26.2,38.2,35.6
+2012,24,QPR,Man City,2.7,7.1,90.3
+2012,24,Sunderland,Swansea,22.2,41.8,36.0
+2012,24,Stoke City,Wigan,83.1,13.8,3.1
+2012,24,Arsenal,Liverpool,66.7,24.7,8.7
+2012,24,Everton,West Brom,84.3,11.7,3.9
+2012,24,Norwich,Spurs,2.6,6.1,91.3
+2012,24,Man Utd,Southampton,100.0,0.0,0.0
+2012,24,Fulham,West Ham,54.1,35.5,10.4
+2012,24,Reading,Chelsea,1.7,2.6,95.7
+2012,25,QPR,Norwich,64.5,24.4,11.1
+2012,25,Arsenal,Stoke City,96.8,3.2,0.0
+2012,25,Wigan,Southampton,39.9,36.2,23.9
+2012,25,West Ham,Swansea,38.1,33.9,28.0
+2012,25,Reading,Sunderland,25.7,45.4,28.9
+2012,25,Newcastle,Chelsea,3.2,15.6,81.2
+2012,25,Everton,Aston Villa,82.1,13.8,4.1
+2012,25,Fulham,Man Utd,2.3,4.5,93.2
+2012,25,West Brom,Spurs,5.8,20.0,74.2
+2012,25,Man City,Liverpool,76.0,17.8,6.2
+2012,26,Spurs,Newcastle,86.5,10.3,3.1
+2012,26,Swansea,QPR,66.5,22.9,10.6
+2012,26,Sunderland,Arsenal,2.2,8.8,89.0
+2012,26,Stoke City,Reading,81.1,13.7,5.3
+2012,26,Norwich,Fulham,18.9,45.4,35.7
+2012,26,Chelsea,Wigan,99.6,0.4,0.0
+2012,26,Southampton,Man City,1.7,4.8,93.5
+2012,26,Aston Villa,West Ham,44.2,35.1,20.8
+2012,26,Man Utd,Everton,93.1,6.1,0.9
+2012,26,Liverpool,West Brom,91.4,6.9,1.7
+2012,27,Liverpool,Swansea,74.9,15.6,9.6
+2012,27,Fulham,Stoke City,65.7,27.3,7.0
+2012,27,Reading,Wigan,41.1,39.8,19.1
+2012,27,Norwich,Everton,8.6,20.1,71.3
+2012,27,Arsenal,Aston Villa,92.2,6.5,1.2
+2012,27,QPR,Man Utd,2.0,2.4,95.5
+2012,27,West Brom,Sunderland,71.1,15.4,13.4
+2012,27,Newcastle,Southampton,81.9,12.4,5.6
+2012,27,Man City,Chelsea,43.6,40.8,15.6
+2012,27,West Ham,Spurs,8.2,10.9,80.9
+2012,28,Southampton,QPR,48.9,27.9,23.1
+2012,28,Sunderland,Fulham,25.4,42.5,32.0
+2012,28,Man Utd,Norwich,98.7,0.9,0.4
+2012,28,Stoke City,West Ham,60.7,27.5,11.8
+2012,28,Swansea,Newcastle,41.2,30.7,28.1
+2012,28,Everton,Reading,92.6,5.2,2.2
+2012,28,Chelsea,West Brom,95.6,3.9,0.4
+2012,28,Wigan,Liverpool,2.2,7.4,90.5
+2012,28,Spurs,Arsenal,58.3,26.0,15.7
+2012,28,Aston Villa,Man City,2.5,4.6,92.9
+2012,29,Reading,Aston Villa,22.1,29.6,48.2
+2012,29,West Brom,Swansea,31.0,33.2,35.8
+2012,29,QPR,Sunderland,44.2,35.4,20.4
+2012,29,Norwich,Southampton,57.1,29.2,13.7
+2012,29,Newcastle,Stoke City,79.7,15.2,5.2
+2012,29,Liverpool,Spurs,32.5,34.6,32.9
+2012,29,Arsenal,Everton,80.6,13.8,5.5
+2012,29,West Ham,Man Utd,2.0,4.0,94.0
+2012,29,Man City,Wigan,97.2,2.0,0.8
+2012,29,Fulham,Chelsea,3.1,12.9,84.0
+2012,30,Everton,Man City,6.6,22.1,71.2
+2012,30,Aston Villa,QPR,62.4,20.1,17.5
+2012,30,Stoke City,West Brom,53.4,33.8,12.8
+2012,30,Southampton,Liverpool,4.3,5.1,90.6
+2012,30,Swansea,Arsenal,12.4,22.6,65.0
+2012,30,Man Utd,Reading,99.6,0.0,0.4
+2012,30,Sunderland,Norwich,59.4,32.6,7.9
+2012,30,Spurs,Fulham,94.1,3.8,2.1
+2012,30,Wigan,Newcastle,12.1,24.7,63.2
+2012,30,Chelsea,West Ham,96.3,2.9,0.8
+2012,31,Sunderland,Man Utd,1.3,0.9,97.8
+2012,31,Man City,Newcastle,92.4,6.4,1.3
+2012,31,West Ham,West Brom,56.2,26.4,17.4
+2012,31,Wigan,Norwich,39.1,49.8,11.1
+2012,31,Arsenal,Reading,98.3,0.4,1.3
+2012,31,Southampton,Chelsea,1.3,6.8,91.9
+2012,31,Swansea,Spurs,8.5,20.8,70.8
+2012,31,Everton,Stoke City,86.9,9.7,3.4
+2012,31,Aston Villa,Liverpool,7.6,15.2,77.2
+2012,31,Fulham,QPR,73.1,19.7,7.1
+2012,32,Reading,Southampton,23.9,29.1,46.9
+2012,32,Stoke City,Aston Villa,66.7,17.4,16.0
+2012,32,Norwich,Swansea,22.8,36.5,40.6
+2012,32,West Brom,Arsenal,5.5,12.3,82.2
+2012,32,Liverpool,West Ham,94.7,4.0,1.3
+2012,32,Spurs,Everton,78.0,14.5,7.5
+2012,32,Newcastle,Fulham,56.4,31.7,11.9
+2012,32,Chelsea,Sunderland,98.2,0.9,0.9
+2012,32,QPR,Wigan,55.1,26.4,18.5
+2012,32,Man Utd,Man City,73.6,14.7,11.7
+2012,33,Arsenal,Norwich,96.0,2.2,1.8
+2012,33,Southampton,West Ham,46.7,38.2,15.1
+2012,33,Reading,Liverpool,1.8,6.2,92.0
+2012,33,Everton,QPR,87.2,8.8,4.0
+2012,33,Aston Villa,Fulham,39.8,42.0,18.1
+2012,33,Newcastle,Sunderland,82.9,11.1,6.0
+2012,33,Stoke City,Man Utd,1.3,3.8,94.9
+2012,33,Wigan,Swansea,23.4,24.2,52.4
+2012,33,Man City,West Brom,96.9,1.2,1.9
+2012,33,Chelsea,Spurs,68.0,24.2,7.8
+2012,34,Fulham,Arsenal,5.2,12.8,82.0
+2012,34,West Ham,Wigan,72.4,18.6,9.0
+2012,34,Norwich,Reading,70.5,20.0,9.5
+2012,34,Swansea,Southampton,74.8,17.6,7.6
+2012,34,West Brom,Newcastle,33.8,23.8,42.4
+2012,34,QPR,Stoke City,39.5,34.8,25.7
+2012,34,Sunderland,Everton,14.3,24.3,61.4
+2012,34,Spurs,Man City,17.5,30.0,52.5
+2012,34,Liverpool,Chelsea,26.5,25.6,48.0
+2012,34,Man Utd,Aston Villa,96.5,2.7,0.9
+2012,35,Man City,West Ham,98.1,0.9,0.9
+2012,35,Southampton,West Brom,35.8,44.7,19.5
+2012,35,Stoke City,Norwich,61.9,32.1,6.0
+2012,35,Wigan,Spurs,4.7,7.0,88.4
+2012,35,Everton,Fulham,80.1,14.4,5.6
+2012,35,Newcastle,Liverpool,19.4,26.9,53.7
+2012,35,Reading,QPR,43.1,29.6,27.3
+2012,35,Chelsea,Swansea,93.1,4.6,2.3
+2012,35,Arsenal,Man Utd,21.4,20.5,58.2
+2012,35,Aston Villa,Sunderland,51.8,32.4,15.8
+2012,36,Norwich,Aston Villa,23.6,39.5,36.8
+2012,36,Spurs,Southampton,96.4,3.2,0.5
+2012,36,West Ham,Newcastle,47.7,33.6,18.6
+2012,36,Swansea,Man City,3.2,10.9,85.9
+2012,36,West Brom,Wigan,71.8,18.6,9.5
+2012,36,Fulham,Reading,95.5,3.2,1.4
+2012,36,QPR,Arsenal,3.2,2.3,94.5
+2012,36,Liverpool,Everton,73.4,21.6,5.0
+2012,36,Man Utd,Chelsea,73.4,19.8,6.8
+2012,36,Sunderland,Stoke City,35.4,39.3,25.3
+2012,37,Aston Villa,Chelsea,3.2,11.1,85.7
+2012,37,Stoke City,Spurs,4.8,16.6,78.6
+2012,37,Everton,West Ham,81.9,12.8,5.3
+2012,37,Fulham,Liverpool,9.2,18.0,72.8
+2012,37,QPR,Newcastle,9.2,18.0,72.8
+2012,37,Norwich,West Brom,32.6,39.2,28.2
+2012,37,Sunderland,Southampton,61.4,28.9,9.6
+2012,37,Man Utd,Swansea,94.8,2.6,2.6
+2012,37,Arsenal,Wigan,95.8,2.5,1.7
+2012,37,Reading,Man City,1.7,0.4,97.9
+2012,38,West Brom,Man Utd,2.3,4.5,93.2
+2012,38,Wigan,Aston Villa,17.7,35.5,46.8
+2012,38,West Ham,Reading,78.2,14.5,7.3
+2012,38,Chelsea,Everton,82.8,13.1,4.1
+2012,38,Liverpool,QPR,95.9,1.8,2.3
+2012,38,Southampton,Stoke City,31.4,44.1,24.5
+2012,38,Swansea,Fulham,56.4,32.3,11.4
+2012,38,Man City,Norwich,99.1,0.0,0.9
+2012,38,Spurs,Sunderland,95.9,3.6,0.5
+2012,38,Newcastle,Arsenal,9.5,11.8,78.6
+2013,1,Liverpool,Stoke City,95.6,3.6,0.8
+2013,1,West Ham,Cardiff,78.3,15.9,5.8
+2013,1,West Brom,Southampton,56.6,27.9,15.5
+2013,1,Sunderland,Fulham,27.9,49.1,23.1
+2013,1,Norwich,Everton,6.7,21.7,71.6
+2013,1,Arsenal,Aston Villa,94.7,4.5,0.8
+2013,1,Swansea,Man Utd,3.5,7.2,89.3
+2013,1,Crystal Palace,Spurs,1.8,3.7,94.5
+2013,1,Chelsea,Hull City,99.0,0.8,0.3
+2013,1,Man City,Newcastle,91.7,5.5,2.8
+2013,2,Fulham,Arsenal,8.5,18.2,73.3
+2013,2,Southampton,Sunderland,52.5,34.3,13.2
+2013,2,Stoke City,Crystal Palace,75.9,16.8,7.4
+2013,2,Newcastle,West Ham,66.5,20.9,12.6
+2013,2,Hull City,Norwich,27.9,40.0,32.1
+2013,2,Everton,West Brom,91.2,7.1,1.8
+2013,2,Aston Villa,Liverpool,16.4,25.0,58.6
+2013,2,Spurs,Swansea,95.7,3.1,1.1
+2013,2,Cardiff,Man City,0.8,1.1,98.0
+2013,2,Man Utd,Chelsea,47.5,31.0,21.4
+2013,3,Chelsea,Aston Villa,97.0,2.6,0.4
+2013,3,Man City,Hull City,99.4,0.0,0.6
+2013,3,Cardiff,Everton,11.2,22.9,65.9
+2013,3,West Ham,Stoke City,67.8,18.3,13.9
+2013,3,Norwich,Southampton,29.2,46.3,24.5
+2013,3,Newcastle,Fulham,53.0,33.6,13.4
+2013,3,Crystal Palace,Sunderland,19.8,32.1,48.1
+2013,3,Liverpool,Man Utd,9.6,23.7,66.8
+2013,3,West Brom,Swansea,28.6,23.8,47.6
+2013,3,Arsenal,Spurs,38.8,33.5,27.7
+2013,4,Man Utd,Crystal Palace,99.1,0.6,0.3
+2013,4,Stoke City,Man City,3.0,10.7,86.3
+2013,4,Fulham,West Brom,77.9,17.0,5.1
+2013,4,Aston Villa,Newcastle,66.0,20.9,13.1
+2013,4,Hull City,Cardiff,35.8,48.7,15.5
+2013,4,Sunderland,Arsenal,0.9,3.9,95.2
+2013,4,Spurs,Norwich,97.3,2.1,0.6
+2013,4,Everton,Chelsea,4.2,9.5,86.4
+2013,4,Southampton,West Ham,34.1,42.6,23.3
+2013,4,Swansea,Liverpool,10.1,12.6,77.3
+2013,5,Norwich,Aston Villa,17.3,25.9,56.9
+2013,5,West Ham,Everton,15.1,26.9,58.0
+2013,5,West Brom,Sunderland,44.9,39.7,15.4
+2013,5,Newcastle,Hull City,92.0,6.2,1.8
+2013,5,Liverpool,Southampton,96.6,2.8,0.6
+2013,5,Chelsea,Fulham,94.9,3.9,1.2
+2013,5,Arsenal,Stoke City,96.4,2.4,1.2
+2013,5,Crystal Palace,Swansea,10.2,21.6,68.3
+2013,5,Cardiff,Spurs,3.3,5.7,91.1
+2013,5,Man City,Man Utd,29.8,39.3,31.0
+2013,6,Spurs,Chelsea,24.7,40.6,34.7
+2013,6,Hull City,West Ham,31.3,45.7,23.0
+2013,6,Aston Villa,Man City,2.7,9.6,87.6
+2013,6,Man Utd,West Brom,99.0,0.3,0.7
+2013,6,Southampton,Crystal Palace,78.0,15.1,6.9
+2013,6,Fulham,Cardiff,83.8,12.7,3.4
+2013,6,Swansea,Arsenal,3.1,10.2,86.8
+2013,6,Stoke City,Norwich,80.5,13.3,6.1
+2013,6,Sunderland,Liverpool,2.3,10.5,87.2
+2013,6,Everton,Newcastle,77.4,17.2,5.4
+2013,7,Man City,Everton,85.2,12.3,2.5
+2013,7,Fulham,Stoke City,51.4,35.7,12.9
+2013,7,Cardiff,Newcastle,27.6,29.4,43.0
+2013,7,Liverpool,Crystal Palace,98.6,0.0,1.4
+2013,7,Hull City,Aston Villa,19.6,19.6,60.8
+2013,7,Sunderland,Man Utd,1.7,3.8,94.5
+2013,7,Southampton,Swansea,37.7,37.7,24.7
+2013,7,Norwich,Chelsea,1.0,4.5,94.5
+2013,7,West Brom,Arsenal,1.0,2.7,96.2
+2013,7,Spurs,West Ham,96.6,2.0,1.4
+2013,8,Newcastle,Liverpool,7.5,19.8,72.7
+2013,8,Arsenal,Norwich,99.7,0.0,0.3
+2013,8,Everton,Hull City,88.3,10.4,1.3
+2013,8,Chelsea,Cardiff,98.7,1.3,0.0
+2013,8,Man Utd,Southampton,92.6,5.7,1.7
+2013,8,Swansea,Sunderland,76.1,17.8,6.1
+2013,8,Stoke City,West Brom,65.8,22.1,12.1
+2013,8,West Ham,Man City,5.7,12.0,82.3
+2013,8,Aston Villa,Spurs,11.8,20.9,67.3
+2013,8,Crystal Palace,Fulham,23.2,39.9,37.0
+2013,9,Crystal Palace,Arsenal,1.4,2.5,96.0
+2013,9,Norwich,Cardiff,49.0,36.0,15.0
+2013,9,Aston Villa,Everton,15.7,44.4,39.9
+2013,9,Man Utd,Stoke City,95.5,3.1,1.4
+2013,9,Liverpool,West Brom,95.8,3.5,0.7
+2013,9,Southampton,Fulham,63.2,16.3,20.5
+2013,9,Sunderland,Newcastle,15.0,23.8,61.2
+2013,9,Chelsea,Man City,62.6,29.6,7.7
+2013,9,Spurs,Hull City,97.0,1.7,1.4
+2013,9,Swansea,West Ham,74.1,13.8,12.1
+2013,10,Newcastle,Chelsea,2.2,8.7,89.2
+2013,10,Man City,Norwich,99.3,0.0,0.7
+2013,10,Hull City,Sunderland,50.7,25.4,23.9
+2013,10,Fulham,Man Utd,3.3,9.1,87.7
+2013,10,West Ham,Aston Villa,35.1,41.7,23.2
+2013,10,Stoke City,Southampton,36.6,32.6,30.8
+2013,10,West Brom,Crystal Palace,82.2,12.0,5.8
+2013,10,Arsenal,Liverpool,75.0,19.9,5.1
+2013,10,Everton,Spurs,16.8,26.2,57.0
+2013,10,Cardiff,Swansea,15.8,30.1,54.1
+2013,11,Chelsea,West Brom,97.5,2.2,0.4
+2013,11,Southampton,Hull City,83.3,12.0,4.7
+2013,11,Aston Villa,Cardiff,81.5,13.0,5.4
+2013,11,Liverpool,Fulham,96.4,2.9,0.7
+2013,11,Crystal Palace,Everton,9.8,7.2,83.0
+2013,11,Norwich,West Ham,29.8,38.2,32.0
+2013,11,Spurs,Newcastle,88.0,7.8,4.2
+2013,11,Sunderland,Man City,1.8,3.5,94.7
+2013,11,Swansea,Stoke City,67.8,18.0,14.1
+2013,11,Man Utd,Arsenal,25.8,36.0,38.2
+2013,12,Everton,Liverpool,10.8,27.7,61.5
+2013,12,Hull City,Crystal Palace,75.9,17.1,7.0
+2013,12,Arsenal,Southampton,90.9,6.6,2.4
+2013,12,Fulham,Swansea,43.5,32.3,24.2
+2013,12,Stoke City,Sunderland,71.7,18.9,9.4
+2013,12,Newcastle,Norwich,93.0,4.5,2.4
+2013,12,West Ham,Chelsea,2.1,2.8,95.1
+2013,12,Man City,Spurs,78.2,17.0,4.8
+2013,12,Cardiff,Man Utd,2.4,4.1,93.6
+2013,12,West Brom,Aston Villa,28.4,39.8,31.8
+2013,13,Norwich,Crystal Palace,66.3,27.2,6.5
+2013,13,Aston Villa,Sunderland,76.2,17.2,6.5
+2013,13,Cardiff,Arsenal,1.1,3.8,95.0
+2013,13,Everton,Stoke City,90.0,5.7,4.2
+2013,13,West Ham,Fulham,63.6,25.7,10.7
+2013,13,Newcastle,West Brom,85.2,11.8,3.0
+2013,13,Spurs,Man Utd,15.4,22.1,62.5
+2013,13,Hull City,Liverpool,1.1,4.5,94.4
+2013,13,Man City,Swansea,96.3,2.2,1.5
+2013,13,Chelsea,Southampton,88.6,8.9,2.6
+2013,14,Crystal Palace,West Ham,19.1,36.2,44.7
+2013,14,Liverpool,Norwich,98.2,1.4,0.5
+2013,14,Stoke City,Cardiff,76.5,19.4,4.1
+2013,14,Sunderland,Chelsea,2.3,3.7,94.0
+2013,14,Swansea,Newcastle,27.6,41.5,30.9
+2013,14,Man Utd,Everton,83.9,12.4,3.7
+2013,14,Southampton,Aston Villa,74.7,15.2,10.1
+2013,14,Arsenal,Hull City,98.6,0.5,0.9
+2013,14,West Brom,Man City,3.2,5.9,90.9
+2013,14,Fulham,Spurs,5.5,13.2,81.4
+2013,15,Man Utd,Newcastle,89.5,9.0,1.6
+2013,15,Liverpool,West Ham,95.4,2.3,2.3
+2013,15,Crystal Palace,Cardiff,42.9,42.5,14.6
+2013,15,West Brom,Norwich,70.0,22.3,7.7
+2013,15,Southampton,Man City,8.4,16.9,74.7
+2013,15,Stoke City,Chelsea,1.5,4.6,93.9
+2013,15,Sunderland,Spurs,4.5,10.9,84.6
+2013,15,Fulham,Aston Villa,35.4,36.9,27.6
+2013,15,Arsenal,Everton,87.4,10.0,2.6
+2013,15,Swansea,Hull City,81.1,12.6,6.3
+2013,16,Man City,Arsenal,43.9,35.6,20.6
+2013,16,Chelsea,Crystal Palace,98.9,0.8,0.4
+2013,16,West Ham,Sunderland,76.4,13.3,10.3
+2013,16,Everton,Fulham,89.7,6.5,3.8
+2013,16,Newcastle,Southampton,67.7,16.3,16.0
+2013,16,Cardiff,West Brom,42.6,33.1,24.3
+2013,16,Hull City,Stoke City,25.4,48.1,26.5
+2013,16,Aston Villa,Man Utd,5.6,14.8,79.6
+2013,16,Norwich,Swansea,28.1,31.5,40.4
+2013,16,Spurs,Liverpool,31.4,37.3,31.4
+2013,17,Liverpool,Cardiff,98.8,0.0,1.2
+2013,17,West Brom,Hull City,64.7,25.2,10.1
+2013,17,Stoke City,Aston Villa,32.9,52.7,14.3
+2013,17,Man Utd,West Ham,96.1,2.7,1.2
+2013,17,Fulham,Man City,1.6,2.7,95.7
+2013,17,Crystal Palace,Newcastle,9.7,14.7,75.6
+2013,17,Sunderland,Norwich,58.3,25.9,15.8
+2013,17,Southampton,Spurs,27.8,22.4,49.8
+2013,17,Swansea,Everton,16.6,20.8,62.6
+2013,17,Arsenal,Chelsea,48.9,34.8,16.3
+2013,18,Hull City,Man Utd,1.8,5.9,92.3
+2013,18,Newcastle,Stoke City,84.0,11.6,4.4
+2013,18,Everton,Sunderland,90.7,5.8,3.5
+2013,18,Chelsea,Swansea,96.0,2.7,1.3
+2013,18,Cardiff,Southampton,13.3,31.1,55.6
+2013,18,Aston Villa,Crystal Palace,83.1,12.4,4.4
+2013,18,Spurs,West Brom,93.4,3.5,3.1
+2013,18,West Ham,Arsenal,2.7,2.7,94.7
+2013,18,Norwich,Fulham,29.3,41.8,28.9
+2013,18,Man City,Liverpool,62.2,23.5,14.3
+2013,19,West Ham,West Brom,65.1,25.0,9.9
+2013,19,Man City,Crystal Palace,99.1,0.0,0.9
+2013,19,Hull City,Fulham,37.2,39.4,23.4
+2013,19,Norwich,Man Utd,1.8,2.3,95.9
+2013,19,Aston Villa,Swansea,48.2,28.4,23.4
+2013,19,Cardiff,Sunderland,47.1,32.9,20.0
+2013,19,Everton,Southampton,82.3,10.4,7.4
+2013,19,Newcastle,Arsenal,7.8,15.9,76.3
+2013,19,Spurs,Stoke City,92.3,4.7,3.0
+2013,19,Chelsea,Liverpool,58.8,23.2,18.0
+2013,20,Swansea,Man City,4.1,5.1,90.9
+2013,20,Sunderland,Aston Villa,34.2,44.2,21.6
+2013,20,Liverpool,Hull City,97.5,1.5,1.0
+2013,20,Fulham,West Ham,61.8,27.6,10.6
+2013,20,West Brom,Newcastle,16.1,31.2,52.8
+2013,20,Stoke City,Everton,12.1,24.6,63.3
+2013,20,Southampton,Chelsea,6.6,14.6,78.8
+2013,20,Crystal Palace,Norwich,53.3,34.2,12.6
+2013,20,Arsenal,Cardiff,98.0,0.5,1.5
+2013,20,Man Utd,Spurs,78.9,16.7,4.4
+2013,21,Hull City,Chelsea,0.9,3.1,96.0
+2013,21,Fulham,Sunderland,73.6,16.2,10.2
+2013,21,Spurs,Crystal Palace,97.9,0.4,1.7
+2013,21,Cardiff,West Ham,36.6,43.0,20.4
+2013,21,Southampton,West Brom,73.6,21.7,4.7
+2013,21,Everton,Norwich,97.0,1.3,1.7
+2013,21,Man Utd,Swansea,92.4,3.8,3.8
+2013,21,Newcastle,Man City,3.8,15.1,81.1
+2013,21,Stoke City,Liverpool,2.1,10.0,87.9
+2013,21,Aston Villa,Arsenal,1.2,7.1,91.7
+2013,22,Sunderland,Southampton,21.7,29.2,49.1
+2013,22,Crystal Palace,Stoke City,22.6,28.1,49.3
+2013,22,Arsenal,Fulham,98.2,1.4,0.5
+2013,22,Man City,Cardiff,98.6,0.5,0.9
+2013,22,Norwich,Hull City,51.1,30.3,18.6
+2013,22,West Ham,Newcastle,16.7,27.6,55.7
+2013,22,Liverpool,Aston Villa,98.2,1.3,0.4
+2013,22,Swansea,Spurs,10.7,18.0,71.2
+2013,22,Chelsea,Man Utd,68.8,23.9,7.3
+2013,22,West Brom,Everton,6.6,15.8,77.6
+2013,23,Southampton,Arsenal,2.3,10.0,87.6
+2013,23,Man Utd,Cardiff,96.5,2.3,1.2
+2013,23,Swansea,Fulham,73.4,17.4,9.3
+2013,23,Norwich,Newcastle,9.3,19.0,71.7
+2013,23,Liverpool,Everton,77.2,21.2,1.5
+2013,23,Crystal Palace,Hull City,31.9,42.0,26.1
+2013,23,Aston Villa,West Brom,81.3,15.0,3.7
+2013,23,Spurs,Man City,7.1,20.8,72.1
+2013,23,Chelsea,West Ham,98.5,0.7,0.7
+2013,23,Sunderland,Stoke City,51.9,32.1,16.0
+2013,24,Newcastle,Sunderland,86.9,10.4,2.8
+2013,24,West Ham,Swansea,39.4,35.9,24.7
+2013,24,Fulham,Southampton,35.0,31.5,33.5
+2013,24,Cardiff,Norwich,41.4,39.8,18.8
+2013,24,Everton,Aston Villa,85.9,10.9,3.1
+2013,24,Stoke City,Man Utd,2.3,8.6,89.1
+2013,24,Hull City,Spurs,2.3,9.8,87.9
+2013,24,West Brom,Liverpool,1.1,4.5,94.4
+2013,24,Arsenal,Crystal Palace,97.8,1.1,1.1
+2013,24,Man City,Chelsea,65.8,25.6,8.5
+2013,25,Liverpool,Arsenal,29.1,39.8,31.0
+2013,25,Chelsea,Newcastle,97.0,1.9,1.1
+2013,25,Norwich,Man City,1.5,1.1,97.4
+2013,25,Sunderland,Hull City,76.9,16.3,6.8
+2013,25,Crystal Palace,West Brom,37.5,39.4,23.1
+2013,25,Southampton,Stoke City,72.7,12.5,14.8
+2013,25,Aston Villa,West Ham,64.4,26.5,9.1
+2013,25,Swansea,Cardiff,76.0,16.9,7.1
+2013,25,Spurs,Everton,63.5,23.2,13.3
+2013,25,Man Utd,Fulham,93.0,4.8,2.2
+2013,26,West Ham,Norwich,73.3,19.8,6.9
+2013,26,Hull City,Southampton,26.7,27.2,46.0
+2013,26,Cardiff,Aston Villa,16.8,30.7,52.5
+2013,26,West Brom,Chelsea,2.9,6.9,90.2
+2013,26,Arsenal,Man Utd,73.8,17.8,8.4
+2013,26,Newcastle,Spurs,14.7,26.8,58.5
+2013,26,Stoke City,Swansea,51.8,30.8,17.4
+2013,26,Fulham,Liverpool,3.6,6.2,90.2
+2013,26,Man City,Sunderland,97.4,1.9,0.7
+2013,26,Everton,Crystal Palace,93.7,3.7,2.6
+2013,27,Chelsea,Everton,90.3,8.1,1.5
+2013,27,Arsenal,Sunderland,96.2,2.3,1.5
+2013,27,West Brom,Fulham,25.8,32.2,42.0
+2013,27,West Ham,Southampton,33.0,34.8,32.2
+2013,27,Man City,Stoke City,97.0,1.9,1.1
+2013,27,Cardiff,Hull City,33.7,41.3,25.0
+2013,27,Crystal Palace,Man Utd,5.3,6.4,88.3
+2013,27,Liverpool,Swansea,95.9,3.0,1.1
+2013,27,Newcastle,Aston Villa,75.2,17.0,7.8
+2013,27,Norwich,Spurs,2.2,6.7,91.1
+2013,28,Hull City,Newcastle,25.6,27.1,47.3
+2013,28,Fulham,Chelsea,5.4,11.5,83.1
+2013,28,Stoke City,Arsenal,2.3,7.7,90.0
+2013,28,Everton,West Ham,86.9,9.6,3.5
+2013,28,Southampton,Liverpool,5.4,9.6,85.1
+2013,28,Aston Villa,Norwich,80.3,12.9,6.8
+2013,28,Spurs,Cardiff,96.6,1.9,1.5
+2013,28,Swansea,Crystal Palace,81.0,14.1,4.9
+2013,28,Man Utd,Man City,14.0,21.7,64.3
+2013,28,Sunderland,West Brom,56.4,31.8,11.8
+2013,29,West Brom,Man Utd,4.2,12.6,83.1
+2013,29,Norwich,Stoke City,27.9,45.7,26.4
+2013,29,Cardiff,Fulham,15.8,18.5,65.7
+2013,29,Crystal Palace,Southampton,16.6,24.9,58.5
+2013,29,Chelsea,Spurs,88.7,7.5,3.8
+2013,29,Newcastle,Everton,24.6,38.0,37.4
+2013,29,Arsenal,Swansea,95.6,3.4,1.0
+2013,29,West Ham,Hull City,68.7,24.0,7.3
+2013,29,Liverpool,Sunderland,97.3,2.0,0.7
+2013,29,Man City,Aston Villa,93.6,4.5,1.9
+2013,30,Hull City,Man City,2.0,3.3,94.7
+2013,30,Everton,Cardiff,95.5,2.4,2.0
+2013,30,Swansea,West Brom,78.4,17.1,4.5
+2013,30,Sunderland,Crystal Palace,71.8,18.4,9.8
+2013,30,Stoke City,West Ham,58.0,29.8,12.2
+2013,30,Southampton,Norwich,85.7,11.0,3.3
+2013,30,Fulham,Newcastle,51.2,19.1,29.7
+2013,30,Aston Villa,Chelsea,1.2,4.8,94.0
+2013,30,Man Utd,Liverpool,26.1,30.0,43.9
+2013,30,Spurs,Arsenal,13.3,23.1,63.5
+2013,31,Chelsea,Arsenal,67.3,22.3,10.4
+2013,31,Norwich,Sunderland,29.5,45.3,25.2
+2013,31,Newcastle,Crystal Palace,89.0,7.1,3.9
+2013,31,Hull City,West Brom,42.5,44.1,13.4
+2013,31,Man City,Fulham,94.9,3.1,2.0
+2013,31,Everton,Swansea,89.0,7.5,3.5
+2013,31,Cardiff,Liverpool,1.2,1.6,97.3
+2013,31,West Ham,Man Utd,8.2,10.6,81.2
+2013,31,Spurs,Southampton,82.2,12.7,5.0
+2013,31,Aston Villa,Stoke City,70.0,23.1,6.9
+2013,32,Man Utd,Aston Villa,92.5,3.6,4.0
+2013,32,Southampton,Newcastle,43.9,34.5,21.6
+2013,32,Swansea,Norwich,76.1,18.8,5.1
+2013,32,West Brom,Cardiff,71.4,24.3,4.3
+2013,32,Stoke City,Hull City,78.0,16.5,5.5
+2013,32,Crystal Palace,Chelsea,1.2,1.2,97.6
+2013,32,Arsenal,Man City,17.8,13.5,68.7
+2013,32,Fulham,Everton,22.8,11.8,65.4
+2013,32,Liverpool,Spurs,92.0,6.1,1.9
+2013,32,Sunderland,West Ham,45.6,30.8,23.6
+2013,33,Man City,Southampton,96.8,1.6,1.6
+2013,33,Norwich,West Brom,52.0,33.9,14.1
+2013,33,Aston Villa,Fulham,66.5,18.5,14.9
+2013,33,Hull City,Swansea,30.6,42.7,26.6
+2013,33,Newcastle,Man Utd,11.2,16.5,72.3
+2013,33,Cardiff,Crystal Palace,47.6,37.9,14.5
+2013,33,Chelsea,Stoke City,98.4,1.2,0.4
+2013,33,Everton,Arsenal,23.2,23.2,53.5
+2013,33,West Ham,Liverpool,1.6,3.1,95.3
+2013,33,Spurs,Sunderland,94.3,4.6,1.1
+2013,34,Sunderland,Everton,5.1,7.5,87.4
+2013,34,Stoke City,Newcastle,51.4,26.9,21.7
+2013,34,Southampton,Cardiff,86.6,11.5,2.0
+2013,34,West Brom,Spurs,3.6,10.3,86.2
+2013,34,Fulham,Norwich,84.2,9.5,6.3
+2013,34,Crystal Palace,Aston Villa,30.8,37.2,32.0
+2013,34,Liverpool,Man City,52.5,31.3,16.2
+2013,34,Swansea,Chelsea,3.5,6.2,90.4
+2013,34,Arsenal,West Ham,92.9,5.2,1.9
+2013,34,Man Utd,Hull City,98.2,1.1,0.7
+2013,35,Spurs,Fulham,81.8,10.2,8.1
+2013,35,Newcastle,Swansea,72.2,15.4,12.4
+2013,35,West Ham,Crystal Palace,70.1,23.2,6.6
+2013,35,Cardiff,Stoke City,22.8,27.0,50.2
+2013,35,Aston Villa,Southampton,35.3,35.3,29.5
+2013,35,Chelsea,Sunderland,97.1,0.8,2.1
+2013,35,Norwich,Liverpool,0.8,1.6,97.6
+2013,35,Hull City,Arsenal,3.7,6.9,89.4
+2013,35,Everton,Man Utd,30.6,32.7,36.7
+2013,35,Man City,West Brom,98.8,0.8,0.4
+2013,36,Southampton,Everton,8.9,16.0,75.1
+2013,36,Fulham,Hull City,84.9,10.9,4.2
+2013,36,West Brom,West Ham,42.0,42.4,15.5
+2013,36,Stoke City,Spurs,8.4,23.4,68.2
+2013,36,Swansea,Aston Villa,67.8,20.5,11.7
+2013,36,Man Utd,Norwich,96.7,0.8,2.5
+2013,36,Sunderland,Cardiff,72.9,17.4,9.7
+2013,36,Liverpool,Chelsea,71.0,20.6,8.5
+2013,36,Crystal Palace,Man City,3.2,4.8,91.9
+2013,36,Arsenal,Newcastle,94.9,3.5,1.6
+2013,37,West Ham,Spurs,7.8,11.7,80.5
+2013,37,Swansea,Southampton,39.2,32.9,27.8
+2013,37,Stoke City,Fulham,35.0,31.2,33.8
+2013,37,Aston Villa,Hull City,71.7,22.8,5.5
+2013,37,Newcastle,Cardiff,80.6,13.5,5.9
+2013,37,Man Utd,Sunderland,93.7,3.4,2.9
+2013,37,Everton,Man City,11.8,30.4,57.8
+2013,37,Arsenal,West Brom,97.5,1.7,0.8
+2013,37,Chelsea,Norwich,98.8,0.8,0.4
+2013,37,Crystal Palace,Liverpool,2.1,2.1,95.9
+2013,38,Man City,West Ham,89.9,4.6,5.5
+2013,38,Fulham,Crystal Palace,53.4,20.8,25.8
+2013,38,Sunderland,Swansea,54.4,25.7,19.8
+2013,38,West Brom,Stoke City,34.2,46.8,19.0
+2013,38,Norwich,Arsenal,3.0,4.2,92.8
+2013,38,Spurs,Aston Villa,86.5,7.2,6.3
+2013,38,Liverpool,Newcastle,97.9,1.3,0.8
+2013,38,Southampton,Man Utd,14.4,20.8,64.8
+2013,38,Hull City,Everton,7.2,15.2,77.6
+2013,38,Cardiff,Chelsea,4.2,1.7,94.1
+2014,1,Man Utd,Swansea,99.2,0.4,0.4
+2014,1,West Ham,Spurs,5.4,17.4,77.3
+2014,1,West Brom,Sunderland,41.3,42.1,16.5
+2014,1,Stoke City,Aston Villa,58.3,24.4,17.4
+2014,1,QPR,Hull City,58.7,25.2,16.1
+2014,1,Leicester,Everton,3.3,6.2,90.5
+2014,1,Arsenal,Crystal Palace,99.2,0.8,0.0
+2014,1,Liverpool,Southampton,96.0,4.0,0.0
+2014,1,Newcastle,Man City,2.8,8.0,89.2
+2014,1,Burnley,Chelsea,1.2,0.8,98.0
+2014,2,Aston Villa,Newcastle,40.6,30.3,29.2
+2014,2,Swansea,Burnley,94.9,4.0,1.1
+2014,2,Southampton,West Brom,76.9,17.3,5.8
+2014,2,Crystal Palace,West Ham,20.6,37.9,41.5
+2014,2,Chelsea,Leicester,99.6,0.0,0.4
+2014,2,Everton,Arsenal,11.9,28.8,59.4
+2014,2,Spurs,QPR,90.8,7.4,1.8
+2014,2,Hull City,Stoke City,29.6,44.7,25.7
+2014,2,Sunderland,Man Utd,2.8,8.0,89.2
+2014,2,Man City,Liverpool,60.3,24.8,14.9
+2014,3,Burnley,Man Utd,2.5,2.1,95.4
+2014,3,West Ham,Southampton,42.3,35.6,22.2
+2014,3,Swansea,West Brom,82.3,11.7,6.0
+2014,3,QPR,Sunderland,30.1,38.7,31.2
+2014,3,Newcastle,Crystal Palace,86.6,10.9,2.5
+2014,3,Man City,Stoke City,98.2,1.4,0.4
+2014,3,Everton,Chelsea,7.0,22.1,70.9
+2014,3,Spurs,Liverpool,17.7,29.9,52.4
+2014,3,Aston Villa,Hull City,72.8,19.4,7.8
+2014,3,Leicester,Arsenal,1.7,1.4,96.9
+2014,4,Arsenal,Man City,30.2,33.0,36.8
+2014,4,West Brom,Everton,3.1,12.6,84.3
+2014,4,Sunderland,Spurs,4.9,16.5,78.6
+2014,4,Stoke City,Leicester,83.9,13.6,2.4
+2014,4,Southampton,Newcastle,55.1,28.1,16.8
+2014,4,Crystal Palace,Burnley,66.2,27.1,6.7
+2014,4,Chelsea,Swansea,94.4,4.2,1.4
+2014,4,Liverpool,Aston Villa,96.8,2.5,0.7
+2014,4,Man Utd,QPR,92.7,5.5,1.7
+2014,4,Hull City,West Ham,30.1,46.6,23.3
+2014,5,QPR,Stoke City,23.8,32.4,43.9
+2014,5,Swansea,Southampton,54.1,27.2,18.7
+2014,5,Newcastle,Hull City,71.1,18.7,10.2
+2014,5,Burnley,Sunderland,12.6,31.7,55.7
+2014,5,Aston Villa,Arsenal,10.2,17.1,72.8
+2014,5,West Ham,Liverpool,3.2,4.0,92.7
+2014,5,Leicester,Man Utd,2.0,4.0,94.0
+2014,5,Spurs,West Brom,96.4,1.6,2.0
+2014,5,Man City,Chelsea,33.9,39.4,26.7
+2014,5,Everton,Crystal Palace,96.0,2.0,2.0
+2014,6,Liverpool,Everton,80.2,15.7,4.1
+2014,6,Sunderland,Swansea,25.7,34.9,39.4
+2014,6,Southampton,QPR,88.0,6.8,5.2
+2014,6,Man Utd,West Ham,90.0,7.2,2.8
+2014,6,Hull City,Man City,1.6,2.8,95.6
+2014,6,Crystal Palace,Leicester,34.9,45.8,19.3
+2014,6,Chelsea,Aston Villa,96.4,3.2,0.4
+2014,6,Arsenal,Spurs,78.0,17.2,4.8
+2014,6,West Brom,Burnley,71.9,21.3,6.7
+2014,6,Stoke City,Newcastle,55.6,28.2,16.2
+2014,7,Hull City,Crystal Palace,61.9,25.5,12.6
+2014,7,Swansea,Newcastle,75.1,13.1,11.8
+2014,7,Sunderland,Stoke City,33.1,46.9,20.1
+2014,7,Liverpool,West Brom,97.5,2.5,0.0
+2014,7,Leicester,Burnley,78.7,16.3,5.0
+2014,7,Aston Villa,Man City,2.9,6.2,90.9
+2014,7,Man Utd,Everton,76.4,16.9,6.6
+2014,7,Chelsea,Arsenal,71.2,21.0,7.8
+2014,7,Spurs,Southampton,62.0,19.0,19.0
+2014,7,West Ham,QPR,78.5,12.4,9.1
+2014,8,Man City,Spurs,95.3,4.7,0.0
+2014,8,Southampton,Sunderland,89.0,9.7,1.3
+2014,8,Everton,Aston Villa,70.5,17.3,12.2
+2014,8,Crystal Palace,Chelsea,1.3,2.5,96.2
+2014,8,Burnley,West Ham,11.8,21.1,67.1
+2014,8,Arsenal,Hull City,96.6,3.0,0.4
+2014,8,Newcastle,Leicester,62.0,26.2,11.8
+2014,8,QPR,Liverpool,1.3,5.0,93.7
+2014,8,Stoke City,Swansea,19.7,42.7,37.7
+2014,8,West Brom,Man Utd,2.5,6.6,90.9
+2014,9,West Ham,Man City,1.8,11.6,86.6
+2014,9,West Brom,Crystal Palace,75.8,21.6,2.6
+2014,9,Sunderland,Arsenal,2.2,5.7,92.1
+2014,9,Southampton,Stoke City,85.0,10.6,4.4
+2014,9,Liverpool,Hull City,96.9,2.2,0.9
+2014,9,Swansea,Leicester,86.3,11.9,1.8
+2014,9,Burnley,Everton,2.2,10.8,87.1
+2014,9,Spurs,Newcastle,92.7,4.3,3.0
+2014,9,Man Utd,Chelsea,15.0,26.1,59.0
+2014,9,QPR,Aston Villa,19.3,22.7,58.0
+2014,10,Newcastle,Liverpool,6.7,18.7,74.7
+2014,10,Stoke City,West Ham,20.4,31.3,48.3
+2014,10,Leicester,West Brom,39.5,36.0,24.6
+2014,10,Hull City,Southampton,8.7,13.1,78.2
+2014,10,Everton,Swansea,75.5,18.8,5.7
+2014,10,Chelsea,QPR,99.6,0.4,0.0
+2014,10,Arsenal,Burnley,100.0,0.0,0.0
+2014,10,Man City,Man Utd,67.0,24.0,9.0
+2014,10,Aston Villa,Spurs,8.2,27.9,63.9
+2014,10,Crystal Palace,Sunderland,47.9,37.6,14.5
+2014,11,Liverpool,Chelsea,13.8,18.8,67.4
+2014,11,West Ham,Aston Villa,90.9,5.9,3.2
+2014,11,Southampton,Leicester,97.7,0.9,1.4
+2014,11,Man Utd,Crystal Palace,97.7,1.8,0.5
+2014,11,Burnley,Hull City,14.5,38.0,47.5
+2014,11,QPR,Man City,2.7,4.5,92.8
+2014,11,West Brom,Newcastle,31.8,39.0,29.1
+2014,11,Sunderland,Everton,6.3,21.5,72.2
+2014,11,Spurs,Stoke City,89.2,5.8,4.9
+2014,11,Swansea,Arsenal,12.6,20.6,66.8
+2014,12,Chelsea,West Brom,99.1,0.4,0.4
+2014,12,Stoke City,Burnley,97.8,1.3,0.9
+2014,12,Newcastle,QPR,88.4,8.5,3.1
+2014,12,Man City,Swansea,87.2,10.2,2.7
+2014,12,Leicester,Sunderland,23.1,50.2,26.7
+2014,12,Everton,West Ham,57.1,19.0,23.9
+2014,12,Arsenal,Man Utd,39.2,41.0,19.8
+2014,12,Crystal Palace,Liverpool,3.0,6.1,90.9
+2014,12,Hull City,Spurs,8.3,25.3,66.4
+2014,12,Aston Villa,Southampton,8.6,12.5,78.9
+2014,13,West Brom,Arsenal,4.4,9.8,85.9
+2014,13,West Ham,Newcastle,49.0,35.1,15.9
+2014,13,Swansea,Crystal Palace,93.3,4.3,2.4
+2014,13,QPR,Leicester,51.7,37.3,11.0
+2014,13,Man Utd,Hull City,97.6,2.4,0.0
+2014,13,Liverpool,Stoke City,84.2,11.0,4.8
+2014,13,Burnley,Aston Villa,15.9,30.4,53.6
+2014,13,Sunderland,Chelsea,0.5,4.3,95.2
+2014,13,Southampton,Man City,23.6,30.7,45.8
+2014,13,Spurs,Everton,50.0,32.5,17.5
+2014,14,Swansea,QPR,88.8,8.2,2.9
+2014,14,Man Utd,Stoke City,97.6,1.8,0.6
+2014,14,Leicester,Liverpool,1.8,9.4,88.8
+2014,14,Burnley,Newcastle,6.5,19.4,74.1
+2014,14,West Brom,West Ham,15.9,37.1,47.1
+2014,14,Crystal Palace,Aston Villa,45.0,34.3,20.7
+2014,14,Arsenal,Southampton,71.3,18.0,10.7
+2014,14,Sunderland,Man City,0.6,4.0,95.5
+2014,14,Everton,Hull City,94.4,4.0,1.7
+2014,14,Chelsea,Spurs,94.4,5.1,0.6
+2014,15,Newcastle,Chelsea,3.1,5.2,91.7
+2014,15,Spurs,Crystal Palace,95.9,2.5,1.5
+2014,15,Stoke City,Arsenal,4.1,15.2,80.7
+2014,15,QPR,Burnley,72.1,22.3,5.6
+2014,15,Liverpool,Sunderland,94.4,4.1,1.5
+2014,15,Hull City,West Brom,47.2,42.6,10.2
+2014,15,Man City,Everton,93.4,5.1,1.5
+2014,15,West Ham,Swansea,59.0,29.8,11.2
+2014,15,Aston Villa,Leicester,93.2,4.3,2.4
+2014,15,Southampton,Man Utd,22.9,36.7,40.5
+2014,16,West Brom,Aston Villa,18.1,39.0,42.9
+2014,16,Sunderland,West Ham,12.9,18.1,69.0
+2014,16,Leicester,Man City,1.0,1.4,97.6
+2014,16,Crystal Palace,Stoke City,26.7,44.8,28.6
+2014,16,Chelsea,Hull City,99.5,0.5,0.0
+2014,16,Burnley,Southampton,1.4,7.6,91.0
+2014,16,Arsenal,Newcastle,85.8,11.8,2.4
+2014,16,Man Utd,Liverpool,85.1,11.6,3.3
+2014,16,Swansea,Spurs,33.6,35.9,30.4
+2014,16,Everton,QPR,95.9,2.7,1.4
+2014,17,Man City,Crystal Palace,98.5,1.0,0.5
+2014,17,West Ham,Leicester,96.1,3.4,0.5
+2014,17,Spurs,Burnley,99.0,0.5,0.5
+2014,17,Southampton,Everton,57.1,30.5,12.3
+2014,17,QPR,West Brom,39.4,42.9,17.7
+2014,17,Hull City,Swansea,13.4,22.8,63.9
+2014,17,Aston Villa,Man Utd,0.5,7.4,92.1
+2014,17,Newcastle,Sunderland,82.6,14.5,2.9
+2014,17,Liverpool,Arsenal,20.3,40.6,39.1
+2014,17,Stoke City,Chelsea,1.9,3.8,94.3
+2014,18,Chelsea,West Ham,97.1,2.3,0.6
+2014,18,West Brom,Man City,0.6,2.8,96.6
+2014,18,Swansea,Aston Villa,78.2,14.5,7.3
+2014,18,Sunderland,Hull City,73.7,22.9,3.4
+2014,18,Man Utd,Newcastle,93.8,5.6,0.6
+2014,18,Leicester,Spurs,3.4,7.8,88.8
+2014,18,Everton,Stoke City,82.1,14.0,3.9
+2014,18,Crystal Palace,Southampton,3.4,15.6,81.0
+2014,18,Burnley,Liverpool,1.1,10.6,88.3
+2014,18,Arsenal,QPR,97.8,1.6,0.5
+2014,19,Spurs,Man Utd,7.3,28.5,64.2
+2014,19,Southampton,Chelsea,5.4,18.6,76.0
+2014,19,Aston Villa,Sunderland,68.8,24.7,6.5
+2014,19,West Ham,Arsenal,15.3,27.1,57.6
+2014,19,Stoke City,West Brom,82.4,14.1,3.5
+2014,19,QPR,Crystal Palace,64.7,25.3,10.0
+2014,19,Man City,Burnley,99.4,0.0,0.6
+2014,19,Hull City,Leicester,66.5,27.6,5.9
+2014,19,Newcastle,Everton,40.9,36.3,22.8
+2014,19,Liverpool,Swansea,80.3,16.3,3.4
+2014,20,Stoke City,Man Utd,1.2,6.0,92.9
+2014,20,Aston Villa,Crystal Palace,86.5,11.1,2.3
+2014,20,West Ham,West Brom,94.2,4.7,1.2
+2014,20,Southampton,Arsenal,24.6,40.9,34.5
+2014,20,QPR,Swansea,24.6,29.8,45.6
+2014,20,Newcastle,Burnley,91.2,4.7,4.1
+2014,20,Man City,Sunderland,98.2,0.6,1.2
+2014,20,Liverpool,Leicester,96.5,2.9,0.6
+2014,20,Hull City,Everton,8.2,24.0,67.8
+2014,20,Spurs,Chelsea,3.5,17.4,79.1
+2014,21,Sunderland,Liverpool,3.0,16.2,80.8
+2014,21,West Brom,Hull City,56.6,34.1,9.2
+2014,21,Swansea,West Ham,51.4,35.3,13.3
+2014,21,Leicester,Aston Villa,14.5,26.7,58.7
+2014,21,Everton,Man City,3.5,10.4,86.1
+2014,21,Chelsea,Newcastle,97.1,2.3,0.6
+2014,21,Burnley,QPR,32.4,46.2,21.4
+2014,21,Crystal Palace,Spurs,1.7,5.2,93.1
+2014,21,Arsenal,Stoke City,94.0,5.5,0.5
+2014,21,Man Utd,Southampton,78.0,20.3,1.6
+2014,22,Aston Villa,Liverpool,5.9,21.2,72.9
+2014,22,Spurs,Sunderland,97.6,1.8,0.6
+2014,22,Swansea,Chelsea,0.6,8.2,91.2
+2014,22,QPR,Man Utd,0.0,3.5,96.5
+2014,22,Leicester,Stoke City,18.2,35.9,45.9
+2014,22,Burnley,Crystal Palace,40.6,45.9,13.5
+2014,22,Newcastle,Southampton,19.8,19.2,61.0
+2014,22,West Ham,Hull City,93.8,5.7,0.6
+2014,22,Man City,Arsenal,77.7,16.8,5.6
+2014,22,Everton,West Brom,83.9,12.8,3.3
+2014,23,Hull City,Newcastle,9.9,25.7,64.4
+2014,23,West Brom,Spurs,2.1,10.3,87.6
+2014,23,Sunderland,Burnley,67.0,28.4,4.6
+2014,23,Stoke City,QPR,91.2,5.2,3.6
+2014,23,Man Utd,Leicester,97.9,1.5,0.5
+2014,23,Liverpool,West Ham,73.7,20.1,6.2
+2014,23,Crystal Palace,Everton,16.5,39.7,43.8
+2014,23,Chelsea,Man City,75.6,18.1,6.2
+2014,23,Arsenal,Aston Villa,98.0,1.5,0.5
+2014,23,Southampton,Swansea,89.4,7.6,3.0
+2014,24,Spurs,Arsenal,20.9,35.3,43.9
+2014,24,Aston Villa,Chelsea,0.5,2.6,96.9
+2014,24,Swansea,Sunderland,86.0,11.4,2.6
+2014,24,QPR,Southampton,6.3,8.3,85.4
+2014,24,Man City,Hull City,99.0,0.5,0.5
+2014,24,Leicester,Crystal Palace,31.1,35.8,33.2
+2014,24,Everton,Liverpool,13.0,36.8,50.3
+2014,24,Burnley,West Brom,26.9,50.3,22.8
+2014,24,Newcastle,Stoke City,64.2,21.8,14.0
+2014,24,West Ham,Man Utd,3.6,15.5,80.9
+2014,25,Arsenal,Leicester,99.4,0.6,0.0
+2014,25,Sunderland,QPR,78.1,14.2,7.7
+2014,25,Hull City,Aston Villa,31.4,46.7,21.9
+2014,25,Liverpool,Spurs,64.5,23.1,12.4
+2014,25,Stoke City,Man City,1.1,9.2,89.7
+2014,25,Chelsea,Everton,96.8,2.7,0.5
+2014,25,Southampton,West Ham,85.3,10.3,4.3
+2014,25,Man Utd,Burnley,100.0,0.0,0.0
+2014,25,West Brom,Swansea,14.6,35.7,49.7
+2014,25,Crystal Palace,Newcastle,23.2,34.1,42.7
+2014,26,Aston Villa,Stoke City,28.4,31.4,40.2
+2014,26,Swansea,Man Utd,4.1,14.4,81.4
+2014,26,Sunderland,West Brom,53.1,37.6,9.3
+2014,26,Hull City,QPR,61.9,24.7,13.4
+2014,26,Crystal Palace,Arsenal,2.6,2.6,94.8
+2014,26,Chelsea,Burnley,99.0,1.0,0.0
+2014,26,Man City,Newcastle,95.4,4.1,0.5
+2014,26,Spurs,West Ham,79.8,17.7,2.5
+2014,26,Everton,Leicester,92.1,5.9,2.0
+2014,26,Southampton,Liverpool,35.5,43.8,20.7
+2014,27,West Ham,Crystal Palace,90.9,7.1,2.0
+2014,27,West Brom,Southampton,3.5,14.1,82.4
+2014,27,Stoke City,Hull City,80.9,16.1,3.0
+2014,27,Newcastle,Aston Villa,80.4,13.1,6.5
+2014,27,Man Utd,Sunderland,98.0,1.0,1.0
+2014,27,Burnley,Swansea,6.5,21.6,71.9
+2014,27,Liverpool,Man City,15.6,32.2,52.2
+2014,27,Arsenal,Everton,89.3,8.7,1.9
+2014,27,QPR,Spurs,4.3,7.6,88.1
+2014,27,Leicester,Chelsea,1.4,1.9,96.8
+2014,28,Aston Villa,West Brom,60.1,21.4,18.5
+2014,28,Southampton,Crystal Palace,91.8,7.1,1.2
+2014,28,Hull City,Sunderland,44.1,42.4,13.5
+2014,28,Spurs,Swansea,84.9,11.2,3.9
+2014,28,Stoke City,Everton,32.2,45.0,22.8
+2014,28,Newcastle,Man Utd,4.4,13.9,81.7
+2014,28,Man City,Leicester,98.3,0.6,1.1
+2014,28,West Ham,Chelsea,2.8,10.0,87.2
+2014,28,QPR,Arsenal,3.9,2.8,93.3
+2014,28,Liverpool,Burnley,99.4,0.6,0.0
+2014,29,Crystal Palace,QPR,75.6,18.7,5.7
+2014,29,Arsenal,West Ham,94.3,5.2,0.5
+2014,29,West Brom,Stoke City,19.7,36.8,43.5
+2014,29,Sunderland,Aston Villa,43.0,45.6,11.4
+2014,29,Leicester,Hull City,29.0,33.7,37.3
+2014,29,Burnley,Man City,0.5,0.5,99.0
+2014,29,Chelsea,Southampton,86.7,11.2,2.0
+2014,29,Man Utd,Spurs,77.0,18.9,4.1
+2014,29,Everton,Newcastle,61.2,28.1,10.7
+2014,29,Swansea,Liverpool,5.5,12.5,82.0
+2014,30,Man City,West Brom,97.2,1.7,1.1
+2014,30,Spurs,Leicester,97.3,1.1,1.6
+2014,30,Stoke City,Crystal Palace,82.4,13.7,3.8
+2014,30,Southampton,Burnley,98.4,1.1,0.5
+2014,30,Newcastle,Arsenal,3.3,9.3,87.4
+2014,30,Aston Villa,Swansea,29.7,28.0,42.3
+2014,30,West Ham,Sunderland,85.2,13.2,1.6
+2014,30,Liverpool,Man Utd,44.3,39.9,15.8
+2014,30,QPR,Everton,13.2,23.1,63.7
+2014,30,Hull City,Chelsea,0.5,2.7,96.7
+2014,31,Arsenal,Liverpool,70.4,23.8,5.8
+2014,31,West Brom,QPR,80.5,12.3,7.2
+2014,31,Swansea,Hull City,88.7,9.7,1.5
+2014,31,Man Utd,Aston Villa,97.4,1.5,1.0
+2014,31,Leicester,West Ham,10.3,17.4,72.3
+2014,31,Everton,Southampton,18.5,47.2,34.4
+2014,31,Chelsea,Stoke City,97.9,0.5,1.5
+2014,31,Burnley,Spurs,2.0,6.1,91.9
+2014,31,Sunderland,Newcastle,20.8,35.5,43.7
+2014,31,Crystal Palace,Man City,3.5,6.1,90.4
+2014,32,Swansea,Everton,57.0,30.6,12.4
+2014,32,West Ham,Stoke City,62.3,29.8,7.9
+2014,32,West Brom,Leicester,74.9,16.8,8.4
+2014,32,Spurs,Aston Villa,96.3,1.6,2.1
+2014,32,Sunderland,Crystal Palace,34.6,37.7,27.7
+2014,32,Southampton,Hull City,95.8,3.7,0.5
+2014,32,Burnley,Arsenal,0.5,2.1,97.4
+2014,32,QPR,Chelsea,0.5,1.6,97.9
+2014,32,Man Utd,Man City,59.6,29.5,10.9
+2014,32,Liverpool,Newcastle,98.5,1.0,0.5
+2014,33,Aston Villa,QPR,85.3,11.0,3.7
+2014,33,Stoke City,Southampton,13.1,33.7,53.3
+2014,33,Leicester,Swansea,14.1,26.6,59.3
+2014,33,Everton,Burnley,93.0,5.5,1.5
+2014,33,Crystal Palace,West Brom,67.8,26.1,6.0
+2014,33,Chelsea,Man Utd,65.2,24.7,10.1
+2014,33,Man City,West Ham,94.9,3.0,2.0
+2014,33,Newcastle,Spurs,8.6,28.4,62.9
+2014,33,Hull City,Liverpool,0.0,3.9,96.1
+2014,33,Arsenal,Sunderland,99.1,0.0,0.9
+2014,34,Southampton,Spurs,43.1,39.8,17.1
+2014,34,West Brom,Liverpool,1.1,8.1,90.8
+2014,34,Stoke City,Sunderland,88.2,8.1,3.8
+2014,34,QPR,West Ham,19.9,32.8,47.3
+2014,34,Newcastle,Swansea,37.6,31.2,31.2
+2014,34,Crystal Palace,Hull City,82.1,13.6,4.3
+2014,34,Burnley,Leicester,30.6,37.1,32.3
+2014,34,Man City,Aston Villa,96.3,2.7,1.1
+2014,34,Everton,Man Utd,2.1,13.8,84.1
+2014,34,Arsenal,Chelsea,32.3,40.2,27.5
+2014,35,Leicester,Newcastle,40.3,30.1,29.5
+2014,35,Aston Villa,Everton,15.6,29.4,55.0
+2014,35,West Ham,Burnley,93.3,4.4,2.2
+2014,35,Swansea,Stoke City,69.4,24.4,6.1
+2014,35,Sunderland,Southampton,4.4,13.3,82.2
+2014,35,Liverpool,QPR,97.8,1.1,1.1
+2014,35,Man Utd,West Brom,98.9,1.1,0.0
+2014,35,Chelsea,Crystal Palace,98.3,1.1,0.6
+2014,35,Spurs,Man City,12.8,34.1,53.1
+2014,35,Hull City,Arsenal,1.1,1.6,97.3
+2014,36,Everton,Sunderland,89.6,7.1,3.3
+2014,36,Stoke City,Spurs,7.5,27.4,65.1
+2014,36,Newcastle,West Brom,67.0,20.5,12.4
+2014,36,Leicester,Southampton,16.0,25.1,58.8
+2014,36,Hull City,Burnley,77.3,18.9,3.8
+2014,36,Aston Villa,West Ham,37.8,34.6,27.6
+2014,36,Crystal Palace,Man Utd,4.8,7.0,88.2
+2014,36,Man City,QPR,99.5,0.5,0.0
+2014,36,Chelsea,Liverpool,73.6,14.0,12.4
+2014,36,Arsenal,Swansea,99.0,1.0,0.0
+2014,37,Southampton,Aston Villa,89.8,5.9,4.3
+2014,37,Burnley,Stoke City,12.3,15.5,72.2
+2014,37,West Ham,Everton,46.5,36.9,16.6
+2014,37,Spurs,Hull City,94.7,2.1,3.2
+2014,37,Sunderland,Leicester,50.3,31.0,18.7
+2014,37,QPR,Newcastle,25.1,23.5,51.3
+2014,37,Liverpool,Crystal Palace,96.3,3.7,0.0
+2014,37,Swansea,Man City,4.7,11.5,83.8
+2014,37,Man Utd,Arsenal,42.4,39.8,17.8
+2014,37,West Brom,Chelsea,1.5,6.7,91.8
+2014,38,Arsenal,West Brom,98.9,1.1,0.0
+2014,38,Stoke City,Liverpool,5.6,23.5,70.9
+2014,38,Newcastle,West Ham,49.2,25.1,25.7
+2014,38,Man City,Southampton,85.5,10.1,4.5
+2014,38,Leicester,QPR,75.4,15.1,9.5
+2014,38,Hull City,Man Utd,5.6,4.5,89.9
+2014,38,Everton,Spurs,25.7,31.8,42.5
+2014,38,Crystal Palace,Swansea,26.4,36.0,37.6
+2014,38,Chelsea,Sunderland,98.9,1.1,0.0
+2014,38,Aston Villa,Burnley,82.6,12.4,5.1
+2015,1,Man Utd,Spurs,89.3,9.8,0.9
+2015,1,Bournemouth,Aston Villa,21.8,26.6,51.5
+2015,1,Everton,Watford,89.5,7.0,3.5
+2015,1,Norwich,Crystal Palace,31.0,37.1,31.9
+2015,1,Leicester,Sunderland,52.8,30.1,17.0
+2015,1,Chelsea,Swansea,97.4,2.2,0.4
+2015,1,Arsenal,West Ham,94.5,4.3,1.3
+2015,1,Newcastle,Southampton,23.3,37.7,39.0
+2015,1,Stoke City,Liverpool,9.7,16.9,73.4
+2015,1,West Brom,Man City,1.2,4.9,93.9
+2015,2,Aston Villa,Man Utd,2.2,9.2,88.6
+2015,2,Southampton,Everton,69.9,23.9,6.2
+2015,2,Swansea,Newcastle,60.6,27.8,11.6
+2015,2,Watford,West Brom,49.5,31.2,19.4
+2015,2,West Ham,Leicester,64.0,21.6,14.4
+2015,2,Spurs,Stoke City,82.7,12.2,5.0
+2015,2,Sunderland,Norwich,56.8,33.1,10.1
+2015,2,Crystal Palace,Arsenal,5.2,8.0,86.8
+2015,2,Man City,Chelsea,35.5,44.5,20.0
+2015,2,Liverpool,Bournemouth,97.3,2.3,0.3
+2015,3,Man Utd,Newcastle,96.8,2.8,0.4
+2015,3,Leicester,Spurs,30.4,32.9,36.7
+2015,3,Sunderland,Swansea,9.5,20.5,70.0
+2015,3,West Ham,Bournemouth,88.6,9.3,2.1
+2015,3,Norwich,Stoke City,24.0,35.0,41.0
+2015,3,Crystal Palace,Aston Villa,48.8,31.4,19.8
+2015,3,West Brom,Chelsea,0.3,2.7,96.9
+2015,3,Watford,Southampton,18.2,31.5,50.3
+2015,3,Everton,Man City,3.1,13.0,83.9
+2015,3,Arsenal,Liverpool,63.2,25.0,11.8
+2015,4,Newcastle,Arsenal,3.4,12.3,84.3
+2015,4,Bournemouth,Leicester,11.0,26.5,62.5
+2015,4,Chelsea,Crystal Palace,97.1,2.2,0.7
+2015,4,Liverpool,West Ham,89.7,8.8,1.5
+2015,4,Aston Villa,Sunderland,61.8,29.8,8.5
+2015,4,Stoke City,West Brom,73.2,21.0,5.9
+2015,4,Man City,Watford,98.2,1.1,0.7
+2015,4,Spurs,Everton,55.6,32.2,12.2
+2015,4,Southampton,Norwich,69.9,20.1,10.0
+2015,4,Swansea,Man Utd,6.1,13.9,80.0
+2015,5,Everton,Chelsea,8.7,18.5,72.8
+2015,5,Arsenal,Stoke City,93.7,2.2,4.1
+2015,5,West Brom,Southampton,10.9,40.4,48.7
+2015,5,Norwich,Bournemouth,51.9,35.4,12.7
+2015,5,Watford,Swansea,11.2,18.3,70.5
+2015,5,Crystal Palace,Man City,4.5,6.7,88.8
+2015,5,Man Utd,Liverpool,64.8,28.2,7.0
+2015,5,Sunderland,Spurs,5.7,13.6,80.6
+2015,5,Leicester,Aston Villa,73.9,20.0,6.1
+2015,5,West Ham,Newcastle,65.7,23.1,11.2
+2015,6,Chelsea,Arsenal,54.6,24.0,21.4
+2015,6,Aston Villa,West Brom,68.7,23.3,8.0
+2015,6,Swansea,Everton,36.9,36.5,26.6
+2015,6,Bournemouth,Sunderland,49.6,30.2,20.2
+2015,6,Stoke City,Leicester,29.0,24.8,46.2
+2015,6,Newcastle,Watford,62.6,19.1,18.3
+2015,6,Man City,West Ham,94.0,4.2,1.9
+2015,6,Spurs,Crystal Palace,72.1,16.4,11.5
+2015,6,Southampton,Man Utd,4.8,18.1,77.0
+2015,6,Liverpool,Norwich,96.3,2.6,1.1
+2015,7,Spurs,Man City,6.5,16.2,77.3
+2015,7,Liverpool,Aston Villa,93.2,4.4,2.4
+2015,7,West Ham,Norwich,89.6,9.2,1.2
+2015,7,Man Utd,Sunderland,98.8,0.8,0.4
+2015,7,Southampton,Swansea,36.7,38.6,24.7
+2015,7,Leicester,Arsenal,9.6,28.7,61.8
+2015,7,Stoke City,Bournemouth,61.4,21.5,17.1
+2015,7,Newcastle,Chelsea,4.0,6.7,89.3
+2015,7,Watford,Crystal Palace,29.8,43.0,27.1
+2015,7,West Brom,Everton,13.0,20.2,66.8
+2015,8,Crystal Palace,West Brom,86.9,8.0,5.1
+2015,8,Man City,Newcastle,97.5,1.6,0.8
+2015,8,Bournemouth,Watford,27.6,50.2,22.2
+2015,8,Aston Villa,Stoke City,49.2,30.2,20.7
+2015,8,Norwich,Leicester,11.9,27.9,60.2
+2015,8,Sunderland,West Ham,6.2,11.1,82.7
+2015,8,Chelsea,Southampton,85.7,9.8,4.5
+2015,8,Everton,Liverpool,39.4,35.7,24.9
+2015,8,Arsenal,Man Utd,29.9,29.5,40.6
+2015,8,Swansea,Spurs,20.0,24.0,56.0
+2015,9,Spurs,Liverpool,23.6,32.6,43.8
+2015,9,Man City,Bournemouth,99.2,0.8,0.0
+2015,9,West Brom,Sunderland,64.8,25.0,10.2
+2015,9,Crystal Palace,West Ham,38.3,44.3,17.4
+2015,9,Chelsea,Aston Villa,90.6,6.0,3.4
+2015,9,Everton,Man Utd,9.7,24.2,66.1
+2015,9,Southampton,Leicester,61.0,25.4,13.6
+2015,9,Watford,Arsenal,1.3,4.6,94.1
+2015,9,Newcastle,Norwich,50.0,29.4,20.6
+2015,9,Swansea,Stoke City,72.3,19.7,8.0
+2015,10,Norwich,West Brom,41.1,37.5,21.4
+2015,10,West Ham,Chelsea,24.3,23.5,52.2
+2015,10,Leicester,Crystal Palace,68.1,25.2,6.6
+2015,10,Aston Villa,Swansea,27.0,28.8,44.2
+2015,10,Stoke City,Watford,84.5,12.8,2.7
+2015,10,Arsenal,Everton,94.3,3.9,1.8
+2015,10,Sunderland,Newcastle,25.9,28.9,45.3
+2015,10,Bournemouth,Spurs,2.1,9.9,88.0
+2015,10,Man Utd,Man City,42.1,32.6,25.3
+2015,10,Liverpool,Southampton,87.1,9.1,3.9
+2015,11,Chelsea,Liverpool,28.8,36.8,34.4
+2015,11,Watford,West Ham,7.4,12.0,80.6
+2015,11,Newcastle,Stoke City,45.6,34.1,20.3
+2015,11,Man City,Norwich,99.5,0.0,0.5
+2015,11,Swansea,Arsenal,3.7,12.4,83.9
+2015,11,West Brom,Leicester,16.6,38.2,45.2
+2015,11,Crystal Palace,Man Utd,7.4,9.7,82.9
+2015,11,Everton,Sunderland,93.7,4.5,1.8
+2015,11,Southampton,Bournemouth,95.9,1.8,2.3
+2015,11,Spurs,Aston Villa,93.8,4.0,2.2
+2015,12,Bournemouth,Newcastle,24.8,30.7,44.5
+2015,12,Norwich,Swansea,23.0,32.9,44.1
+2015,12,Man Utd,West Brom,99.1,0.5,0.5
+2015,12,Sunderland,Southampton,5.0,10.8,84.2
+2015,12,West Ham,Everton,60.8,31.1,8.1
+2015,12,Leicester,Watford,88.3,9.9,1.8
+2015,12,Stoke City,Chelsea,10.7,17.0,72.3
+2015,12,Aston Villa,Man City,1.3,0.9,97.8
+2015,12,Liverpool,Crystal Palace,96.9,2.7,0.4
+2015,12,Arsenal,Spurs,78.8,18.6,2.7
+2015,13,Watford,Man Utd,1.8,3.6,94.6
+2015,13,Chelsea,Norwich,89.7,8.0,2.2
+2015,13,Everton,Aston Villa,93.3,4.5,2.2
+2015,13,West Brom,Arsenal,1.3,2.2,96.4
+2015,13,Newcastle,Leicester,17.0,25.0,58.0
+2015,13,Southampton,Stoke City,82.6,12.9,4.5
+2015,13,Swansea,Bournemouth,85.3,8.5,6.3
+2015,13,Man City,Liverpool,64.4,25.3,10.2
+2015,13,Spurs,West Ham,71.9,21.5,6.6
+2015,13,Crystal Palace,Sunderland,84.5,8.6,6.9
+2015,14,Aston Villa,Watford,31.0,29.6,39.4
+2015,14,Sunderland,Stoke City,11.7,21.1,67.1
+2015,14,Crystal Palace,Newcastle,77.5,14.1,8.5
+2015,14,Man City,Southampton,90.6,7.5,1.9
+2015,14,Bournemouth,Everton,5.2,8.0,86.9
+2015,14,Leicester,Man Utd,21.7,41.9,36.4
+2015,14,Spurs,Chelsea,57.1,23.7,19.2
+2015,14,West Ham,West Brom,86.4,12.7,0.9
+2015,14,Liverpool,Swansea,95.9,2.7,1.4
+2015,14,Norwich,Arsenal,2.3,1.4,96.4
+2015,15,Stoke City,Man City,5.2,6.1,88.7
+2015,15,Man Utd,West Ham,86.0,9.3,4.7
+2015,15,West Brom,Spurs,1.4,11.2,87.4
+2015,15,Swansea,Leicester,7.4,19.1,73.5
+2015,15,Watford,Norwich,70.7,24.7,4.7
+2015,15,Arsenal,Sunderland,98.1,1.4,0.5
+2015,15,Southampton,Aston Villa,84.7,9.3,6.0
+2015,15,Chelsea,Bournemouth,93.5,5.1,1.4
+2015,15,Newcastle,Liverpool,0.9,4.1,94.9
+2015,15,Everton,Crystal Palace,67.4,27.1,5.5
+2015,16,Norwich,Everton,8.7,15.9,75.4
+2015,16,West Ham,Stoke City,65.9,19.0,15.2
+2015,16,Crystal Palace,Southampton,58.3,26.5,15.2
+2015,16,Sunderland,Watford,19.4,34.1,46.4
+2015,16,Man City,Swansea,98.1,1.4,0.5
+2015,16,Bournemouth,Man Utd,3.8,6.6,89.6
+2015,16,Aston Villa,Arsenal,0.0,1.9,98.1
+2015,16,Spurs,Newcastle,93.9,4.2,1.9
+2015,16,Liverpool,West Brom,97.2,2.3,0.5
+2015,16,Leicester,Chelsea,55.8,26.5,17.7
+2015,17,Southampton,Spurs,14.0,30.5,55.5
+2015,17,Man Utd,Norwich,96.0,3.0,1.0
+2015,17,West Brom,Bournemouth,56.5,29.0,14.5
+2015,17,Stoke City,Crystal Palace,43.7,34.7,21.6
+2015,17,Chelsea,Sunderland,91.5,4.0,4.5
+2015,17,Everton,Leicester,10.5,29.5,60.0
+2015,17,Newcastle,Aston Villa,77.6,15.4,7.0
+2015,17,Watford,Liverpool,4.4,15.3,80.3
+2015,17,Swansea,West Ham,18.2,34.0,47.8
+2015,17,Arsenal,Man City,61.3,26.5,12.3
+2015,18,Stoke City,Man Utd,13.6,23.1,63.3
+2015,18,Man City,Sunderland,97.1,1.7,1.2
+2015,18,Bournemouth,Crystal Palace,15.1,44.2,40.7
+2015,18,Swansea,West Brom,52.9,33.7,13.4
+2015,18,Spurs,Norwich,96.5,2.3,1.2
+2015,18,Aston Villa,West Ham,8.7,18.0,73.3
+2015,18,Chelsea,Watford,78.5,13.4,8.1
+2015,18,Liverpool,Leicester,43.0,36.0,20.9
+2015,18,Newcastle,Everton,14.2,25.6,60.2
+2015,18,Southampton,Arsenal,4.0,6.2,89.8
+2015,19,Norwich,Aston Villa,60.5,26.1,13.4
+2015,19,Watford,Spurs,12.1,28.0,59.9
+2015,19,West Brom,Newcastle,52.2,31.8,15.9
+2015,19,Everton,Stoke City,70.1,22.9,7.0
+2015,19,Crystal Palace,Swansea,77.1,15.3,7.6
+2015,19,West Ham,Southampton,45.7,28.7,25.6
+2015,19,Man Utd,Chelsea,39.0,39.0,22.0
+2015,19,Arsenal,Bournemouth,97.6,1.2,1.2
+2015,19,Leicester,Man City,25.4,30.2,44.4
+2015,19,Sunderland,Liverpool,0.6,2.3,97.1
+2015,20,West Ham,Liverpool,6.5,28.8,64.7
+2015,20,Norwich,Southampton,22.1,35.6,42.3
+2015,20,Arsenal,Newcastle,99.4,0.6,0.0
+2015,20,Sunderland,Aston Villa,56.4,32.5,11.0
+2015,20,Man Utd,Swansea,88.3,9.8,1.8
+2015,20,West Brom,Stoke City,11.7,31.9,56.4
+2015,20,Leicester,Bournemouth,92.0,6.1,1.8
+2015,20,Watford,Man City,7.3,12.2,80.5
+2015,20,Crystal Palace,Chelsea,24.4,29.2,46.4
+2015,20,Everton,Spurs,15.4,35.5,49.1
+2015,21,Bournemouth,West Ham,11.4,27.1,61.4
+2015,21,Newcastle,Man Utd,7.2,8.4,84.3
+2015,21,Aston Villa,Crystal Palace,11.4,14.5,74.1
+2015,21,Chelsea,West Brom,92.2,5.6,2.2
+2015,21,Stoke City,Norwich,86.0,12.3,1.7
+2015,21,Southampton,Watford,54.2,31.8,14.0
+2015,21,Man City,Everton,93.9,4.5,1.7
+2015,21,Swansea,Sunderland,70.8,23.6,5.6
+2015,21,Liverpool,Arsenal,20.7,39.1,40.2
+2015,21,Spurs,Leicester,46.9,36.9,16.2
+2015,22,Spurs,Sunderland,97.1,1.2,1.8
+2015,22,Man City,Crystal Palace,96.6,2.9,0.6
+2015,22,Chelsea,Everton,65.7,26.9,7.4
+2015,22,Newcastle,West Ham,18.3,26.3,55.4
+2015,22,Southampton,West Brom,75.4,19.4,5.1
+2015,22,Bournemouth,Norwich,49.7,36.0,14.3
+2015,22,Aston Villa,Leicester,4.5,3.4,92.1
+2015,22,Liverpool,Man Utd,51.7,39.4,8.9
+2015,22,Stoke City,Arsenal,8.8,14.8,76.4
+2015,22,Swansea,Watford,39.1,30.4,30.4
+2015,23,Norwich,Liverpool,3.1,8.2,88.7
+2015,23,Leicester,Stoke City,73.6,21.4,5.0
+2015,23,Sunderland,Bournemouth,38.5,39.5,22.0
+2015,23,Man Utd,Southampton,85.6,10.0,4.5
+2015,23,Crystal Palace,Spurs,9.0,18.9,72.1
+2015,23,Watford,Newcastle,63.2,18.4,18.4
+2015,23,West Brom,Aston Villa,66.2,24.4,9.5
+2015,23,West Ham,Man City,7.9,20.8,71.3
+2015,23,Everton,Swansea,89.3,7.8,2.9
+2015,23,Arsenal,Chelsea,80.0,16.6,3.4
+2015,24,Arsenal,Southampton,89.7,6.4,3.9
+2015,24,West Ham,Aston Villa,92.6,6.4,1.0
+2015,24,Leicester,Liverpool,34.5,45.3,20.2
+2015,24,Norwich,Spurs,2.5,3.9,93.6
+2015,24,Sunderland,Man City,2.0,3.0,95.1
+2015,24,Man Utd,Stoke City,67.5,18.7,13.8
+2015,24,Crystal Palace,Bournemouth,63.2,29.4,7.4
+2015,24,West Brom,Swansea,38.4,40.4,21.2
+2015,24,Watford,Chelsea,7.7,17.3,75.0
+2015,24,Everton,Newcastle,84.2,12.0,3.8
+2015,25,Man City,Leicester,62.7,22.9,14.4
+2015,25,Liverpool,Sunderland,97.5,1.5,1.0
+2015,25,Spurs,Watford,95.1,4.4,0.5
+2015,25,Stoke City,Everton,43.3,40.9,15.8
+2015,25,Aston Villa,Norwich,43.3,31.5,25.1
+2015,25,Newcastle,West Brom,63.9,20.3,15.8
+2015,25,Swansea,Crystal Palace,38.4,39.4,22.2
+2015,25,Southampton,West Ham,56.4,27.5,16.2
+2015,25,Bournemouth,Arsenal,3.4,6.8,89.8
+2015,25,Chelsea,Man Utd,39.1,37.2,23.7
+2015,26,Sunderland,Man Utd,2.5,8.0,89.4
+2015,26,Bournemouth,Stoke City,18.1,36.2,45.7
+2015,26,Norwich,West Ham,8.5,14.6,76.9
+2015,26,Everton,West Brom,94.5,4.5,1.0
+2015,26,Crystal Palace,Watford,49.2,40.7,10.1
+2015,26,Swansea,Southampton,15.6,26.6,57.8
+2015,26,Chelsea,Newcastle,88.9,6.5,4.5
+2015,26,Arsenal,Leicester,44.4,34.8,20.7
+2015,26,Aston Villa,Liverpool,6.1,6.6,87.4
+2015,26,Man City,Spurs,64.0,22.5,13.5
+2015,27,West Ham,Sunderland,93.5,5.0,1.5
+2015,27,Watford,Bournemouth,83.0,14.5,2.5
+2015,27,Leicester,Norwich,98.0,0.5,1.5
+2015,27,Stoke City,Aston Villa,93.5,3.0,3.5
+2015,27,Southampton,Chelsea,19.5,33.5,47.0
+2015,27,West Brom,Crystal Palace,31.8,47.8,20.4
+2015,27,Man Utd,Arsenal,17.9,28.4,53.7
+2015,27,Spurs,Swansea,97.0,2.0,1.0
+2015,27,Newcastle,Man City,5.4,3.4,91.2
+2015,27,Liverpool,Everton,75.6,22.5,1.9
+2015,28,Aston Villa,Everton,9.0,8.5,82.4
+2015,28,Sunderland,Crystal Palace,33.7,40.1,26.2
+2015,28,Norwich,Chelsea,2.1,3.7,94.1
+2015,28,Leicester,West Brom,95.7,3.2,1.1
+2015,28,Bournemouth,Southampton,8.0,24.1,67.9
+2015,28,Arsenal,Swansea,98.4,1.0,0.5
+2015,28,Stoke City,Newcastle,85.4,8.3,6.3
+2015,28,West Ham,Spurs,8.9,29.7,61.5
+2015,28,Liverpool,Man City,27.6,44.8,27.6
+2015,28,Man Utd,Watford,92.2,4.7,3.1
+2015,29,Spurs,Arsenal,50.8,32.7,16.6
+2015,29,Man City,Aston Villa,98.5,0.0,1.5
+2015,29,Swansea,Norwich,80.8,13.8,5.4
+2015,29,Newcastle,Bournemouth,55.2,27.6,17.2
+2015,29,Chelsea,Stoke City,81.8,12.8,5.4
+2015,29,Everton,West Ham,41.4,36.0,22.7
+2015,29,Southampton,Sunderland,90.6,6.9,2.5
+2015,29,Watford,Leicester,4.4,13.3,82.3
+2015,29,Crystal Palace,Liverpool,4.9,8.8,86.3
+2015,29,West Brom,Man Utd,4.9,14.2,80.9
+2015,30,Norwich,Man City,2.7,2.7,94.6
+2015,30,Stoke City,Southampton,64.5,26.3,9.1
+2015,30,Bournemouth,Swansea,45.7,38.7,15.6
+2015,30,Aston Villa,Spurs,1.0,2.1,96.9
+2015,30,Leicester,Newcastle,94.8,3.6,1.5
+2015,30,West Ham,Watford,92.8,4.6,2.6
+2015,30,Man Utd,Crystal Palace,90.3,7.7,2.1
+2015,30,Arsenal,West Brom,97.0,2.0,1.0
+2015,30,Sunderland,Everton,13.8,24.5,61.7
+2015,30,Liverpool,Chelsea,66.2,28.9,5.0
+2015,31,Everton,Arsenal,14.6,24.3,61.1
+2015,31,Crystal Palace,Leicester,3.2,9.6,87.2
+2015,31,Watford,Stoke City,23.4,42.6,34.0
+2015,31,Chelsea,West Ham,65.4,23.4,11.2
+2015,31,West Brom,Norwich,79.3,15.4,5.3
+2015,31,Swansea,Aston Villa,82.0,10.6,7.4
+2015,31,Southampton,Liverpool,15.5,26.3,58.2
+2015,31,Newcastle,Sunderland,67.0,26.3,6.7
+2015,31,Man City,Man Utd,67.5,24.2,8.2
+2015,31,Spurs,Bournemouth,96.4,2.1,1.5
+2015,32,Aston Villa,Chelsea,3.5,2.0,94.5
+2015,32,Bournemouth,Man City,2.0,8.5,89.5
+2015,32,Stoke City,Swansea,86.5,12.0,1.5
+2015,32,Norwich,Newcastle,38.0,43.0,19.0
+2015,32,Sunderland,West Brom,26.0,40.0,34.0
+2015,32,West Ham,Crystal Palace,95.0,2.5,2.5
+2015,32,Arsenal,Watford,98.5,1.0,0.5
+2015,32,Liverpool,Spurs,42.3,34.3,23.4
+2015,32,Leicester,Southampton,86.1,10.4,3.5
+2015,32,Man Utd,Everton,79.2,14.4,6.4
+2015,33,West Ham,Arsenal,15.0,29.5,55.4
+2015,33,Crystal Palace,Norwich,55.4,39.5,5.1
+2015,33,Watford,Everton,24.6,27.7,47.7
+2015,33,Aston Villa,Bournemouth,17.4,16.9,65.6
+2015,33,Swansea,Chelsea,5.6,7.7,86.7
+2015,33,Southampton,Newcastle,90.3,5.1,4.6
+2015,33,Man City,West Brom,99.0,1.0,0.0
+2015,33,Sunderland,Leicester,3.6,6.2,90.3
+2015,33,Liverpool,Stoke City,77.0,14.3,8.7
+2015,33,Spurs,Man Utd,60.7,30.1,9.2
+2015,34,Norwich,Sunderland,61.2,29.6,9.2
+2015,34,Everton,Southampton,44.0,28.0,28.0
+2015,34,Newcastle,Swansea,33.5,16.5,50.0
+2015,34,West Brom,Watford,62.0,25.5,12.5
+2015,34,Man Utd,Aston Villa,97.5,1.0,1.5
+2015,34,Chelsea,Man City,24.9,37.3,37.8
+2015,34,Bournemouth,Liverpool,3.5,10.9,85.6
+2015,34,Leicester,West Ham,76.1,17.9,6.0
+2015,34,Arsenal,Crystal Palace,96.5,2.5,1.0
+2015,34,Stoke City,Spurs,5.4,16.3,78.3
+2015,35,Crystal Palace,Everton,12.9,37.9,49.2
+2015,35,Man City,Stoke City,94.1,3.7,2.1
+2015,35,Aston Villa,Southampton,5.7,5.7,88.5
+2015,35,Liverpool,Newcastle,96.4,2.1,1.6
+2015,35,Bournemouth,Chelsea,6.3,11.5,82.3
+2015,35,Sunderland,Arsenal,3.6,3.6,92.8
+2015,35,Leicester,Swansea,95.4,3.6,1.0
+2015,35,Spurs,West Brom,98.0,0.5,1.5
+2015,35,West Ham,Man Utd,33.5,39.1,27.4
+2015,35,Norwich,Watford,40.4,34.3,25.3
+2015,36,Stoke City,Sunderland,79.2,15.7,5.1
+2015,36,Newcastle,Crystal Palace,63.1,23.5,13.4
+2015,36,Watford,Aston Villa,93.2,5.1,1.7
+2015,36,West Brom,West Ham,6.7,17.4,75.8
+2015,36,Everton,Bournemouth,85.4,11.2,3.4
+2015,36,Arsenal,Norwich,98.9,0.0,1.1
+2015,36,Swansea,Liverpool,3.8,10.4,85.7
+2015,36,Man Utd,Leicester,29.7,46.2,24.2
+2015,36,Southampton,Man City,11.0,13.7,75.3
+2015,36,Chelsea,Spurs,26.7,35.8,37.4
+2015,37,Norwich,Man Utd,1.7,6.7,91.6
+2015,37,Bournemouth,West Brom,49.5,40.2,10.3
+2015,37,Sunderland,Chelsea,3.3,12.0,84.8
+2015,37,Crystal Palace,Stoke City,21.2,38.6,40.2
+2015,37,Aston Villa,Newcastle,7.6,12.5,79.9
+2015,37,West Ham,Swansea,96.2,1.6,2.2
+2015,37,Leicester,Everton,82.1,11.4,6.5
+2015,37,Spurs,Southampton,87.1,8.6,4.3
+2015,37,Man City,Arsenal,45.2,36.0,18.8
+2015,37,Liverpool,Watford,93.0,3.2,3.8
+2015,38,Stoke City,West Ham,15.4,35.4,49.1
+2015,38,West Brom,Liverpool,5.7,5.7,88.6
+2015,38,Swansea,Man City,8.6,6.9,84.6
+2015,38,Newcastle,Spurs,9.7,11.4,78.9
+2015,38,Southampton,Crystal Palace,88.6,9.7,1.7
+2015,38,Watford,Sunderland,59.4,28.0,12.6
+2015,38,Everton,Norwich,86.3,9.1,4.6
+2015,38,Chelsea,Leicester,30.3,41.7,28.0
+2015,38,Arsenal,Aston Villa,98.9,0.6,0.6
+2015,38,Man Utd,Bournemouth,97.2,1.1,1.7
+2016,1,Hull City,Leicester,3.5,13.1,83.4
+2016,1,Southampton,Watford,86.3,10.7,3.1
+2016,1,Middlesbrough,Stoke City,35.9,32.1,32.1
+2016,1,Everton,Spurs,9.2,27.5,63.4
+2016,1,Crystal Palace,West Brom,61.6,31.2,7.2
+2016,1,Burnley,Swansea,17.6,41.6,40.8
+2016,1,Man City,Sunderland,97.7,1.9,0.4
+2016,1,Bournemouth,Man Utd,3.3,7.1,89.6
+2016,1,Arsenal,Liverpool,37.5,42.4,20.1
+2016,1,Chelsea,West Ham,76.6,17.0,6.4
+2016,2,Man Utd,Southampton,93.6,4.8,1.6
+2016,2,Stoke City,Man City,4.2,11.7,84.1
+2016,2,West Brom,Everton,14.6,37.1,48.3
+2016,2,Watford,Chelsea,1.1,7.9,91.0
+2016,2,Spurs,Crystal Palace,94.4,4.1,1.5
+2016,2,Swansea,Hull City,57.7,38.6,3.7
+2016,2,Burnley,Liverpool,2.3,3.4,94.4
+2016,2,Leicester,Arsenal,16.0,40.3,43.7
+2016,2,Sunderland,Middlesbrough,45.9,37.4,16.7
+2016,2,West Ham,Bournemouth,90.1,8.8,1.1
+2016,3,Spurs,Liverpool,36.4,45.7,17.9
+2016,3,Chelsea,Burnley,96.8,1.8,1.4
+2016,3,Watford,Arsenal,1.8,9.5,88.7
+2016,3,Southampton,Sunderland,76.8,20.1,3.2
+2016,3,Leicester,Swansea,82.7,12.7,4.6
+2016,3,Everton,Stoke City,81.3,14.1,4.6
+2016,3,Crystal Palace,Bournemouth,64.0,29.3,6.7
+2016,3,Hull City,Man Utd,2.4,6.6,90.9
+2016,3,West Brom,Middlesbrough,27.0,48.4,24.6
+2016,3,Man City,West Ham,90.3,8.7,1.0
+2016,4,Man Utd,Man City,42.6,40.8,16.6
+2016,4,Middlesbrough,Crystal Palace,66.4,21.0,12.5
+2016,4,Arsenal,Southampton,94.2,4.7,1.0
+2016,4,Burnley,Hull City,22.0,43.9,34.1
+2016,4,Bournemouth,West Brom,31.5,41.4,27.1
+2016,4,West Ham,Watford,87.5,10.5,2.0
+2016,4,Stoke City,Spurs,4.4,16.2,79.4
+2016,4,Liverpool,Leicester,68.2,25.0,6.8
+2016,4,Swansea,Chelsea,1.3,3.7,95.0
+2016,4,Sunderland,Everton,4.7,17.9,77.4
+2016,5,Chelsea,Liverpool,52.8,33.9,13.4
+2016,5,Hull City,Arsenal,5.2,9.6,85.2
+2016,5,West Brom,West Ham,17.0,41.9,41.1
+2016,5,Leicester,Burnley,91.1,7.8,1.1
+2016,5,Man City,Bournemouth,96.7,2.2,1.1
+2016,5,Everton,Middlesbrough,90.4,7.4,2.2
+2016,5,Watford,Man Utd,4.1,10.7,85.2
+2016,5,Southampton,Swansea,60.7,28.7,10.7
+2016,5,Crystal Palace,Stoke City,61.4,25.7,12.9
+2016,5,Spurs,Sunderland,97.8,1.5,0.7
+2016,6,Man Utd,Leicester,70.2,21.4,8.5
+2016,6,Swansea,Man City,1.6,2.8,95.7
+2016,6,Middlesbrough,Spurs,4.0,9.9,86.2
+2016,6,Liverpool,Hull City,96.4,2.4,1.2
+2016,6,Sunderland,Crystal Palace,15.4,30.0,54.5
+2016,6,Bournemouth,Everton,4.7,7.5,87.7
+2016,6,Stoke City,West Brom,41.5,29.6,28.9
+2016,6,Arsenal,Chelsea,44.1,39.1,16.8
+2016,6,West Ham,Southampton,49.6,32.9,17.4
+2016,6,Burnley,Watford,16.3,29.9,53.8
+2016,7,Everton,Crystal Palace,89.9,8.3,1.8
+2016,7,Swansea,Liverpool,2.1,4.1,93.8
+2016,7,Hull City,Chelsea,3.3,6.5,90.2
+2016,7,Watford,Bournemouth,72.4,22.4,5.3
+2016,7,Sunderland,West Brom,21.1,40.2,38.6
+2016,7,West Ham,Middlesbrough,64.6,26.8,8.5
+2016,7,Man Utd,Stoke City,97.6,2.0,0.4
+2016,7,Spurs,Man City,16.0,37.6,46.4
+2016,7,Leicester,Southampton,73.6,18.8,7.6
+2016,7,Burnley,Arsenal,2.4,2.8,94.8
+2016,8,Chelsea,Leicester,79.7,15.2,5.1
+2016,8,West Brom,Spurs,2.0,7.3,90.7
+2016,8,Man City,Everton,83.0,12.6,4.5
+2016,8,Bournemouth,Hull City,55.7,32.1,12.2
+2016,8,Arsenal,Swansea,98.4,1.2,0.4
+2016,8,Stoke City,Sunderland,70.0,25.9,4.0
+2016,8,Crystal Palace,West Ham,56.3,24.7,19.0
+2016,8,Middlesbrough,Watford,33.3,41.4,25.3
+2016,8,Southampton,Burnley,81.9,12.9,5.2
+2016,8,Liverpool,Man Utd,69.7,19.1,11.2
+2016,9,Bournemouth,Spurs,2.3,8.3,89.4
+2016,9,West Ham,Sunderland,87.1,8.4,4.4
+2016,9,Leicester,Crystal Palace,78.7,19.1,2.2
+2016,9,Arsenal,Middlesbrough,99.6,0.0,0.4
+2016,9,Swansea,Watford,32.9,32.4,34.7
+2016,9,Burnley,Everton,3.6,13.3,83.1
+2016,9,Hull City,Stoke City,28.4,41.3,30.2
+2016,9,Liverpool,West Brom,95.6,2.6,1.8
+2016,9,Man City,Southampton,94.0,5.2,0.9
+2016,9,Chelsea,Man Utd,41.8,37.5,20.7
+2016,10,Sunderland,Arsenal,1.8,2.2,96.0
+2016,10,Middlesbrough,Bournemouth,36.5,40.8,22.7
+2016,10,West Brom,Man City,3.0,6.4,90.6
+2016,10,Man Utd,Burnley,97.8,2.2,0.0
+2016,10,Spurs,Leicester,83.7,9.9,6.4
+2016,10,Watford,Hull City,85.8,7.7,6.4
+2016,10,Crystal Palace,Liverpool,1.3,12.0,86.7
+2016,10,Everton,West Ham,78.8,15.7,5.5
+2016,10,Southampton,Chelsea,7.6,28.8,63.6
+2016,10,Stoke City,Swansea,70.5,24.1,5.4
+2016,11,Man City,Middlesbrough,96.8,1.8,1.4
+2016,11,Bournemouth,Sunderland,81.7,13.8,4.6
+2016,11,Burnley,Crystal Palace,24.8,51.4,23.9
+2016,11,West Ham,Stoke City,56.9,22.9,20.2
+2016,11,Chelsea,Everton,81.3,15.1,3.7
+2016,11,Arsenal,Spurs,75.1,19.5,5.4
+2016,11,Hull City,Southampton,7.2,11.8,81.0
+2016,11,Liverpool,Watford,95.0,4.1,0.9
+2016,11,Swansea,Man Utd,4.1,13.6,82.4
+2016,11,Leicester,West Brom,95.0,4.1,0.9
+2016,12,Man Utd,Arsenal,23.7,36.3,40.0
+2016,12,Stoke City,Bournemouth,75.2,20.3,4.5
+2016,12,Watford,Leicester,23.4,39.2,37.4
+2016,12,Southampton,Liverpool,1.8,10.4,87.8
+2016,12,Crystal Palace,Man City,0.9,4.9,94.2
+2016,12,Sunderland,Hull City,36.2,49.8,14.0
+2016,12,Everton,Swansea,95.5,3.6,0.9
+2016,12,Spurs,West Ham,93.3,3.6,3.1
+2016,12,Middlesbrough,Chelsea,1.8,4.0,94.2
+2016,12,West Brom,Burnley,50.4,40.3,9.3
+2016,13,Burnley,Man City,1.5,2.5,96.0
+2016,13,Swansea,Crystal Palace,27.1,47.1,25.7
+2016,13,Liverpool,Sunderland,98.1,1.9,0.0
+2016,13,Leicester,Middlesbrough,85.7,13.8,0.5
+2016,13,Hull City,West Brom,14.3,33.3,52.4
+2016,13,Chelsea,Spurs,75.2,20.0,4.8
+2016,13,Watford,Stoke City,62.4,24.4,13.1
+2016,13,Arsenal,Bournemouth,98.1,1.4,0.5
+2016,13,Man Utd,West Ham,89.3,8.4,2.3
+2016,13,Southampton,Everton,26.2,44.9,29.0
+2016,14,Man City,Chelsea,46.9,43.4,9.7
+2016,14,Spurs,Swansea,98.0,2.0,0.0
+2016,14,West Brom,Watford,57.1,34.2,8.7
+2016,14,Crystal Palace,Southampton,12.8,27.6,59.7
+2016,14,Stoke City,Burnley,84.2,13.3,2.6
+2016,14,Sunderland,Leicester,7.7,24.0,68.4
+2016,14,West Ham,Arsenal,4.1,8.1,87.8
+2016,14,Bournemouth,Liverpool,1.0,2.5,96.5
+2016,14,Everton,Man Utd,20.1,41.7,38.2
+2016,14,Middlesbrough,Hull City,75.0,20.6,4.4
+2016,15,Watford,Everton,13.5,34.0,52.5
+2016,15,Swansea,Sunderland,56.7,27.9,15.4
+2016,15,Hull City,Crystal Palace,16.9,39.3,43.8
+2016,15,Arsenal,Stoke City,96.5,2.0,1.5
+2016,15,Burnley,Bournemouth,25.9,41.8,32.3
+2016,15,Leicester,Man City,5.0,12.9,82.1
+2016,15,Chelsea,West Brom,97.5,0.5,2.0
+2016,15,Man Utd,Spurs,41.7,36.8,21.6
+2016,15,Southampton,Middlesbrough,69.1,25.0,5.9
+2016,15,Liverpool,West Ham,97.5,1.0,1.5
+2016,16,Everton,Arsenal,3.3,14.5,82.2
+2016,16,Bournemouth,Leicester,19.1,23.7,57.2
+2016,16,Sunderland,Chelsea,1.7,2.3,96.0
+2016,16,Middlesbrough,Liverpool,2.3,9.1,88.6
+2016,16,West Ham,Burnley,79.4,17.7,2.9
+2016,16,Man City,Watford,94.3,5.1,0.6
+2016,16,Spurs,Hull City,97.2,2.3,0.6
+2016,16,Stoke City,Southampton,40.6,46.9,12.6
+2016,16,Crystal Palace,Man Utd,2.8,13.1,84.1
+2016,16,West Brom,Swansea,77.8,14.8,7.4
+2016,17,Crystal Palace,Chelsea,1.5,6.2,92.3
+2016,17,Middlesbrough,Swansea,54.0,32.5,13.5
+2016,17,Stoke City,Leicester,29.5,40.5,30.0
+2016,17,Sunderland,Watford,20.5,30.5,49.0
+2016,17,West Ham,Hull City,92.5,7.0,0.5
+2016,17,West Brom,Man Utd,7.0,23.5,69.5
+2016,17,Bournemouth,Southampton,42.1,28.7,29.2
+2016,17,Man City,Arsenal,36.5,38.4,25.1
+2016,17,Spurs,Burnley,99.0,0.5,0.5
+2016,17,Everton,Liverpool,3.9,24.6,71.5
+2016,18,Watford,Crystal Palace,69.3,23.5,7.3
+2016,18,Burnley,Middlesbrough,33.2,46.7,20.1
+2016,18,Swansea,West Ham,18.4,31.9,49.7
+2016,18,Leicester,Everton,50.3,33.0,16.8
+2016,18,Man Utd,Sunderland,96.2,1.6,2.2
+2016,18,Arsenal,West Brom,97.3,1.6,1.1
+2016,18,Chelsea,Bournemouth,94.6,3.2,2.2
+2016,18,Hull City,Man City,0.5,1.6,97.8
+2016,18,Liverpool,Stoke City,96.3,3.1,0.5
+2016,18,Southampton,Spurs,9.7,37.8,52.6
+2016,19,Hull City,Everton,2.3,5.2,92.5
+2016,19,Man Utd,Middlesbrough,93.2,5.7,1.1
+2016,19,Southampton,West Brom,71.0,23.3,5.7
+2016,19,Swansea,Bournemouth,34.1,39.8,26.1
+2016,19,Leicester,West Ham,56.8,27.3,15.9
+2016,19,Chelsea,Stoke City,97.7,0.6,1.7
+2016,19,Burnley,Sunderland,60.8,29.0,10.2
+2016,19,Liverpool,Man City,55.2,32.6,12.2
+2016,19,Watford,Spurs,2.2,12.2,85.6
+2016,19,Arsenal,Crystal Palace,98.4,1.1,0.5
+2016,20,Middlesbrough,Leicester,14.2,42.6,43.3
+2016,20,West Brom,Hull City,89.5,8.6,2.0
+2016,20,Man City,Burnley,98.0,0.7,1.3
+2016,20,Everton,Southampton,78.9,18.4,2.6
+2016,20,Sunderland,Liverpool,2.6,4.6,92.8
+2016,20,West Ham,Man Utd,7.1,16.8,76.1
+2016,20,Bournemouth,Arsenal,2.4,7.6,90.0
+2016,20,Stoke City,Watford,77.6,16.5,5.9
+2016,20,Crystal Palace,Swansea,70.6,22.4,7.1
+2016,20,Spurs,Chelsea,20.0,44.6,35.4
+2016,21,Spurs,West Brom,98.2,1.2,0.6
+2016,21,Watford,Middlesbrough,58.1,33.7,8.1
+2016,21,Burnley,Southampton,23.8,42.4,33.7
+2016,21,Swansea,Arsenal,0.6,4.6,94.8
+2016,21,West Ham,Crystal Palace,85.5,9.2,5.2
+2016,21,Sunderland,Stoke City,16.3,36.0,47.7
+2016,21,Hull City,Bournemouth,18.5,28.3,53.2
+2016,21,Leicester,Chelsea,6.9,14.5,78.6
+2016,21,Everton,Man City,12.4,25.8,61.8
+2016,21,Man Utd,Liverpool,30.3,43.8,25.8
+2016,22,Liverpool,Swansea,98.4,1.6,0.0
+2016,22,Stoke City,Man Utd,7.9,14.1,78.0
+2016,22,Bournemouth,Watford,67.4,25.3,7.4
+2016,22,West Brom,Sunderland,88.5,7.9,3.7
+2016,22,Crystal Palace,Everton,6.3,9.4,84.3
+2016,22,Middlesbrough,West Ham,16.8,48.4,34.7
+2016,22,Man City,Spurs,46.8,30.0,23.2
+2016,22,Southampton,Leicester,51.6,32.1,16.3
+2016,22,Arsenal,Burnley,98.4,0.5,1.0
+2016,22,Chelsea,Hull City,99.5,0.5,0.0
+2016,23,Burnley,Leicester,26.2,42.1,31.8
+2016,23,Arsenal,Watford,99.0,0.5,0.5
+2016,23,Swansea,Southampton,28.4,30.9,40.7
+2016,23,Bournemouth,Crystal Palace,80.0,14.4,5.6
+2016,23,Sunderland,Spurs,1.0,1.5,97.4
+2016,23,Middlesbrough,West Brom,18.0,40.7,41.2
+2016,23,Liverpool,Chelsea,37.9,31.8,30.3
+2016,23,West Ham,Man City,7.0,13.6,79.4
+2016,23,Man Utd,Hull City,97.5,1.5,1.0
+2016,23,Stoke City,Everton,14.1,46.5,39.4
+2016,24,Chelsea,Arsenal,63.9,25.1,11.0
+2016,24,Everton,Bournemouth,94.4,5.6,0.0
+2016,24,Hull City,Liverpool,1.0,4.6,94.4
+2016,24,Southampton,West Ham,58.5,25.6,15.9
+2016,24,West Brom,Stoke City,40.5,41.0,18.5
+2016,24,Watford,Burnley,61.5,29.2,9.2
+2016,24,Crystal Palace,Sunderland,70.8,23.6,5.6
+2016,24,Spurs,Middlesbrough,98.5,1.0,0.5
+2016,24,Man City,Swansea,96.5,3.0,0.5
+2016,24,Leicester,Man Utd,5.5,16.9,77.6
+2016,25,Arsenal,Hull City,96.4,3.1,0.5
+2016,25,Man Utd,Watford,92.4,6.1,1.5
+2016,25,Stoke City,Crystal Palace,85.3,11.7,3.0
+2016,25,West Ham,West Brom,61.4,30.5,8.1
+2016,25,Middlesbrough,Everton,5.1,11.2,83.8
+2016,25,Sunderland,Southampton,17.8,31.0,51.3
+2016,25,Liverpool,Spurs,36.2,46.2,17.6
+2016,25,Burnley,Chelsea,0.5,3.0,96.6
+2016,25,Swansea,Leicester,39.9,32.5,27.6
+2016,25,Bournemouth,Man City,1.9,3.4,94.7
+2016,26,Crystal Palace,Middlesbrough,38.0,47.9,14.1
+2016,26,Chelsea,Swansea,97.4,0.5,2.1
+2016,26,Everton,Sunderland,97.4,1.6,1.0
+2016,26,West Brom,Bournemouth,88.0,10.9,1.0
+2016,26,Hull City,Burnley,45.3,26.0,28.6
+2016,26,Watford,West Ham,24.5,37.5,38.0
+2016,26,Spurs,Stoke City,93.3,4.1,2.6
+2016,26,Leicester,Liverpool,3.6,11.7,84.7
+2016,26,Man City,Man Utd,58.1,30.0,11.8
+2016,26,Southampton,Arsenal,4.3,13.5,82.1
+2016,27,Man Utd,Bournemouth,98.9,1.1,0.0
+2016,27,Leicester,Hull City,88.9,7.2,3.9
+2016,27,Swansea,Burnley,61.7,27.2,11.1
+2016,27,Stoke City,Middlesbrough,83.3,13.3,3.3
+2016,27,Watford,Southampton,27.2,40.0,32.8
+2016,27,West Brom,Crystal Palace,80.0,12.2,7.8
+2016,27,Liverpool,Arsenal,51.7,37.2,11.1
+2016,27,Spurs,Everton,82.1,13.6,4.3
+2016,27,Sunderland,Man City,1.1,3.2,95.7
+2016,27,West Ham,Chelsea,4.3,11.7,84.0
+2016,28,Man City,Stoke City,97.8,2.2,0.0
+2016,28,Hull City,Swansea,31.4,40.0,28.6
+2016,28,Everton,West Brom,90.3,7.6,2.2
+2016,28,Bournemouth,West Ham,18.4,41.1,40.5
+2016,28,Liverpool,Burnley,97.3,1.6,1.1
+2016,28,Arsenal,Leicester,81.5,10.3,8.2
+2016,28,Middlesbrough,Sunderland,67.2,24.5,8.3
+2016,28,Crystal Palace,Spurs,3.6,3.1,93.3
+2016,28,Chelsea,Watford,99.5,0.5,0.0
+2016,28,Southampton,Man Utd,7.0,25.9,67.2
+2016,29,West Brom,Arsenal,4.2,16.2,79.6
+2016,29,Everton,Hull City,97.7,1.7,0.6
+2016,29,West Ham,Leicester,39.5,34.9,25.6
+2016,29,Stoke City,Chelsea,1.7,9.9,88.4
+2016,29,Sunderland,Burnley,40.7,24.4,34.9
+2016,29,Crystal Palace,Watford,45.3,34.9,19.8
+2016,29,Bournemouth,Swansea,53.5,29.1,17.4
+2016,29,Middlesbrough,Man Utd,1.7,2.9,95.3
+2016,29,Spurs,Southampton,95.9,2.9,1.2
+2016,29,Man City,Liverpool,49.7,34.1,16.2
+2016,30,Liverpool,Everton,84.8,12.2,3.0
+2016,30,Burnley,Spurs,1.2,6.7,92.1
+2016,30,Chelsea,Crystal Palace,99.4,0.0,0.6
+2016,30,Leicester,Stoke City,78.9,18.1,3.0
+2016,30,Man Utd,West Brom,94.0,5.4,0.6
+2016,30,Watford,Sunderland,83.1,14.5,2.4
+2016,30,Hull City,West Ham,18.1,31.9,50.0
+2016,30,Southampton,Bournemouth,76.6,18.0,5.4
+2016,30,Swansea,Middlesbrough,72.5,22.2,5.4
+2016,30,Arsenal,Man City,18.5,38.7,42.9
+2016,31,Leicester,Sunderland,97.5,1.9,0.6
+2016,31,Burnley,Stoke City,20.0,46.9,33.1
+2016,31,Watford,West Brom,35.6,38.8,25.6
+2016,31,Man Utd,Everton,79.4,15.6,5.0
+2016,31,Hull City,Middlesbrough,54.3,36.4,9.3
+2016,31,Arsenal,West Ham,93.2,5.6,1.2
+2016,31,Swansea,Spurs,4.3,3.7,92.0
+2016,31,Southampton,Crystal Palace,77.8,15.4,6.8
+2016,31,Chelsea,Man City,63.6,27.8,8.6
+2016,31,Liverpool,Bournemouth,96.9,2.5,0.6
+2016,32,Spurs,Watford,98.8,0.0,1.2
+2016,32,Middlesbrough,Burnley,40.4,38.0,21.6
+2016,32,Stoke City,Liverpool,4.1,18.1,77.8
+2016,32,Man City,Hull City,97.1,2.3,0.6
+2016,32,West Brom,Southampton,53.2,29.8,17.0
+2016,32,West Ham,Swansea,75.4,17.5,7.0
+2016,32,Bournemouth,Chelsea,0.6,4.7,94.8
+2016,32,Sunderland,Man Utd,1.1,2.9,96.0
+2016,32,Everton,Leicester,54.9,33.1,12.0
+2016,32,Crystal Palace,Arsenal,6.1,11.6,82.3
+2016,33,Spurs,Bournemouth,98.3,1.7,0.0
+2016,33,Crystal Palace,Leicester,23.4,27.7,48.9
+2016,33,Stoke City,Hull City,76.0,18.6,5.5
+2016,33,Sunderland,West Ham,9.3,19.1,71.6
+2016,33,Watford,Swansea,67.8,20.8,11.5
+2016,33,Everton,Burnley,99.5,0.0,0.5
+2016,33,Southampton,Man City,2.7,17.3,80.0
+2016,33,West Brom,Liverpool,7.4,13.8,78.7
+2016,33,Man Utd,Chelsea,19.4,36.6,44.0
+2016,33,Middlesbrough,Arsenal,3.7,5.2,91.1
+2016,34,Swansea,Stoke City,30.9,24.7,44.4
+2016,34,Hull City,Watford,34.3,38.8,27.0
+2016,34,West Ham,Everton,6.2,20.2,73.6
+2016,34,Bournemouth,Middlesbrough,73.6,19.7,6.7
+2016,34,Burnley,Man Utd,3.3,6.0,90.7
+2016,34,Liverpool,Crystal Palace,94.6,4.3,1.1
+2016,34,Chelsea,Southampton,95.5,3.4,1.1
+2016,34,Arsenal,Sunderland,96.3,3.2,0.5
+2016,34,Man City,West Brom,96.3,3.2,0.5
+2016,34,Leicester,Spurs,13.6,27.7,58.6
+2016,35,West Brom,Leicester,34.1,35.3,30.6
+2016,35,Sunderland,Bournemouth,14.7,24.1,61.2
+2016,35,Stoke City,West Ham,66.1,26.3,7.6
+2016,35,Southampton,Hull City,85.4,12.3,2.3
+2016,35,Crystal Palace,Burnley,90.6,8.2,1.2
+2016,35,Man Utd,Swansea,97.7,2.3,0.0
+2016,35,Middlesbrough,Man City,1.2,1.7,97.1
+2016,35,Everton,Chelsea,9.2,25.4,65.3
+2016,35,Spurs,Arsenal,77.0,19.5,3.4
+2016,35,Watford,Liverpool,4.5,3.9,91.6
+2016,36,West Ham,Spurs,2.9,4.7,92.4
+2016,36,Man City,Crystal Palace,97.7,1.7,0.6
+2016,36,Burnley,West Brom,26.4,35.1,38.5
+2016,36,Leicester,Watford,92.5,5.2,2.3
+2016,36,Hull City,Sunderland,85.1,12.1,2.9
+2016,36,Bournemouth,Stoke City,50.0,33.9,16.1
+2016,36,Swansea,Everton,9.1,18.9,72.0
+2016,36,Liverpool,Southampton,94.9,3.4,1.7
+2016,36,Arsenal,Man Utd,32.4,50.0,17.6
+2016,36,Chelsea,Middlesbrough,100.0,0.0,0.0
+2016,37,Everton,Watford,94.5,4.3,1.2
+2016,37,West Brom,Chelsea,1.2,7.9,90.9
+2016,37,Man City,Leicester,84.3,12.8,2.9
+2016,37,Bournemouth,Burnley,73.4,19.7,6.9
+2016,37,Middlesbrough,Southampton,12.1,29.5,58.4
+2016,37,Sunderland,Swansea,15.0,25.4,59.5
+2016,37,Stoke City,Arsenal,6.9,9.8,83.2
+2016,37,Crystal Palace,Hull City,71.1,23.1,5.8
+2016,37,West Ham,Liverpool,7.5,18.5,74.0
+2016,37,Spurs,Man Utd,76.4,16.7,6.9
+2016,38,Arsenal,Everton,80.8,15.7,3.5
+2016,38,Chelsea,Sunderland,100.0,0.0,0.0
+2016,38,Southampton,Stoke City,75.6,15.1,9.3
+2016,38,Hull City,Spurs,1.2,1.7,97.1
+2016,38,Burnley,West Ham,27.3,36.0,36.6
+2016,38,Leicester,Bournemouth,83.7,15.1,1.2
+2016,38,Man Utd,Crystal Palace,90.2,7.5,2.3
+2016,38,Swansea,West Brom,39.5,29.1,31.4
+2016,38,Liverpool,Middlesbrough,97.7,1.7,0.6
+2016,38,Watford,Man City,3.5,1.7,94.8
+2017,1,Arsenal,Leicester,91.0,6.6,2.4
+2017,1,Watford,Liverpool,1.8,7.2,91.0
+2017,1,West Brom,Bournemouth,50.9,34.4,14.7
+2017,1,Southampton,Swansea,70.1,24.6,5.4
+2017,1,Everton,Stoke City,88.8,8.5,2.7
+2017,1,Crystal Palace,Huddersfield,59.6,31.6,8.9
+2017,1,Chelsea,Burnley,98.2,1.3,0.4
+2017,1,Brighton,Man City,0.9,4.0,95.2
+2017,1,Newcastle,Spurs,7.4,19.1,73.5
+2017,1,Man Utd,West Ham,88.3,8.7,3.0
+2017,2,Swansea,Man Utd,0.0,2.1,97.9
+2017,2,Bournemouth,Watford,34.6,43.5,22.0
+2017,2,Southampton,West Ham,55.9,31.4,12.7
+2017,2,Liverpool,Crystal Palace,95.9,3.3,0.8
+2017,2,Leicester,Brighton,91.1,5.7,3.2
+2017,2,Burnley,West Brom,46.9,38.7,14.4
+2017,2,Stoke City,Arsenal,3.2,7.3,89.5
+2017,2,Huddersfield,Newcastle,51.4,32.5,16.1
+2017,2,Spurs,Chelsea,52.7,31.8,15.5
+2017,2,Man City,Everton,82.5,15.7,1.9
+2017,3,Bournemouth,Man City,0.4,1.3,98.3
+2017,3,Watford,Brighton,81.4,12.0,6.6
+2017,3,Newcastle,West Ham,42.6,29.3,28.1
+2017,3,Huddersfield,Southampton,49.8,30.7,19.5
+2017,3,Crystal Palace,Swansea,52.7,31.1,16.2
+2017,3,Man Utd,Leicester,92.7,5.3,2.0
+2017,3,West Brom,Stoke City,58.7,27.8,13.5
+2017,3,Chelsea,Everton,77.4,17.5,5.2
+2017,3,Spurs,Burnley,99.2,0.4,0.4
+2017,3,Liverpool,Arsenal,69.3,20.9,9.8
+2017,4,Man City,Liverpool,35.0,33.9,31.1
+2017,4,Arsenal,Bournemouth,94.8,4.0,1.2
+2017,4,Southampton,Watford,73.9,20.2,5.9
+2017,4,Leicester,Chelsea,6.3,11.9,81.7
+2017,4,Everton,Spurs,15.9,41.3,42.9
+2017,4,Brighton,West Brom,13.9,27.1,59.0
+2017,4,Stoke City,Man Utd,1.6,5.1,93.3
+2017,4,Burnley,Crystal Palace,66.0,22.9,11.1
+2017,4,Swansea,Newcastle,45.1,35.6,19.4
+2017,4,West Ham,Huddersfield,38.5,22.5,38.9
+2017,5,Bournemouth,Brighton,50.0,30.2,19.8
+2017,5,Crystal Palace,Southampton,21.5,30.5,48.0
+2017,5,West Brom,West Ham,58.0,19.6,22.3
+2017,5,Watford,Man City,4.0,5.3,90.7
+2017,5,Newcastle,Stoke City,53.8,30.7,15.6
+2017,5,Liverpool,Burnley,95.5,3.1,1.3
+2017,5,Huddersfield,Leicester,40.4,29.6,30.0
+2017,5,Spurs,Swansea,96.9,1.8,1.3
+2017,5,Chelsea,Arsenal,86.8,10.1,3.1
+2017,5,Man Utd,Everton,92.6,6.5,0.9
+2017,6,West Ham,Spurs,6.6,10.9,82.5
+2017,6,Swansea,Watford,48.4,31.5,20.2
+2017,6,Stoke City,Chelsea,1.9,8.5,89.6
+2017,6,Southampton,Man Utd,0.9,9.4,89.7
+2017,6,Man City,Crystal Palace,99.5,0.5,0.0
+2017,6,Everton,Bournemouth,93.5,3.7,2.8
+2017,6,Burnley,Huddersfield,38.0,46.0,16.0
+2017,6,Leicester,Liverpool,9.3,25.1,65.6
+2017,6,Brighton,Newcastle,14.2,25.6,60.3
+2017,6,Arsenal,West Brom,96.0,3.1,0.9
+2017,7,Huddersfield,Spurs,3.4,9.9,86.7
+2017,7,Bournemouth,Leicester,12.6,25.6,61.8
+2017,7,West Ham,Swansea,72.0,20.8,7.2
+2017,7,West Brom,Watford,33.0,36.4,30.6
+2017,7,Stoke City,Southampton,41.5,38.2,20.3
+2017,7,Man Utd,Crystal Palace,99.5,0.0,0.5
+2017,7,Chelsea,Man City,30.8,43.6,25.6
+2017,7,Arsenal,Brighton,99.5,0.5,0.0
+2017,7,Everton,Burnley,84.4,9.2,6.4
+2017,7,Newcastle,Liverpool,5.0,14.2,80.8
+2017,8,Liverpool,Man Utd,22.7,31.5,45.8
+2017,8,Spurs,Bournemouth,96.6,1.9,1.5
+2017,8,Swansea,Huddersfield,34.5,40.8,24.8
+2017,8,Man City,Stoke City,99.5,0.5,0.0
+2017,8,Crystal Palace,Chelsea,1.9,1.5,96.6
+2017,8,Burnley,West Ham,58.7,22.3,18.9
+2017,8,Watford,Arsenal,8.3,19.4,72.3
+2017,8,Brighton,Everton,17.8,26.0,56.3
+2017,8,Southampton,Newcastle,52.9,28.8,18.3
+2017,8,Leicester,West Brom,73.0,15.6,11.4
+2017,9,West Ham,Brighton,79.7,15.5,4.8
+2017,9,Chelsea,Watford,88.5,8.3,3.1
+2017,9,Swansea,Leicester,33.3,40.6,26.0
+2017,9,Stoke City,Bournemouth,70.5,23.8,5.7
+2017,9,Newcastle,Crystal Palace,81.3,14.5,4.1
+2017,9,Man City,Burnley,97.9,1.0,1.0
+2017,9,Huddersfield,Man Utd,1.0,7.3,91.7
+2017,9,Southampton,West Brom,66.2,27.2,6.7
+2017,9,Everton,Arsenal,9.8,22.7,67.5
+2017,9,Spurs,Liverpool,57.7,28.6,13.8
+2017,10,Man Utd,Spurs,49.5,33.0,17.5
+2017,10,West Brom,Man City,0.5,4.1,95.4
+2017,10,Watford,Stoke City,81.7,11.2,7.1
+2017,10,Liverpool,Huddersfield,90.9,5.1,4.1
+2017,10,Crystal Palace,West Ham,22.3,36.5,41.1
+2017,10,Arsenal,Swansea,97.5,2.5,0.0
+2017,10,Bournemouth,Chelsea,1.5,2.5,96.0
+2017,10,Brighton,Southampton,35.5,39.5,25.0
+2017,10,Leicester,Everton,61.8,24.6,13.6
+2017,10,Burnley,Newcastle,40.6,31.7,27.7
+2017,11,Stoke City,Leicester,24.2,44.1,31.7
+2017,11,Swansea,Brighton,40.1,36.9,23.0
+2017,11,Southampton,Burnley,60.4,27.8,11.8
+2017,11,Newcastle,Bournemouth,87.1,8.6,4.3
+2017,11,Huddersfield,West Brom,70.6,19.8,9.6
+2017,11,West Ham,Liverpool,5.9,6.4,87.8
+2017,11,Spurs,Crystal Palace,99.0,1.0,0.0
+2017,11,Man City,Arsenal,90.3,7.2,2.6
+2017,11,Everton,Watford,47.4,20.9,31.6
+2017,11,Chelsea,Man Utd,31.6,46.4,21.9
+2017,12,Arsenal,Spurs,19.0,47.3,33.7
+2017,12,Bournemouth,Huddersfield,30.0,35.3,34.7
+2017,12,West Brom,Chelsea,1.1,3.2,95.8
+2017,12,Liverpool,Southampton,95.8,3.2,1.1
+2017,12,Leicester,Man City,3.7,7.4,88.9
+2017,12,Crystal Palace,Everton,16.3,29.5,54.2
+2017,12,Burnley,Swansea,81.1,11.1,7.9
+2017,12,Man Utd,Newcastle,97.4,1.6,1.0
+2017,12,Watford,West Ham,62.9,23.7,13.4
+2017,12,Brighton,Stoke City,55.3,25.4,19.3
+2017,13,West Ham,Leicester,20.9,41.3,37.8
+2017,13,Spurs,West Brom,97.8,2.2,0.0
+2017,13,Swansea,Bournemouth,33.7,32.0,34.3
+2017,13,Newcastle,Watford,57.9,28.7,13.5
+2017,13,Man Utd,Brighton,100.0,0.0,0.0
+2017,13,Crystal Palace,Stoke City,26.4,34.8,38.8
+2017,13,Liverpool,Chelsea,37.4,35.2,27.4
+2017,13,Southampton,Everton,66.1,20.9,13.0
+2017,13,Burnley,Arsenal,6.7,17.4,75.8
+2017,13,Huddersfield,Man City,2.2,3.9,93.9
+2017,14,Leicester,Spurs,8.2,13.6,78.2
+2017,14,Brighton,Crystal Palace,78.2,14.3,7.5
+2017,14,West Brom,Newcastle,32.7,42.7,24.7
+2017,14,Watford,Man Utd,1.3,14.0,84.7
+2017,14,Bournemouth,Burnley,28.3,44.0,27.7
+2017,14,Chelsea,Swansea,99.4,0.6,0.0
+2017,14,Arsenal,Huddersfield,93.7,3.8,2.5
+2017,14,Stoke City,Liverpool,5.0,11.9,83.0
+2017,14,Man City,Southampton,98.1,0.6,1.3
+2017,14,Everton,West Ham,61.6,30.2,8.2
+2017,15,Chelsea,Newcastle,96.4,1.8,1.8
+2017,15,West Brom,Crystal Palace,60.6,29.4,10.0
+2017,15,Watford,Spurs,7.1,20.7,72.2
+2017,15,Stoke City,Swansea,79.4,15.3,5.3
+2017,15,Leicester,Burnley,68.2,26.5,5.3
+2017,15,Everton,Huddersfield,75.3,13.5,11.2
+2017,15,Brighton,Liverpool,3.5,5.3,91.2
+2017,15,Arsenal,Man Utd,22.9,39.4,37.6
+2017,15,Bournemouth,Southampton,24.7,35.6,39.7
+2017,15,Man City,West Ham,97.7,1.1,1.1
+2017,16,West Ham,Chelsea,1.2,4.7,94.1
+2017,16,Burnley,Watford,55.5,32.4,12.1
+2017,16,Spurs,Stoke City,97.7,1.7,0.6
+2017,16,Swansea,West Brom,34.1,36.4,29.5
+2017,16,Huddersfield,Brighton,56.1,28.9,15.0
+2017,16,Crystal Palace,Bournemouth,46.2,34.1,19.7
+2017,16,Newcastle,Leicester,18.8,32.4,48.9
+2017,16,Southampton,Arsenal,3.3,8.8,87.8
+2017,16,Liverpool,Everton,92.3,5.5,2.2
+2017,16,Man Utd,Man City,20.3,45.6,34.1
+2017,17,Burnley,Stoke City,73.7,18.0,8.4
+2017,17,Huddersfield,Chelsea,4.2,3.6,92.2
+2017,17,Crystal Palace,Watford,18.6,25.1,56.3
+2017,17,Southampton,Leicester,38.7,34.7,26.6
+2017,17,Newcastle,Everton,22.5,41.6,35.8
+2017,17,Swansea,Man City,1.7,1.7,96.5
+2017,17,Spurs,Brighton,96.5,2.9,0.6
+2017,17,Liverpool,West Brom,98.3,0.6,1.2
+2017,17,West Ham,Arsenal,8.1,14.5,77.5
+2017,17,Man Utd,Bournemouth,100.0,0.0,0.0
+2017,18,Leicester,Crystal Palace,95.2,3.0,1.8
+2017,18,Watford,Huddersfield,69.5,23.4,7.2
+2017,18,Chelsea,Southampton,97.6,2.4,0.0
+2017,18,Brighton,Burnley,18.5,38.7,42.9
+2017,18,Arsenal,Newcastle,94.6,4.2,1.2
+2017,18,Stoke City,West Ham,51.8,32.7,15.5
+2017,18,Man City,Spurs,82.8,13.0,4.1
+2017,18,West Brom,Man Utd,0.0,4.0,96.0
+2017,18,Bournemouth,Liverpool,2.8,4.0,93.2
+2017,18,Everton,Swansea,92.4,4.3,3.3
+2017,19,Arsenal,Liverpool,18.8,51.0,30.2
+2017,19,Everton,Chelsea,9.6,16.6,73.9
+2017,19,West Ham,Newcastle,79.6,15.3,5.1
+2017,19,Swansea,Crystal Palace,33.8,31.8,34.4
+2017,19,Stoke City,West Brom,60.5,28.0,11.5
+2017,19,Southampton,Huddersfield,67.5,22.3,10.2
+2017,19,Man City,Bournemouth,99.4,0.0,0.6
+2017,19,Brighton,Watford,26.1,46.5,27.4
+2017,19,Burnley,Spurs,8.1,20.6,71.3
+2017,19,Leicester,Man Utd,6.8,16.1,77.0
+2017,20,Spurs,Southampton,96.1,3.1,0.8
+2017,20,Bournemouth,West Ham,32.0,28.9,39.1
+2017,20,West Brom,Everton,7.0,21.9,71.1
+2017,20,Watford,Leicester,19.5,41.4,39.1
+2017,20,Man Utd,Burnley,95.3,4.7,0.0
+2017,20,Huddersfield,Stoke City,69.3,18.9,11.8
+2017,20,Chelsea,Brighton,99.2,0.8,0.0
+2017,20,Liverpool,Swansea,96.2,2.3,1.5
+2017,20,Newcastle,Man City,2.9,2.2,94.9
+2017,20,Crystal Palace,Arsenal,2.8,9.2,87.9
+2017,21,Bournemouth,Everton,8.6,35.3,56.1
+2017,21,Watford,Swansea,80.6,11.5,7.9
+2017,21,Newcastle,Brighton,72.7,19.4,7.9
+2017,21,Liverpool,Leicester,89.2,9.4,1.4
+2017,21,Huddersfield,Burnley,31.9,42.0,26.1
+2017,21,Chelsea,Stoke City,97.1,1.4,1.4
+2017,21,Man Utd,Southampton,93.6,5.7,0.7
+2017,21,Crystal Palace,Man City,2.8,0.7,96.5
+2017,21,West Brom,Arsenal,2.1,7.1,90.8
+2017,21,Spurs,West Ham,94.7,2.6,2.6
+2017,22,Brighton,Bournemouth,57.0,36.4,6.5
+2017,22,Stoke City,Newcastle,57.0,30.7,12.3
+2017,22,Leicester,Huddersfield,86.0,8.8,5.3
+2017,22,Burnley,Liverpool,4.4,14.9,80.7
+2017,22,Everton,Man Utd,11.0,24.6,64.4
+2017,22,West Ham,West Brom,80.8,16.9,2.3
+2017,22,Swansea,Spurs,1.5,2.3,96.2
+2017,22,Southampton,Crystal Palace,73.1,18.5,8.5
+2017,22,Man City,Watford,96.2,3.1,0.8
+2017,22,Arsenal,Chelsea,17.1,37.9,45.0
+2017,23,West Brom,Brighton,29.9,41.4,28.7
+2017,23,Watford,Southampton,66.1,21.3,12.6
+2017,23,Newcastle,Swansea,88.5,8.6,2.9
+2017,23,Huddersfield,West Ham,51.7,27.6,20.7
+2017,23,Crystal Palace,Burnley,23.0,30.5,46.6
+2017,23,Chelsea,Leicester,97.1,2.3,0.6
+2017,23,Spurs,Everton,90.3,8.6,1.1
+2017,23,Bournemouth,Arsenal,0.0,4.5,95.5
+2017,23,Liverpool,Man City,16.9,37.6,45.5
+2017,23,Man Utd,Stoke City,98.4,0.5,1.1
+2017,24,Brighton,Chelsea,0.6,4.0,95.4
+2017,24,Arsenal,Crystal Palace,91.5,7.4,1.1
+2017,24,West Ham,Bournemouth,72.7,22.7,4.5
+2017,24,Stoke City,Huddersfield,33.0,45.5,21.6
+2017,24,Leicester,Watford,86.4,9.7,4.0
+2017,24,Everton,West Brom,90.9,7.4,1.7
+2017,24,Burnley,Man Utd,2.8,13.1,84.1
+2017,24,Man City,Newcastle,98.3,1.7,0.0
+2017,24,Southampton,Spurs,2.7,9.9,87.4
+2017,24,Swansea,Liverpool,3.8,0.5,95.7
+2017,25,West Ham,Crystal Palace,78.7,19.0,2.3
+2017,25,Swansea,Arsenal,3.5,3.5,93.1
+2017,25,Huddersfield,Liverpool,2.3,4.6,93.1
+2017,25,Southampton,Brighton,69.3,24.4,6.3
+2017,25,Newcastle,Burnley,29.5,43.8,26.7
+2017,25,Everton,Leicester,41.2,41.8,16.9
+2017,25,Chelsea,Bournemouth,98.3,1.1,0.6
+2017,25,Spurs,Man Utd,33.9,42.4,23.7
+2017,25,Stoke City,Watford,44.6,31.1,24.3
+2017,25,Man City,West Brom,98.9,1.1,0.0
+2017,26,Burnley,Man City,1.2,4.3,94.4
+2017,26,Bournemouth,Stoke City,69.1,18.8,12.1
+2017,26,West Brom,Southampton,26.8,42.7,30.5
+2017,26,Man Utd,Huddersfield,98.2,1.2,0.6
+2017,26,Leicester,Swansea,85.5,10.3,4.2
+2017,26,Brighton,West Ham,18.8,34.5,46.7
+2017,26,Arsenal,Everton,87.4,8.4,4.2
+2017,26,Crystal Palace,Newcastle,51.8,36.5,11.8
+2017,26,Liverpool,Spurs,66.1,26.3,7.6
+2017,26,Watford,Chelsea,2.9,4.6,92.5
+2017,27,Spurs,Arsenal,62.9,26.5,10.6
+2017,27,West Ham,Watford,59.4,30.6,10.0
+2017,27,Swansea,Burnley,32.0,26.0,42.0
+2017,27,Stoke City,Brighton,52.9,31.8,15.3
+2017,27,Everton,Crystal Palace,86.5,11.8,1.8
+2017,27,Man City,Leicester,95.9,2.9,1.2
+2017,27,Huddersfield,Bournemouth,29.7,29.1,41.3
+2017,27,Newcastle,Man Utd,2.3,5.2,92.4
+2017,27,Southampton,Liverpool,2.9,4.1,93.0
+2017,27,Chelsea,West Brom,96.0,2.3,1.7
+2017,28,Leicester,Stoke City,93.3,5.0,1.7
+2017,28,Bournemouth,Newcastle,51.1,33.9,15.0
+2017,28,West Brom,Huddersfield,28.3,39.4,32.2
+2017,28,Liverpool,West Ham,96.7,1.7,1.7
+2017,28,Burnley,Southampton,70.4,15.1,14.5
+2017,28,Brighton,Swansea,50.0,32.8,17.2
+2017,28,Watford,Everton,20.0,37.2,42.8
+2017,28,Crystal Palace,Spurs,0.5,5.5,94.0
+2017,28,Man Utd,Chelsea,56.0,34.1,9.9
+2017,28,Arsenal,Man City,9.5,14.8,75.7
+2017,29,Burnley,Everton,34.0,36.4,29.6
+2017,29,Watford,West Brom,86.6,9.8,3.7
+2017,29,Spurs,Huddersfield,99.4,0.0,0.6
+2017,29,Swansea,West Ham,22.6,36.6,40.9
+2017,29,Southampton,Stoke City,68.9,24.4,6.7
+2017,29,Leicester,Bournemouth,92.7,6.7,0.6
+2017,29,Liverpool,Newcastle,96.4,2.4,1.2
+2017,29,Brighton,Arsenal,2.9,17.6,79.4
+2017,29,Man City,Chelsea,83.6,11.7,4.7
+2017,29,Crystal Palace,Man Utd,1.7,4.0,94.3
+2017,30,Man Utd,Liverpool,32.1,38.8,29.1
+2017,30,West Ham,Burnley,47.3,23.1,29.6
+2017,30,West Brom,Leicester,8.3,14.8,76.9
+2017,30,Newcastle,Southampton,54.8,32.1,13.1
+2017,30,Huddersfield,Swansea,51.5,33.1,15.4
+2017,30,Everton,Brighton,83.4,12.4,4.1
+2017,30,Chelsea,Crystal Palace,94.7,4.1,1.2
+2017,30,Arsenal,Watford,85.6,9.0,5.4
+2017,30,Bournemouth,Spurs,1.2,4.1,94.7
+2017,30,Stoke City,Man City,1.2,0.6,98.3
+2017,31,Bournemouth,West Brom,82.7,11.0,6.4
+2017,31,Stoke City,Everton,10.3,23.0,66.7
+2017,31,Huddersfield,Crystal Palace,63.6,27.2,9.2
+2017,31,Liverpool,Watford,98.9,0.6,0.6
+2017,31,Burnley,Chelsea,9.3,21.3,69.4
+2017,31,Swansea,Southampton,60.4,24.6,15.0
+2017,31,Leicester,Arsenal,17.0,36.7,46.3
+2017,31,Spurs,Newcastle,96.8,2.7,0.5
+2017,31,Man City,Brighton,98.9,1.1,0.0
+2017,31,West Ham,Man Utd,4.3,5.3,90.4
+2017,32,Crystal Palace,Liverpool,1.2,1.8,97.0
+2017,32,West Brom,Burnley,10.2,14.5,75.3
+2017,32,Watford,Bournemouth,56.9,33.5,9.6
+2017,32,West Ham,Southampton,57.8,31.3,10.8
+2017,32,Newcastle,Huddersfield,70.5,24.1,5.4
+2017,32,Man Utd,Swansea,96.4,2.4,1.2
+2017,32,Brighton,Leicester,9.1,35.8,55.2
+2017,32,Everton,Man City,1.2,9.0,89.8
+2017,32,Arsenal,Stoke City,95.9,3.0,1.2
+2017,32,Chelsea,Spurs,33.5,48.8,17.6
+2017,33,Everton,Liverpool,3.1,12.3,84.7
+2017,33,Bournemouth,Crystal Palace,64.8,24.1,11.1
+2017,33,West Brom,Swansea,19.1,34.6,46.3
+2017,33,Watford,Burnley,34.6,38.3,27.2
+2017,33,Stoke City,Spurs,1.8,3.1,95.1
+2017,33,Leicester,Newcastle,91.4,7.4,1.2
+2017,33,Brighton,Huddersfield,53.7,38.3,8.0
+2017,33,Man City,Man Utd,78.5,13.5,8.0
+2017,33,Arsenal,Southampton,94.6,3.0,2.4
+2017,33,Chelsea,West Ham,95.2,4.8,0.0
+2017,34,Southampton,Chelsea,4.4,5.7,89.9
+2017,34,Burnley,Leicester,43.9,40.8,15.3
+2017,34,Swansea,Everton,9.5,26.6,63.9
+2017,34,Huddersfield,Watford,39.9,37.3,22.8
+2017,34,Crystal Palace,Brighton,51.6,33.8,14.6
+2017,34,Liverpool,Bournemouth,97.5,1.3,1.3
+2017,34,Spurs,Man City,34.4,35.6,30.0
+2017,34,Newcastle,Arsenal,11.0,12.3,76.7
+2017,34,Man Utd,West Brom,98.2,1.2,0.6
+2017,34,West Ham,Stoke City,81.2,14.5,4.2
+2017,35,Brighton,Spurs,0.9,1.8,97.3
+2017,35,Bournemouth,Man Utd,2.5,6.7,90.8
+2017,35,Leicester,Southampton,84.4,9.4,6.3
+2017,35,West Brom,Liverpool,0.6,2.6,96.8
+2017,35,Watford,Crystal Palace,60.8,32.3,7.0
+2017,35,Stoke City,Burnley,31.0,23.4,45.6
+2017,35,Arsenal,West Ham,88.6,8.9,2.5
+2017,35,Man City,Swansea,96.9,2.5,0.6
+2017,35,Everton,Newcastle,66.7,27.7,5.7
+2017,35,Chelsea,Huddersfield,94.0,4.8,1.2
+2017,36,Liverpool,Stoke City,96.1,2.6,1.3
+2017,36,Burnley,Brighton,87.3,11.4,1.3
+2017,36,Southampton,Bournemouth,50.0,27.2,22.8
+2017,36,Newcastle,West Brom,88.6,6.3,5.1
+2017,36,Huddersfield,Everton,13.3,30.4,56.3
+2017,36,Crystal Palace,Leicester,20.9,28.5,50.6
+2017,36,Swansea,Chelsea,1.9,6.4,91.7
+2017,36,West Ham,Man City,2.5,3.8,93.8
+2017,36,Man Utd,Arsenal,81.3,17.5,1.3
+2017,36,Spurs,Watford,98.1,1.9,0.0
+2017,37,Brighton,Man Utd,0.6,3.2,96.1
+2017,37,Stoke City,Crystal Palace,31.0,27.8,41.1
+2017,37,Bournemouth,Swansea,56.6,27.0,16.4
+2017,37,West Brom,Spurs,1.9,5.6,92.5
+2017,37,Watford,Newcastle,33.8,43.1,23.1
+2017,37,Leicester,West Ham,78.1,16.3,5.6
+2017,37,Everton,Southampton,77.5,11.9,10.6
+2017,37,Man City,Huddersfield,96.3,1.8,1.8
+2017,37,Chelsea,Liverpool,22.0,40.2,37.8
+2017,37,Arsenal,Burnley,86.1,8.5,5.5
+2017,38,Burnley,Bournemouth,84.6,14.7,0.6
+2017,38,West Ham,Everton,29.5,38.5,32.1
+2017,38,Spurs,Leicester,91.7,7.1,1.3
+2017,38,Swansea,Stoke City,68.4,24.5,7.1
+2017,38,Southampton,Man City,3.2,8.3,88.5
+2017,38,Newcastle,Chelsea,6.4,9.0,84.6
+2017,38,Man Utd,Watford,97.5,1.9,0.6
+2017,38,Liverpool,Brighton,96.8,1.9,1.3
+2017,38,Huddersfield,Arsenal,12.8,11.5,75.6
+2017,38,Crystal Palace,West Brom,69.2,16.0,14.7
+2018,1,Man Utd,Leicester,87.7,8.2,4.1
+2018,1,Newcastle,Spurs,3.2,10.9,85.9
+2018,1,Watford,Brighton,58.5,30.6,10.9
+2018,1,Huddersfield,Chelsea,4.0,6.5,89.5
+2018,1,Fulham,Crystal Palace,59.3,27.0,13.7
+2018,1,Bournemouth,Cardiff,65.7,28.6,5.6
+2018,1,Wolves,Everton,20.7,24.3,55.0
+2018,1,Southampton,Burnley,52.5,33.6,13.9
+2018,1,Liverpool,West Ham,97.3,1.5,1.2
+2018,1,Arsenal,Man City,8.8,22.3,68.8
+2018,2,Cardiff,Newcastle,10.8,28.7,60.5
+2018,2,West Ham,Bournemouth,69.9,21.0,9.2
+2018,2,Spurs,Fulham,99.1,0.0,0.9
+2018,2,Leicester,Wolves,73.8,19.7,6.6
+2018,2,Everton,Southampton,88.2,9.2,2.6
+2018,2,Chelsea,Arsenal,75.1,21.0,3.9
+2018,2,Man City,Huddersfield,98.3,1.3,0.4
+2018,2,Burnley,Watford,35.3,40.4,24.3
+2018,2,Brighton,Man Utd,0.8,4.7,94.5
+2018,2,Crystal Palace,Liverpool,1.2,1.2,97.5
+2018,3,Wolves,Man City,1.2,2.0,96.7
+2018,3,Arsenal,West Ham,90.2,7.3,2.4
+2018,3,Southampton,Leicester,21.5,38.2,40.2
+2018,3,Huddersfield,Cardiff,60.6,28.5,11.0
+2018,3,Bournemouth,Everton,9.3,29.7,61.0
+2018,3,Liverpool,Brighton,98.0,1.2,0.8
+2018,3,Watford,Crystal Palace,56.2,22.9,20.9
+2018,3,Newcastle,Chelsea,4.0,6.8,89.2
+2018,3,Fulham,Burnley,62.7,22.9,14.5
+2018,3,Man Utd,Spurs,31.3,33.6,35.2
+2018,4,Leicester,Liverpool,2.5,9.1,88.4
+2018,4,Everton,Huddersfield,94.2,4.5,1.2
+2018,4,Crystal Palace,Southampton,65.7,23.6,10.7
+2018,4,Chelsea,Bournemouth,95.0,4.5,0.4
+2018,4,Brighton,Fulham,29.8,40.5,29.8
+2018,4,West Ham,Wolves,46.7,30.2,23.1
+2018,4,Man City,Newcastle,99.2,0.8,0.0
+2018,4,Cardiff,Arsenal,2.4,5.7,91.9
+2018,4,Watford,Spurs,2.9,12.2,84.9
+2018,4,Burnley,Man Utd,7.3,13.4,79.3
+2018,5,Spurs,Liverpool,15.2,38.0,46.8
+2018,5,Bournemouth,Leicester,28.3,37.9,33.8
+2018,5,Newcastle,Arsenal,7.1,14.9,78.0
+2018,5,Man City,Fulham,96.7,2.5,0.8
+2018,5,Huddersfield,Crystal Palace,32.4,35.3,32.4
+2018,5,Chelsea,Cardiff,98.8,0.4,0.8
+2018,5,Watford,Man Utd,25.6,25.6,48.8
+2018,5,Wolves,Burnley,79.2,13.1,7.8
+2018,5,Everton,West Ham,83.3,11.8,4.9
+2018,5,Southampton,Brighton,66.4,27.2,6.4
+2018,6,Fulham,Watford,16.6,29.7,53.7
+2018,6,Man Utd,Wolves,86.2,11.6,2.2
+2018,6,Liverpool,Southampton,98.7,0.9,0.4
+2018,6,Leicester,Huddersfield,93.1,5.2,1.7
+2018,6,Crystal Palace,Newcastle,63.4,25.4,11.2
+2018,6,Cardiff,Man City,0.9,0.9,98.3
+2018,6,Burnley,Bournemouth,10.8,32.3,56.9
+2018,6,Brighton,Spurs,3.0,6.4,90.6
+2018,6,West Ham,Chelsea,4.2,11.0,84.8
+2018,6,Arsenal,Everton,81.1,13.9,5.0
+2018,7,West Ham,Man Utd,9.1,17.7,73.2
+2018,7,Arsenal,Watford,76.8,14.7,8.5
+2018,7,Wolves,Southampton,73.1,21.1,5.8
+2018,7,Newcastle,Leicester,16.1,25.0,58.9
+2018,7,Man City,Brighton,98.2,0.9,0.9
+2018,7,Huddersfield,Spurs,1.8,2.7,95.5
+2018,7,Everton,Fulham,78.1,19.2,2.7
+2018,7,Chelsea,Liverpool,19.5,42.0,38.5
+2018,7,Cardiff,Burnley,26.4,29.4,44.2
+2018,7,Bournemouth,Crystal Palace,57.7,27.4,15.0
+2018,8,Brighton,West Ham,16.5,27.2,56.3
+2018,8,Watford,Bournemouth,74.6,19.7,5.6
+2018,8,Spurs,Cardiff,98.6,1.4,0.0
+2018,8,Leicester,Everton,59.6,28.2,12.2
+2018,8,Crystal Palace,Wolves,20.7,39.9,39.4
+2018,8,Burnley,Huddersfield,79.3,12.7,8.0
+2018,8,Man Utd,Newcastle,84.8,8.8,6.5
+2018,8,Fulham,Arsenal,1.8,6.8,91.3
+2018,8,Southampton,Chelsea,0.5,5.5,94.1
+2018,8,Liverpool,Man City,55.5,32.3,12.3
+2018,9,Chelsea,Man Utd,84.1,11.4,4.5
+2018,9,West Ham,Spurs,7.3,10.7,82.0
+2018,9,Newcastle,Brighton,46.8,30.2,22.9
+2018,9,Man City,Burnley,98.5,0.5,1.0
+2018,9,Cardiff,Fulham,17.6,34.6,47.8
+2018,9,Bournemouth,Southampton,74.6,14.6,10.7
+2018,9,Wolves,Watford,62.0,27.8,10.2
+2018,9,Huddersfield,Liverpool,1.0,1.4,97.6
+2018,9,Everton,Crystal Palace,83.9,13.7,2.4
+2018,9,Arsenal,Leicester,86.9,10.7,2.3
+2018,10,Brighton,Wolves,15.6,41.7,42.7
+2018,10,Watford,Huddersfield,86.5,8.3,5.2
+2018,10,Southampton,Newcastle,72.4,21.4,6.3
+2018,10,Liverpool,Cardiff,98.4,0.5,1.0
+2018,10,Fulham,Bournemouth,21.4,21.9,56.8
+2018,10,Leicester,West Ham,71.1,18.0,10.8
+2018,10,Crystal Palace,Arsenal,1.0,2.5,96.5
+2018,10,Burnley,Chelsea,1.0,1.5,97.5
+2018,10,Man Utd,Everton,74.4,20.1,5.5
+2018,10,Spurs,Man City,11.7,30.1,58.3
+2018,11,Bournemouth,Man Utd,15.4,20.2,64.4
+2018,11,West Ham,Burnley,80.0,17.9,2.1
+2018,11,Newcastle,Watford,18.4,17.9,63.7
+2018,11,Everton,Brighton,91.0,7.4,1.6
+2018,11,Cardiff,Leicester,5.8,23.2,71.1
+2018,11,Arsenal,Liverpool,4.7,36.1,59.2
+2018,11,Wolves,Spurs,5.2,11.5,83.3
+2018,11,Man City,Southampton,98.5,1.0,0.5
+2018,11,Chelsea,Crystal Palace,98.5,1.0,0.5
+2018,11,Huddersfield,Fulham,39.6,35.5,24.9
+2018,12,Cardiff,Brighton,14.4,32.6,53.0
+2018,12,Southampton,Watford,18.8,22.0,59.1
+2018,12,Newcastle,Bournemouth,15.1,21.5,63.4
+2018,12,Leicester,Burnley,93.5,4.8,1.6
+2018,12,Huddersfield,West Ham,19.9,18.3,61.8
+2018,12,Crystal Palace,Spurs,1.1,3.7,95.2
+2018,12,Liverpool,Fulham,99.0,0.0,1.0
+2018,12,Chelsea,Everton,94.8,4.2,1.0
+2018,12,Arsenal,Wolves,91.7,6.7,1.6
+2018,12,Man City,Man Utd,74.1,18.1,7.8
+2018,13,West Ham,Man City,2.6,7.3,90.1
+2018,13,Watford,Liverpool,2.1,6.3,91.7
+2018,13,Man Utd,Crystal Palace,92.7,5.2,2.1
+2018,13,Fulham,Southampton,35.9,40.1,24.0
+2018,13,Everton,Cardiff,94.8,3.6,1.6
+2018,13,Brighton,Leicester,7.3,42.7,50.0
+2018,13,Spurs,Chelsea,26.4,48.2,25.4
+2018,13,Bournemouth,Arsenal,8.8,18.6,72.7
+2018,13,Wolves,Huddersfield,83.0,11.3,5.7
+2018,13,Burnley,Newcastle,47.2,36.4,16.4
+2018,14,Cardiff,Wolves,13.7,25.7,60.6
+2018,14,Newcastle,West Ham,39.6,34.6,25.8
+2018,14,Man City,Bournemouth,98.9,0.6,0.6
+2018,14,Leicester,Watford,77.6,15.3,7.1
+2018,14,Huddersfield,Brighton,50.5,33.0,16.5
+2018,14,Crystal Palace,Burnley,69.9,25.1,4.9
+2018,14,Southampton,Man Utd,2.2,9.7,88.1
+2018,14,Chelsea,Fulham,97.4,2.1,0.5
+2018,14,Arsenal,Spurs,32.1,40.0,27.9
+2018,14,Liverpool,Everton,93.7,4.7,1.6
+2018,15,Bournemouth,Huddersfield,80.8,14.6,4.6
+2018,15,West Ham,Cardiff,88.7,6.6,4.6
+2018,15,Brighton,Crystal Palace,47.7,38.4,13.9
+2018,15,Watford,Man City,1.3,1.3,97.4
+2018,15,Everton,Newcastle,91.8,5.9,2.4
+2018,15,Wolves,Chelsea,2.4,4.7,92.9
+2018,15,Fulham,Leicester,8.8,28.8,62.4
+2018,15,Burnley,Liverpool,2.9,1.2,95.9
+2018,15,Man Utd,Arsenal,26.2,45.3,28.5
+2018,15,Spurs,Southampton,98.3,1.7,0.0
+2018,16,Bournemouth,Liverpool,1.7,3.4,94.9
+2018,16,Arsenal,Huddersfield,98.3,1.1,0.6
+2018,16,West Ham,Crystal Palace,85.9,11.9,2.3
+2018,16,Man Utd,Fulham,93.2,5.1,1.7
+2018,16,Cardiff,Southampton,27.7,36.2,36.2
+2018,16,Burnley,Brighton,28.8,38.4,32.8
+2018,16,Chelsea,Man City,16.3,32.6,51.1
+2018,16,Leicester,Spurs,7.9,13.5,78.7
+2018,16,Newcastle,Wolves,45.7,35.9,18.5
+2018,16,Everton,Watford,86.2,10.6,3.2
+2018,17,Man City,Everton,96.7,2.8,0.6
+2018,17,Wolves,Bournemouth,48.6,31.7,19.7
+2018,17,Watford,Cardiff,78.0,15.4,6.6
+2018,17,Spurs,Burnley,98.9,0.5,0.5
+2018,17,Huddersfield,Newcastle,36.1,45.9,18.0
+2018,17,Crystal Palace,Leicester,10.4,29.0,60.7
+2018,17,Fulham,West Ham,16.4,20.2,63.4
+2018,17,Brighton,Chelsea,1.1,2.7,96.2
+2018,17,Southampton,Arsenal,5.4,4.9,89.7
+2018,17,Liverpool,Man Utd,87.6,7.6,4.9
+2018,18,Wolves,Liverpool,1.1,2.9,96.0
+2018,18,Arsenal,Burnley,98.9,1.1,0.0
+2018,18,West Ham,Watford,76.1,18.3,5.6
+2018,18,Newcastle,Fulham,77.3,16.0,6.6
+2018,18,Man City,Crystal Palace,99.4,0.6,0.0
+2018,18,Huddersfield,Southampton,24.3,34.8,40.9
+2018,18,Chelsea,Leicester,96.7,2.2,1.1
+2018,18,Bournemouth,Brighton,61.9,33.1,5.0
+2018,18,Cardiff,Man Utd,1.1,5.0,93.9
+2018,18,Everton,Spurs,3.3,20.2,76.5
+2018,19,Fulham,Wolves,11.8,28.1,60.1
+2018,19,Spurs,Bournemouth,98.1,0.6,1.3
+2018,19,Man Utd,Huddersfield,98.7,0.0,1.3
+2018,19,Liverpool,Newcastle,98.7,0.6,0.6
+2018,19,Leicester,Man City,3.2,11.7,85.1
+2018,19,Crystal Palace,Cardiff,83.9,12.3,3.9
+2018,19,Burnley,Everton,3.9,16.9,79.2
+2018,19,Brighton,Arsenal,1.3,6.9,91.8
+2018,19,Watford,Chelsea,5.6,16.1,78.3
+2018,19,Southampton,West Ham,46.4,34.3,19.3
+2018,20,Brighton,Everton,4.3,21.3,74.4
+2018,20,Watford,Newcastle,78.7,15.9,5.5
+2018,20,Spurs,Wolves,97.0,2.4,0.6
+2018,20,Leicester,Cardiff,96.3,2.4,1.2
+2018,20,Fulham,Huddersfield,58.5,26.2,15.2
+2018,20,Liverpool,Arsenal,87.4,9.6,3.0
+2018,20,Crystal Palace,Chelsea,1.8,10.1,88.2
+2018,20,Southampton,Man City,1.8,8.3,89.9
+2018,20,Burnley,West Ham,7.1,23.7,69.2
+2018,20,Man Utd,Bournemouth,97.6,1.8,0.6
+2018,21,Everton,Leicester,56.6,33.8,9.6
+2018,21,Arsenal,Fulham,98.6,1.4,0.0
+2018,21,Cardiff,Spurs,1.4,4.1,94.5
+2018,21,Wolves,Crystal Palace,79.6,14.2,6.2
+2018,21,West Ham,Brighton,86.4,9.9,3.7
+2018,21,Huddersfield,Burnley,50.6,29.6,19.8
+2018,21,Chelsea,Southampton,93.8,5.6,0.6
+2018,21,Bournemouth,Watford,31.1,47.8,21.1
+2018,21,Newcastle,Man Utd,3.1,6.2,90.7
+2018,21,Man City,Liverpool,27.1,43.4,29.5
+2018,22,West Ham,Arsenal,5.7,18.9,75.5
+2018,22,Brighton,Liverpool,1.2,0.6,98.2
+2018,22,Leicester,Southampton,76.7,18.4,4.9
+2018,22,Crystal Palace,Watford,29.6,37.7,32.7
+2018,22,Cardiff,Huddersfield,57.7,31.3,11.0
+2018,22,Burnley,Fulham,57.1,31.3,11.7
+2018,22,Chelsea,Newcastle,97.6,1.2,1.2
+2018,22,Everton,Bournemouth,76.6,18.0,5.4
+2018,22,Spurs,Man Utd,58.1,22.2,19.8
+2018,22,Man City,Wolves,90.6,5.9,3.5
+2018,23,Wolves,Leicester,28.0,45.1,26.9
+2018,23,Watford,Burnley,88.1,9.7,2.3
+2018,23,Southampton,Everton,31.8,34.7,33.5
+2018,23,Newcastle,Cardiff,71.6,21.6,6.8
+2018,23,Man Utd,Brighton,98.9,0.6,0.6
+2018,23,Liverpool,Crystal Palace,96.6,1.7,1.7
+2018,23,Bournemouth,West Ham,18.8,33.5,47.7
+2018,23,Arsenal,Chelsea,15.3,44.9,39.8
+2018,23,Huddersfield,Man City,1.1,1.1,97.7
+2018,23,Fulham,Spurs,1.1,5.0,93.9
+2018,24,Wolves,West Ham,59.1,31.0,9.9
+2018,24,Huddersfield,Everton,7.0,17.5,75.4
+2018,24,Fulham,Brighton,46.8,31.0,22.2
+2018,24,Arsenal,Cardiff,98.2,1.2,0.6
+2018,24,Newcastle,Man City,0.0,4.7,95.3
+2018,24,Man Utd,Burnley,97.7,1.8,0.6
+2018,24,Southampton,Crystal Palace,72.1,21.8,6.1
+2018,24,Bournemouth,Chelsea,1.7,6.1,92.2
+2018,24,Spurs,Watford,89.9,6.1,3.9
+2018,24,Liverpool,Leicester,93.9,3.4,2.8
+2018,25,Spurs,Newcastle,93.9,4.9,1.2
+2018,25,Brighton,Watford,18.6,41.9,39.5
+2018,25,Everton,Wolves,63.5,24.0,12.6
+2018,25,Crystal Palace,Fulham,77.8,13.2,9.0
+2018,25,Chelsea,Huddersfield,98.8,0.6,0.6
+2018,25,Burnley,Southampton,17.4,53.3,29.3
+2018,25,Cardiff,Bournemouth,20.1,26.0,53.8
+2018,25,Leicester,Man Utd,9.4,18.7,71.9
+2018,25,Man City,Arsenal,82.6,14.5,2.9
+2018,25,West Ham,Liverpool,2.8,3.4,93.8
+2018,26,Fulham,Man Utd,1.7,2.3,96.0
+2018,26,Watford,Everton,48.0,37.7,14.3
+2018,26,Southampton,Cardiff,84.6,9.7,5.7
+2018,26,Liverpool,Bournemouth,99.4,0.0,0.6
+2018,26,Huddersfield,Arsenal,1.7,1.7,96.6
+2018,26,Crystal Palace,West Ham,28.6,40.0,31.4
+2018,26,Brighton,Burnley,62.5,29.0,8.5
+2018,26,Spurs,Leicester,89.8,9.0,1.1
+2018,26,Man City,Chelsea,74.0,19.2,6.8
+2018,26,Wolves,Newcastle,85.6,9.4,5.0
+2018,27,Everton,Man City,1.4,2.7,95.9
+2018,27,West Ham,Fulham,89.6,6.6,3.8
+2018,27,Cardiff,Watford,16.5,24.2,59.3
+2018,27,Burnley,Spurs,1.7,6.1,92.3
+2018,27,Newcastle,Huddersfield,83.5,11.5,4.9
+2018,27,Bournemouth,Wolves,28.0,45.1,26.9
+2018,27,Leicester,Crystal Palace,76.0,17.5,6.6
+2018,27,Arsenal,Southampton,90.2,8.2,1.6
+2018,27,Man Utd,Liverpool,19.6,42.9,37.5
+2018,27,Chelsea,Brighton,95.6,3.9,0.6
+2018,28,Leicester,Brighton,77.9,15.6,6.5
+2018,28,Huddersfield,Wolves,8.4,7.8,83.8
+2018,28,Cardiff,Everton,10.4,18.8,70.8
+2018,28,Newcastle,Burnley,58.1,32.3,9.7
+2018,28,Arsenal,Bournemouth,94.6,4.8,0.6
+2018,28,Southampton,Fulham,77.2,15.6,7.2
+2018,28,Man City,West Ham,94.6,4.2,1.2
+2018,28,Liverpool,Watford,95.2,3.6,1.2
+2018,28,Chelsea,Spurs,26.3,40.7,32.9
+2018,28,Crystal Palace,Man Utd,3.0,10.8,86.2
+2018,29,Spurs,Arsenal,63.8,26.4,9.8
+2018,29,Bournemouth,Man City,3.0,1.8,95.1
+2018,29,Wolves,Cardiff,94.5,3.7,1.8
+2018,29,Man Utd,Southampton,97.6,2.4,0.0
+2018,29,Burnley,Crystal Palace,48.8,32.3,18.9
+2018,29,Brighton,Huddersfield,70.7,22.0,7.3
+2018,29,West Ham,Newcastle,72.7,22.4,4.8
+2018,29,Watford,Leicester,49.7,29.9,20.4
+2018,29,Fulham,Chelsea,2.4,4.2,93.4
+2018,29,Everton,Liverpool,2.4,8.4,89.2
+2018,30,Crystal Palace,Brighton,76.0,21.1,2.9
+2018,30,Southampton,Spurs,4.0,8.5,87.5
+2018,30,Newcastle,Everton,22.7,36.4,40.9
+2018,30,Leicester,Fulham,88.6,6.8,4.5
+2018,30,Huddersfield,Bournemouth,16.5,24.4,59.1
+2018,30,Cardiff,West Ham,10.2,14.8,75.0
+2018,30,Man City,Watford,97.2,1.7,1.1
+2018,30,Liverpool,Burnley,97.2,2.3,0.6
+2018,30,Chelsea,Wolves,83.6,11.9,4.5
+2018,30,Arsenal,Man Utd,16.9,48.3,34.8
+2018,31,Bournemouth,Newcastle,56.7,31.0,12.3
+2018,31,West Ham,Huddersfield,96.5,1.8,1.8
+2018,31,Burnley,Leicester,12.9,23.4,63.7
+2018,31,Fulham,Liverpool,0.6,0.6,98.8
+2018,31,Everton,Chelsea,6.9,19.4,73.7
+2018,31,Spurs,Crystal Palace,95.9,1.7,2.3
+2018,31,Brighton,Cardiff,71.4,22.3,6.3
+2018,31,Watford,Southampton,72.2,16.5,11.4
+2018,31,Wolves,Arsenal,8.4,21.2,70.4
+2018,31,Man Utd,Man City,16.5,30.1,53.4
+2018,32,Fulham,Man City,1.2,1.2,97.6
+2018,32,Man Utd,Watford,93.5,5.4,1.2
+2018,32,Leicester,Bournemouth,83.3,15.5,1.2
+2018,32,Crystal Palace,Huddersfield,86.9,8.3,4.8
+2018,32,Burnley,Wolves,6.5,16.1,77.4
+2018,32,Brighton,Southampton,29.8,48.2,22.0
+2018,32,West Ham,Everton,58.3,32.1,9.5
+2018,32,Cardiff,Chelsea,0.6,1.2,98.2
+2018,32,Liverpool,Spurs,84.7,11.8,3.5
+2018,32,Arsenal,Newcastle,94.8,2.9,2.3
+2018,33,Wolves,Man Utd,0.9,20.5,78.6
+2018,33,Watford,Fulham,90.2,5.4,4.5
+2018,33,Man City,Cardiff,99.2,0.8,0.0
+2018,33,Southampton,Liverpool,0.6,2.4,97.0
+2018,33,Bournemouth,Burnley,70.0,20.6,9.4
+2018,33,Newcastle,Crystal Palace,57.1,31.2,11.8
+2018,33,Huddersfield,Leicester,4.1,5.9,90.0
+2018,33,Everton,Arsenal,8.2,32.4,59.4
+2018,33,Chelsea,West Ham,95.4,4.0,0.6
+2018,33,Spurs,Brighton,98.9,0.6,0.6
+2018,34,Leicester,Newcastle,92.5,6.3,1.3
+2018,34,Spurs,Huddersfield,99.4,0.6,0.0
+2018,34,Brighton,Bournemouth,26.2,48.2,25.6
+2018,34,Southampton,Wolves,22.0,35.1,42.9
+2018,34,Fulham,Everton,4.8,5.4,89.9
+2018,34,Burnley,Cardiff,76.2,19.0,4.8
+2018,34,Man Utd,West Ham,93.4,5.4,1.2
+2018,34,Crystal Palace,Man City,3.0,6.0,91.1
+2018,34,Liverpool,Chelsea,83.9,10.7,5.4
+2018,34,Watford,Arsenal,10.1,17.2,72.8
+2018,35,Man City,Spurs,80.0,14.3,5.7
+2018,35,Wolves,Brighton,92.5,6.1,1.4
+2018,35,West Ham,Leicester,42.9,34.0,23.1
+2018,35,Huddersfield,Watford,6.2,13.7,80.1
+2018,35,Bournemouth,Fulham,89.1,7.5,3.4
+2018,35,Newcastle,Southampton,35.6,45.6,18.8
+2018,35,Everton,Man Utd,11.1,13.1,75.8
+2018,35,Arsenal,Crystal Palace,98.7,1.3,0.0
+2018,35,Cardiff,Liverpool,0.6,0.0,99.4
+2018,35,Chelsea,Burnley,96.2,3.2,0.6
+2018,36,Liverpool,Huddersfield,100.0,0.0,0.0
+2018,36,Spurs,West Ham,94.0,5.3,0.7
+2018,36,Watford,Wolves,49.7,36.2,14.1
+2018,36,Southampton,Bournemouth,76.4,20.3,3.4
+2018,36,Fulham,Cardiff,48.3,29.5,22.1
+2018,36,Crystal Palace,Everton,18.1,26.2,55.7
+2018,36,Brighton,Newcastle,18.5,37.7,43.7
+2018,36,Leicester,Arsenal,20.3,15.7,64.1
+2018,36,Burnley,Man City,1.3,7.7,91.0
+2018,36,Man Utd,Chelsea,44.2,40.9,14.9
+2018,37,Everton,Burnley,93.0,4.9,2.1
+2018,37,Bournemouth,Spurs,6.3,8.3,85.4
+2018,37,Wolves,Fulham,94.4,4.2,1.4
+2018,37,West Ham,Southampton,70.1,22.9,6.9
+2018,37,Cardiff,Crystal Palace,25.5,28.3,46.2
+2018,37,Newcastle,Liverpool,0.7,4.2,95.1
+2018,37,Huddersfield,Man Utd,3.4,4.1,92.5
+2018,37,Chelsea,Watford,87.6,7.6,4.8
+2018,37,Arsenal,Brighton,93.2,6.2,0.7
+2018,37,Man City,Leicester,81.8,17.6,0.7
+2018,38,Brighton,Man City,4.1,11.5,84.5
+2018,38,Watford,West Ham,45.9,41.2,12.8
+2018,38,Spurs,Everton,77.4,15.8,6.8
+2018,38,Southampton,Huddersfield,92.6,4.7,2.7
+2018,38,Man Utd,Cardiff,98.6,1.4,0.0
+2018,38,Liverpool,Wolves,95.9,2.7,1.4
+2018,38,Leicester,Chelsea,22.3,18.9,58.8
+2018,38,Fulham,Newcastle,23.6,32.4,43.9
+2018,38,Crystal Palace,Bournemouth,55.1,32.7,12.2
+2018,38,Burnley,Arsenal,5.4,6.8,87.8

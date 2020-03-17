@@ -14,6 +14,12 @@ def merge_user_pref(league:str) -> None:
         frames.append(pd.read_csv(f'E:/USDE/dataset/{league}/original/3/{f}'))
     pd.concat(frames).reset_index(drop=True).to_csv(f'E:/USDE/dataset/{league}/transformed/user_prefs_{league}.csv', index = False)
 
+def merge_classifica(league:str) -> None:
+    frames = []
+    for f in os.listdir(f'E:/USDE/dataset/{league}/original/4'):
+        frames.append(pd.read_csv(f'E:/USDE/dataset/{league}/original/4/{f}'))
+    pd.concat(frames).reset_index(drop=True).to_csv(f'E:/USDE/dataset/{league}/transformed/classifica_{league}_0919.csv', index = False)
+
 
 def set_label(df: pd.DataFrame) -> pd.DataFrame:
     label = []
@@ -46,8 +52,9 @@ def to_lgb_format(df: pd.DataFrame, league: str) -> None:
     df.to_csv(f'E:/USDE/dataset/{league}/lightgbm/lightgbm_base_odds_{league}.csv', index = False)
 
 if __name__ == '__main__':
-    #merge_user_pref('serie_a')
-    league = 'serie_a'
-    merge_df(league)
-    merged = pd.read_csv(f'E:/USDE/dataset/{league}/transformed/transformed_merged_{league}.csv')
-    to_lgb_format(merged, league)
+    # merge_user_pref('premier')
+    # league = 'premier'
+    # merge_df(league)
+    # merged = pd.read_csv(f'E:/USDE/dataset/{league}/transformed/transformed_merged_{league}.csv')
+    # to_lgb_format(merged, league)
+    merge_classifica('premier')

@@ -1,0 +1,613 @@
+match_year,match_round,team,team_rank,team_points,team_goal_difference,team_goal_fatti,team_goal_subiti
+2016,2,Bayern Munich,1,3,6,6,0
+2016,2,VfL Wolfsburg,2,3,2,2,0
+2016,2,1. FC Köln,3,3,2,2,0
+2016,2,Bor. Dortmund,4,3,1,2,1
+2016,2,Bor. M'gladbach,5,3,1,2,1
+2016,2,Hertha BSC,6,3,1,2,1
+2016,2,E. Frankfurt,7,3,1,1,0
+2016,2,TSG Hoffenheim,8,1,0,2,2
+2016,2,RB Leipzig,9,1,0,2,2
+2016,2,Hamburger SV,10,1,0,1,1
+2016,2,FC Ingolstadt,11,1,0,1,1
+2016,2,Bay. Leverkusen,12,0,-1,1,2
+2016,2,1.FSV Mainz 05,13,0,-1,1,2
+2016,2,SC Freiburg,14,0,-1,1,2
+2016,2,FC Schalke 04,15,0,-1,0,1
+2016,2,FC Augsburg,16,0,-2,0,2
+2016,2,SV Darmstadt 98,17,0,-2,0,2
+2016,2,Werder Bremen,18,0,-6,0,6
+2016,3,Bayern Munich,1,6,8,8,0
+2016,3,Hertha BSC,2,6,3,4,1
+2016,3,VfL Wolfsburg,3,4,2,2,0
+2016,3,1. FC Köln,4,4,2,2,0
+2016,3,RB Leipzig,5,4,1,3,2
+2016,3,Bay. Leverkusen,6,3,1,4,3
+2016,3,SC Freiburg,7,3,1,4,3
+2016,3,Bor. Dortmund,8,3,0,2,2
+2016,3,E. Frankfurt,9,3,0,1,1
+2016,3,Bor. M'gladbach,10,3,-1,3,4
+2016,3,FC Augsburg,11,3,-1,2,3
+2016,3,SV Darmstadt 98,12,3,-1,1,2
+2016,3,TSG Hoffenheim,13,2,0,6,6
+2016,3,1.FSV Mainz 05,14,1,-1,5,6
+2016,3,Hamburger SV,15,1,-2,2,4
+2016,3,FC Ingolstadt,16,1,-2,1,3
+2016,3,FC Schalke 04,17,0,-3,0,3
+2016,3,Werder Bremen,18,0,-7,1,8
+2016,4,Bayern Munich,1,9,10,11,1
+2016,4,Hertha BSC,2,9,5,6,1
+2016,4,RB Leipzig,3,7,5,7,2
+2016,4,1. FC Köln,4,7,5,5,0
+2016,4,Bor. Dortmund,5,6,6,8,2
+2016,4,Bor. M'gladbach,6,6,2,7,5
+2016,4,E. Frankfurt,7,6,1,3,2
+2016,4,VfL Wolfsburg,8,5,2,2,0
+2016,4,1.FSV Mainz 05,9,4,1,8,7
+2016,4,TSG Hoffenheim,10,3,0,6,6
+2016,4,Bay. Leverkusen,11,3,0,5,5
+2016,4,SC Freiburg,12,3,-2,4,6
+2016,4,FC Augsburg,13,3,-3,3,6
+2016,4,SV Darmstadt 98,14,3,-7,1,8
+2016,4,FC Ingolstadt,15,1,-4,2,6
+2016,4,Hamburger SV,16,1,-6,2,8
+2016,4,FC Schalke 04,17,0,-5,0,5
+2016,4,Werder Bremen,18,0,-10,2,12
+2016,5,Bayern Munich,1,12,13,14,1
+2016,5,1. FC Köln,2,10,7,8,1
+2016,5,Bor. Dortmund,3,9,10,13,3
+2016,5,E. Frankfurt,4,9,3,5,2
+2016,5,Hertha BSC,5,9,2,6,4
+2016,5,RB Leipzig,6,8,5,8,3
+2016,5,1.FSV Mainz 05,7,7,2,10,8
+2016,5,Bor. M'gladbach,8,7,2,8,6
+2016,5,SC Freiburg,9,6,-1,5,6
+2016,5,VfL Wolfsburg,10,5,-2,3,5
+2016,5,TSG Hoffenheim,11,4,0,7,7
+2016,5,Bay. Leverkusen,12,4,0,5,5
+2016,5,FC Augsburg,13,4,-3,3,6
+2016,5,SV Darmstadt 98,14,4,-7,2,9
+2016,5,FC Ingolstadt,15,1,-6,2,8
+2016,5,Hamburger SV,16,1,-7,2,9
+2016,5,FC Schalke 04,17,0,-7,1,8
+2016,5,Werder Bremen,18,0,-11,3,14
+2016,6,Bayern Munich,1,15,14,15,1
+2016,6,Bor. Dortmund,2,12,12,16,4
+2016,6,1. FC Köln,3,11,7,9,2
+2016,6,Bor. M'gladbach,4,10,4,10,6
+2016,6,E. Frankfurt,5,10,3,8,5
+2016,6,Hertha BSC,6,10,2,9,7
+2016,6,RB Leipzig,7,9,5,9,4
+2016,6,1.FSV Mainz 05,8,7,1,12,11
+2016,6,TSG Hoffenheim,9,7,1,9,8
+2016,6,Bay. Leverkusen,10,7,1,8,7
+2016,6,FC Augsburg,11,7,-2,4,6
+2016,6,SC Freiburg,12,6,-3,6,9
+2016,6,VfL Wolfsburg,13,5,-3,4,7
+2016,6,SV Darmstadt 98,14,4,-8,2,10
+2016,6,Werder Bremen,15,3,-10,5,15
+2016,6,Hamburger SV,16,1,-8,2,10
+2016,6,FC Ingolstadt,17,1,-8,2,10
+2016,6,FC Schalke 04,18,0,-8,2,10
+2016,7,Bayern Munich,1,16,14,16,2
+2016,7,Hertha BSC,2,13,4,11,7
+2016,7,Bor. Dortmund,3,12,10,16,6
+2016,7,1. FC Köln,4,12,7,10,3
+2016,7,RB Leipzig,5,12,6,11,5
+2016,7,Bay. Leverkusen,6,10,3,10,7
+2016,7,TSG Hoffenheim,7,10,2,11,9
+2016,7,E. Frankfurt,8,10,2,8,6
+2016,7,Bor. M'gladbach,9,10,0,10,10
+2016,7,SC Freiburg,10,9,-2,7,9
+2016,7,1.FSV Mainz 05,11,8,1,12,11
+2016,7,FC Augsburg,12,7,-3,5,8
+2016,7,VfL Wolfsburg,13,6,-3,4,7
+2016,7,SV Darmstadt 98,14,5,-8,4,12
+2016,7,Werder Bremen,15,4,-10,7,17
+2016,7,FC Schalke 04,16,3,-4,6,10
+2016,7,FC Ingolstadt,17,1,-9,3,12
+2016,7,Hamburger SV,18,1,-10,2,12
+2016,8,Bayern Munich,1,17,14,18,4
+2016,8,1. FC Köln,2,15,8,12,4
+2016,8,RB Leipzig,3,15,7,12,5
+2016,8,Hertha BSC,4,14,4,12,8
+2016,8,Bor. Dortmund,5,13,10,17,7
+2016,8,TSG Hoffenheim,6,13,3,13,10
+2016,8,1.FSV Mainz 05,7,11,2,14,12
+2016,8,E. Frankfurt,8,11,2,10,8
+2016,8,Bor. M'gladbach,9,11,0,10,10
+2016,8,Bay. Leverkusen,10,10,2,11,9
+2016,8,SC Freiburg,11,9,-3,8,11
+2016,8,FC Augsburg,12,8,-3,6,9
+2016,8,Werder Bremen,13,7,-9,9,18
+2016,8,VfL Wolfsburg,14,6,-4,4,8
+2016,8,SV Darmstadt 98,15,5,-9,5,14
+2016,8,FC Schalke 04,16,4,-4,7,11
+2016,8,Hamburger SV,17,2,-10,2,12
+2016,8,FC Ingolstadt,18,1,-10,4,14
+2016,9,Bayern Munich,1,20,16,20,4
+2016,9,RB Leipzig,2,18,9,15,6
+2016,9,Hertha BSC,3,17,5,14,9
+2016,9,TSG Hoffenheim,4,16,6,16,10
+2016,9,1. FC Köln,5,15,7,13,6
+2016,9,Bor. Dortmund,6,14,10,20,10
+2016,9,E. Frankfurt,7,14,5,13,8
+2016,9,SC Freiburg,8,12,-2,10,12
+2016,9,1.FSV Mainz 05,9,11,-1,14,15
+2016,9,Bor. M'gladbach,10,11,-2,10,12
+2016,9,Bay. Leverkusen,11,10,-1,11,12
+2016,9,FC Augsburg,12,8,-4,7,11
+2016,9,SV Darmstadt 98,13,8,-7,8,15
+2016,9,FC Schalke 04,14,7,-1,10,11
+2016,9,Werder Bremen,15,7,-11,10,21
+2016,9,VfL Wolfsburg,16,6,-6,5,11
+2016,9,FC Ingolstadt,17,2,-10,7,17
+2016,9,Hamburger SV,18,2,-13,2,15
+2016,10,Bayern Munich,1,23,18,23,5
+2016,10,RB Leipzig,2,21,11,17,6
+2016,10,TSG Hoffenheim,3,19,7,17,10
+2016,10,1. FC Köln,4,18,10,16,6
+2016,10,Hertha BSC,5,17,4,14,10
+2016,10,Bor. Dortmund,6,15,10,20,10
+2016,10,E. Frankfurt,7,15,5,13,8
+2016,10,SC Freiburg,8,15,0,13,13
+2016,10,1.FSV Mainz 05,9,14,1,16,15
+2016,10,Bay. Leverkusen,10,13,0,13,13
+2016,10,Bor. M'gladbach,11,12,-2,10,12
+2016,10,FC Schalke 04,12,8,-1,10,11
+2016,10,FC Augsburg,13,8,-6,8,14
+2016,10,SV Darmstadt 98,14,8,-9,8,17
+2016,10,Werder Bremen,15,7,-13,11,24
+2016,10,VfL Wolfsburg,16,6,-7,6,13
+2016,10,FC Ingolstadt,17,2,-12,7,19
+2016,10,Hamburger SV,18,2,-16,2,18
+2016,11,Bayern Munich,1,24,18,24,6
+2016,11,RB Leipzig,2,24,13,20,7
+2016,11,TSG Hoffenheim,3,20,7,18,11
+2016,11,Hertha BSC,4,20,7,17,10
+2016,11,Bor. Dortmund,5,18,13,25,12
+2016,11,1. FC Köln,6,18,9,16,7
+2016,11,E. Frankfurt,7,18,6,14,8
+2016,11,Bay. Leverkusen,8,16,1,16,15
+2016,11,SC Freiburg,9,15,-3,13,16
+2016,11,1.FSV Mainz 05,10,14,-1,17,18
+2016,11,Bor. M'gladbach,11,12,-5,10,15
+2016,11,FC Schalke 04,12,11,1,13,12
+2016,11,FC Augsburg,13,11,-4,10,14
+2016,11,VfL Wolfsburg,14,9,-4,9,13
+2016,11,SV Darmstadt 98,15,8,-10,10,20
+2016,11,Werder Bremen,16,7,-15,12,27
+2016,11,FC Ingolstadt,17,2,-14,7,21
+2016,11,Hamburger SV,18,2,-19,4,23
+2016,12,RB Leipzig,1,27,14,23,9
+2016,12,Bayern Munich,2,24,17,24,7
+2016,12,Bor. Dortmund,3,21,14,26,12
+2016,12,1. FC Köln,4,21,10,18,8
+2016,12,TSG Hoffenheim,5,21,7,20,13
+2016,12,Hertha BSC,6,21,7,17,10
+2016,12,E. Frankfurt,7,21,7,16,9
+2016,12,1.FSV Mainz 05,8,17,1,21,20
+2016,12,Bay. Leverkusen,9,16,0,18,18
+2016,12,SC Freiburg,10,15,-5,15,20
+2016,12,FC Schalke 04,11,14,2,14,12
+2016,12,FC Augsburg,12,12,-4,10,14
+2016,12,Bor. M'gladbach,13,12,-6,11,17
+2016,12,VfL Wolfsburg,14,9,-5,9,14
+2016,12,SV Darmstadt 98,15,8,-11,10,21
+2016,12,Werder Bremen,16,7,-16,13,29
+2016,12,FC Ingolstadt,17,5,-13,8,21
+2016,12,Hamburger SV,18,3,-19,6,25
+2016,13,RB Leipzig,1,30,17,27,10
+2016,13,Bayern Munich,2,27,18,26,8
+2016,13,Hertha BSC,3,24,8,19,11
+2016,13,E. Frankfurt,4,24,8,18,10
+2016,13,1. FC Köln,5,22,10,18,8
+2016,13,TSG Hoffenheim,6,22,7,21,14
+2016,13,Bor. Dortmund,7,21,13,27,14
+2016,13,FC Schalke 04,8,17,4,17,13
+2016,13,1.FSV Mainz 05,9,17,0,22,22
+2016,13,Bay. Leverkusen,10,16,-1,19,20
+2016,13,SC Freiburg,11,15,-8,16,24
+2016,13,FC Augsburg,12,13,-4,10,14
+2016,13,Bor. M'gladbach,13,13,-6,12,18
+2016,13,VfL Wolfsburg,14,10,-5,10,15
+2016,13,SV Darmstadt 98,15,8,-13,11,24
+2016,13,Werder Bremen,16,8,-16,15,31
+2016,13,FC Ingolstadt,17,6,-13,9,22
+2016,13,Hamburger SV,18,4,-19,8,27
+2016,14,RB Leipzig,1,33,18,29,11
+2016,14,Bayern Munich,2,30,20,29,9
+2016,14,Hertha BSC,3,27,9,22,13
+2016,14,TSG Hoffenheim,4,25,11,25,14
+2016,14,E. Frankfurt,5,25,8,19,11
+2016,14,Bor. Dortmund,6,24,16,31,15
+2016,14,1. FC Köln,7,22,6,18,12
+2016,14,FC Schalke 04,8,17,3,18,15
+2016,14,Bay. Leverkusen,9,17,-1,20,21
+2016,14,1.FSV Mainz 05,10,17,-2,23,25
+2016,14,SC Freiburg,11,16,-8,17,25
+2016,14,FC Augsburg,12,14,-4,11,15
+2016,14,Bor. M'gladbach,13,13,-9,13,22
+2016,14,Werder Bremen,14,11,-15,17,32
+2016,14,VfL Wolfsburg,15,10,-6,12,18
+2016,14,SV Darmstadt 98,16,8,-15,11,26
+2016,14,Hamburger SV,17,7,-17,10,27
+2016,14,FC Ingolstadt,18,6,-14,10,24
+2016,15,Bayern Munich,1,33,25,34,9
+2016,15,RB Leipzig,2,33,17,29,12
+2016,15,Hertha BSC,3,27,8,22,14
+2016,15,TSG Hoffenheim,4,26,11,25,14
+2016,15,E. Frankfurt,5,26,8,19,11
+2016,15,Bor. Dortmund,6,25,16,32,16
+2016,15,1. FC Köln,7,23,6,19,13
+2016,15,Bay. Leverkusen,8,20,0,21,21
+2016,15,SC Freiburg,9,19,-7,18,25
+2016,15,FC Schalke 04,10,17,2,18,16
+2016,15,1.FSV Mainz 05,11,17,-3,23,26
+2016,15,Bor. M'gladbach,12,16,-8,14,22
+2016,15,FC Augsburg,13,14,-5,11,16
+2016,15,Werder Bremen,14,14,-14,18,32
+2016,15,VfL Wolfsburg,15,10,-11,12,23
+2016,15,Hamburger SV,16,10,-16,11,27
+2016,15,FC Ingolstadt,17,9,-13,11,24
+2016,15,SV Darmstadt 98,18,8,-16,11,27
+2016,16,Bayern Munich,1,36,26,35,9
+2016,16,RB Leipzig,2,36,19,31,12
+2016,16,TSG Hoffenheim,3,27,11,27,16
+2016,16,Hertha BSC,4,27,6,22,16
+2016,16,Bor. Dortmund,5,26,16,34,18
+2016,16,E. Frankfurt,6,26,7,19,12
+2016,16,1. FC Köln,7,24,6,20,14
+2016,16,1.FSV Mainz 05,8,20,-1,26,27
+2016,16,Bay. Leverkusen,9,20,-1,22,23
+2016,16,SC Freiburg,10,20,-7,19,26
+2016,16,FC Schalke 04,11,18,2,19,17
+2016,16,FC Augsburg,12,17,-4,12,16
+2016,16,Bor. M'gladbach,13,16,-9,14,23
+2016,16,Werder Bremen,14,15,-14,19,33
+2016,16,VfL Wolfsburg,15,13,-10,13,23
+2016,16,FC Ingolstadt,16,12,-12,13,25
+2016,16,Hamburger SV,17,10,-18,12,30
+2016,16,SV Darmstadt 98,18,8,-17,11,28
+2016,17,Bayern Munich,1,39,29,38,9
+2016,17,RB Leipzig,2,36,16,31,15
+2016,17,Hertha BSC,3,30,8,24,16
+2016,17,E. Frankfurt,4,29,10,22,12
+2016,17,TSG Hoffenheim,5,28,11,28,17
+2016,17,Bor. Dortmund,6,27,16,35,19
+2016,17,1. FC Köln,7,25,6,21,15
+2016,17,SC Freiburg,8,23,-6,21,27
+2016,17,Bay. Leverkusen,9,21,-1,23,24
+2016,17,1.FSV Mainz 05,10,20,-4,26,30
+2016,17,FC Schalke 04,11,18,1,20,19
+2016,17,FC Augsburg,12,18,-4,13,17
+2016,17,VfL Wolfsburg,13,16,-9,15,24
+2016,17,Bor. M'gladbach,14,16,-10,15,25
+2016,17,Werder Bremen,15,16,-14,20,34
+2016,17,Hamburger SV,16,13,-17,14,31
+2016,17,FC Ingolstadt,17,12,-13,14,27
+2016,17,SV Darmstadt 98,18,8,-19,11,30
+2016,18,Bayern Munich,1,42,30,40,10
+2016,18,RB Leipzig,2,39,19,34,15
+2016,18,TSG Hoffenheim,3,31,13,30,17
+2016,18,Bor. Dortmund,4,30,17,37,20
+2016,18,Hertha BSC,5,30,6,25,19
+2016,18,E. Frankfurt,6,29,7,22,15
+2016,18,1. FC Köln,7,26,6,21,15
+2016,18,Bay. Leverkusen,8,24,1,26,25
+2016,18,SC Freiburg,9,23,-7,22,29
+2016,18,FC Schalke 04,10,21,2,21,19
+2016,18,1.FSV Mainz 05,11,21,-4,26,30
+2016,18,VfL Wolfsburg,12,19,-8,16,24
+2016,18,FC Augsburg,13,18,-6,13,19
+2016,18,Bor. M'gladbach,14,17,-10,15,25
+2016,18,Werder Bremen,15,16,-15,21,36
+2016,18,Hamburger SV,16,13,-18,14,32
+2016,18,FC Ingolstadt,17,12,-14,14,28
+2016,18,SV Darmstadt 98,18,9,-19,11,30
+2016,19,Bayern Munich,1,45,31,42,11
+2016,19,RB Leipzig,2,42,20,36,16
+2016,19,E. Frankfurt,3,32,8,23,15
+2016,19,Bor. Dortmund,4,31,17,38,21
+2016,19,TSG Hoffenheim,5,31,12,31,19
+2016,19,Hertha BSC,6,30,5,26,21
+2016,19,1. FC Köln,7,29,11,27,16
+2016,19,SC Freiburg,8,26,-6,24,30
+2016,19,Bay. Leverkusen,9,24,0,28,28
+2016,19,1.FSV Mainz 05,10,22,-4,27,31
+2016,19,FC Schalke 04,11,21,1,21,20
+2016,19,FC Augsburg,12,21,-5,15,20
+2016,19,Bor. M'gladbach,13,20,-9,18,27
+2016,19,VfL Wolfsburg,14,19,-9,17,26
+2016,19,Werder Bremen,15,16,-16,22,38
+2016,19,FC Ingolstadt,16,15,-12,17,29
+2016,19,Hamburger SV,17,13,-20,15,35
+2016,19,SV Darmstadt 98,18,9,-24,12,36
+2016,20,Bayern Munich,1,46,31,43,12
+2016,20,RB Leipzig,2,42,19,36,17
+2016,20,E. Frankfurt,3,35,10,25,15
+2016,20,Bor. Dortmund,4,34,18,39,21
+2016,20,TSG Hoffenheim,5,34,16,35,19
+2016,20,Hertha BSC,6,33,6,27,21
+2016,20,1. FC Köln,7,32,12,28,16
+2016,20,SC Freiburg,8,26,-9,24,33
+2016,20,Bay. Leverkusen,9,24,-1,28,29
+2016,20,FC Augsburg,10,24,-4,18,22
+2016,20,Bor. M'gladbach,11,23,-6,21,27
+2016,20,FC Schalke 04,12,22,1,22,21
+2016,20,1.FSV Mainz 05,13,22,-8,27,35
+2016,20,VfL Wolfsburg,14,19,-10,17,27
+2016,20,Werder Bremen,15,16,-17,24,41
+2016,20,Hamburger SV,16,16,-19,16,35
+2016,20,FC Ingolstadt,17,15,-13,17,30
+2016,20,SV Darmstadt 98,18,9,-26,12,38
+2016,21,Bayern Munich,1,49,33,45,12
+2016,21,RB Leipzig,2,42,16,36,20
+2016,21,E. Frankfurt,3,35,7,25,18
+2016,21,Bor. Dortmund,4,34,17,40,23
+2016,21,TSG Hoffenheim,5,34,15,36,21
+2016,21,Hertha BSC,6,33,4,27,23
+2016,21,1. FC Köln,7,32,11,29,18
+2016,21,SC Freiburg,8,29,-8,26,34
+2016,21,Bay. Leverkusen,9,27,2,31,29
+2016,21,Bor. M'gladbach,10,26,-5,22,27
+2016,21,FC Schalke 04,11,25,3,24,21
+2016,21,1.FSV Mainz 05,12,25,-6,29,35
+2016,21,FC Augsburg,13,24,-6,18,24
+2016,21,VfL Wolfsburg,14,22,-9,19,28
+2016,21,Hamburger SV,15,19,-16,19,35
+2016,21,Werder Bremen,16,16,-18,24,42
+2016,21,FC Ingolstadt,17,15,-15,17,32
+2016,21,SV Darmstadt 98,18,12,-25,14,39
+2016,22,Bayern Munich,1,50,33,46,13
+2016,22,RB Leipzig,2,45,17,38,21
+2016,22,Bor. Dortmund,3,37,20,43,23
+2016,22,TSG Hoffenheim,4,37,17,38,21
+2016,22,E. Frankfurt,5,35,5,25,20
+2016,22,Hertha BSC,6,34,4,28,24
+2016,22,1. FC Köln,7,33,11,30,19
+2016,22,Bay. Leverkusen,8,30,4,34,30
+2016,22,SC Freiburg,9,30,-8,28,36
+2016,22,FC Schalke 04,10,26,3,25,22
+2016,22,Bor. M'gladbach,11,26,-6,23,29
+2016,22,1.FSV Mainz 05,12,25,-8,29,37
+2016,22,FC Augsburg,13,24,-8,19,27
+2016,22,VfL Wolfsburg,14,22,-12,19,31
+2016,22,Hamburger SV,15,20,-16,21,37
+2016,22,Werder Bremen,16,19,-16,26,42
+2016,22,FC Ingolstadt,17,18,-13,19,32
+2016,22,SV Darmstadt 98,18,12,-27,14,41
+2016,23,Bayern Munich,1,53,41,54,13
+2016,23,RB Leipzig,2,48,19,41,22
+2016,23,Bor. Dortmund,3,40,23,46,23
+2016,23,TSG Hoffenheim,4,38,17,39,22
+2016,23,Hertha BSC,5,37,6,30,24
+2016,23,E. Frankfurt,6,35,3,25,22
+2016,23,1. FC Köln,7,33,9,31,22
+2016,23,Bay. Leverkusen,8,30,2,34,32
+2016,23,SC Freiburg,9,30,-11,28,39
+2016,23,Bor. M'gladbach,10,29,-4,25,29
+2016,23,1.FSV Mainz 05,11,28,-6,31,37
+2016,23,FC Schalke 04,12,27,3,26,23
+2016,23,FC Augsburg,13,27,-7,21,28
+2016,23,VfL Wolfsburg,14,22,-13,20,33
+2016,23,Werder Bremen,15,22,-15,28,43
+2016,23,Hamburger SV,16,20,-24,21,45
+2016,23,FC Ingolstadt,17,18,-15,19,34
+2016,23,SV Darmstadt 98,18,12,-28,15,43
+2016,24,Bayern Munich,1,56,44,57,13
+2016,24,RB Leipzig,2,49,19,43,24
+2016,24,Bor. Dortmund,3,43,27,52,25
+2016,24,TSG Hoffenheim,4,41,20,44,24
+2016,24,Hertha BSC,5,37,5,30,25
+2016,24,E. Frankfurt,6,35,2,26,24
+2016,24,1. FC Köln,7,33,6,31,25
+2016,24,SC Freiburg,8,33,-10,30,40
+2016,24,Bor. M'gladbach,9,32,-2,29,31
+2016,24,Bay. Leverkusen,10,30,-2,36,38
+2016,24,1.FSV Mainz 05,11,29,-6,32,38
+2016,24,FC Augsburg,12,28,-7,23,30
+2016,24,FC Schalke 04,13,27,1,28,27
+2016,24,Werder Bremen,14,25,-13,30,43
+2016,24,VfL Wolfsburg,15,23,-13,21,34
+2016,24,Hamburger SV,16,23,-23,22,45
+2016,24,FC Ingolstadt,17,18,-18,21,39
+2016,24,SV Darmstadt 98,18,12,-30,15,45
+2016,25,Bayern Munich,1,59,47,60,13
+2016,25,RB Leipzig,2,49,18,43,25
+2016,25,Bor. Dortmund,3,43,26,53,27
+2016,25,TSG Hoffenheim,4,42,20,45,25
+2016,25,Hertha BSC,5,40,6,32,26
+2016,25,E. Frankfurt,6,35,-1,26,27
+2016,25,1. FC Köln,7,34,6,33,27
+2016,25,SC Freiburg,8,34,-10,31,41
+2016,25,Bor. M'gladbach,9,32,-3,30,33
+2016,25,Bay. Leverkusen,10,31,-2,37,39
+2016,25,FC Schalke 04,11,30,4,31,27
+2016,25,1.FSV Mainz 05,12,29,-7,33,40
+2016,25,FC Augsburg,13,28,-10,23,33
+2016,25,VfL Wolfsburg,14,26,-12,22,34
+2016,25,Werder Bremen,15,26,-13,31,44
+2016,25,Hamburger SV,16,26,-22,24,46
+2016,25,FC Ingolstadt,17,19,-18,23,41
+2016,25,SV Darmstadt 98,18,15,-29,17,46
+2016,26,Bayern Munich,1,62,48,61,13
+2016,26,RB Leipzig,2,49,15,43,28
+2016,26,Bor. Dortmund,3,46,27,54,27
+2016,26,TSG Hoffenheim,4,45,21,46,25
+2016,26,Hertha BSC,5,40,4,34,30
+2016,26,1. FC Köln,6,37,8,37,29
+2016,26,E. Frankfurt,7,36,-1,26,27
+2016,26,SC Freiburg,8,35,-10,32,42
+2016,26,FC Schalke 04,9,33,5,32,27
+2016,26,Bor. M'gladbach,10,32,-4,30,34
+2016,26,Bay. Leverkusen,11,31,-3,37,40
+2016,26,1.FSV Mainz 05,12,29,-8,33,41
+2016,26,Werder Bremen,13,29,-10,34,44
+2016,26,FC Augsburg,14,29,-10,24,34
+2016,26,VfL Wolfsburg,15,29,-11,23,34
+2016,26,Hamburger SV,16,27,-22,24,46
+2016,26,FC Ingolstadt,17,19,-19,23,42
+2016,26,SV Darmstadt 98,18,15,-30,17,47
+2016,27,Bayern Munich,1,65,54,67,13
+2016,27,RB Leipzig,2,52,19,47,28
+2016,27,TSG Hoffenheim,3,48,23,49,26
+2016,27,Bor. Dortmund,4,47,27,55,28
+2016,27,Hertha BSC,5,40,2,35,33
+2016,27,1. FC Köln,6,37,7,38,31
+2016,27,E. Frankfurt,7,37,-1,26,27
+2016,27,SC Freiburg,8,35,-13,34,47
+2016,27,FC Schalke 04,9,34,5,33,28
+2016,27,Bor. M'gladbach,10,33,-4,30,34
+2016,27,Bay. Leverkusen,11,32,-3,40,43
+2016,27,Werder Bremen,12,32,-7,39,46
+2016,27,VfL Wolfsburg,13,30,-11,26,37
+2016,27,Hamburger SV,14,30,-21,26,47
+2016,27,1.FSV Mainz 05,15,29,-9,34,43
+2016,27,FC Augsburg,16,29,-16,24,40
+2016,27,FC Ingolstadt,17,22,-18,25,43
+2016,27,SV Darmstadt 98,18,15,-34,17,51
+2016,28,Bayern Munich,1,65,53,67,14
+2016,28,RB Leipzig,2,55,20,50,30
+2016,28,TSG Hoffenheim,3,51,24,50,26
+2016,28,Bor. Dortmund,4,50,30,58,28
+2016,28,1. FC Köln,5,40,8,39,31
+2016,28,Hertha BSC,6,40,1,35,34
+2016,28,SC Freiburg,7,38,-12,35,47
+2016,28,E. Frankfurt,8,37,-2,26,28
+2016,28,Bor. M'gladbach,9,36,-3,31,34
+2016,28,Bay. Leverkusen,10,35,-1,42,43
+2016,28,Werder Bremen,11,35,-4,42,46
+2016,28,FC Schalke 04,12,34,2,33,31
+2016,28,VfL Wolfsburg,13,30,-12,26,38
+2016,28,Hamburger SV,14,30,-24,26,50
+2016,28,1.FSV Mainz 05,15,29,-10,36,46
+2016,28,FC Augsburg,16,29,-17,26,43
+2016,28,FC Ingolstadt,17,25,-17,28,45
+2016,28,SV Darmstadt 98,18,15,-36,17,53
+2016,29,Bayern Munich,1,68,56,71,15
+2016,29,RB Leipzig,2,58,21,51,30
+2016,29,TSG Hoffenheim,3,51,23,51,28
+2016,29,Bor. Dortmund,4,50,27,59,32
+2016,29,Hertha BSC,5,43,3,37,34
+2016,29,SC Freiburg,6,41,-11,36,47
+2016,29,1. FC Köln,7,40,7,41,34
+2016,29,Bor. M'gladbach,8,39,-2,34,36
+2016,29,E. Frankfurt,9,38,-2,28,30
+2016,29,FC Schalke 04,10,37,5,37,32
+2016,29,Werder Bremen,11,36,-4,44,48
+2016,29,Bay. Leverkusen,12,35,-2,42,44
+2016,29,Hamburger SV,13,33,-23,28,51
+2016,29,VfL Wolfsburg,14,30,-15,27,42
+2016,29,1.FSV Mainz 05,15,29,-11,36,47
+2016,29,FC Augsburg,16,29,-19,26,45
+2016,29,FC Ingolstadt,17,28,-16,31,47
+2016,29,SV Darmstadt 98,18,15,-37,19,56
+2016,30,Bayern Munich,1,69,56,71,15
+2016,30,RB Leipzig,2,61,25,55,30
+2016,30,TSG Hoffenheim,3,54,25,56,31
+2016,30,Bor. Dortmund,4,53,29,62,33
+2016,30,Hertha BSC,5,43,2,37,35
+2016,30,SC Freiburg,6,41,-15,36,51
+2016,30,1. FC Köln,7,40,6,42,36
+2016,30,Werder Bremen,8,39,-3,46,49
+2016,30,Bor. M'gladbach,9,39,-4,37,41
+2016,30,E. Frankfurt,10,38,-4,29,33
+2016,30,FC Schalke 04,11,37,4,38,34
+2016,30,Bay. Leverkusen,12,36,-2,42,44
+2016,30,VfL Wolfsburg,13,33,-12,30,42
+2016,30,Hamburger SV,14,33,-24,29,53
+2016,30,1.FSV Mainz 05,15,32,-10,37,47
+2016,30,FC Augsburg,16,32,-18,28,46
+2016,30,FC Ingolstadt,17,28,-19,31,50
+2016,30,SV Darmstadt 98,18,18,-36,21,57
+2016,31,Bayern Munich,1,70,56,73,17
+2016,31,RB Leipzig,2,62,25,56,31
+2016,31,Bor. Dortmund,3,56,30,65,35
+2016,31,TSG Hoffenheim,4,55,25,57,32
+2016,31,Hertha BSC,5,46,3,38,35
+2016,31,SC Freiburg,6,44,-14,38,52
+2016,31,Werder Bremen,7,42,-1,50,51
+2016,31,1. FC Köln,8,41,6,43,37
+2016,31,E. Frankfurt,9,41,-2,32,34
+2016,31,Bor. M'gladbach,10,39,-5,39,44
+2016,31,FC Schalke 04,11,38,4,39,35
+2016,31,Bay. Leverkusen,12,36,-3,43,46
+2016,31,1.FSV Mainz 05,13,33,-10,39,49
+2016,31,VfL Wolfsburg,14,33,-13,30,43
+2016,31,Hamburger SV,15,33,-25,30,55
+2016,31,FC Augsburg,16,32,-20,29,49
+2016,31,FC Ingolstadt,17,28,-21,33,54
+2016,31,SV Darmstadt 98,18,21,-35,23,58
+2016,32,Bayern Munich,1,73,62,79,17
+2016,32,RB Leipzig,2,63,25,56,31
+2016,32,TSG Hoffenheim,3,58,26,58,32
+2016,32,Bor. Dortmund,4,57,30,65,35
+2016,32,Hertha BSC,5,46,1,38,37
+2016,32,Werder Bremen,6,45,1,52,51
+2016,32,SC Freiburg,7,44,-17,38,55
+2016,32,1. FC Köln,8,42,6,43,37
+2016,32,Bor. M'gladbach,9,42,-4,41,45
+2016,32,FC Schalke 04,10,41,7,43,36
+2016,32,E. Frankfurt,11,41,-3,32,35
+2016,32,Bay. Leverkusen,12,36,-6,44,50
+2016,32,FC Augsburg,13,35,-16,33,49
+2016,32,1.FSV Mainz 05,14,33,-11,40,51
+2016,32,VfL Wolfsburg,15,33,-19,30,49
+2016,32,Hamburger SV,16,33,-29,30,59
+2016,32,FC Ingolstadt,17,29,-21,33,54
+2016,32,SV Darmstadt 98,18,24,-32,26,58
+2016,33,Bayern Munich,1,76,63,80,17
+2016,33,RB Leipzig,2,66,28,60,32
+2016,33,Bor. Dortmund,3,60,31,67,36
+2016,33,TSG Hoffenheim,4,58,25,59,34
+2016,33,SC Freiburg,5,47,-15,40,55
+2016,33,Hertha BSC,6,46,-2,39,41
+2016,33,1. FC Köln,7,45,7,47,40
+2016,33,Werder Bremen,8,45,0,55,55
+2016,33,Bor. M'gladbach,9,43,-4,42,46
+2016,33,FC Schalke 04,10,41,5,43,38
+2016,33,E. Frankfurt,11,41,-5,32,37
+2016,33,Bay. Leverkusen,12,37,-6,45,51
+2016,33,FC Augsburg,13,36,-16,34,50
+2016,33,VfL Wolfsburg,14,36,-17,32,49
+2016,33,1.FSV Mainz 05,15,34,-11,40,51
+2016,33,Hamburger SV,16,34,-29,30,59
+2016,33,FC Ingolstadt,17,30,-21,34,55
+2016,33,SV Darmstadt 98,18,24,-33,26,59
+2016,34,Bayern Munich,1,79,64,85,21
+2016,34,RB Leipzig,2,66,27,64,37
+2016,34,Bor. Dortmund,3,61,31,68,37
+2016,34,TSG Hoffenheim,4,61,27,64,37
+2016,34,Hertha BSC,5,49,0,41,41
+2016,34,SC Freiburg,6,48,-15,41,56
+2016,34,1. FC Köln,7,46,7,49,42
+2016,34,Werder Bremen,8,45,-2,58,60
+2016,34,Bor. M'gladbach,9,44,-4,43,47
+2016,34,FC Schalke 04,10,42,5,44,39
+2016,34,E. Frankfurt,11,41,-7,34,41
+2016,34,Bay. Leverkusen,12,38,-6,47,53
+2016,34,1.FSV Mainz 05,13,37,-9,44,53
+2016,34,FC Augsburg,14,37,-16,35,51
+2016,34,VfL Wolfsburg,15,37,-17,33,50
+2016,34,Hamburger SV,16,35,-29,31,60
+2016,34,FC Ingolstadt,17,31,-21,35,56
+2016,34,SV Darmstadt 98,18,24,-35,26,61
+2016,35,Bayern Munich,1,82,67,89,22
+2016,35,RB Leipzig,2,67,27,66,39
+2016,35,Bor. Dortmund,3,64,32,72,40
+2016,35,TSG Hoffenheim,4,62,27,64,37
+2016,35,1. FC Köln,5,49,9,51,42
+2016,35,Hertha BSC,6,49,-4,43,47
+2016,35,SC Freiburg,7,48,-18,42,60
+2016,35,Werder Bremen,8,45,-3,61,64
+2016,35,Bor. M'gladbach,9,45,-4,45,49
+2016,35,FC Schalke 04,10,43,5,45,40
+2016,35,E. Frankfurt,11,42,-7,36,43
+2016,35,Bay. Leverkusen,12,41,-2,53,55
+2016,35,FC Augsburg,13,38,-16,35,51
+2016,35,Hamburger SV,14,38,-28,33,61
+2016,35,1.FSV Mainz 05,15,37,-11,44,55
+2016,35,VfL Wolfsburg,16,37,-18,34,52
+2016,35,FC Ingolstadt,17,32,-21,36,57
+2016,35,SV Darmstadt 98,18,25,-35,28,63

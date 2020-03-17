@@ -31,8 +31,13 @@ def transform_df(dir: str, filename: str) -> None:
     transformed_df.to_csv(f'dataset/{dir}/transformed/transformed_{filename}', index=False)
 
 if __name__ == '__main__':
-    transform_df('serie_a', 'serie_a0910_2.csv')
-    transform_df('serie_a', 'serie_a1011_2.csv')
-    transform_df('serie_a', 'serie_a1112_2.csv')
-    transform_df('serie_a', 'serie_a1213_2.csv')
-    transform_df('serie_a', 'serie_a1314_2.csv')
+    transform_df('premier', 'premier_0910_2.csv')
+    transform_df('premier', 'premier_1011_2.csv')
+    transform_df('premier', 'premier_1112_2.csv')
+    transform_df('premier', 'premier_1213_2.csv')
+    transform_df('premier', 'premier_1314_2.csv')
+    transform_df('premier', 'premier_1415_2.csv')
+    transform_df('premier', 'premier_1516_2.csv')
+    transform_df('premier', 'premier_1617_2.csv')
+    transform_df('premier', 'premier_1718_2.csv')
+    transform_df('premier', 'premier_1819_2.csv')

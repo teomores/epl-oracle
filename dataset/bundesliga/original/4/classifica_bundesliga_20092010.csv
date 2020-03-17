@@ -1,0 +1,613 @@
+match_year,match_round,team,team_rank,team_points,team_goal_difference,team_goal_fatti,team_goal_subiti
+2009,2,VfL Wolfsburg,1,3,2,2,0
+2009,2,E. Frankfurt,2,3,1,3,2
+2009,2,FC Schalke 04,3,3,1,2,1
+2009,2,Hertha BSC,4,3,1,1,0
+2009,2,Bor. Dortmund,5,3,1,1,0
+2009,2,VfL Bochum,6,1,0,3,3
+2009,2,Bor. M'gladbach,7,1,0,3,3
+2009,2,Bay. Leverkusen,8,1,0,2,2
+2009,2,1.FSV Mainz 05,9,1,0,2,2
+2009,2,Bayern Munich,10,1,0,1,1
+2009,2,Hamburger SV,11,1,0,1,1
+2009,2,TSG Hoffenheim,12,1,0,1,1
+2009,2,SC Freiburg,13,1,0,1,1
+2009,2,Werder Bremen,14,0,-1,2,3
+2009,2,1.FC Nuremberg,15,0,-1,1,2
+2009,2,Hannover 96,16,0,-1,0,1
+2009,2,1. FC Köln,17,0,-1,0,1
+2009,2,VfB Stuttgart,18,0,-2,0,2
+2009,3,VfL Wolfsburg,1,6,4,5,1
+2009,3,FC Schalke 04,2,6,4,5,1
+2009,3,Hamburger SV,3,4,3,5,2
+2009,3,Bor. M'gladbach,4,4,1,5,4
+2009,3,E. Frankfurt,5,4,1,4,3
+2009,3,Bay. Leverkusen,6,4,1,3,2
+2009,3,VfB Stuttgart,7,3,0,4,4
+2009,3,Hertha BSC,8,3,0,2,2
+2009,3,Bor. Dortmund,9,3,-2,2,4
+2009,3,1.FSV Mainz 05,10,2,0,3,3
+2009,3,Bayern Munich,11,2,0,2,2
+2009,3,Werder Bremen,12,1,-1,3,4
+2009,3,1.FC Nuremberg,13,1,-1,2,3
+2009,3,TSG Hoffenheim,14,1,-1,1,2
+2009,3,Hannover 96,15,1,-1,1,2
+2009,3,SC Freiburg,16,1,-2,3,5
+2009,3,VfL Bochum,17,1,-3,3,6
+2009,3,1. FC Köln,18,0,-3,1,4
+2009,4,Bay. Leverkusen,1,7,6,8,2
+2009,4,Hamburger SV,2,7,5,9,4
+2009,4,FC Schalke 04,3,7,4,5,1
+2009,4,VfL Wolfsburg,4,6,2,7,5
+2009,4,1.FSV Mainz 05,5,5,1,5,4
+2009,4,E. Frankfurt,6,5,1,4,3
+2009,4,Werder Bremen,7,4,2,6,4
+2009,4,Hannover 96,8,4,1,3,2
+2009,4,VfB Stuttgart,9,4,0,5,5
+2009,4,Bor. M'gladbach,10,4,-2,5,7
+2009,4,VfL Bochum,11,4,-2,4,6
+2009,4,Bor. Dortmund,12,4,-2,3,5
+2009,4,Hertha BSC,13,3,-1,2,3
+2009,4,Bayern Munich,14,2,-1,3,4
+2009,4,TSG Hoffenheim,15,2,-1,1,2
+2009,4,1.FC Nuremberg,16,1,-3,2,5
+2009,4,1. FC Köln,17,1,-3,1,4
+2009,4,SC Freiburg,18,1,-7,3,10
+2009,5,Hamburger SV,1,10,7,12,5
+2009,5,Bay. Leverkusen,2,10,7,10,3
+2009,5,Werder Bremen,3,7,3,9,6
+2009,5,FC Schalke 04,4,7,3,5,2
+2009,5,Bor. M'gladbach,5,7,0,7,7
+2009,5,E. Frankfurt,6,6,1,5,4
+2009,5,VfL Wolfsburg,7,6,-1,7,8
+2009,5,Bayern Munich,8,5,2,6,4
+2009,5,VfB Stuttgart,9,5,0,5,5
+2009,5,TSG Hoffenheim,10,5,0,2,2
+2009,5,1.FSV Mainz 05,11,5,-1,5,6
+2009,5,Bor. Dortmund,12,5,-2,4,6
+2009,5,Hannover 96,13,4,0,3,3
+2009,5,VfL Bochum,14,4,-3,5,8
+2009,5,SC Freiburg,15,4,-6,4,10
+2009,5,Hertha BSC,16,3,-2,4,6
+2009,5,1.FC Nuremberg,17,2,-3,2,5
+2009,5,1. FC Köln,18,1,-5,2,7
+2009,6,Hamburger SV,1,13,9,15,6
+2009,6,Bay. Leverkusen,2,13,8,13,5
+2009,6,FC Schalke 04,3,10,4,7,3
+2009,6,E. Frankfurt,4,9,3,7,4
+2009,6,Bayern Munich,5,8,6,11,5
+2009,6,Werder Bremen,6,8,3,9,6
+2009,6,TSG Hoffenheim,7,8,3,5,2
+2009,6,1.FSV Mainz 05,8,8,0,7,7
+2009,6,Bor. M'gladbach,9,7,-1,7,8
+2009,6,VfL Wolfsburg,10,6,-2,9,11
+2009,6,Hannover 96,11,5,0,3,3
+2009,6,VfB Stuttgart,12,5,-2,6,8
+2009,6,1.FC Nuremberg,13,5,-2,3,5
+2009,6,Bor. Dortmund,14,5,-6,5,11
+2009,6,VfL Bochum,15,4,-6,5,11
+2009,6,SC Freiburg,16,4,-8,4,12
+2009,6,Hertha BSC,17,3,-3,5,8
+2009,6,1. FC Köln,18,1,-6,3,9
+2009,7,Hamburger SV,1,14,9,16,7
+2009,7,Bay. Leverkusen,2,14,8,13,5
+2009,7,Bayern Munich,3,11,7,13,6
+2009,7,TSG Hoffenheim,4,11,5,9,4
+2009,7,1.FSV Mainz 05,5,11,1,10,9
+2009,7,FC Schalke 04,6,10,3,8,5
+2009,7,E. Frankfurt,7,10,3,8,5
+2009,7,Werder Bremen,8,9,3,9,6
+2009,7,VfL Wolfsburg,9,9,-1,11,12
+2009,7,Bor. M'gladbach,10,7,-3,9,12
+2009,7,SC Freiburg,11,7,-4,8,12
+2009,7,Hannover 96,12,6,0,4,4
+2009,7,Bor. Dortmund,13,6,-6,6,12
+2009,7,1.FC Nuremberg,14,5,-3,4,7
+2009,7,VfB Stuttgart,15,5,-4,6,10
+2009,7,1. FC Köln,16,4,-4,5,9
+2009,7,VfL Bochum,17,4,-7,7,14
+2009,7,Hertha BSC,18,3,-7,5,12
+2009,8,Hamburger SV,1,17,10,17,7
+2009,8,Bay. Leverkusen,2,17,9,14,5
+2009,8,TSG Hoffenheim,3,14,9,14,5
+2009,8,FC Schalke 04,4,13,4,9,5
+2009,8,Werder Bremen,5,12,6,12,6
+2009,8,VfL Wolfsburg,6,12,1,15,14
+2009,8,Bayern Munich,7,11,6,13,7
+2009,8,1.FSV Mainz 05,8,11,-2,10,12
+2009,8,E. Frankfurt,9,10,0,8,8
+2009,8,SC Freiburg,10,10,-1,11,12
+2009,8,VfB Stuttgart,11,8,-1,9,10
+2009,8,Bor. M'gladbach,12,7,-6,9,15
+2009,8,VfL Bochum,13,7,-6,8,14
+2009,8,Hannover 96,14,6,-2,6,8
+2009,8,Bor. Dortmund,15,6,-7,6,13
+2009,8,1.FC Nuremberg,16,5,-4,4,8
+2009,8,1. FC Köln,17,4,-5,5,10
+2009,8,Hertha BSC,18,3,-11,6,17
+2009,9,Bay. Leverkusen,1,20,13,18,5
+2009,9,Hamburger SV,2,20,12,20,8
+2009,9,FC Schalke 04,3,16,6,11,5
+2009,9,Werder Bremen,4,15,8,14,6
+2009,9,TSG Hoffenheim,5,14,8,15,7
+2009,9,1.FSV Mainz 05,6,14,-1,12,13
+2009,9,VfL Wolfsburg,7,13,1,16,15
+2009,9,Bayern Munich,8,12,6,13,7
+2009,9,E. Frankfurt,9,10,-2,8,10
+2009,9,SC Freiburg,10,10,-4,13,17
+2009,9,Hannover 96,11,9,1,11,10
+2009,9,Bor. Dortmund,12,9,-6,7,13
+2009,9,VfB Stuttgart,13,8,-3,9,12
+2009,9,VfL Bochum,14,8,-6,9,15
+2009,9,Bor. M'gladbach,15,7,-7,9,16
+2009,9,1. FC Köln,16,5,-5,5,10
+2009,9,1.FC Nuremberg,17,5,-8,4,12
+2009,9,Hertha BSC,18,3,-13,7,20
+2009,10,Bay. Leverkusen,1,21,13,18,5
+2009,10,Hamburger SV,2,21,12,20,8
+2009,10,FC Schalke 04,3,19,7,13,6
+2009,10,Werder Bremen,4,18,10,16,6
+2009,10,VfL Wolfsburg,5,16,2,18,16
+2009,10,Bayern Munich,6,15,7,15,8
+2009,10,TSG Hoffenheim,7,14,6,15,9
+2009,10,1.FSV Mainz 05,8,14,-2,12,14
+2009,10,E. Frankfurt,9,13,-1,10,11
+2009,10,Bor. Dortmund,10,12,-4,9,13
+2009,10,SC Freiburg,11,10,-5,14,19
+2009,10,Hannover 96,12,9,0,12,12
+2009,10,VfB Stuttgart,13,8,-4,10,14
+2009,10,1. FC Köln,14,8,-4,6,10
+2009,10,1.FC Nuremberg,15,8,-5,7,12
+2009,10,VfL Bochum,16,8,-8,9,17
+2009,10,Bor. M'gladbach,17,7,-8,10,18
+2009,10,Hertha BSC,18,3,-16,7,23
+2009,11,Bay. Leverkusen,1,22,13,19,6
+2009,11,Hamburger SV,2,22,12,23,11
+2009,11,Werder Bremen,3,21,13,20,7
+2009,11,FC Schalke 04,4,20,7,16,9
+2009,11,Bayern Munich,5,18,8,17,9
+2009,11,TSG Hoffenheim,6,17,9,18,9
+2009,11,VfL Wolfsburg,7,17,2,18,16
+2009,11,1.FSV Mainz 05,8,17,1,15,14
+2009,11,E. Frankfurt,9,13,-2,11,13
+2009,11,Bor. Dortmund,10,13,-4,10,14
+2009,11,Hannover 96,11,12,1,13,12
+2009,11,SC Freiburg,12,10,-8,14,22
+2009,11,1. FC Köln,13,9,-4,6,10
+2009,11,VfB Stuttgart,14,8,-5,10,15
+2009,11,Bor. M'gladbach,15,8,-8,10,18
+2009,11,1.FC Nuremberg,16,8,-8,7,15
+2009,11,VfL Bochum,17,8,-11,10,21
+2009,11,Hertha BSC,18,4,-16,7,23
+2009,12,Bay. Leverkusen,1,23,13,21,8
+2009,12,Werder Bremen,2,22,13,22,9
+2009,12,Hamburger SV,3,22,11,25,14
+2009,12,FC Schalke 04,4,21,7,18,11
+2009,12,TSG Hoffenheim,5,20,10,19,9
+2009,12,Bayern Munich,6,19,8,17,9
+2009,12,VfL Wolfsburg,7,18,2,21,19
+2009,12,1.FSV Mainz 05,8,18,1,18,17
+2009,12,E. Frankfurt,9,16,-1,13,14
+2009,12,Bor. Dortmund,10,16,-2,12,14
+2009,12,Hannover 96,11,15,2,14,12
+2009,12,Bor. M'gladbach,12,11,-7,13,20
+2009,12,SC Freiburg,13,10,-9,14,23
+2009,12,VfB Stuttgart,14,9,-5,10,15
+2009,12,1. FC Köln,15,9,-5,6,11
+2009,12,1.FC Nuremberg,16,9,-8,9,17
+2009,12,VfL Bochum,17,8,-12,11,23
+2009,12,Hertha BSC,18,4,-18,7,25
+2009,13,Bay. Leverkusen,1,26,17,25,8
+2009,13,Werder Bremen,2,23,13,23,10
+2009,13,Hamburger SV,3,23,11,27,16
+2009,13,FC Schalke 04,4,22,7,19,12
+2009,13,VfL Wolfsburg,5,21,3,23,20
+2009,13,1.FSV Mainz 05,6,21,2,19,17
+2009,13,TSG Hoffenheim,7,20,9,20,11
+2009,13,Bayern Munich,8,20,8,18,10
+2009,13,Bor. Dortmund,9,17,-2,13,15
+2009,13,Hannover 96,10,16,2,16,14
+2009,13,E. Frankfurt,11,16,-5,13,18
+2009,13,SC Freiburg,12,13,-8,16,24
+2009,13,1. FC Köln,13,12,-4,7,11
+2009,13,Bor. M'gladbach,14,12,-7,13,20
+2009,13,VfB Stuttgart,15,10,-5,10,15
+2009,13,1.FC Nuremberg,16,9,-9,9,18
+2009,13,VfL Bochum,17,8,-13,12,25
+2009,13,Hertha BSC,18,4,-19,7,26
+2009,14,Bay. Leverkusen,1,27,17,26,9
+2009,14,Werder Bremen,2,26,19,29,10
+2009,14,FC Schalke 04,3,25,9,21,12
+2009,14,TSG Hoffenheim,4,23,13,24,11
+2009,14,Hamburger SV,5,23,10,27,17
+2009,14,1.FSV Mainz 05,6,22,2,19,17
+2009,14,Bayern Munich,7,21,8,19,11
+2009,14,VfL Wolfsburg,8,21,2,25,23
+2009,14,Bor. Dortmund,9,18,-2,13,15
+2009,14,Hannover 96,10,16,0,16,16
+2009,14,E. Frankfurt,11,16,-6,14,20
+2009,14,Bor. M'gladbach,12,15,-6,15,21
+2009,14,SC Freiburg,13,13,-14,16,30
+2009,14,1.FC Nuremberg,14,12,-8,12,20
+2009,14,1. FC Köln,15,12,-8,7,15
+2009,14,VfB Stuttgart,16,11,-5,11,16
+2009,14,VfL Bochum,17,11,-12,13,25
+2009,14,Hertha BSC,18,5,-19,8,27
+2009,15,Bay. Leverkusen,1,30,21,30,9
+2009,15,Werder Bremen,2,27,19,31,12
+2009,15,FC Schalke 04,3,25,8,21,13
+2009,15,Bayern Munich,4,24,11,22,11
+2009,15,Hamburger SV,5,24,10,28,18
+2009,15,TSG Hoffenheim,6,23,12,25,13
+2009,15,1.FSV Mainz 05,7,23,2,20,18
+2009,15,VfL Wolfsburg,8,22,2,27,25
+2009,15,Bor. Dortmund,9,21,-1,15,16
+2009,15,E. Frankfurt,10,19,-4,17,21
+2009,15,Bor. M'gladbach,11,18,-5,16,21
+2009,15,Hannover 96,12,16,-3,16,19
+2009,15,SC Freiburg,13,16,-13,17,30
+2009,15,1. FC Köln,14,13,-8,7,15
+2009,15,1.FC Nuremberg,15,12,-9,12,21
+2009,15,VfL Bochum,16,12,-12,13,25
+2009,15,VfB Stuttgart,17,11,-9,11,20
+2009,15,Hertha BSC,18,5,-21,9,30
+2009,16,Bay. Leverkusen,1,31,21,30,9
+2009,16,Werder Bremen,2,28,19,31,12
+2009,16,FC Schalke 04,3,28,10,23,13
+2009,16,Bayern Munich,4,27,12,24,12
+2009,16,Hamburger SV,5,25,10,28,18
+2009,16,TSG Hoffenheim,6,24,12,25,13
+2009,16,Bor. Dortmund,7,24,3,19,16
+2009,16,VfL Wolfsburg,8,23,2,29,27
+2009,16,1.FSV Mainz 05,9,23,0,20,20
+2009,16,E. Frankfurt,10,22,-2,19,21
+2009,16,Bor. M'gladbach,11,18,-6,17,23
+2009,16,Hannover 96,12,17,-3,16,19
+2009,16,SC Freiburg,13,17,-13,19,32
+2009,16,1. FC Köln,14,14,-8,7,15
+2009,16,VfL Bochum,15,13,-12,14,26
+2009,16,VfB Stuttgart,16,12,-9,12,21
+2009,16,1.FC Nuremberg,17,12,-13,12,25
+2009,16,Hertha BSC,18,5,-23,9,32
+2009,17,Bay. Leverkusen,1,32,21,32,11
+2009,17,FC Schalke 04,2,31,12,25,13
+2009,17,Bayern Munich,3,30,16,29,13
+2009,17,Werder Bremen,4,28,17,31,14
+2009,17,Hamburger SV,5,28,14,32,18
+2009,17,Bor. Dortmund,6,27,5,22,17
+2009,17,TSG Hoffenheim,7,25,12,26,14
+2009,17,1.FSV Mainz 05,8,24,0,21,21
+2009,17,VfL Wolfsburg,9,23,0,30,30
+2009,17,E. Frankfurt,10,23,-2,20,22
+2009,17,Bor. M'gladbach,11,21,-4,22,26
+2009,17,SC Freiburg,12,18,-13,19,32
+2009,17,Hannover 96,13,17,-5,19,24
+2009,17,1. FC Köln,14,15,-8,7,15
+2009,17,VfB Stuttgart,15,13,-9,13,22
+2009,17,VfL Bochum,16,13,-16,15,31
+2009,17,1.FC Nuremberg,17,12,-17,12,29
+2009,17,Hertha BSC,18,6,-23,11,34
+2009,18,Bay. Leverkusen,1,35,22,35,13
+2009,18,FC Schalke 04,2,34,13,26,13
+2009,18,Bayern Munich,3,33,19,34,15
+2009,18,Hamburger SV,4,31,15,34,19
+2009,18,Bor. Dortmund,5,30,6,23,17
+2009,18,Werder Bremen,6,28,16,32,16
+2009,18,TSG Hoffenheim,7,25,10,27,17
+2009,18,VfL Wolfsburg,8,24,0,32,32
+2009,18,1.FSV Mainz 05,9,24,-1,21,22
+2009,18,E. Frankfurt,10,24,-2,22,24
+2009,18,Bor. M'gladbach,11,21,-5,24,29
+2009,18,1. FC Köln,12,18,-5,10,15
+2009,18,SC Freiburg,13,18,-14,19,33
+2009,18,Hannover 96,14,17,-6,21,27
+2009,18,VfB Stuttgart,15,16,-7,16,23
+2009,18,VfL Bochum,16,16,-15,18,33
+2009,18,1.FC Nuremberg,17,12,-20,12,32
+2009,18,Hertha BSC,18,6,-26,13,39
+2009,19,Bay. Leverkusen,1,38,24,39,15
+2009,19,FC Schalke 04,2,37,14,27,13
+2009,19,Bayern Munich,3,36,21,36,15
+2009,19,Hamburger SV,4,34,17,36,19
+2009,19,Bor. Dortmund,5,33,7,26,19
+2009,19,Werder Bremen,6,28,15,32,17
+2009,19,E. Frankfurt,7,27,-1,23,24
+2009,19,TSG Hoffenheim,8,25,8,27,19
+2009,19,VfL Wolfsburg,9,24,-2,33,35
+2009,19,1.FSV Mainz 05,10,24,-3,23,26
+2009,19,Bor. M'gladbach,11,21,-6,25,31
+2009,19,VfB Stuttgart,12,19,-5,19,24
+2009,19,VfL Bochum,13,19,-14,20,34
+2009,19,1. FC Köln,14,18,-6,12,18
+2009,19,SC Freiburg,15,18,-16,19,35
+2009,19,Hannover 96,16,17,-9,21,30
+2009,19,1.FC Nuremberg,17,12,-21,12,33
+2009,19,Hertha BSC,18,9,-23,16,39
+2009,20,Bay. Leverkusen,1,41,27,42,15
+2009,20,Bayern Munich,2,39,22,39,17
+2009,20,FC Schalke 04,3,38,14,29,15
+2009,20,Bor. Dortmund,4,36,8,27,19
+2009,20,Hamburger SV,5,34,16,36,20
+2009,20,Werder Bremen,6,28,14,34,20
+2009,20,E. Frankfurt,7,28,-1,24,25
+2009,20,1.FSV Mainz 05,8,27,-2,24,26
+2009,20,TSG Hoffenheim,9,25,5,27,22
+2009,20,VfL Wolfsburg,10,24,-3,35,38
+2009,20,VfB Stuttgart,11,22,-4,20,24
+2009,20,Bor. M'gladbach,12,22,-6,25,31
+2009,20,1. FC Köln,13,21,-5,15,20
+2009,20,VfL Bochum,14,20,-14,22,36
+2009,20,SC Freiburg,15,18,-17,19,36
+2009,20,Hannover 96,16,17,-10,21,31
+2009,20,1.FC Nuremberg,17,13,-21,13,34
+2009,20,Hertha BSC,18,10,-23,16,39
+2009,21,Bay. Leverkusen,1,44,29,45,16
+2009,21,Bayern Munich,2,42,25,42,17
+2009,21,FC Schalke 04,3,41,16,31,15
+2009,21,Bor. Dortmund,4,36,5,28,23
+2009,21,Hamburger SV,5,35,16,37,21
+2009,21,Werder Bremen,6,28,13,37,24
+2009,21,E. Frankfurt,7,28,-2,25,27
+2009,21,1.FSV Mainz 05,8,27,-5,24,29
+2009,21,TSG Hoffenheim,9,25,3,27,24
+2009,21,VfB Stuttgart,10,25,-1,24,25
+2009,21,VfL Wolfsburg,11,25,-3,36,39
+2009,21,Bor. M'gladbach,12,25,-5,29,34
+2009,21,1. FC Köln,13,24,-4,17,21
+2009,21,VfL Bochum,14,21,-14,22,36
+2009,21,SC Freiburg,15,18,-19,20,39
+2009,21,Hannover 96,16,17,-12,22,34
+2009,21,1.FC Nuremberg,17,16,-19,16,35
+2009,21,Hertha BSC,18,11,-23,16,39
+2009,22,Bay. Leverkusen,1,45,29,46,17
+2009,22,Bayern Munich,2,45,27,45,18
+2009,22,FC Schalke 04,3,42,16,31,15
+2009,22,Hamburger SV,4,36,16,40,24
+2009,22,Bor. Dortmund,5,36,4,30,26
+2009,22,Werder Bremen,6,31,14,39,25
+2009,22,E. Frankfurt,7,31,-1,28,29
+2009,22,1.FSV Mainz 05,8,30,-4,25,29
+2009,22,TSG Hoffenheim,9,28,4,29,25
+2009,22,VfB Stuttgart,10,28,0,26,26
+2009,22,1. FC Köln,11,25,-4,20,24
+2009,22,VfL Wolfsburg,12,25,-5,37,42
+2009,22,Bor. M'gladbach,13,25,-6,29,35
+2009,22,VfL Bochum,14,22,-14,23,37
+2009,22,SC Freiburg,15,19,-19,20,39
+2009,22,Hannover 96,16,17,-13,23,36
+2009,22,1.FC Nuremberg,17,16,-20,17,37
+2009,22,Hertha BSC,18,11,-24,17,41
+2009,23,Bay. Leverkusen,1,48,30,48,18
+2009,23,Bayern Munich,2,48,29,48,19
+2009,23,FC Schalke 04,3,45,18,33,15
+2009,23,Hamburger SV,4,39,18,43,25
+2009,23,Bor. Dortmund,5,36,2,31,29
+2009,23,Werder Bremen,6,34,18,44,26
+2009,23,E. Frankfurt,7,34,0,30,30
+2009,23,1.FSV Mainz 05,8,31,-4,26,30
+2009,23,TSG Hoffenheim,9,28,3,30,27
+2009,23,VfB Stuttgart,10,28,-2,27,29
+2009,23,Bor. M'gladbach,11,28,-5,31,36
+2009,23,VfL Wolfsburg,12,25,-6,38,44
+2009,23,1. FC Köln,13,25,-6,20,26
+2009,23,VfL Bochum,14,25,-13,25,38
+2009,23,SC Freiburg,15,19,-20,21,41
+2009,23,Hannover 96,16,17,-17,24,41
+2009,23,1.FC Nuremberg,17,16,-21,18,39
+2009,23,Hertha BSC,18,12,-24,18,42
+2009,24,Bay. Leverkusen,1,49,30,50,20
+2009,24,Bayern Munich,2,49,29,49,20
+2009,24,FC Schalke 04,3,45,17,34,17
+2009,24,Hamburger SV,4,40,18,43,25
+2009,24,Bor. Dortmund,5,39,5,35,30
+2009,24,Werder Bremen,6,35,18,46,28
+2009,24,E. Frankfurt,7,35,0,30,30
+2009,24,1.FSV Mainz 05,8,32,-4,26,30
+2009,24,VfB Stuttgart,9,31,2,32,30
+2009,24,TSG Hoffenheim,10,29,3,32,29
+2009,24,Bor. M'gladbach,11,29,-5,33,38
+2009,24,VfL Wolfsburg,12,28,-5,40,45
+2009,24,VfL Bochum,13,26,-13,25,38
+2009,24,1. FC Köln,14,25,-10,21,31
+2009,24,SC Freiburg,15,19,-23,21,44
+2009,24,Hannover 96,16,17,-20,25,45
+2009,24,1.FC Nuremberg,17,17,-21,19,40
+2009,24,Hertha BSC,18,15,-21,21,42
+2009,25,Bayern Munich,1,52,30,50,20
+2009,25,Bay. Leverkusen,2,50,30,50,20
+2009,25,FC Schalke 04,3,48,18,36,18
+2009,25,Hamburger SV,4,40,17,43,26
+2009,25,Bor. Dortmund,5,39,4,36,32
+2009,25,Werder Bremen,6,38,19,48,29
+2009,25,E. Frankfurt,7,35,-1,31,32
+2009,25,VfB Stuttgart,8,34,3,34,31
+2009,25,TSG Hoffenheim,9,32,5,34,29
+2009,25,1.FSV Mainz 05,10,32,-5,27,32
+2009,25,VfL Wolfsburg,11,31,-4,41,45
+2009,25,Bor. M'gladbach,12,30,-5,34,39
+2009,25,VfL Bochum,13,27,-13,25,38
+2009,25,1. FC Köln,14,26,-10,21,31
+2009,25,SC Freiburg,15,20,-23,22,45
+2009,25,1.FC Nuremberg,16,18,-21,19,40
+2009,25,Hannover 96,17,17,-21,25,46
+2009,25,Hertha BSC,18,15,-23,21,44
+2009,26,Bayern Munich,1,53,30,51,21
+2009,26,FC Schalke 04,2,51,21,40,19
+2009,26,Bay. Leverkusen,3,50,29,52,23
+2009,26,Hamburger SV,4,43,18,44,26
+2009,26,Bor. Dortmund,5,42,7,39,32
+2009,26,Werder Bremen,6,39,19,50,31
+2009,26,VfB Stuttgart,7,35,3,36,33
+2009,26,E. Frankfurt,8,35,-4,32,36
+2009,26,1.FSV Mainz 05,9,35,-4,28,32
+2009,26,VfL Wolfsburg,10,34,-1,45,46
+2009,26,TSG Hoffenheim,11,32,4,34,30
+2009,26,Bor. M'gladbach,12,30,-8,34,42
+2009,26,1. FC Köln,13,27,-10,22,32
+2009,26,VfL Bochum,14,27,-16,26,42
+2009,26,1.FC Nuremberg,15,21,-20,22,42
+2009,26,Hannover 96,16,20,-20,27,47
+2009,26,SC Freiburg,17,20,-24,23,47
+2009,26,Hertha BSC,18,15,-24,21,45
+2009,27,Bayern Munich,1,56,31,53,22
+2009,27,FC Schalke 04,2,54,22,42,20
+2009,27,Bay. Leverkusen,3,53,31,56,25
+2009,27,Bor. Dortmund,4,45,10,43,33
+2009,27,Hamburger SV,5,43,16,46,30
+2009,27,Werder Bremen,6,42,20,51,31
+2009,27,1.FSV Mainz 05,7,38,-3,29,32
+2009,27,VfL Wolfsburg,8,37,3,49,46
+2009,27,VfB Stuttgart,9,35,2,37,35
+2009,27,E. Frankfurt,10,35,-5,33,38
+2009,27,TSG Hoffenheim,11,32,3,34,31
+2009,27,Bor. M'gladbach,12,30,-12,34,46
+2009,27,1. FC Köln,13,27,-11,22,33
+2009,27,VfL Bochum,14,27,-19,27,46
+2009,27,1.FC Nuremberg,15,24,-19,24,43
+2009,27,Hannover 96,16,23,-19,29,48
+2009,27,SC Freiburg,17,20,-25,24,49
+2009,27,Hertha BSC,18,15,-25,22,47
+2009,28,Bayern Munich,1,56,30,54,24
+2009,28,FC Schalke 04,2,55,22,44,22
+2009,28,Bay. Leverkusen,3,53,28,56,28
+2009,28,Bor. Dortmund,4,48,13,46,33
+2009,28,Werder Bremen,5,45,21,54,33
+2009,28,Hamburger SV,6,44,16,48,32
+2009,28,VfB Stuttgart,7,38,4,39,35
+2009,28,E. Frankfurt,8,38,-4,35,39
+2009,28,1.FSV Mainz 05,9,38,-4,29,33
+2009,28,VfL Wolfsburg,10,37,-1,50,51
+2009,28,TSG Hoffenheim,11,33,3,34,31
+2009,28,Bor. M'gladbach,12,31,-12,35,47
+2009,28,1. FC Köln,13,28,-11,23,34
+2009,28,VfL Bochum,14,27,-20,29,49
+2009,28,1.FC Nuremberg,15,25,-19,24,43
+2009,28,Hannover 96,16,23,-21,29,50
+2009,28,SC Freiburg,17,23,-24,25,49
+2009,28,Hertha BSC,18,18,-21,27,48
+2009,29,FC Schalke 04,1,58,24,46,22
+2009,29,Bayern Munich,2,56,29,55,26
+2009,29,Bay. Leverkusen,3,53,26,56,30
+2009,29,Bor. Dortmund,4,49,13,46,33
+2009,29,Werder Bremen,5,48,23,58,35
+2009,29,Hamburger SV,6,44,15,48,33
+2009,29,VfB Stuttgart,7,41,5,41,36
+2009,29,E. Frankfurt,8,41,-3,37,40
+2009,29,VfL Wolfsburg,9,40,1,52,51
+2009,29,1.FSV Mainz 05,10,38,-6,29,35
+2009,29,TSG Hoffenheim,11,34,3,35,32
+2009,29,Bor. M'gladbach,12,34,-11,36,47
+2009,29,1. FC Köln,13,31,-8,27,35
+2009,29,VfL Bochum,14,27,-21,30,51
+2009,29,1.FC Nuremberg,15,25,-21,26,47
+2009,29,SC Freiburg,16,24,-24,26,50
+2009,29,Hannover 96,17,23,-24,30,54
+2009,29,Hertha BSC,18,19,-21,27,48
+2009,30,Bayern Munich,1,59,30,57,27
+2009,30,FC Schalke 04,2,58,23,47,24
+2009,30,Bay. Leverkusen,3,53,25,58,33
+2009,30,Bor. Dortmund,4,52,14,48,34
+2009,30,Werder Bremen,5,48,22,59,37
+2009,30,Hamburger SV,6,45,15,48,33
+2009,30,VfB Stuttgart,7,44,6,43,37
+2009,30,E. Frankfurt,8,44,-2,40,42
+2009,30,VfL Wolfsburg,9,43,5,56,51
+2009,30,1.FSV Mainz 05,10,38,-8,29,37
+2009,30,TSG Hoffenheim,11,34,-1,35,36
+2009,30,Bor. M'gladbach,12,34,-12,37,49
+2009,30,1. FC Köln,13,31,-11,27,38
+2009,30,1.FC Nuremberg,14,28,-19,28,47
+2009,30,VfL Bochum,15,28,-21,31,52
+2009,30,SC Freiburg,16,25,-24,27,51
+2009,30,Hannover 96,17,24,-24,30,54
+2009,30,Hertha BSC,18,22,-18,30,48
+2009,31,Bayern Munich,1,60,30,58,28
+2009,31,FC Schalke 04,2,58,21,49,28
+2009,31,Bay. Leverkusen,3,54,25,59,34
+2009,31,Bor. Dortmund,4,52,13,48,35
+2009,31,Werder Bremen,5,51,26,63,37
+2009,31,Hamburger SV,6,48,16,50,34
+2009,31,VfB Stuttgart,7,47,7,44,37
+2009,31,VfL Wolfsburg,8,46,7,58,51
+2009,31,E. Frankfurt,9,44,-4,40,44
+2009,31,1.FSV Mainz 05,10,41,-7,30,37
+2009,31,Bor. M'gladbach,11,37,-10,39,49
+2009,31,TSG Hoffenheim,12,34,-3,35,38
+2009,31,1. FC Köln,13,34,-9,29,38
+2009,31,1.FC Nuremberg,14,28,-21,28,49
+2009,31,VfL Bochum,15,28,-22,32,54
+2009,31,Hannover 96,16,27,-22,34,56
+2009,31,SC Freiburg,17,25,-28,27,55
+2009,31,Hertha BSC,18,22,-19,30,49
+2009,32,Bayern Munich,1,63,37,65,28
+2009,32,FC Schalke 04,2,61,23,52,29
+2009,32,Werder Bremen,3,54,28,67,39
+2009,32,Bay. Leverkusen,4,54,24,60,36
+2009,32,Bor. Dortmund,5,53,13,49,36
+2009,32,VfB Stuttgart,6,50,8,46,38
+2009,32,Hamburger SV,7,48,15,50,35
+2009,32,VfL Wolfsburg,8,46,5,60,55
+2009,32,E. Frankfurt,9,45,-4,42,46
+2009,32,1.FSV Mainz 05,10,44,-6,31,37
+2009,32,1. FC Köln,11,37,-7,31,38
+2009,32,Bor. M'gladbach,12,37,-12,40,52
+2009,32,TSG Hoffenheim,13,35,-3,36,39
+2009,32,1.FC Nuremberg,14,28,-22,29,51
+2009,32,VfL Bochum,15,28,-24,32,56
+2009,32,SC Freiburg,16,28,-27,29,56
+2009,32,Hannover 96,17,27,-29,34,63
+2009,32,Hertha BSC,18,23,-19,32,51
+2009,33,Bayern Munich,1,64,37,66,29
+2009,33,FC Schalke 04,2,64,24,53,29
+2009,33,Werder Bremen,3,57,29,68,39
+2009,33,Bay. Leverkusen,4,57,27,63,36
+2009,33,Bor. Dortmund,5,56,14,52,38
+2009,33,VfB Stuttgart,6,53,10,48,38
+2009,33,Hamburger SV,7,48,11,51,40
+2009,33,VfL Wolfsburg,8,46,4,60,56
+2009,33,E. Frankfurt,9,46,-4,45,49
+2009,33,1.FSV Mainz 05,10,45,-6,34,40
+2009,33,TSG Hoffenheim,11,38,1,41,40
+2009,33,Bor. M'gladbach,12,38,-12,41,53
+2009,33,1. FC Köln,13,37,-8,31,39
+2009,33,SC Freiburg,14,31,-26,30,56
+2009,33,1.FC Nuremberg,15,28,-23,31,54
+2009,33,VfL Bochum,16,28,-26,32,58
+2009,33,Hannover 96,17,27,-32,34,66
+2009,33,Hertha BSC,18,23,-20,32,52
+2009,34,Bayern Munich,1,67,39,69,30
+2009,34,FC Schalke 04,2,64,22,53,31
+2009,34,Werder Bremen,3,60,31,70,39
+2009,34,Bay. Leverkusen,4,58,27,64,37
+2009,34,Bor. Dortmund,5,57,14,53,39
+2009,34,VfB Stuttgart,6,54,10,50,40
+2009,34,Hamburger SV,7,51,15,55,40
+2009,34,VfL Wolfsburg,8,47,4,61,57
+2009,34,E. Frankfurt,9,46,-5,46,51
+2009,34,1.FSV Mainz 05,10,46,-6,36,42
+2009,34,TSG Hoffenheim,11,41,2,43,41
+2009,34,1. FC Köln,12,38,-8,33,41
+2009,34,Bor. M'gladbach,13,38,-17,42,59
+2009,34,SC Freiburg,14,32,-26,32,58
+2009,34,Hannover 96,15,30,-27,40,67
+2009,34,1.FC Nuremberg,16,28,-27,31,58
+2009,34,VfL Bochum,17,28,-28,33,61
+2009,34,Hertha BSC,18,24,-20,33,53
+2009,35,Bayern Munich,1,70,41,72,31
+2009,35,FC Schalke 04,2,65,22,53,31
+2009,35,Werder Bremen,3,61,31,71,40
+2009,35,Bay. Leverkusen,4,59,27,65,38
+2009,35,Bor. Dortmund,5,57,12,54,42
+2009,35,VfB Stuttgart,6,55,10,51,41
+2009,35,Hamburger SV,7,52,15,56,41
+2009,35,VfL Wolfsburg,8,50,6,64,58
+2009,35,1.FSV Mainz 05,9,47,-6,36,42
+2009,35,E. Frankfurt,10,46,-7,47,54
+2009,35,TSG Hoffenheim,11,42,2,44,42
+2009,35,Bor. M'gladbach,12,39,-17,43,60
+2009,35,1. FC Köln,13,38,-9,33,42
+2009,35,SC Freiburg,14,35,-24,35,59
+2009,35,Hannover 96,15,33,-24,43,67
+2009,35,1.FC Nuremberg,16,31,-26,32,58
+2009,35,VfL Bochum,17,28,-31,33,64
+2009,35,Hertha BSC,18,24,-22,34,56

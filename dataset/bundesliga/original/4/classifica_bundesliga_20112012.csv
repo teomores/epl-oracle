@@ -1,0 +1,613 @@
+match_year,match_round,team,team_rank,team_points,team_goal_difference,team_goal_fatti,team_goal_subiti
+2011,2,VfL Wolfsburg,1,3,3,3,0
+2011,2,VfB Stuttgart,2,3,3,3,0
+2011,2,Bor. Dortmund,3,3,2,3,1
+2011,2,1.FSV Mainz 05,4,3,2,2,0
+2011,2,Werder Bremen,5,3,2,2,0
+2011,2,Hannover 96,6,3,1,2,1
+2011,2,Bor. M'gladbach,7,3,1,1,0
+2011,2,1.FC Nuremberg,8,3,1,1,0
+2011,2,SC Freiburg,9,1,0,2,2
+2011,2,FC Augsburg,10,1,0,2,2
+2011,2,TSG Hoffenheim,11,0,-1,1,2
+2011,2,Bayern Munich,12,0,-1,0,1
+2011,2,Hertha BSC,13,0,-1,0,1
+2011,2,Hamburger SV,14,0,-2,1,3
+2011,2,Bay. Leverkusen,15,0,-2,0,2
+2011,2,1.FC K'lautern,16,0,-2,0,2
+2011,2,FC Schalke 04,17,0,-3,0,3
+2011,2,1. FC Köln,18,0,-3,0,3
+2011,3,1.FSV Mainz 05,1,6,3,4,1
+2011,3,Hannover 96,2,6,2,4,2
+2011,3,VfB Stuttgart,3,4,3,4,1
+2011,3,Bor. M'gladbach,4,4,1,2,1
+2011,3,VfL Wolfsburg,5,3,2,3,1
+2011,3,FC Schalke 04,6,3,1,5,4
+2011,3,Bor. Dortmund,7,3,1,3,2
+2011,3,Werder Bremen,8,3,1,2,1
+2011,3,1.FC Nuremberg,9,3,0,2,2
+2011,3,TSG Hoffenheim,10,3,0,2,2
+2011,3,Bayern Munich,11,3,0,1,1
+2011,3,Bay. Leverkusen,12,3,-1,1,2
+2011,3,FC Augsburg,13,2,0,3,3
+2011,3,SC Freiburg,14,1,-1,3,4
+2011,3,Hertha BSC,15,1,-1,2,3
+2011,3,Hamburger SV,16,1,-2,3,5
+2011,3,1.FC K'lautern,17,1,-2,1,3
+2011,3,1. FC Köln,18,0,-7,1,8
+2011,4,Bor. M'gladbach,1,7,4,6,2
+2011,4,Hannover 96,2,7,2,5,3
+2011,4,Bayern Munich,3,6,5,6,1
+2011,4,FC Schalke 04,4,6,3,9,6
+2011,4,Werder Bremen,5,6,3,7,4
+2011,4,Bor. Dortmund,6,6,3,5,2
+2011,4,TSG Hoffenheim,7,6,2,4,2
+2011,4,1.FSV Mainz 05,8,6,1,6,5
+2011,4,Bay. Leverkusen,9,6,0,2,2
+2011,4,VfB Stuttgart,10,4,2,4,2
+2011,4,VfL Wolfsburg,11,3,-1,4,5
+2011,4,1.FC Nuremberg,12,3,-2,2,4
+2011,4,Hertha BSC,13,2,-1,3,4
+2011,4,FC Augsburg,14,2,-2,3,5
+2011,4,1.FC K'lautern,15,2,-2,2,4
+2011,4,SC Freiburg,16,1,-3,6,9
+2011,4,Hamburger SV,17,1,-7,3,10
+2011,4,1. FC Köln,18,1,-7,2,9
+2011,5,Bayern Munich,1,9,8,9,1
+2011,5,FC Schalke 04,2,9,4,10,6
+2011,5,Werder Bremen,3,9,4,9,5
+2011,5,Hannover 96,4,8,2,6,4
+2011,5,Bor. M'gladbach,5,7,3,6,3
+2011,5,Bor. Dortmund,6,7,3,5,2
+2011,5,1.FSV Mainz 05,7,7,1,7,6
+2011,5,Bay. Leverkusen,8,7,0,2,2
+2011,5,TSG Hoffenheim,9,6,1,5,4
+2011,5,1.FC Nuremberg,10,6,-1,3,4
+2011,5,Hertha BSC,11,5,0,4,4
+2011,5,VfB Stuttgart,12,4,1,4,3
+2011,5,SC Freiburg,13,4,0,9,9
+2011,5,1. FC Köln,14,4,-6,6,12
+2011,5,VfL Wolfsburg,15,3,-4,4,8
+2011,5,FC Augsburg,16,2,-3,3,6
+2011,5,1.FC K'lautern,17,2,-5,2,7
+2011,5,Hamburger SV,18,1,-8,6,14
+2011,6,Bayern Munich,1,12,15,16,1
+2011,6,Werder Bremen,2,12,6,11,5
+2011,6,Bor. M'gladbach,3,10,4,7,3
+2011,6,Bay. Leverkusen,4,10,3,6,3
+2011,6,TSG Hoffenheim,5,9,5,9,4
+2011,6,FC Schalke 04,6,9,3,11,8
+2011,6,1.FC Nuremberg,7,9,0,5,5
+2011,6,Hertha BSC,8,8,1,6,5
+2011,6,Hannover 96,9,8,-1,6,7
+2011,6,VfB Stuttgart,10,7,4,7,3
+2011,6,Bor. Dortmund,11,7,2,6,4
+2011,6,1.FSV Mainz 05,12,7,-3,7,10
+2011,6,VfL Wolfsburg,13,6,-3,6,9
+2011,6,SC Freiburg,14,4,-7,9,16
+2011,6,1. FC Köln,15,4,-7,7,14
+2011,6,FC Augsburg,16,2,-6,4,10
+2011,6,1.FC K'lautern,17,2,-6,2,8
+2011,6,Hamburger SV,18,1,-10,6,16
+2011,7,Bayern Munich,1,15,17,18,1
+2011,7,Werder Bremen,2,13,6,12,6
+2011,7,Bor. M'gladbach,3,13,5,8,3
+2011,7,TSG Hoffenheim,4,12,7,12,5
+2011,7,Hannover 96,5,11,0,8,8
+2011,7,VfB Stuttgart,6,10,5,9,4
+2011,7,Bay. Leverkusen,7,10,0,7,7
+2011,7,1.FC Nuremberg,8,10,0,6,6
+2011,7,FC Schalke 04,9,9,1,11,10
+2011,7,Hertha BSC,10,9,1,8,7
+2011,7,Bor. Dortmund,11,7,1,7,6
+2011,7,1. FC Köln,12,7,-4,11,15
+2011,7,1.FSV Mainz 05,13,7,-5,8,13
+2011,7,VfL Wolfsburg,14,6,-5,7,12
+2011,7,1.FC K'lautern,15,5,-4,5,9
+2011,7,SC Freiburg,16,4,-8,10,18
+2011,7,FC Augsburg,17,3,-6,6,12
+2011,7,Hamburger SV,18,1,-11,6,17
+2011,8,Bayern Munich,1,18,20,21,1
+2011,8,Werder Bremen,2,16,7,14,7
+2011,8,Bor. M'gladbach,3,16,6,9,3
+2011,8,TSG Hoffenheim,4,12,5,12,7
+2011,8,FC Schalke 04,5,12,3,15,12
+2011,8,Hannover 96,6,12,0,8,8
+2011,8,VfB Stuttgart,7,10,4,10,6
+2011,8,Bor. Dortmund,8,10,2,9,7
+2011,8,1.FC Nuremberg,9,10,-1,6,7
+2011,8,1. FC Köln,10,10,-2,13,15
+2011,8,Bay. Leverkusen,11,10,-3,7,10
+2011,8,Hertha BSC,12,9,0,9,9
+2011,8,VfL Wolfsburg,13,9,-4,8,12
+2011,8,1.FSV Mainz 05,14,7,-6,9,15
+2011,8,1.FC K'lautern,15,5,-5,5,10
+2011,8,FC Augsburg,16,4,-6,6,12
+2011,8,SC Freiburg,17,4,-10,12,22
+2011,8,Hamburger SV,18,4,-10,8,18
+2011,9,Bayern Munich,1,19,20,21,1
+2011,9,Werder Bremen,2,16,6,16,10
+2011,9,Bor. M'gladbach,3,16,5,9,4
+2011,9,FC Schalke 04,4,15,4,17,13
+2011,9,Hannover 96,5,15,1,11,10
+2011,9,Bor. Dortmund,6,13,6,13,7
+2011,9,VfB Stuttgart,7,13,6,12,6
+2011,9,TSG Hoffenheim,8,13,5,12,7
+2011,9,Bay. Leverkusen,9,13,-1,10,11
+2011,9,Hertha BSC,10,12,3,12,9
+2011,9,1.FC Nuremberg,11,11,-1,9,10
+2011,9,1. FC Köln,12,10,-5,13,18
+2011,9,VfL Wolfsburg,13,9,-6,9,15
+2011,9,1.FSV Mainz 05,14,8,-6,12,18
+2011,9,SC Freiburg,15,7,-9,13,22
+2011,9,1.FC K'lautern,16,5,-7,5,12
+2011,9,FC Augsburg,17,4,-10,6,16
+2011,9,Hamburger SV,18,4,-11,9,20
+2011,10,Bayern Munich,1,22,24,25,1
+2011,10,Bor. M'gladbach,2,17,5,11,6
+2011,10,Bor. Dortmund,3,16,8,15,7
+2011,10,VfB Stuttgart,4,16,8,14,6
+2011,10,Werder Bremen,5,16,4,16,12
+2011,10,FC Schalke 04,6,15,3,18,15
+2011,10,Hannover 96,7,15,-1,11,12
+2011,10,Bay. Leverkusen,8,14,-1,12,13
+2011,10,TSG Hoffenheim,9,13,3,12,9
+2011,10,1. FC Köln,10,13,-3,15,18
+2011,10,Hertha BSC,11,12,-1,12,13
+2011,10,VfL Wolfsburg,12,12,-5,11,16
+2011,10,1.FC Nuremberg,13,11,-2,10,12
+2011,10,1.FC K'lautern,14,8,-6,7,13
+2011,10,1.FSV Mainz 05,15,8,-7,12,19
+2011,10,FC Augsburg,16,7,-9,7,16
+2011,10,SC Freiburg,17,7,-10,14,24
+2011,10,Hamburger SV,18,7,-10,11,21
+2011,11,Bayern Munich,1,22,23,26,3
+2011,11,Bor. Dortmund,2,19,13,20,7
+2011,11,FC Schalke 04,3,18,4,19,15
+2011,11,Hannover 96,4,18,0,13,13
+2011,11,VfB Stuttgart,5,17,8,16,8
+2011,11,Werder Bremen,6,17,4,17,13
+2011,11,Bor. M'gladbach,7,17,4,11,7
+2011,11,TSG Hoffenheim,8,16,4,13,9
+2011,11,Bay. Leverkusen,9,14,-2,12,14
+2011,11,Hertha BSC,10,13,-1,12,13
+2011,11,VfL Wolfsburg,11,13,-5,12,17
+2011,11,1. FC Köln,12,13,-8,15,23
+2011,11,1.FC Nuremberg,13,12,-2,12,14
+2011,11,1.FC K'lautern,14,11,-5,8,13
+2011,11,1.FSV Mainz 05,15,9,-7,12,19
+2011,11,FC Augsburg,16,8,-9,8,17
+2011,11,Hamburger SV,17,8,-10,12,22
+2011,11,SC Freiburg,18,7,-11,14,25
+2011,12,Bayern Munich,1,25,27,30,3
+2011,12,FC Schalke 04,2,21,6,22,16
+2011,12,Bor. Dortmund,3,20,13,21,8
+2011,12,Werder Bremen,4,20,6,20,14
+2011,12,Bor. M'gladbach,5,20,5,13,8
+2011,12,VfB Stuttgart,6,18,8,17,9
+2011,12,Hannover 96,7,18,-1,14,15
+2011,12,Bay. Leverkusen,8,17,-1,13,14
+2011,12,TSG Hoffenheim,9,16,2,14,12
+2011,12,Hertha BSC,10,16,0,15,15
+2011,12,1. FC Köln,11,16,-5,18,23
+2011,12,VfL Wolfsburg,12,13,-6,14,20
+2011,12,1.FC K'lautern,13,12,-5,9,14
+2011,12,1.FC Nuremberg,14,12,-6,12,18
+2011,12,1.FSV Mainz 05,15,9,-9,13,22
+2011,12,Hamburger SV,16,9,-10,13,23
+2011,12,FC Augsburg,17,8,-12,8,20
+2011,12,SC Freiburg,18,7,-12,14,26
+2011,13,Bayern Munich,1,28,28,32,4
+2011,13,Bor. Dortmund,2,23,17,26,9
+2011,13,Werder Bremen,3,23,7,23,16
+2011,13,Bor. M'gladbach,4,23,6,15,9
+2011,13,FC Schalke 04,5,22,6,24,18
+2011,13,Hannover 96,6,19,-1,16,17
+2011,13,VfB Stuttgart,7,18,6,18,12
+2011,13,Bay. Leverkusen,8,18,-1,15,16
+2011,13,TSG Hoffenheim,9,17,2,15,13
+2011,13,Hertha BSC,10,16,-1,16,17
+2011,13,1. FC Köln,11,16,-6,20,26
+2011,13,1.FC K'lautern,12,13,-5,10,15
+2011,13,VfL Wolfsburg,13,13,-10,15,25
+2011,13,1.FSV Mainz 05,14,12,-7,16,23
+2011,13,1.FC Nuremberg,15,12,-7,13,20
+2011,13,Hamburger SV,16,10,-10,15,25
+2011,13,SC Freiburg,17,10,-11,16,27
+2011,13,FC Augsburg,18,8,-13,9,22
+2011,14,Bayern Munich,1,28,27,32,5
+2011,14,Bor. Dortmund,2,26,18,27,9
+2011,14,Bor. M'gladbach,3,26,11,20,9
+2011,14,FC Schalke 04,4,25,10,28,18
+2011,14,Werder Bremen,5,23,2,23,21
+2011,14,VfB Stuttgart,6,21,7,20,13
+2011,14,Bay. Leverkusen,7,21,1,17,16
+2011,14,Hannover 96,8,19,-4,17,21
+2011,14,TSG Hoffenheim,9,17,0,15,15
+2011,14,Hertha BSC,10,17,-1,18,19
+2011,14,1. FC Köln,11,17,-6,21,27
+2011,14,VfL Wolfsburg,12,16,-7,19,26
+2011,14,1.FSV Mainz 05,13,13,-7,17,24
+2011,14,1.FC K'lautern,14,13,-7,10,17
+2011,14,Hamburger SV,15,13,-8,17,25
+2011,14,1.FC Nuremberg,16,12,-11,13,24
+2011,14,SC Freiburg,17,11,-11,18,29
+2011,14,FC Augsburg,18,8,-14,10,24
+2011,15,Bor. Dortmund,1,29,20,29,9
+2011,15,Bor. M'gladbach,2,29,14,23,9
+2011,15,Bayern Munich,3,28,26,34,8
+2011,15,Werder Bremen,4,26,4,25,21
+2011,15,FC Schalke 04,5,25,8,28,20
+2011,15,Bay. Leverkusen,6,22,1,20,19
+2011,15,VfB Stuttgart,7,21,5,20,15
+2011,15,Hannover 96,8,20,-4,18,22
+2011,15,TSG Hoffenheim,9,18,0,16,16
+2011,15,Hertha BSC,10,18,-1,21,22
+2011,15,1. FC Köln,11,17,-9,21,30
+2011,15,1.FSV Mainz 05,12,16,-6,20,26
+2011,15,VfL Wolfsburg,13,16,-9,19,28
+2011,15,1.FC Nuremberg,14,15,-10,14,24
+2011,15,Hamburger SV,15,14,-8,18,26
+2011,15,1.FC K'lautern,16,13,-8,10,18
+2011,15,SC Freiburg,17,12,-11,19,30
+2011,15,FC Augsburg,18,11,-12,12,24
+2011,16,Bayern Munich,1,31,29,38,9
+2011,16,Bor. Dortmund,2,30,20,30,10
+2011,16,Bor. M'gladbach,3,30,14,24,10
+2011,16,FC Schalke 04,4,28,10,31,21
+2011,16,Werder Bremen,5,26,1,26,25
+2011,16,Bay. Leverkusen,6,25,3,22,19
+2011,16,VfB Stuttgart,7,22,5,22,17
+2011,16,Hannover 96,8,21,-4,19,23
+2011,16,Hertha BSC,9,19,-1,22,23
+2011,16,TSG Hoffenheim,10,18,-2,16,18
+2011,16,1. FC Köln,11,18,-9,23,32
+2011,16,1.FSV Mainz 05,12,17,-6,22,28
+2011,16,Hamburger SV,13,17,-6,20,26
+2011,16,VfL Wolfsburg,14,17,-9,21,30
+2011,16,1.FC Nuremberg,15,15,-12,14,26
+2011,16,1.FC K'lautern,16,14,-8,11,19
+2011,16,SC Freiburg,17,13,-11,20,31
+2011,16,FC Augsburg,18,11,-14,13,27
+2011,17,Bayern Munich,1,34,30,40,10
+2011,17,Bor. Dortmund,2,31,20,31,11
+2011,17,FC Schalke 04,3,31,11,33,22
+2011,17,Bor. M'gladbach,4,30,13,24,11
+2011,17,Werder Bremen,5,29,4,30,26
+2011,17,Bay. Leverkusen,6,26,3,22,19
+2011,17,VfB Stuttgart,7,22,4,23,19
+2011,17,Hannover 96,8,22,-4,19,23
+2011,17,TSG Hoffenheim,9,21,0,18,18
+2011,17,1. FC Köln,10,21,-5,27,32
+2011,17,Hertha BSC,11,19,-2,23,25
+2011,17,1.FSV Mainz 05,12,18,-6,22,28
+2011,17,Hamburger SV,13,18,-6,20,26
+2011,17,VfL Wolfsburg,14,17,-12,22,34
+2011,17,1.FC K'lautern,15,15,-8,12,20
+2011,17,1.FC Nuremberg,16,15,-14,14,28
+2011,17,FC Augsburg,17,14,-13,14,27
+2011,17,SC Freiburg,18,13,-15,20,35
+2011,18,Bayern Munich,1,37,33,43,10
+2011,18,Bor. Dortmund,2,34,23,35,12
+2011,18,FC Schalke 04,3,34,16,38,22
+2011,18,Bor. M'gladbach,4,33,14,25,11
+2011,18,Werder Bremen,5,29,-1,30,31
+2011,18,Bay. Leverkusen,6,26,0,22,22
+2011,18,Hannover 96,7,23,-4,20,24
+2011,18,VfB Stuttgart,8,22,3,23,20
+2011,18,TSG Hoffenheim,9,22,0,19,19
+2011,18,1. FC Köln,10,21,-8,27,35
+2011,18,Hertha BSC,11,20,-2,24,26
+2011,18,VfL Wolfsburg,12,20,-11,23,34
+2011,18,Hamburger SV,13,19,-6,21,27
+2011,18,1.FSV Mainz 05,14,18,-7,22,29
+2011,18,1.FC Nuremberg,15,18,-11,17,28
+2011,18,1.FC K'lautern,16,16,-8,13,21
+2011,18,FC Augsburg,17,15,-13,15,28
+2011,18,SC Freiburg,18,13,-18,21,39
+2011,19,Bayern Munich,1,37,31,44,13
+2011,19,Bor. Dortmund,2,37,27,40,13
+2011,19,FC Schalke 04,3,37,18,41,23
+2011,19,Bor. M'gladbach,4,36,16,28,12
+2011,19,Werder Bremen,5,30,-1,30,31
+2011,19,Bay. Leverkusen,6,29,1,25,24
+2011,19,Hannover 96,7,24,-4,20,24
+2011,19,TSG Hoffenheim,8,23,0,19,19
+2011,19,VfL Wolfsburg,9,23,-10,24,34
+2011,19,VfB Stuttgart,10,22,1,24,23
+2011,19,1. FC Köln,11,21,-9,27,36
+2011,19,1.FC Nuremberg,12,21,-9,19,28
+2011,19,Hertha BSC,13,20,-4,24,28
+2011,19,Hamburger SV,14,19,-10,22,32
+2011,19,1.FSV Mainz 05,15,18,-8,24,32
+2011,19,1.FC K'lautern,16,17,-8,13,21
+2011,19,SC Freiburg,17,16,-17,22,39
+2011,19,FC Augsburg,18,15,-14,15,29
+2011,20,Bayern Munich,1,40,33,46,13
+2011,20,Bor. Dortmund,2,40,29,43,14
+2011,20,FC Schalke 04,3,40,21,45,24
+2011,20,Bor. M'gladbach,4,39,19,31,12
+2011,20,Werder Bremen,5,31,-1,31,32
+2011,20,Bay. Leverkusen,6,30,1,26,25
+2011,20,Hannover 96,7,27,-3,21,24
+2011,20,TSG Hoffenheim,8,23,-2,20,22
+2011,20,VfL Wolfsburg,9,23,-12,24,36
+2011,20,VfB Stuttgart,10,22,-2,24,26
+2011,20,Hamburger SV,11,22,-9,24,33
+2011,20,1.FSV Mainz 05,12,21,-6,27,33
+2011,20,1.FC Nuremberg,13,21,-10,19,29
+2011,20,1. FC Köln,14,21,-12,28,40
+2011,20,Hertha BSC,15,20,-5,25,30
+2011,20,1.FC K'lautern,16,18,-8,15,23
+2011,20,FC Augsburg,17,16,-14,17,31
+2011,20,SC Freiburg,18,16,-19,23,42
+2011,21,Bor. Dortmund,1,43,31,45,14
+2011,21,Bayern Munich,2,41,33,47,14
+2011,21,FC Schalke 04,3,41,21,46,25
+2011,21,Bor. M'gladbach,4,40,19,31,12
+2011,21,Werder Bremen,5,32,-1,33,34
+2011,21,Bay. Leverkusen,6,31,1,28,27
+2011,21,Hannover 96,7,30,-2,22,24
+2011,21,TSG Hoffenheim,8,24,-2,22,24
+2011,21,1. FC Köln,9,24,-11,29,40
+2011,21,VfL Wolfsburg,10,24,-12,24,36
+2011,21,VfB Stuttgart,11,23,-2,26,28
+2011,21,Hamburger SV,12,23,-9,25,34
+2011,21,1.FSV Mainz 05,13,22,-6,28,34
+2011,21,1.FC Nuremberg,14,21,-12,19,31
+2011,21,Hertha BSC,15,20,-6,25,31
+2011,21,1.FC K'lautern,16,18,-9,15,24
+2011,21,FC Augsburg,17,17,-14,19,33
+2011,21,SC Freiburg,18,17,-19,25,44
+2011,22,Bor. Dortmund,1,46,32,46,14
+2011,22,Bayern Munich,2,44,35,49,14
+2011,22,Bor. M'gladbach,3,43,22,34,12
+2011,22,FC Schalke 04,4,41,18,46,28
+2011,22,Werder Bremen,5,33,-1,34,35
+2011,22,Bay. Leverkusen,6,31,0,28,28
+2011,22,Hannover 96,7,31,-2,23,25
+2011,22,VfL Wolfsburg,8,27,-11,27,38
+2011,22,VfB Stuttgart,9,26,3,31,28
+2011,22,Hamburger SV,10,26,-8,26,34
+2011,22,TSG Hoffenheim,11,25,-2,23,25
+2011,22,1. FC Köln,12,24,-12,29,41
+2011,22,1.FSV Mainz 05,13,23,-6,29,35
+2011,22,1.FC Nuremberg,14,22,-12,19,31
+2011,22,Hertha BSC,15,20,-11,25,36
+2011,22,1.FC K'lautern,16,18,-11,15,26
+2011,22,FC Augsburg,17,18,-14,19,33
+2011,22,SC Freiburg,18,17,-20,27,47
+2011,23,Bor. Dortmund,1,49,33,47,14
+2011,23,Bor. M'gladbach,2,46,23,36,13
+2011,23,Bayern Munich,3,45,35,49,14
+2011,23,FC Schalke 04,4,44,22,50,28
+2011,23,Werder Bremen,5,36,1,37,36
+2011,23,Bay. Leverkusen,6,34,3,32,29
+2011,23,Hannover 96,7,34,0,27,27
+2011,23,VfL Wolfsburg,8,27,-15,27,42
+2011,23,VfB Stuttgart,9,26,1,33,32
+2011,23,TSG Hoffenheim,10,26,-2,24,26
+2011,23,Hamburger SV,11,26,-10,27,37
+2011,23,1.FC Nuremberg,12,25,-11,21,32
+2011,23,1.FSV Mainz 05,13,24,-6,30,36
+2011,23,1. FC Köln,14,24,-13,30,43
+2011,23,Hertha BSC,15,20,-12,25,37
+2011,23,1.FC K'lautern,16,18,-12,16,28
+2011,23,FC Augsburg,17,18,-17,20,37
+2011,23,SC Freiburg,18,18,-20,27,47
+2011,24,Bor. Dortmund,1,52,35,50,15
+2011,24,Bayern Munich,2,48,37,51,14
+2011,24,Bor. M'gladbach,3,47,23,37,14
+2011,24,FC Schalke 04,4,44,20,50,30
+2011,24,Bay. Leverkusen,5,37,5,34,29
+2011,24,Werder Bremen,6,36,0,37,37
+2011,24,Hannover 96,7,34,-2,28,30
+2011,24,VfB Stuttgart,8,29,4,37,33
+2011,24,TSG Hoffenheim,9,29,-1,26,27
+2011,24,1.FC Nuremberg,10,28,-10,22,32
+2011,24,1.FSV Mainz 05,11,27,-2,34,36
+2011,24,Hamburger SV,12,27,-10,28,38
+2011,24,VfL Wolfsburg,13,27,-16,28,44
+2011,24,1. FC Köln,14,24,-15,30,45
+2011,24,FC Augsburg,15,21,-14,23,37
+2011,24,Hertha BSC,16,20,-15,25,40
+2011,24,1.FC K'lautern,17,18,-16,16,32
+2011,24,SC Freiburg,18,18,-23,28,51
+2011,25,Bor. Dortmund,1,55,36,52,16
+2011,25,Bayern Munich,2,48,35,51,16
+2011,25,Bor. M'gladbach,3,47,22,37,15
+2011,25,FC Schalke 04,4,44,19,51,32
+2011,25,Bay. Leverkusen,5,40,7,36,29
+2011,25,Werder Bremen,6,36,-1,37,38
+2011,25,Hannover 96,7,35,-2,30,32
+2011,25,VfB Stuttgart,8,32,8,41,33
+2011,25,1.FC Nuremberg,9,31,-9,23,32
+2011,25,TSG Hoffenheim,10,30,-1,27,28
+2011,25,VfL Wolfsburg,11,28,-16,28,44
+2011,25,1.FSV Mainz 05,12,27,-3,35,38
+2011,25,Hamburger SV,13,27,-14,28,42
+2011,25,1. FC Köln,14,25,-15,31,46
+2011,25,Hertha BSC,15,23,-14,26,40
+2011,25,FC Augsburg,16,22,-14,25,39
+2011,25,SC Freiburg,17,21,-22,30,52
+2011,25,1.FC K'lautern,18,19,-16,16,32
+2011,26,Bor. Dortmund,1,56,36,52,16
+2011,26,Bayern Munich,2,51,41,58,17
+2011,26,Bor. M'gladbach,3,48,22,37,15
+2011,26,FC Schalke 04,4,47,21,54,33
+2011,26,Bay. Leverkusen,5,40,6,38,32
+2011,26,Werder Bremen,6,39,2,40,38
+2011,26,Hannover 96,7,35,-5,30,35
+2011,26,VfB Stuttgart,8,33,8,41,33
+2011,26,1.FC Nuremberg,9,31,-10,24,34
+2011,26,VfL Wolfsburg,10,31,-15,31,46
+2011,26,1.FSV Mainz 05,11,30,-2,37,39
+2011,26,TSG Hoffenheim,12,30,-7,28,35
+2011,26,1. FC Köln,13,28,-14,32,46
+2011,26,Hamburger SV,14,27,-16,29,45
+2011,26,FC Augsburg,15,23,-14,25,39
+2011,26,Hertha BSC,16,23,-15,26,41
+2011,26,SC Freiburg,17,22,-22,30,52
+2011,26,1.FC K'lautern,18,20,-16,16,32
+2011,27,Bor. Dortmund,1,59,37,53,16
+2011,27,Bayern Munich,2,54,47,64,17
+2011,27,Bor. M'gladbach,3,51,23,39,16
+2011,27,FC Schalke 04,4,50,24,58,34
+2011,27,Bay. Leverkusen,5,40,5,39,34
+2011,27,Werder Bremen,6,39,1,40,39
+2011,27,Hannover 96,7,38,-2,34,36
+2011,27,VfB Stuttgart,8,36,9,43,34
+2011,27,VfL Wolfsburg,9,34,-13,34,47
+2011,27,1.FC Nuremberg,10,31,-12,25,37
+2011,27,1.FSV Mainz 05,11,30,-3,38,41
+2011,27,TSG Hoffenheim,12,30,-8,29,37
+2011,27,1. FC Köln,13,28,-17,33,50
+2011,27,Hamburger SV,14,27,-18,30,48
+2011,27,FC Augsburg,15,26,-13,27,40
+2011,27,SC Freiburg,16,25,-20,33,53
+2011,27,Hertha BSC,17,23,-21,26,47
+2011,27,1.FC K'lautern,18,20,-19,17,36
+2011,28,Bor. Dortmund,1,62,42,59,17
+2011,28,Bayern Munich,2,57,48,66,18
+2011,28,FC Schalke 04,3,53,26,60,34
+2011,28,Bor. M'gladbach,4,51,22,40,18
+2011,28,Bay. Leverkusen,5,40,3,39,36
+2011,28,Werder Bremen,6,40,1,41,40
+2011,28,VfB Stuttgart,7,39,10,44,34
+2011,28,Hannover 96,8,38,-3,35,38
+2011,28,VfL Wolfsburg,9,37,-12,36,48
+2011,28,TSG Hoffenheim,10,33,-7,31,38
+2011,28,1.FC Nuremberg,11,31,-13,25,38
+2011,28,1.FSV Mainz 05,12,30,-5,39,44
+2011,28,SC Freiburg,13,28,-18,35,53
+2011,28,1. FC Köln,14,28,-22,34,56
+2011,28,FC Augsburg,15,27,-13,28,41
+2011,28,Hamburger SV,16,27,-19,31,50
+2011,28,Hertha BSC,17,26,-19,29,48
+2011,28,1.FC K'lautern,18,20,-21,17,38
+2011,29,Bor. Dortmund,1,63,42,63,21
+2011,29,Bayern Munich,2,60,49,67,18
+2011,29,FC Schalke 04,3,54,26,61,35
+2011,29,Bor. M'gladbach,4,51,21,41,20
+2011,29,Hannover 96,5,41,-2,37,39
+2011,29,VfB Stuttgart,6,40,10,48,38
+2011,29,Bay. Leverkusen,7,40,1,39,38
+2011,29,Werder Bremen,8,40,-2,41,43
+2011,29,VfL Wolfsburg,9,40,-9,40,49
+2011,29,TSG Hoffenheim,10,34,-7,32,39
+2011,29,1.FSV Mainz 05,11,33,-2,42,44
+2011,29,1.FC Nuremberg,12,31,-14,25,39
+2011,29,SC Freiburg,13,31,-16,37,53
+2011,29,FC Augsburg,14,30,-12,30,42
+2011,29,Hamburger SV,15,30,-18,32,50
+2011,29,1. FC Köln,16,28,-23,35,58
+2011,29,Hertha BSC,17,26,-22,30,52
+2011,29,1.FC K'lautern,18,20,-22,17,39
+2011,30,Bor. Dortmund,1,66,44,66,22
+2011,30,Bayern Munich,2,63,50,69,19
+2011,30,FC Schalke 04,3,57,29,64,35
+2011,30,Bor. M'gladbach,4,52,21,41,20
+2011,30,VfB Stuttgart,5,43,13,52,39
+2011,30,Bay. Leverkusen,6,41,1,40,39
+2011,30,Werder Bremen,7,41,-2,42,44
+2011,30,Hannover 96,8,41,-5,37,42
+2011,30,VfL Wolfsburg,9,40,-11,41,52
+2011,30,TSG Hoffenheim,10,37,-6,34,40
+2011,30,1.FSV Mainz 05,11,33,-5,43,48
+2011,30,1.FC Nuremberg,12,32,-14,27,41
+2011,30,SC Freiburg,13,32,-16,39,55
+2011,30,Hamburger SV,14,31,-18,33,51
+2011,30,FC Augsburg,15,30,-13,31,44
+2011,30,1. FC Köln,16,29,-23,36,59
+2011,30,Hertha BSC,17,27,-22,30,52
+2011,30,1.FC K'lautern,18,20,-23,18,41
+2011,31,Bor. Dortmund,1,69,45,67,22
+2011,31,Bayern Munich,2,63,49,69,20
+2011,31,FC Schalke 04,3,57,26,65,39
+2011,31,Bor. M'gladbach,4,53,21,43,22
+2011,31,VfB Stuttgart,5,46,15,55,40
+2011,31,Bay. Leverkusen,6,44,3,43,40
+2011,31,Hannover 96,7,44,-3,39,42
+2011,31,Werder Bremen,8,42,-2,44,46
+2011,31,TSG Hoffenheim,9,40,-2,38,40
+2011,31,VfL Wolfsburg,10,40,-13,41,54
+2011,31,1.FSV Mainz 05,11,36,-1,47,48
+2011,31,1.FC Nuremberg,12,35,-11,31,42
+2011,31,SC Freiburg,13,35,-15,41,56
+2011,31,Hamburger SV,14,31,-22,33,55
+2011,31,FC Augsburg,15,30,-15,32,47
+2011,31,1. FC Köln,16,29,-27,36,63
+2011,31,Hertha BSC,17,27,-23,31,54
+2011,31,1.FC K'lautern,18,20,-25,19,44
+2011,32,Bor. Dortmund,1,72,46,69,23
+2011,32,Bayern Munich,2,64,49,69,20
+2011,32,FC Schalke 04,3,57,25,66,41
+2011,32,Bor. M'gladbach,4,56,24,46,22
+2011,32,VfB Stuttgart,5,49,18,59,41
+2011,32,Bay. Leverkusen,6,45,3,46,43
+2011,32,Hannover 96,7,44,-4,39,43
+2011,32,Werder Bremen,8,42,-5,45,50
+2011,32,TSG Hoffenheim,9,41,-2,38,40
+2011,32,VfL Wolfsburg,10,40,-14,42,56
+2011,32,1.FC Nuremberg,11,38,-9,33,42
+2011,32,1.FSV Mainz 05,12,37,-1,47,48
+2011,32,SC Freiburg,13,36,-15,41,56
+2011,32,Hamburger SV,14,34,-21,34,55
+2011,32,FC Augsburg,15,33,-14,34,48
+2011,32,1. FC Köln,16,29,-30,36,66
+2011,32,Hertha BSC,17,28,-23,34,57
+2011,32,1.FC K'lautern,18,20,-27,19,46
+2011,33,Bor. Dortmund,1,75,48,71,23
+2011,33,Bayern Munich,2,67,50,71,21
+2011,33,FC Schalke 04,3,58,25,67,42
+2011,33,Bor. M'gladbach,4,56,22,46,24
+2011,33,VfB Stuttgart,5,50,18,60,42
+2011,33,Bay. Leverkusen,6,48,4,47,43
+2011,33,Hannover 96,7,45,-4,39,43
+2011,33,Werder Bremen,8,42,-6,46,52
+2011,33,TSG Hoffenheim,9,41,-3,38,41
+2011,33,VfL Wolfsburg,10,41,-14,42,56
+2011,33,1.FC Nuremberg,11,39,-9,34,43
+2011,33,1.FSV Mainz 05,12,38,-1,47,48
+2011,33,SC Freiburg,13,37,-15,41,56
+2011,33,Hamburger SV,14,35,-21,35,56
+2011,33,FC Augsburg,15,34,-14,35,49
+2011,33,1. FC Köln,16,30,-30,37,67
+2011,33,Hertha BSC,17,28,-24,35,59
+2011,33,1.FC K'lautern,18,23,-26,21,47
+2011,34,Bor. Dortmund,1,78,51,76,25
+2011,34,Bayern Munich,2,70,52,73,21
+2011,34,FC Schalke 04,3,61,29,71,42
+2011,34,Bor. M'gladbach,4,57,22,46,24
+2011,34,Bay. Leverkusen,5,51,5,48,43
+2011,34,VfB Stuttgart,6,50,16,60,44
+2011,34,Hannover 96,7,45,-5,39,44
+2011,34,VfL Wolfsburg,8,44,-12,45,57
+2011,34,Werder Bremen,9,42,-8,47,55
+2011,34,1.FC Nuremberg,10,42,-8,37,45
+2011,34,TSG Hoffenheim,11,41,-4,40,44
+2011,34,SC Freiburg,12,40,-12,45,57
+2011,34,1.FSV Mainz 05,13,39,-1,47,48
+2011,34,Hamburger SV,14,36,-21,35,56
+2011,34,FC Augsburg,15,35,-14,35,49
+2011,34,1. FC Köln,16,30,-33,38,71
+2011,34,Hertha BSC,17,28,-28,35,63
+2011,34,1.FC K'lautern,18,23,-29,23,52
+2011,35,Bor. Dortmund,1,81,55,80,25
+2011,35,Bayern Munich,2,73,55,77,22
+2011,35,FC Schalke 04,3,64,30,74,44
+2011,35,Bor. M'gladbach,4,60,25,49,24
+2011,35,Bay. Leverkusen,5,54,8,52,44
+2011,35,VfB Stuttgart,6,53,17,63,46
+2011,35,Hannover 96,7,48,-4,41,45
+2011,35,VfL Wolfsburg,8,44,-13,47,60
+2011,35,Werder Bremen,9,42,-9,49,58
+2011,35,1.FC Nuremberg,10,42,-11,38,49
+2011,35,TSG Hoffenheim,11,41,-6,41,47
+2011,35,SC Freiburg,12,40,-16,45,61
+2011,35,1.FSV Mainz 05,13,39,-4,47,51
+2011,35,FC Augsburg,14,38,-13,36,49
+2011,35,Hamburger SV,15,36,-22,35,57
+2011,35,Hertha BSC,16,31,-26,38,64
+2011,35,1. FC Köln,17,30,-36,39,75
+2011,35,1.FC K'lautern,18,23,-30,24,54

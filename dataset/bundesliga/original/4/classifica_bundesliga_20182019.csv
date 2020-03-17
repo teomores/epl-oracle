@@ -1,0 +1,613 @@
+match_year,match_round,team,team_rank,team_points,team_goal_difference,team_goal_fatti,team_goal_subiti
+2018,2,Bor. Dortmund,1,3,3,4,1
+2018,2,Bayern Munich,2,3,2,3,1
+2018,2,E. Frankfurt,3,3,2,2,0
+2018,2,Bor. M'gladbach,4,3,2,2,0
+2018,2,FC Augsburg,5,3,1,2,1
+2018,2,VfL Wolfsburg,6,3,1,2,1
+2018,2,Hertha BSC,7,3,1,1,0
+2018,2,1.FSV Mainz 05,8,3,1,1,0
+2018,2,Werder Bremen,9,1,0,1,1
+2018,2,Hannover 96,10,1,0,1,1
+2018,2,FC Schalke 04,11,0,-1,1,2
+2018,2,F. Düsseldorf,12,0,-1,1,2
+2018,2,VfB Stuttgart,13,0,-1,0,1
+2018,2,1.FC Nuremberg,14,0,-1,0,1
+2018,2,TSG Hoffenheim,15,0,-2,1,3
+2018,2,Bay. Leverkusen,16,0,-2,0,2
+2018,2,SC Freiburg,17,0,-2,0,2
+2018,2,RB Leipzig,18,0,-3,1,4
+2018,3,Bayern Munich,1,6,5,6,1
+2018,3,VfL Wolfsburg,2,6,3,5,2
+2018,3,Hertha BSC,3,6,3,3,0
+2018,3,Bor. Dortmund,4,4,3,4,1
+2018,3,Bor. M'gladbach,5,4,2,3,1
+2018,3,Werder Bremen,6,4,1,3,2
+2018,3,FC Augsburg,7,4,1,3,2
+2018,3,1.FSV Mainz 05,8,4,1,2,1
+2018,3,E. Frankfurt,9,3,1,3,2
+2018,3,TSG Hoffenheim,10,3,0,4,4
+2018,3,Hannover 96,11,2,0,1,1
+2018,3,F. Düsseldorf,12,1,-1,2,3
+2018,3,1.FC Nuremberg,13,1,-1,1,2
+2018,3,RB Leipzig,14,1,-3,2,5
+2018,3,FC Schalke 04,15,0,-3,1,4
+2018,3,Bay. Leverkusen,16,0,-4,1,5
+2018,3,SC Freiburg,17,0,-4,1,5
+2018,3,VfB Stuttgart,18,0,-4,0,4
+2018,4,Bayern Munich,1,9,7,9,2
+2018,4,Bor. Dortmund,2,7,5,7,2
+2018,4,VfL Wolfsburg,3,7,3,7,4
+2018,4,Bor. M'gladbach,4,7,3,5,2
+2018,4,Hertha BSC,5,7,3,5,2
+2018,4,1.FSV Mainz 05,6,7,2,4,2
+2018,4,Werder Bremen,7,5,1,4,3
+2018,4,FC Augsburg,8,4,0,4,4
+2018,4,F. Düsseldorf,9,4,0,4,4
+2018,4,RB Leipzig,10,4,-2,5,7
+2018,4,TSG Hoffenheim,11,3,-1,5,6
+2018,4,E. Frankfurt,12,3,-1,4,5
+2018,4,Hannover 96,13,2,-1,3,4
+2018,4,1.FC Nuremberg,14,2,-1,2,3
+2018,4,SC Freiburg,15,1,-4,4,8
+2018,4,VfB Stuttgart,16,1,-4,3,7
+2018,4,FC Schalke 04,17,0,-4,2,6
+2018,4,Bay. Leverkusen,18,0,-6,2,8
+2018,5,Bayern Munich,1,12,9,11,2
+2018,5,Hertha BSC,2,10,5,9,4
+2018,5,Bor. Dortmund,3,8,5,8,3
+2018,5,Werder Bremen,4,8,2,7,5
+2018,5,VfL Wolfsburg,5,7,1,8,7
+2018,5,Bor. M'gladbach,6,7,1,7,6
+2018,5,1.FSV Mainz 05,7,7,1,4,3
+2018,5,1.FC Nuremberg,8,5,1,4,3
+2018,5,F. Düsseldorf,9,5,0,4,4
+2018,5,RB Leipzig,10,5,-2,6,8
+2018,5,TSG Hoffenheim,11,4,-1,6,7
+2018,5,FC Augsburg,12,4,-1,6,7
+2018,5,E. Frankfurt,13,4,-1,5,6
+2018,5,SC Freiburg,14,4,-2,7,9
+2018,5,Bay. Leverkusen,15,3,-5,3,8
+2018,5,Hannover 96,16,2,-3,3,6
+2018,5,VfB Stuttgart,17,2,-4,3,7
+2018,5,FC Schalke 04,18,0,-6,2,8
+2018,6,Bayern Munich,1,13,9,12,3
+2018,6,Bor. Dortmund,2,11,12,15,3
+2018,6,Werder Bremen,3,11,4,10,6
+2018,6,Bor. M'gladbach,4,10,3,10,7
+2018,6,Hertha BSC,5,10,3,10,7
+2018,6,VfL Wolfsburg,6,8,1,8,7
+2018,6,1.FSV Mainz 05,7,8,1,4,3
+2018,6,RB Leipzig,8,8,0,8,8
+2018,6,TSG Hoffenheim,9,7,1,9,8
+2018,6,SC Freiburg,10,7,-1,8,9
+2018,6,Bay. Leverkusen,11,6,-4,5,9
+2018,6,FC Augsburg,12,5,-1,7,8
+2018,6,F. Düsseldorf,13,5,-1,5,6
+2018,6,1.FC Nuremberg,14,5,-6,4,10
+2018,6,E. Frankfurt,15,4,-3,6,9
+2018,6,Hannover 96,16,2,-5,4,9
+2018,6,VfB Stuttgart,17,2,-6,3,9
+2018,6,FC Schalke 04,18,0,-7,2,9
+2018,7,Bor. Dortmund,1,14,14,19,5
+2018,7,Bayern Munich,2,13,7,12,5
+2018,7,Hertha BSC,3,13,5,12,7
+2018,7,Bor. M'gladbach,4,11,3,12,9
+2018,7,Werder Bremen,5,11,3,11,8
+2018,7,RB Leipzig,6,11,1,10,9
+2018,7,VfL Wolfsburg,7,9,1,10,9
+2018,7,FC Augsburg,8,8,2,11,9
+2018,7,1.FSV Mainz 05,9,8,0,4,4
+2018,7,1.FC Nuremberg,10,8,-3,7,10
+2018,7,TSG Hoffenheim,11,7,0,10,10
+2018,7,E. Frankfurt,12,7,0,10,10
+2018,7,SC Freiburg,13,7,-4,9,13
+2018,7,Bay. Leverkusen,14,6,-6,7,13
+2018,7,F. Düsseldorf,15,5,-4,5,9
+2018,7,VfB Stuttgart,16,5,-5,5,10
+2018,7,FC Schalke 04,17,3,-6,3,9
+2018,7,Hannover 96,18,2,-8,5,13
+2018,8,Bor. Dortmund,1,17,15,23,8
+2018,8,RB Leipzig,2,14,7,16,9
+2018,8,Bor. M'gladbach,3,14,6,15,9
+2018,8,Werder Bremen,4,14,5,13,8
+2018,8,Hertha BSC,5,14,5,12,7
+2018,8,Bayern Munich,6,13,4,12,8
+2018,8,E. Frankfurt,7,10,1,12,11
+2018,8,1.FSV Mainz 05,8,9,0,4,4
+2018,8,VfL Wolfsburg,9,9,-1,10,11
+2018,8,FC Augsburg,10,8,1,14,13
+2018,8,SC Freiburg,11,8,-4,9,13
+2018,8,1.FC Nuremberg,12,8,-9,7,16
+2018,8,TSG Hoffenheim,13,7,-1,11,12
+2018,8,Bay. Leverkusen,14,7,-6,7,13
+2018,8,FC Schalke 04,15,6,-4,5,9
+2018,8,Hannover 96,16,5,-6,8,14
+2018,8,F. Düsseldorf,17,5,-6,5,11
+2018,8,VfB Stuttgart,18,5,-7,6,13
+2018,9,Bor. Dortmund,1,20,19,27,8
+2018,9,Bor. M'gladbach,2,17,10,19,9
+2018,9,Werder Bremen,3,17,7,15,8
+2018,9,Bayern Munich,4,16,6,15,9
+2018,9,RB Leipzig,5,15,7,16,9
+2018,9,Hertha BSC,6,15,5,13,8
+2018,9,E. Frankfurt,7,13,7,19,12
+2018,9,TSG Hoffenheim,8,10,1,14,13
+2018,9,FC Augsburg,9,9,1,14,13
+2018,9,VfL Wolfsburg,10,9,-3,11,14
+2018,9,SC Freiburg,11,9,-4,10,14
+2018,9,1.FSV Mainz 05,12,9,-4,4,8
+2018,9,Bay. Leverkusen,13,8,-6,9,15
+2018,9,1.FC Nuremberg,14,8,-11,8,19
+2018,9,Hannover 96,15,6,-6,10,16
+2018,9,FC Schalke 04,16,6,-6,5,11
+2018,9,VfB Stuttgart,17,5,-11,6,17
+2018,9,F. Düsseldorf,18,5,-12,6,18
+2018,10,Bor. Dortmund,1,21,19,29,10
+2018,10,Bayern Munich,2,19,7,17,10
+2018,10,Bor. M'gladbach,3,17,8,20,12
+2018,10,Werder Bremen,4,17,3,17,14
+2018,10,RB Leipzig,5,16,7,16,9
+2018,10,Hertha BSC,6,16,5,15,10
+2018,10,E. Frankfurt,7,14,7,20,13
+2018,10,TSG Hoffenheim,8,13,5,18,13
+2018,10,FC Augsburg,9,12,2,16,14
+2018,10,VfL Wolfsburg,10,12,0,14,14
+2018,10,SC Freiburg,11,12,-2,13,15
+2018,10,Bay. Leverkusen,12,11,-2,15,17
+2018,10,1.FSV Mainz 05,13,9,-5,5,10
+2018,10,1.FC Nuremberg,14,9,-11,9,20
+2018,10,FC Schalke 04,15,7,-6,5,11
+2018,10,Hannover 96,16,6,-7,11,18
+2018,10,VfB Stuttgart,17,5,-15,6,21
+2018,10,F. Düsseldorf,18,5,-15,6,21
+2018,11,Bor. Dortmund,1,24,20,30,10
+2018,11,Bor. M'gladbach,2,20,11,23,12
+2018,11,Bayern Munich,3,20,7,18,11
+2018,11,RB Leipzig,4,19,10,19,9
+2018,11,E. Frankfurt,5,17,10,23,13
+2018,11,Werder Bremen,6,17,2,18,16
+2018,11,TSG Hoffenheim,7,16,8,22,14
+2018,11,Hertha BSC,8,16,2,15,13
+2018,11,FC Augsburg,9,13,2,18,16
+2018,11,SC Freiburg,10,13,-2,14,16
+2018,11,VfL Wolfsburg,11,12,-1,14,15
+2018,11,1.FSV Mainz 05,12,12,-4,7,11
+2018,11,Bay. Leverkusen,13,11,-5,16,21
+2018,11,FC Schalke 04,14,10,-4,8,12
+2018,11,1.FC Nuremberg,15,10,-11,11,22
+2018,11,Hannover 96,16,6,-9,12,21
+2018,11,VfB Stuttgart,17,5,-18,6,24
+2018,11,F. Düsseldorf,18,5,-18,6,24
+2018,12,Bor. Dortmund,1,27,21,33,12
+2018,12,Bor. M'gladbach,2,23,13,26,13
+2018,12,RB Leipzig,3,22,13,22,9
+2018,12,E. Frankfurt,4,20,13,26,13
+2018,12,Bayern Munich,5,20,6,20,14
+2018,12,TSG Hoffenheim,6,19,9,24,15
+2018,12,Werder Bremen,7,17,0,19,19
+2018,12,Hertha BSC,8,16,-1,16,17
+2018,12,1.FSV Mainz 05,9,15,-2,10,12
+2018,12,FC Augsburg,10,13,1,19,18
+2018,12,SC Freiburg,11,13,-4,15,19
+2018,12,VfL Wolfsburg,12,12,-2,15,17
+2018,12,Bay. Leverkusen,13,11,-8,16,24
+2018,12,FC Schalke 04,14,10,-7,8,15
+2018,12,1.FC Nuremberg,15,10,-13,11,24
+2018,12,Hannover 96,16,9,-8,14,22
+2018,12,F. Düsseldorf,17,8,-15,10,25
+2018,12,VfB Stuttgart,18,8,-16,8,24
+2018,13,Bor. Dortmund,1,30,22,35,13
+2018,13,Bor. M'gladbach,2,26,16,30,14
+2018,13,E. Frankfurt,3,23,15,29,14
+2018,13,RB Leipzig,4,22,12,22,10
+2018,13,Bayern Munich,5,21,6,23,17
+2018,13,TSG Hoffenheim,6,20,9,27,18
+2018,13,Werder Bremen,7,18,0,20,20
+2018,13,Hertha BSC,8,17,-1,19,20
+2018,13,VfL Wolfsburg,9,15,-1,16,17
+2018,13,1.FSV Mainz 05,10,15,-3,11,14
+2018,13,SC Freiburg,11,14,-4,16,20
+2018,13,Bay. Leverkusen,12,14,-6,18,24
+2018,13,FC Augsburg,13,13,-1,20,21
+2018,13,FC Schalke 04,14,13,-4,13,17
+2018,13,1.FC Nuremberg,15,10,-16,13,29
+2018,13,Hannover 96,16,9,-11,15,26
+2018,13,F. Düsseldorf,17,9,-15,13,28
+2018,13,VfB Stuttgart,18,8,-18,8,26
+2018,14,Bor. Dortmund,1,33,24,37,13
+2018,14,Bor. M'gladbach,2,26,14,30,16
+2018,14,RB Leipzig,3,25,14,24,10
+2018,14,Bayern Munich,4,24,7,25,18
+2018,14,E. Frankfurt,5,23,14,30,16
+2018,14,TSG Hoffenheim,6,21,9,28,19
+2018,14,Hertha BSC,7,20,1,21,20
+2018,14,VfL Wolfsburg,8,18,0,18,18
+2018,14,Werder Bremen,9,18,-1,21,22
+2018,14,1.FSV Mainz 05,10,18,-2,12,14
+2018,14,Bay. Leverkusen,11,15,-6,19,25
+2018,14,FC Schalke 04,12,14,-4,14,18
+2018,14,SC Freiburg,13,14,-6,16,22
+2018,14,FC Augsburg,14,13,-2,20,22
+2018,14,1.FC Nuremberg,15,11,-16,14,30
+2018,14,VfB Stuttgart,16,11,-17,9,26
+2018,14,Hannover 96,17,9,-13,15,28
+2018,14,F. Düsseldorf,18,9,-16,13,29
+2018,15,Bor. Dortmund,1,36,25,39,14
+2018,15,Bor. M'gladbach,2,29,17,33,16
+2018,15,Bayern Munich,3,27,10,28,18
+2018,15,RB Leipzig,4,25,11,24,13
+2018,15,E. Frankfurt,5,23,13,30,17
+2018,15,Hertha BSC,6,23,2,22,20
+2018,15,TSG Hoffenheim,7,22,9,30,21
+2018,15,Werder Bremen,8,21,1,24,23
+2018,15,VfL Wolfsburg,9,19,0,20,20
+2018,15,1.FSV Mainz 05,10,19,-2,13,15
+2018,15,Bay. Leverkusen,11,18,-5,20,25
+2018,15,SC Freiburg,12,17,-3,19,22
+2018,15,FC Schalke 04,13,14,-5,15,20
+2018,15,FC Augsburg,14,13,-3,20,23
+2018,15,1.FC Nuremberg,15,11,-19,14,33
+2018,15,VfB Stuttgart,16,11,-20,9,29
+2018,15,Hannover 96,17,10,-13,16,29
+2018,15,F. Düsseldorf,18,9,-18,14,32
+2018,16,Bor. Dortmund,1,39,26,41,15
+2018,16,Bor. M'gladbach,2,30,17,33,16
+2018,16,Bayern Munich,3,30,14,32,18
+2018,16,RB Leipzig,4,28,14,28,14
+2018,16,E. Frankfurt,5,26,14,32,18
+2018,16,TSG Hoffenheim,6,23,9,30,21
+2018,16,Hertha BSC,7,23,1,23,22
+2018,16,VfL Wolfsburg,8,22,2,22,20
+2018,16,Werder Bremen,9,21,0,25,25
+2018,16,1.FSV Mainz 05,10,19,-5,14,19
+2018,16,Bay. Leverkusen,11,18,-6,21,27
+2018,16,SC Freiburg,12,17,-5,19,24
+2018,16,FC Schalke 04,13,15,-5,16,21
+2018,16,FC Augsburg,14,14,-3,21,24
+2018,16,VfB Stuttgart,15,14,-19,11,30
+2018,16,F. Düsseldorf,16,12,-16,16,32
+2018,16,1.FC Nuremberg,17,11,-21,14,35
+2018,16,Hannover 96,18,10,-17,16,33
+2018,17,Bor. Dortmund,1,39,25,42,17
+2018,17,Bor. M'gladbach,2,33,19,35,16
+2018,17,Bayern Munich,3,33,15,33,18
+2018,17,RB Leipzig,4,28,13,28,15
+2018,17,E. Frankfurt,5,27,14,34,20
+2018,17,VfL Wolfsburg,6,25,4,24,20
+2018,17,TSG Hoffenheim,7,24,9,31,22
+2018,17,Hertha BSC,8,24,1,25,24
+2018,17,Werder Bremen,9,22,0,26,26
+2018,17,Bay. Leverkusen,10,21,-5,23,28
+2018,17,1.FSV Mainz 05,11,20,-5,16,21
+2018,17,SC Freiburg,12,18,-5,20,25
+2018,17,FC Augsburg,13,15,-3,23,26
+2018,17,FC Schalke 04,14,15,-6,17,23
+2018,17,F. Düsseldorf,15,15,-15,18,33
+2018,17,VfB Stuttgart,16,14,-21,11,32
+2018,17,Hannover 96,17,11,-17,17,34
+2018,17,1.FC Nuremberg,18,11,-23,14,37
+2018,18,Bor. Dortmund,1,42,26,44,18
+2018,18,Bayern Munich,2,36,18,36,18
+2018,18,Bor. M'gladbach,3,33,18,36,18
+2018,18,RB Leipzig,4,31,14,31,17
+2018,18,VfL Wolfsburg,5,28,5,27,22
+2018,18,E. Frankfurt,6,27,11,34,23
+2018,18,TSG Hoffenheim,7,25,9,32,23
+2018,18,Hertha BSC,8,24,-1,26,27
+2018,18,Bay. Leverkusen,9,24,-3,26,29
+2018,18,Werder Bremen,10,22,-1,28,29
+2018,18,SC Freiburg,11,21,-4,21,25
+2018,18,1.FSV Mainz 05,12,21,-5,17,22
+2018,18,FC Schalke 04,13,18,-4,20,24
+2018,18,F. Düsseldorf,14,18,-14,19,33
+2018,18,FC Augsburg,15,15,-4,25,29
+2018,18,VfB Stuttgart,16,14,-23,12,35
+2018,18,Hannover 96,17,11,-18,17,35
+2018,18,1.FC Nuremberg,18,11,-24,14,38
+2018,19,Bor. Dortmund,1,45,27,45,18
+2018,19,Bayern Munich,2,39,20,39,19
+2018,19,Bor. M'gladbach,3,36,19,37,18
+2018,19,RB Leipzig,4,31,13,31,18
+2018,19,E. Frankfurt,5,30,13,37,24
+2018,19,VfL Wolfsburg,6,28,4,28,24
+2018,19,Hertha BSC,7,27,1,29,28
+2018,19,TSG Hoffenheim,8,25,7,33,26
+2018,19,Werder Bremen,9,25,0,29,29
+2018,19,Bay. Leverkusen,10,24,-4,26,30
+2018,19,1.FSV Mainz 05,11,24,-4,20,24
+2018,19,FC Schalke 04,12,21,-3,22,25
+2018,19,SC Freiburg,13,21,-6,22,28
+2018,19,F. Düsseldorf,14,21,-13,21,34
+2018,19,FC Augsburg,15,15,-5,26,31
+2018,19,VfB Stuttgart,16,14,-24,14,38
+2018,19,Hannover 96,17,11,-19,17,36
+2018,19,1.FC Nuremberg,18,11,-26,15,41
+2018,20,Bor. Dortmund,1,48,31,50,19
+2018,20,Bayern Munich,2,42,23,43,20
+2018,20,Bor. M'gladbach,3,39,21,39,18
+2018,20,RB Leipzig,4,34,17,35,18
+2018,20,E. Frankfurt,5,31,13,39,26
+2018,20,TSG Hoffenheim,6,28,9,37,28
+2018,20,Hertha BSC,7,28,1,31,30
+2018,20,VfL Wolfsburg,8,28,1,28,27
+2018,20,Bay. Leverkusen,9,27,-1,29,30
+2018,20,1.FSV Mainz 05,10,27,-3,22,25
+2018,20,Werder Bremen,11,26,0,31,31
+2018,20,FC Schalke 04,12,22,-3,24,27
+2018,20,SC Freiburg,13,21,-8,24,32
+2018,20,F. Düsseldorf,14,21,-17,21,38
+2018,20,FC Augsburg,15,15,-7,26,33
+2018,20,VfB Stuttgart,16,14,-27,15,42
+2018,20,Hannover 96,17,11,-23,18,41
+2018,20,1.FC Nuremberg,18,11,-27,16,43
+2018,21,Bor. Dortmund,1,49,31,51,20
+2018,21,Bor. M'gladbach,2,42,23,41,18
+2018,21,Bayern Munich,3,42,21,44,23
+2018,21,RB Leipzig,4,37,20,38,18
+2018,21,E. Frankfurt,5,32,13,40,27
+2018,21,VfL Wolfsburg,6,31,2,29,27
+2018,21,Bay. Leverkusen,7,30,1,32,31
+2018,21,TSG Hoffenheim,8,29,9,38,29
+2018,21,Hertha BSC,9,28,0,31,31
+2018,21,Werder Bremen,10,27,0,32,32
+2018,21,1.FSV Mainz 05,11,27,-6,22,28
+2018,21,FC Schalke 04,12,22,-5,24,29
+2018,21,SC Freiburg,13,22,-8,26,34
+2018,21,F. Düsseldorf,14,22,-17,22,39
+2018,21,FC Augsburg,15,18,-4,29,33
+2018,21,VfB Stuttgart,16,15,-27,17,44
+2018,21,1.FC Nuremberg,17,12,-27,17,44
+2018,21,Hannover 96,18,11,-26,18,44
+2018,22,Bor. Dortmund,1,50,31,54,23
+2018,22,Bayern Munich,2,45,23,47,24
+2018,22,Bor. M'gladbach,3,42,20,41,21
+2018,22,RB Leipzig,4,38,20,38,18
+2018,22,E. Frankfurt,5,33,13,40,27
+2018,22,Bay. Leverkusen,6,33,5,37,32
+2018,22,VfL Wolfsburg,7,32,2,32,30
+2018,22,Hertha BSC,8,31,3,34,31
+2018,22,TSG Hoffenheim,9,30,9,41,32
+2018,22,Werder Bremen,10,30,4,36,32
+2018,22,1.FSV Mainz 05,11,27,-10,23,33
+2018,22,F. Düsseldorf,12,25,-14,25,39
+2018,22,SC Freiburg,13,23,-8,29,37
+2018,22,FC Schalke 04,14,22,-7,25,32
+2018,22,FC Augsburg,15,18,-8,29,37
+2018,22,VfB Stuttgart,16,15,-30,17,47
+2018,22,Hannover 96,17,14,-24,20,44
+2018,22,1.FC Nuremberg,18,12,-29,17,46
+2018,23,Bor. Dortmund,1,51,31,54,23
+2018,23,Bayern Munich,2,48,24,50,26
+2018,23,Bor. M'gladbach,3,43,20,42,22
+2018,23,RB Leipzig,4,41,22,41,19
+2018,23,Bay. Leverkusen,5,36,7,39,32
+2018,23,VfL Wolfsburg,6,35,5,35,30
+2018,23,E. Frankfurt,7,34,13,41,28
+2018,23,TSG Hoffenheim,8,33,12,44,32
+2018,23,Hertha BSC,9,32,3,35,32
+2018,23,Werder Bremen,10,31,4,37,33
+2018,23,1.FSV Mainz 05,11,27,-13,23,36
+2018,23,F. Düsseldorf,12,25,-16,25,41
+2018,23,SC Freiburg,13,24,-8,29,37
+2018,23,FC Schalke 04,14,23,-7,25,32
+2018,23,FC Augsburg,15,18,-9,31,40
+2018,23,VfB Stuttgart,16,15,-32,18,50
+2018,23,Hannover 96,17,14,-27,20,47
+2018,23,1.FC Nuremberg,18,13,-29,17,46
+2018,24,Bor. Dortmund,1,54,32,57,25
+2018,24,Bayern Munich,2,51,25,51,26
+2018,24,Bor. M'gladbach,3,43,17,42,25
+2018,24,RB Leipzig,4,42,22,42,20
+2018,24,VfL Wolfsburg,5,38,8,38,30
+2018,24,E. Frankfurt,6,37,16,44,28
+2018,24,Bay. Leverkusen,7,36,6,41,35
+2018,24,TSG Hoffenheim,8,34,12,45,33
+2018,24,Werder Bremen,9,32,4,38,34
+2018,24,Hertha BSC,10,32,2,35,33
+2018,24,1.FSV Mainz 05,11,30,-10,26,36
+2018,24,F. Düsseldorf,12,28,-15,27,42
+2018,24,SC Freiburg,13,27,-4,34,38
+2018,24,FC Schalke 04,14,23,-10,25,35
+2018,24,FC Augsburg,15,18,-13,32,45
+2018,24,VfB Stuttgart,16,16,-32,19,51
+2018,24,Hannover 96,17,14,-30,20,50
+2018,24,1.FC Nuremberg,18,13,-30,18,48
+2018,25,Bor. Dortmund,1,54,31,58,27
+2018,25,Bayern Munich,2,54,29,56,27
+2018,25,RB Leipzig,3,45,23,43,20
+2018,25,Bor. M'gladbach,4,43,13,43,30
+2018,25,E. Frankfurt,5,40,17,47,30
+2018,25,Bay. Leverkusen,6,39,8,43,35
+2018,25,VfL Wolfsburg,7,39,8,39,31
+2018,25,Hertha BSC,8,35,3,37,34
+2018,25,TSG Hoffenheim,9,34,11,47,36
+2018,25,Werder Bremen,10,33,4,39,35
+2018,25,F. Düsseldorf,11,31,-11,31,42
+2018,25,1.FSV Mainz 05,12,30,-11,27,38
+2018,25,SC Freiburg,13,27,-6,34,40
+2018,25,FC Schalke 04,14,23,-14,25,39
+2018,25,FC Augsburg,15,21,-12,34,46
+2018,25,VfB Stuttgart,16,19,-28,24,52
+2018,25,Hannover 96,17,14,-34,21,55
+2018,25,1.FC Nuremberg,18,13,-31,18,49
+2018,26,Bayern Munich,1,57,35,62,27
+2018,26,Bor. Dortmund,2,57,33,61,28
+2018,26,RB Leipzig,3,46,23,43,20
+2018,26,Bor. M'gladbach,4,46,14,44,30
+2018,26,E. Frankfurt,5,43,20,50,30
+2018,26,Bay. Leverkusen,6,42,9,46,37
+2018,26,VfL Wolfsburg,7,39,2,39,37
+2018,26,TSG Hoffenheim,8,37,12,49,37
+2018,26,Werder Bremen,9,36,6,43,37
+2018,26,Hertha BSC,10,35,2,38,36
+2018,26,F. Düsseldorf,11,31,-14,31,45
+2018,26,SC Freiburg,12,30,-5,36,41
+2018,26,1.FSV Mainz 05,13,30,-12,27,39
+2018,26,FC Schalke 04,14,23,-16,27,43
+2018,26,FC Augsburg,15,22,-12,34,46
+2018,26,VfB Stuttgart,16,19,-30,25,55
+2018,26,Hannover 96,17,14,-35,23,58
+2018,26,1.FC Nuremberg,18,13,-32,19,51
+2018,27,Bayern Munich,1,60,41,68,27
+2018,27,Bor. Dortmund,2,60,34,64,30
+2018,27,RB Leipzig,3,49,24,44,20
+2018,27,Bor. M'gladbach,4,47,14,45,31
+2018,27,E. Frankfurt,5,46,21,51,30
+2018,27,Bay. Leverkusen,6,42,7,47,40
+2018,27,VfL Wolfsburg,7,42,5,44,39
+2018,27,Werder Bremen,8,39,8,46,38
+2018,27,TSG Hoffenheim,9,38,12,50,38
+2018,27,Hertha BSC,10,35,1,40,39
+2018,27,SC Freiburg,11,31,-5,37,42
+2018,27,F. Düsseldorf,12,31,-17,33,50
+2018,27,1.FSV Mainz 05,13,30,-18,27,45
+2018,27,FC Augsburg,14,25,-10,37,47
+2018,27,FC Schalke 04,15,23,-17,27,44
+2018,27,VfB Stuttgart,16,20,-30,26,56
+2018,27,Hannover 96,17,14,-37,24,61
+2018,27,1.FC Nuremberg,18,13,-33,19,52
+2018,28,Bor. Dortmund,1,63,36,66,30
+2018,28,Bayern Munich,2,61,41,69,28
+2018,28,RB Leipzig,3,52,29,49,20
+2018,28,E. Frankfurt,4,49,24,54,30
+2018,28,Bor. M'gladbach,5,47,12,46,34
+2018,28,Werder Bremen,6,42,10,49,39
+2018,28,Bay. Leverkusen,7,42,4,48,44
+2018,28,VfL Wolfsburg,8,42,3,44,41
+2018,28,TSG Hoffenheim,9,41,15,54,39
+2018,28,Hertha BSC,10,35,-4,40,44
+2018,28,F. Düsseldorf,11,34,-15,36,51
+2018,28,SC Freiburg,12,32,-5,38,43
+2018,28,1.FSV Mainz 05,13,30,-20,28,48
+2018,28,FC Schalke 04,14,26,-16,28,44
+2018,28,FC Augsburg,15,25,-13,37,50
+2018,28,VfB Stuttgart,16,20,-33,26,59
+2018,28,1.FC Nuremberg,17,16,-30,22,52
+2018,28,Hannover 96,18,14,-38,24,62
+2018,29,Bayern Munich,1,64,46,74,28
+2018,29,Bor. Dortmund,2,63,31,66,35
+2018,29,RB Leipzig,3,55,31,53,22
+2018,29,E. Frankfurt,4,52,25,56,31
+2018,29,Bor. M'gladbach,5,48,12,47,35
+2018,29,VfL Wolfsburg,6,45,5,47,42
+2018,29,TSG Hoffenheim,7,44,19,58,39
+2018,29,Werder Bremen,8,43,10,50,40
+2018,29,Bay. Leverkusen,9,42,2,50,48
+2018,29,F. Düsseldorf,10,37,-14,38,52
+2018,29,Hertha BSC,11,35,-5,41,46
+2018,29,1.FSV Mainz 05,12,33,-15,33,48
+2018,29,SC Freiburg,13,32,-10,38,48
+2018,29,FC Schalke 04,14,26,-17,29,46
+2018,29,FC Augsburg,15,25,-17,37,54
+2018,29,VfB Stuttgart,16,21,-33,27,60
+2018,29,1.FC Nuremberg,17,17,-30,23,53
+2018,29,Hannover 96,18,14,-40,25,65
+2018,30,Bayern Munich,1,67,49,78,29
+2018,30,Bor. Dortmund,2,66,32,68,36
+2018,30,RB Leipzig,3,58,33,55,22
+2018,30,E. Frankfurt,4,52,23,57,34
+2018,30,Bor. M'gladbach,5,51,13,48,35
+2018,30,TSG Hoffenheim,6,47,21,60,39
+2018,30,Werder Bremen,7,46,11,52,41
+2018,30,Bay. Leverkusen,8,45,3,51,48
+2018,30,VfL Wolfsburg,9,45,3,47,44
+2018,30,F. Düsseldorf,10,37,-17,39,56
+2018,30,Hertha BSC,11,35,-7,41,48
+2018,30,1.FSV Mainz 05,12,33,-16,34,50
+2018,30,SC Freiburg,13,32,-11,39,50
+2018,30,FC Augsburg,14,28,-15,40,55
+2018,30,FC Schalke 04,15,27,-17,30,47
+2018,30,VfB Stuttgart,16,21,-34,27,61
+2018,30,1.FC Nuremberg,17,18,-30,24,54
+2018,30,Hannover 96,18,14,-41,25,66
+2018,31,Bayern Munich,1,70,50,79,29
+2018,31,Bor. Dortmund,2,69,36,72,36
+2018,31,RB Leipzig,3,61,34,57,23
+2018,31,E. Frankfurt,4,53,23,58,35
+2018,31,Bor. M'gladbach,5,51,12,49,37
+2018,31,TSG Hoffenheim,6,50,24,65,41
+2018,31,Bay. Leverkusen,7,48,5,53,48
+2018,31,Werder Bremen,8,46,10,52,42
+2018,31,VfL Wolfsburg,9,46,3,48,45
+2018,31,F. Düsseldorf,10,37,-19,40,59
+2018,31,Hertha BSC,11,36,-7,41,48
+2018,31,1.FSV Mainz 05,12,36,-14,37,51
+2018,31,SC Freiburg,13,32,-15,39,54
+2018,31,FC Augsburg,14,31,-9,46,55
+2018,31,FC Schalke 04,15,27,-20,32,52
+2018,31,VfB Stuttgart,16,21,-40,27,67
+2018,31,1.FC Nuremberg,17,18,-32,24,56
+2018,31,Hannover 96,18,15,-41,25,66
+2018,32,Bayern Munich,1,71,50,80,30
+2018,32,Bor. Dortmund,2,69,34,74,40
+2018,32,RB Leipzig,3,64,35,59,24
+2018,32,E. Frankfurt,4,54,23,58,35
+2018,32,Bor. M'gladbach,5,51,11,49,38
+2018,32,Bay. Leverkusen,6,51,8,57,49
+2018,32,TSG Hoffenheim,7,50,21,66,45
+2018,32,VfL Wolfsburg,8,49,6,52,46
+2018,32,Werder Bremen,9,46,7,53,46
+2018,32,F. Düsseldorf,10,40,-16,44,60
+2018,32,Hertha BSC,11,37,-7,41,48
+2018,32,1.FSV Mainz 05,12,36,-15,37,52
+2018,32,SC Freiburg,13,32,-16,40,56
+2018,32,FC Augsburg,14,31,-12,47,59
+2018,32,FC Schalke 04,15,30,-18,36,54
+2018,32,VfB Stuttgart,16,24,-39,28,67
+2018,32,1.FC Nuremberg,17,19,-32,25,57
+2018,32,Hannover 96,18,18,-40,26,66
+2018,33,Bayern Munich,1,74,52,83,31
+2018,33,Bor. Dortmund,2,70,34,76,42
+2018,33,RB Leipzig,3,65,35,62,27
+2018,33,E. Frankfurt,4,54,18,59,41
+2018,33,Bay. Leverkusen,5,54,13,63,50
+2018,33,Bor. M'gladbach,6,52,11,51,40
+2018,33,VfL Wolfsburg,7,52,8,54,46
+2018,33,TSG Hoffenheim,8,51,21,68,47
+2018,33,Werder Bremen,9,47,7,55,48
+2018,33,F. Düsseldorf,10,41,-16,45,61
+2018,33,Hertha BSC,11,40,-5,44,49
+2018,33,1.FSV Mainz 05,12,37,-15,40,55
+2018,33,SC Freiburg,13,33,-16,41,57
+2018,33,FC Augsburg,14,32,-12,47,59
+2018,33,FC Schalke 04,15,31,-18,36,54
+2018,33,VfB Stuttgart,16,24,-41,29,70
+2018,33,1.FC Nuremberg,17,19,-34,25,59
+2018,33,Hannover 96,18,18,-42,27,69
+2018,34,Bayern Munich,1,75,52,83,31
+2018,34,Bor. Dortmund,2,73,35,79,44
+2018,34,RB Leipzig,3,66,35,62,27
+2018,34,Bor. M'gladbach,4,55,15,55,40
+2018,34,Bay. Leverkusen,5,55,13,64,51
+2018,34,E. Frankfurt,6,54,16,59,43
+2018,34,VfL Wolfsburg,7,52,5,54,49
+2018,34,TSG Hoffenheim,8,51,20,68,48
+2018,34,Werder Bremen,9,50,8,56,48
+2018,34,Hertha BSC,10,43,-4,48,52
+2018,34,F. Düsseldorf,11,41,-17,47,64
+2018,34,1.FSV Mainz 05,12,40,-13,42,55
+2018,34,SC Freiburg,13,33,-19,41,60
+2018,34,FC Augsburg,14,32,-13,50,63
+2018,34,FC Schalke 04,15,32,-18,37,55
+2018,34,VfB Stuttgart,16,27,-38,32,70
+2018,34,Hannover 96,17,21,-39,30,69
+2018,34,1.FC Nuremberg,18,19,-38,25,63
+2018,35,Bayern Munich,1,78,56,88,32
+2018,35,Bor. Dortmund,2,76,37,81,44
+2018,35,RB Leipzig,3,66,34,63,29
+2018,35,Bay. Leverkusen,4,58,17,69,52
+2018,35,Bor. M'gladbach,5,55,13,55,42
+2018,35,VfL Wolfsburg,6,55,12,62,50
+2018,35,E. Frankfurt,7,54,12,60,48
+2018,35,Werder Bremen,8,53,9,58,49
+2018,35,TSG Hoffenheim,9,51,18,70,52
+2018,35,F. Düsseldorf,10,44,-16,49,65
+2018,35,Hertha BSC,11,43,-8,49,57
+2018,35,1.FSV Mainz 05,12,43,-11,46,57
+2018,35,SC Freiburg,13,36,-15,46,61
+2018,35,FC Schalke 04,14,33,-18,37,55
+2018,35,FC Augsburg,15,32,-20,51,71
+2018,35,VfB Stuttgart,16,28,-38,32,70
+2018,35,Hannover 96,17,21,-40,31,71
+2018,35,1.FC Nuremberg,18,19,-42,26,68
