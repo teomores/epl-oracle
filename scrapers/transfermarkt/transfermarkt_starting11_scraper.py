@@ -7,7 +7,7 @@ import pickle
 import os
 from csv import DictWriter
 from tqdm import tqdm
-
+from explicit import waiter, XPATH
 """
 prendi url da qua
 https://www.transfermarkt.com/serie-a/gesamtspielplan/wettbewerb/IT1/saison_id/2018 #serie a
@@ -45,14 +45,24 @@ def scrape(url: str, league: str, year: int, n_teams= 20) -> None:
     else:
         lineup_url = []
         for u in tqdm(list_url):
+            time.sleep(2)
             driver.get(u)
-            driver.implicitly_wait(1)
-            lineup_url.append(driver.find_element_by_xpath('//*[@id="line-ups"]/a').get_attribute('href'))
+            lineup_url.append(waiter.find_element(driver, '//*[@id="line-ups"]/a', by=XPATH).get_attribute('href'))
         with open(f'{league}_{year}_lineup_urls.pickle','wb') as f:
             pickle.dump(lineup_url,f)
     print(f'Total matches lineups: {len(lineup_url)}')
 
-    
+    for lu in lineup_url[:2]:
+        driver.get(lu)
+        print('Home Lineup:')
+        for i in range(1,12):
+            a = driver.find_element_by_xpath(f'//*[@id="main"]/div[12]/div[1]/div/div[2]/table/tbody/tr[{i}]/td[2]/table/tbody/tr[1]/td[2]/a')
+            print(f"{a.text} {a.get_attribute('id')} {a.get_attribute('href')}")
+        print('Away Lineup:')
+        for i in range(1,12):
+            a = driver.find_element_by_xpath(f'//*[@id="main"]/div[12]/div[2]/div/div[2]/table/tbody/tr[{i}]/td[2]/table/tbody/tr[1]/td[2]/a')
+            print(f"{a.text} {a.get_attribute('id')} {a.get_attribute('href')}")
+
 
 
 if __name__ == '__main__':
