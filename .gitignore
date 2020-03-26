@@ -1,3 +1,4 @@
 *.log
 .vscode*
 *checkpoint.ipynb
+*login.txt
