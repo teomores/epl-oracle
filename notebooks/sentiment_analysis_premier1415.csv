@@ -1,0 +1,761 @@
+match_round,home_team,away_team,team,sentiment_analysis
+38,Arsenal,West Brom,Arsenal,0.26748695826645275
+38,Arsenal,West Brom,West Brom,0.2293336260175883
+38,Aston Villa,Burnley,Aston Villa,0.4143826659451658
+38,Aston Villa,Burnley,Burnley,0.2598552123552123
+38,Chelsea,Sunderland,Chelsea,0.35203170977987164
+38,Chelsea,Sunderland,Sunderland,0.33866255621215946
+38,Crystal Palace,Swansea,Crystal Palace,0.33194675925925937
+38,Crystal Palace,Swansea,Swansea,0.43911342488928695
+38,Everton,Tottenham,Everton,0.33758402203856763
+38,Everton,Tottenham,Tottenham,0.2518134577063149
+38,Hull,Manchester Utd,Hull,0.05488749098124098
+38,Hull,Manchester Utd,Manchester Utd,0.3397865725964243
+38,Leicester,QPR,Leicester,0.2659737373737374
+38,Leicester,QPR,QPR,0.24492061735162382
+38,Manchester City,Southampton,Manchester City,0.23271482683982678
+38,Manchester City,Southampton,Southampton,0.34180057303281736
+38,Newcastle,West Ham,Newcastle,0.1720645743145743
+38,Newcastle,West Ham,West Ham,0.3416124896928468
+38,Stoke,Liverpool,Stoke,0.27406024531024525
+38,Stoke,Liverpool,Liverpool,0.25852080990667947
+33,Arsenal,Sunderland,Arsenal,0.18400367276353366
+33,Arsenal,Sunderland,Sunderland,0.1378969271710157
+37,West Brom,Chelsea,West Brom,0.3127520859957855
+37,West Brom,Chelsea,Chelsea,0.2777649200753709
+37,Manchester Utd,Arsenal,Manchester Utd,0.21844806792499263
+37,Manchester Utd,Arsenal,Arsenal,0.36597991796150264
+37,Swansea,Manchester City,Swansea,0.3078658985690236
+37,Swansea,Manchester City,Manchester City,0.4550772257458304
+37,Burnley,Stoke,Burnley,0.22588494318181815
+37,Burnley,Stoke,Stoke,0.3134723707664885
+37,Liverpool,Crystal Palace,Liverpool,0.29537614252496686
+37,Liverpool,Crystal Palace,Crystal Palace,0.2790883449339332
+37,QPR,Newcastle,QPR,0.11348238482384826
+37,QPR,Newcastle,Newcastle,0.2736011904761905
+37,Southampton,Aston Villa,Southampton,0.22390001739332097
+37,Southampton,Aston Villa,Aston Villa,0.27523864683183885
+37,Sunderland,Leicester,Sunderland,0.171744876711982
+37,Sunderland,Leicester,Leicester,0.3085751619181852
+37,Tottenham,Hull,Tottenham,0.24475423881673886
+37,Tottenham,Hull,Hull,0.21573075073075068
+37,West Ham,Everton,West Ham,0.14776521958125732
+37,West Ham,Everton,Everton,0.3339652597402598
+36,Arsenal,Swansea,Arsenal,0.31594158964439145
+36,Arsenal,Swansea,Swansea,0.2668994107744108
+36,Chelsea,Liverpool,Chelsea,0.26273099332325534
+36,Chelsea,Liverpool,Liverpool,0.24691735907461712
+36,Manchester City,QPR,Manchester City,0.29261479540094004
+36,Manchester City,QPR,QPR,0.2272644085162254
+36,Aston Villa,West Ham,Aston Villa,0.23888458582086036
+36,Aston Villa,West Ham,West Ham,0.285260456695579
+36,Crystal Palace,Manchester Utd,Crystal Palace,0.1674943373125192
+36,Crystal Palace,Manchester Utd,Manchester Utd,0.3511056214317085
+36,Everton,Sunderland,Everton,0.28714680821823685
+36,Everton,Sunderland,Sunderland,0.12306208462898605
+36,Hull,Burnley,Hull,0.0773838017859757
+36,Hull,Burnley,Burnley,0.29775355712855717
+36,Leicester,Southampton,Leicester,0.31059461966604823
+36,Leicester,Southampton,Southampton,0.29114660114660124
+36,Newcastle,West Brom,Newcastle,0.24817072118702563
+36,Newcastle,West Brom,West Brom,0.2279592640928425
+36,Stoke,Tottenham,Stoke,0.3424520202020202
+36,Stoke,Tottenham,Tottenham,0.2364987409105056
+35,Hull,Arsenal,Hull,0.2080800768300768
+35,Hull,Arsenal,Arsenal,0.29441234704930225
+35,Chelsea,Crystal Palace,Chelsea,0.20214921488567877
+35,Chelsea,Crystal Palace,Crystal Palace,0.3561662786898636
+35,Tottenham,Manchester City,Tottenham,0.24438952020202032
+35,Tottenham,Manchester City,Manchester City,0.37496297874579143
+35,Aston Villa,Everton,Aston Villa,0.17358410356178217
+35,Aston Villa,Everton,Everton,0.2437779581529582
+35,Leicester,Newcastle,Leicester,0.19678874058040716
+35,Leicester,Newcastle,Newcastle,0.10695433039183042
+35,Liverpool,QPR,Liverpool,0.13580728388420701
+35,Liverpool,QPR,QPR,0.1556051587301587
+35,Manchester Utd,West Brom,Manchester Utd,0.34082172659904425
+35,Manchester Utd,West Brom,West Brom,0.2928160983007922
+35,Sunderland,Southampton,Sunderland,0.2588582251082251
+35,Sunderland,Southampton,Southampton,0.3618168236360201
+35,Swansea,Stoke,Swansea,0.2056271751124692
+35,Swansea,Stoke,Stoke,0.27998778368096555
+35,West Ham,Burnley,West Ham,0.27925811845387316
+35,West Ham,Burnley,Burnley,0.11181959046244765
+27,Leicester,Chelsea,Leicester,0.1613053795551463
+27,Leicester,Chelsea,Chelsea,0.13803736185327986
+33,Hull,Liverpool,Hull,0.23405344817219814
+33,Hull,Liverpool,Liverpool,0.24318471236740463
+34,Arsenal,Chelsea,Arsenal,0.27118259546758666
+34,Arsenal,Chelsea,Chelsea,0.2393478187104425
+34,Everton,Manchester Utd,Everton,0.29198313260813263
+34,Everton,Manchester Utd,Manchester Utd,0.27963271103896115
+34,Burnley,Leicester,Burnley,0.37926276540071774
+34,Burnley,Leicester,Leicester,0.2890497234247235
+34,Crystal Palace,Hull,Crystal Palace,0.3499836924439197
+34,Crystal Palace,Hull,Hull,0.2287716404389422
+34,Manchester City,Aston Villa,Manchester City,0.2583935389180926
+34,Manchester City,Aston Villa,Aston Villa,0.36023891512527884
+34,Newcastle,Swansea,Newcastle,0.15725378787878788
+34,Newcastle,Swansea,Swansea,0.31817965003571064
+34,QPR,West Ham,QPR,0.21011198945981552
+34,QPR,West Ham,West Ham,0.21681120230078565
+34,Southampton,Tottenham,Southampton,0.2399371339444869
+34,Southampton,Tottenham,Tottenham,0.2697959120824975
+34,Stoke,Sunderland,Stoke,0.2739623121976063
+34,Stoke,Sunderland,Sunderland,0.32980451414413675
+34,West Brom,Liverpool,West Brom,0.27161468581923126
+34,West Brom,Liverpool,Liverpool,0.23565507495259563
+33,Manchester City,West Ham,Manchester City,0.26171351828469885
+33,Manchester City,West Ham,West Ham,0.185705169530401
+33,Newcastle,Tottenham,Newcastle,0.3473870316925872
+33,Newcastle,Tottenham,Tottenham,0.22001749352939828
+33,Chelsea,Manchester Utd,Chelsea,0.28114036416393867
+33,Chelsea,Manchester Utd,Manchester Utd,0.26661671717171725
+33,Crystal Palace,West Brom,Crystal Palace,0.25494165363957033
+33,Crystal Palace,West Brom,West Brom,0.3148947213613407
+33,Everton,Burnley,Everton,0.24384945687029025
+33,Everton,Burnley,Burnley,0.19762855113636363
+33,Leicester,Swansea,Leicester,0.1819458822176214
+33,Leicester,Swansea,Swansea,0.34122615039281706
+33,Stoke,Southampton,Stoke,0.27271220609455904
+33,Stoke,Southampton,Southampton,0.24017307218526734
+32,Liverpool,Newcastle,Liverpool,0.2710078463203463
+32,Liverpool,Newcastle,Newcastle,0.25068160710447945
+32,Manchester Utd,Manchester City,Manchester Utd,0.2918527940597358
+32,Manchester Utd,Manchester City,Manchester City,0.2865468811491539
+32,QPR,Chelsea,QPR,0.1114220039220039
+32,QPR,Chelsea,Chelsea,0.26828191710923666
+32,Burnley,Arsenal,Burnley,0.19578151889263
+32,Burnley,Arsenal,Arsenal,0.25383931159380835
+32,Southampton,Hull,Southampton,0.2893834966203388
+32,Southampton,Hull,Hull,0.15089552936775158
+32,Sunderland,Crystal Palace,Sunderland,0.26999316378066374
+32,Sunderland,Crystal Palace,Crystal Palace,0.3470860607392924
+32,Swansea,Everton,Swansea,0.3369047619047619
+32,Swansea,Everton,Everton,0.31609946755288737
+32,Tottenham,Aston Villa,Tottenham,0.28373521803399854
+32,Tottenham,Aston Villa,Aston Villa,0.18415603867809746
+32,West Brom,Leicester,West Brom,0.3183567113714173
+32,West Brom,Leicester,Leicester,0.2393549107142857
+32,West Ham,Stoke,West Ham,0.27592228732314933
+32,West Ham,Stoke,Stoke,0.2860626503126504
+33,Aston Villa,QPR,Aston Villa,0.1965185586018919
+33,Aston Villa,QPR,QPR,0.23214594181985487
+31,Crystal Palace,Manchester City,Crystal Palace,0.3881735458028562
+31,Crystal Palace,Manchester City,Manchester City,0.32686497004678833
+31,Burnley,Tottenham,Burnley,0.14196242730333636
+31,Burnley,Tottenham,Tottenham,0.23352231732913556
+31,Sunderland,Newcastle,Sunderland,0.3417892788428504
+31,Sunderland,Newcastle,Newcastle,0.32082744107744104
+31,Arsenal,Liverpool,Arsenal,0.2919825654027043
+31,Arsenal,Liverpool,Liverpool,0.32084065970654013
+31,Chelsea,Stoke,Chelsea,0.3014852917323848
+31,Chelsea,Stoke,Stoke,0.2912843714927048
+31,Everton,Southampton,Everton,0.3780201958003681
+31,Everton,Southampton,Southampton,0.24964201539201542
+31,Leicester,West Ham,Leicester,0.2086716300940439
+31,Leicester,West Ham,West Ham,0.3538886202450033
+31,Manchester Utd,Aston Villa,Manchester Utd,0.29645240672026385
+31,Manchester Utd,Aston Villa,Aston Villa,0.3328955026455026
+31,Swansea,Hull,Swansea,0.42605555555555563
+31,Swansea,Hull,Hull,0.26647506051718006
+31,West Brom,QPR,West Brom,0.22749309960065772
+31,West Brom,QPR,QPR,0.358156179138322
+30,Hull,Chelsea,Hull,0.10193918779633068
+30,Hull,Chelsea,Chelsea,0.2501700362841667
+30,Liverpool,Manchester Utd,Liverpool,0.22022060419571018
+30,Liverpool,Manchester Utd,Manchester Utd,0.33095266869806933
+30,QPR,Everton,QPR,0.1914954468931742
+30,QPR,Everton,Everton,0.16956417074788288
+30,Aston Villa,Swansea,Aston Villa,0.26066973615464983
+30,Aston Villa,Swansea,Swansea,0.30644407033295923
+30,Manchester City,West Brom,Manchester City,0.2350392126598936
+30,Manchester City,West Brom,West Brom,0.1619736581501287
+30,Newcastle,Arsenal,Newcastle,0.1925176366843034
+30,Newcastle,Arsenal,Arsenal,0.2297440447815533
+30,Southampton,Burnley,Southampton,0.3059380570409983
+30,Southampton,Burnley,Burnley,0.31827948603683903
+30,Stoke,Crystal Palace,Stoke,0.1598456152433425
+30,Stoke,Crystal Palace,Crystal Palace,0.37042498647186145
+30,Tottenham,Leicester,Tottenham,0.25405463363796704
+30,Tottenham,Leicester,Leicester,0.20138549413549411
+30,West Ham,Sunderland,West Ham,0.3668653722820391
+30,West Ham,Sunderland,Sunderland,0.22320076913826917
+29,Swansea,Liverpool,Swansea,0.29067846835703975
+29,Swansea,Liverpool,Liverpool,0.24713209818333898
+29,Chelsea,Southampton,Chelsea,0.1725131096681096
+29,Chelsea,Southampton,Southampton,0.3066247435290404
+29,Everton,Newcastle,Everton,0.17887520319372724
+29,Everton,Newcastle,Newcastle,0.15504758230452675
+29,Manchester Utd,Tottenham,Manchester Utd,0.30375449087949097
+29,Manchester Utd,Tottenham,Tottenham,0.32483027822871574
+29,Arsenal,West Ham,Arsenal,0.3040892542133571
+29,Arsenal,West Ham,West Ham,0.2796111473088515
+29,Burnley,Manchester City,Burnley,0.2797029993815708
+29,Burnley,Manchester City,Manchester City,0.3015979118920296
+29,Crystal Palace,QPR,Crystal Palace,0.3656497883244207
+29,Crystal Palace,QPR,QPR,0.3197717919940142
+29,Leicester,Hull,Leicester,0.25499298540965215
+29,Leicester,Hull,Hull,0.19025252525252526
+29,Sunderland,Aston Villa,Sunderland,0.29577628968253966
+29,Sunderland,Aston Villa,Aston Villa,0.1817167708834376
+29,West Brom,Stoke,West Brom,0.26344678401663696
+29,West Brom,Stoke,Stoke,0.27323696145124726
+27,QPR,Tottenham,QPR,0.1770261588548626
+27,QPR,Tottenham,Tottenham,0.38470510590599877
+28,Liverpool,Burnley,Liverpool,0.328195602736044
+28,Liverpool,Burnley,Burnley,0.13890782300870025
+28,Manchester City,Leicester,Manchester City,0.23955889432451935
+28,Manchester City,Leicester,Leicester,0.3051142144892145
+28,Newcastle,Manchester Utd,Newcastle,0.43314325225039507
+28,Newcastle,Manchester Utd,Manchester Utd,0.28912021641377705
+28,QPR,Arsenal,QPR,0.22005214630214637
+28,QPR,Arsenal,Arsenal,0.23656817157510188
+28,Stoke,Everton,Stoke,0.1715940701659452
+28,Stoke,Everton,Everton,0.20034281650660968
+28,Tottenham,Swansea,Tottenham,0.31705191145408557
+28,Tottenham,Swansea,Swansea,0.2557528409090909
+28,West Ham,Chelsea,West Ham,0.1626072720842686
+28,West Ham,Chelsea,Chelsea,0.3659840528043652
+28,Aston Villa,West Brom,Aston Villa,0.11430935930067875
+28,Aston Villa,West Brom,West Brom,0.26927756480467335
+28,Hull,Sunderland,Hull,0.07874473368893012
+28,Hull,Sunderland,Sunderland,0.21138117283950614
+28,Southampton,Crystal Palace,Southampton,0.1283629825036075
+28,Southampton,Crystal Palace,Crystal Palace,0.2415665010854155
+27,Arsenal,Everton,Arsenal,0.07767019821362232
+27,Arsenal,Everton,Everton,0.27197328397612497
+27,Liverpool,Manchester City,Liverpool,0.1245786382126093
+27,Liverpool,Manchester City,Manchester City,0.22363762894678077
+27,Burnley,Swansea,Burnley,0.33913684954501283
+27,Burnley,Swansea,Swansea,0.2986228181540681
+27,Manchester Utd,Sunderland,Manchester Utd,0.2746154307804124
+27,Manchester Utd,Sunderland,Sunderland,0.20735364357864355
+27,Newcastle,Aston Villa,Newcastle,0.22799042320526697
+27,Newcastle,Aston Villa,Aston Villa,0.22659343434343432
+27,Stoke,Hull,Stoke,0.30015828355672103
+27,Stoke,Hull,Hull,0.2730445584881069
+27,West Brom,Southampton,West Brom,0.23002379564879563
+27,West Brom,Southampton,Southampton,0.22203376356154128
+27,West Ham,Crystal Palace,West Ham,0.2449103255461014
+27,West Ham,Crystal Palace,Crystal Palace,0.3189946563852814
+26,Everton,Leicester,Everton,0.27263529151871846
+26,Everton,Leicester,Leicester,0.25206376584724793
+26,Southampton,Liverpool,Southampton,0.23542769500333421
+26,Southampton,Liverpool,Liverpool,0.2721932281566039
+26,Tottenham,West Ham,Tottenham,0.23774642024642018
+26,Tottenham,West Ham,West Ham,0.242478400169335
+26,Aston Villa,Stoke,Aston Villa,0.21017725960907788
+26,Aston Villa,Stoke,Stoke,0.17045905483405485
+26,Chelsea,Burnley,Chelsea,0.12592101085564097
+26,Chelsea,Burnley,Burnley,0.21270021645021642
+26,Crystal Palace,Arsenal,Crystal Palace,0.21989468864468867
+26,Crystal Palace,Arsenal,Arsenal,0.25539640772826283
+26,Hull,QPR,Hull,0.06256470232276684
+26,Hull,QPR,QPR,0.3194532484711056
+26,Manchester City,Newcastle,Manchester City,0.17266625041625047
+26,Manchester City,Newcastle,Newcastle,0.3469078421578422
+26,Sunderland,West Brom,Sunderland,0.2825311147186147
+26,Sunderland,West Brom,West Brom,0.23344248324650876
+26,Swansea,Manchester Utd,Swansea,0.1033008658008658
+26,Swansea,Manchester Utd,Manchester Utd,0.2521848220861893
+25,Chelsea,Everton,Chelsea,0.24171622075479507
+25,Chelsea,Everton,Everton,0.27236189413515
+25,Crystal Palace,Newcastle,Crystal Palace,0.3020513376840221
+25,Crystal Palace,Newcastle,Newcastle,0.14170537217412219
+25,Manchester Utd,Burnley,Manchester Utd,0.07693965268567869
+25,Manchester Utd,Burnley,Burnley,0.13643735893735898
+25,Southampton,West Ham,Southampton,0.21304417354764582
+25,Southampton,West Ham,West Ham,0.22422808739973263
+25,Stoke,Manchester City,Stoke,0.2572600457932091
+25,Stoke,Manchester City,Manchester City,0.14342968252343258
+25,West Brom,Swansea,West Brom,0.2784436124197154
+25,West Brom,Swansea,Swansea,0.3207664442039442
+25,Arsenal,Leicester,Arsenal,0.2144490208692947
+25,Arsenal,Leicester,Leicester,0.18723330681664022
+25,Hull,Aston Villa,Hull,0.241651621736849
+25,Hull,Aston Villa,Aston Villa,0.21502757784384294
+25,Liverpool,Tottenham,Liverpool,0.2593467682966905
+25,Liverpool,Tottenham,Tottenham,0.32003234016831333
+25,Sunderland,QPR,Sunderland,0.20598265568853805
+25,Sunderland,QPR,QPR,0.1658871622985137
+24,Burnley,West Brom,Burnley,0.18159704685746353
+24,Burnley,West Brom,West Brom,0.12351450594442319
+24,Newcastle,Stoke,Newcastle,0.2630913978494624
+24,Newcastle,Stoke,Stoke,0.3505742034895999
+24,West Ham,Manchester Utd,West Ham,0.23235032747424994
+24,West Ham,Manchester Utd,Manchester Utd,0.27821795541623123
+24,Aston Villa,Chelsea,Aston Villa,0.08624317097044368
+24,Aston Villa,Chelsea,Chelsea,0.4442474733809961
+24,Everton,Liverpool,Everton,0.2970478308116177
+24,Everton,Liverpool,Liverpool,0.2658082820266153
+24,Leicester,Crystal Palace,Leicester,0.2981593605324075
+24,Leicester,Crystal Palace,Crystal Palace,0.33793481691919197
+24,Manchester City,Hull,Manchester City,0.3356950548049033
+24,Manchester City,Hull,Hull,0.3040470421391474
+24,QPR,Southampton,QPR,0.1640006120596009
+24,QPR,Southampton,Southampton,0.291591954447068
+24,Swansea,Sunderland,Swansea,0.39659708498023705
+24,Swansea,Sunderland,Sunderland,0.31370791304507145
+24,Tottenham,Arsenal,Tottenham,0.30617709926791964
+24,Tottenham,Arsenal,Arsenal,0.23869485798980403
+23,Arsenal,Aston Villa,Arsenal,0.3390930882308498
+23,Arsenal,Aston Villa,Aston Villa,0.2717149864024864
+23,Southampton,Swansea,Southampton,0.20203142536475868
+23,Southampton,Swansea,Swansea,0.18645728114478113
+23,Chelsea,Manchester City,Chelsea,0.18861861761070622
+23,Chelsea,Manchester City,Manchester City,0.20587104720676147
+23,Crystal Palace,Everton,Crystal Palace,0.2827106094963238
+23,Crystal Palace,Everton,Everton,0.2955964852205086
+23,Hull,Newcastle,Hull,0.1781858881858882
+23,Hull,Newcastle,Newcastle,0.13017368048618044
+23,Liverpool,West Ham,Liverpool,0.25345152455081255
+23,Liverpool,West Ham,West Ham,0.1857467532467533
+23,Manchester Utd,Leicester,Manchester Utd,0.2847896882869309
+23,Manchester Utd,Leicester,Leicester,0.21034659784659787
+23,Stoke,QPR,Stoke,0.27599920334295336
+23,Stoke,QPR,QPR,0.15358257370452497
+23,Sunderland,Burnley,Sunderland,0.19897924698297834
+23,Sunderland,Burnley,Burnley,0.28058047903275174
+23,West Brom,Tottenham,West Brom,0.2610464015151515
+23,West Brom,Tottenham,Tottenham,0.2503925492610838
+22,Everton,West Brom,Everton,0.23623293509322923
+22,Everton,West Brom,West Brom,0.1490788288168803
+22,Manchester City,Arsenal,Manchester City,0.3486562457520337
+22,Manchester City,Arsenal,Arsenal,0.2992410525269807
+22,West Ham,Hull,West Ham,0.2219133445106806
+22,West Ham,Hull,Hull,0.3014117826617827
+22,Aston Villa,Liverpool,Aston Villa,0.22104093858976676
+22,Aston Villa,Liverpool,Liverpool,0.2594210822510823
+22,Burnley,Crystal Palace,Burnley,0.18007955833848696
+22,Burnley,Crystal Palace,Crystal Palace,0.34680850836406385
+22,Leicester,Stoke,Leicester,0.25028617216117216
+22,Leicester,Stoke,Stoke,0.27531965058750785
+22,Newcastle,Southampton,Newcastle,0.27595871505755226
+22,Newcastle,Southampton,Southampton,0.2074932068379649
+22,QPR,Manchester Utd,QPR,0.28058878256246683
+22,QPR,Manchester Utd,Manchester Utd,0.21508038927866507
+22,Swansea,Chelsea,Swansea,0.2528521825396825
+22,Swansea,Chelsea,Chelsea,0.25984564694564694
+22,Tottenham,Sunderland,Tottenham,0.20499169743655035
+22,Tottenham,Sunderland,Sunderland,0.1796816852737906
+21,Arsenal,Stoke,Arsenal,0.26280165990875054
+21,Arsenal,Stoke,Stoke,0.10634631741339058
+21,Manchester Utd,Southampton,Manchester Utd,0.30521409356021917
+21,Manchester Utd,Southampton,Southampton,0.24584274666305914
+21,Burnley,QPR,Burnley,0.30142676767676774
+21,Burnley,QPR,QPR,0.252679391315755
+21,Chelsea,Newcastle,Chelsea,0.33445752064737116
+21,Chelsea,Newcastle,Newcastle,0.20336766090303826
+21,Crystal Palace,Tottenham,Crystal Palace,0.2735179819516397
+21,Crystal Palace,Tottenham,Tottenham,0.2568954147452789
+21,Everton,Manchester City,Everton,0.20446541664808876
+21,Everton,Manchester City,Manchester City,0.2815592521051382
+21,Leicester,Aston Villa,Leicester,0.09958345358345357
+21,Leicester,Aston Villa,Aston Villa,0.14966759431045143
+21,Sunderland,Liverpool,Sunderland,0.21539370891454226
+21,Sunderland,Liverpool,Liverpool,0.24365841366709423
+21,Swansea,West Ham,Swansea,0.2266504329004329
+21,Swansea,West Ham,West Ham,0.18104108870394087
+21,West Brom,Hull,West Brom,0.10443789607952723
+21,West Brom,Hull,Hull,0.24854978354978355
+20,Aston Villa,Crystal Palace,Aston Villa,0.19463524130190799
+20,Aston Villa,Crystal Palace,Crystal Palace,0.18228319279100524
+20,Hull,Everton,Hull,0.00019727826331602193
+20,Hull,Everton,Everton,0.11644268774703567
+20,Liverpool,Leicester,Liverpool,0.300492925569275
+20,Liverpool,Leicester,Leicester,0.33218175798585575
+20,Manchester City,Sunderland,Manchester City,0.2663886077847117
+20,Manchester City,Sunderland,Sunderland,0.05570014050277208
+20,Newcastle,Burnley,Newcastle,0.06355101495726495
+20,Newcastle,Burnley,Burnley,0.28164886964886965
+20,QPR,Swansea,QPR,0.1382611125258184
+20,QPR,Swansea,Swansea,0.1316268182647493
+20,Southampton,Arsenal,Southampton,0.32036258542768953
+20,Southampton,Arsenal,Arsenal,0.27443052658400463
+20,Stoke,Manchester Utd,Stoke,0.20994539391935224
+20,Stoke,Manchester Utd,Manchester Utd,0.17586404422090815
+20,Tottenham,Chelsea,Tottenham,0.20690318025672505
+20,Tottenham,Chelsea,Chelsea,0.2110265200423246
+20,West Ham,West Brom,West Ham,0.19874552843847862
+20,West Ham,West Brom,West Brom,0.13749389705128695
+19,Liverpool,Swansea,Liverpool,0.26811718239045135
+19,Liverpool,Swansea,Swansea,0.35137755102040824
+19,Aston Villa,Sunderland,Aston Villa,0.22891839826839827
+19,Aston Villa,Sunderland,Sunderland,0.31879175154910455
+19,Hull,Leicester,Hull,0.21585373234221927
+19,Hull,Leicester,Leicester,0.28444913419913426
+19,Manchester City,Burnley,Manchester City,0.3392327151586411
+19,Manchester City,Burnley,Burnley,0.2446097582972583
+19,Newcastle,Everton,Newcastle,0.20075792713779728
+19,Newcastle,Everton,Everton,0.14553240339907006
+19,QPR,Crystal Palace,QPR,0.25600751563251567
+19,QPR,Crystal Palace,Crystal Palace,0.32342084998335
+19,Southampton,Chelsea,Southampton,0.38557892658108167
+19,Southampton,Chelsea,Chelsea,0.29758377587145973
+19,Stoke,West Brom,Stoke,0.36556732825706034
+19,Stoke,West Brom,West Brom,0.16416113777526817
+19,Tottenham,Manchester Utd,Tottenham,0.2531122381612578
+19,Tottenham,Manchester Utd,Manchester Utd,0.28700273244023244
+19,West Ham,Arsenal,West Ham,0.323179600298072
+19,West Ham,Arsenal,Arsenal,0.28217424129541224
+18,Arsenal,QPR,Arsenal,0.22167078186964548
+18,Arsenal,QPR,QPR,0.2735671446608946
+18,Burnley,Liverpool,Burnley,0.16171536796536803
+18,Burnley,Liverpool,Liverpool,0.28066378584697554
+18,Chelsea,West Ham,Chelsea,0.2936183001480776
+18,Chelsea,West Ham,West Ham,0.4398927389660148
+18,Crystal Palace,Southampton,Crystal Palace,0.30138305322128855
+18,Crystal Palace,Southampton,Southampton,0.32462089381207043
+18,Everton,Stoke,Everton,0.2226653712449167
+18,Everton,Stoke,Stoke,0.14584257206208423
+18,Leicester,Tottenham,Leicester,0.1380661976911977
+18,Leicester,Tottenham,Tottenham,0.33633158320658324
+18,Manchester Utd,Newcastle,Manchester Utd,0.25657011244405314
+18,Manchester Utd,Newcastle,Newcastle,0.19258757525998907
+18,Sunderland,Hull,Sunderland,0.20839780597810106
+18,Sunderland,Hull,Hull,0.23804394115369717
+18,Swansea,Aston Villa,Swansea,0.4339162731208187
+18,Swansea,Aston Villa,Aston Villa,0.2793570626903961
+18,West Brom,Manchester City,West Brom,0.2161908392993726
+18,West Brom,Manchester City,Manchester City,0.2848752190270047
+17,Stoke,Chelsea,Stoke,0.2917265325670498
+17,Stoke,Chelsea,Chelsea,0.37155786409401764
+17,Liverpool,Arsenal,Liverpool,0.27095616480871776
+17,Liverpool,Arsenal,Arsenal,0.3680963258068972
+17,Newcastle,Sunderland,Newcastle,0.17697100231639706
+17,Newcastle,Sunderland,Sunderland,0.25295336029711035
+17,Aston Villa,Manchester Utd,Aston Villa,0.10606922398589068
+17,Aston Villa,Manchester Utd,Manchester Utd,0.2892445054945054
+17,Hull,Swansea,Hull,0.12330080943362191
+17,Hull,Swansea,Swansea,0.24877119408369408
+17,Manchester City,Crystal Palace,Manchester City,0.31727470917285744
+17,Manchester City,Crystal Palace,Crystal Palace,0.42134103641456583
+17,QPR,West Brom,QPR,0.2793611793611793
+17,QPR,West Brom,West Brom,0.35948038586927483
+17,Southampton,Everton,Southampton,0.026340867693326723
+17,Southampton,Everton,Everton,0.2547056534735106
+17,Tottenham,Burnley,Tottenham,0.279423126710071
+17,Tottenham,Burnley,Burnley,0.22196289190607377
+17,West Ham,Leicester,West Ham,0.29495443971737073
+17,West Ham,Leicester,Leicester,0.11592424242424242
+16,Everton,QPR,Everton,0.17251187245590235
+16,Everton,QPR,QPR,0.3778402615902617
+16,Manchester Utd,Liverpool,Manchester Utd,0.21702320558905383
+16,Manchester Utd,Liverpool,Liverpool,0.1834924621473535
+16,Swansea,Tottenham,Swansea,0.2809166280148423
+16,Swansea,Tottenham,Tottenham,0.2460961299502966
+16,Arsenal,Newcastle,Arsenal,0.3043978640928498
+16,Arsenal,Newcastle,Newcastle,0.19199182513914653
+16,Burnley,Southampton,Burnley,0.2176539276695526
+16,Burnley,Southampton,Southampton,0.2396344229330341
+16,Chelsea,Hull,Chelsea,0.2677755418771044
+16,Chelsea,Hull,Hull,0.24034184854497354
+16,Crystal Palace,Stoke,Crystal Palace,0.269183680902431
+16,Crystal Palace,Stoke,Stoke,0.30345361509835195
+16,Leicester,Manchester City,Leicester,0.10279012345679012
+16,Leicester,Manchester City,Manchester City,0.25429448299404006
+16,Sunderland,West Ham,Sunderland,0.30960730350378785
+16,Sunderland,West Ham,West Ham,0.4202333754208756
+16,West Brom,Aston Villa,West Brom,0.1355042169530806
+16,West Brom,Aston Villa,Aston Villa,0.20933715589965587
+15,Southampton,Manchester Utd,Southampton,0.12516400266400263
+15,Southampton,Manchester Utd,Manchester Utd,0.2662463040771864
+15,Aston Villa,Leicester,Aston Villa,0.3086072091174132
+15,Aston Villa,Leicester,Leicester,0.030260926938558506
+15,West Ham,Swansea,West Ham,0.2557313218848145
+15,West Ham,Swansea,Swansea,0.2685075014854426
+15,Hull,West Brom,Hull,0.1882362914862915
+15,Hull,West Brom,West Brom,0.16444491669384653
+15,Liverpool,Sunderland,Liverpool,0.2841170710775367
+15,Liverpool,Sunderland,Sunderland,0.2475051720943925
+15,Manchester City,Everton,Manchester City,0.24955787195499177
+15,Manchester City,Everton,Everton,0.15077683725005156
+15,Newcastle,Chelsea,Newcastle,0.2236616161616161
+15,Newcastle,Chelsea,Chelsea,0.2812656606794765
+15,QPR,Burnley,QPR,0.2071281550952067
+15,QPR,Burnley,Burnley,0.2171559343434343
+15,Stoke,Arsenal,Stoke,0.2146632620851371
+15,Stoke,Arsenal,Arsenal,0.28390106231338524
+15,Tottenham,Crystal Palace,Tottenham,0.1360765599343186
+15,Tottenham,Crystal Palace,Crystal Palace,0.2741765711140711
+14,Arsenal,Southampton,Arsenal,0.2943128705967907
+14,Arsenal,Southampton,Southampton,0.21314414090002862
+14,Chelsea,Tottenham,Chelsea,0.24269473392587618
+14,Chelsea,Tottenham,Tottenham,0.3451894586894587
+14,Everton,Hull,Everton,0.20734569527994848
+14,Everton,Hull,Hull,0.14641861405428647
+14,Sunderland,Manchester City,Sunderland,0.3173320975714593
+14,Sunderland,Manchester City,Manchester City,0.20665942356362912
+14,Burnley,Newcastle,Burnley,0.22648771080210475
+14,Burnley,Newcastle,Newcastle,0.2436298289916711
+14,Crystal Palace,Aston Villa,Crystal Palace,0.26618140804301516
+14,Crystal Palace,Aston Villa,Aston Villa,0.168801365535967
+14,Leicester,Liverpool,Leicester,0.15768454442933613
+14,Leicester,Liverpool,Liverpool,0.25110477643148094
+14,Manchester Utd,Stoke,Manchester Utd,0.35713853948375446
+14,Manchester Utd,Stoke,Stoke,0.23402048078184443
+14,Swansea,QPR,Swansea,0.22606053134899287
+14,Swansea,QPR,QPR,0.22660350177304964
+14,West Brom,West Ham,West Brom,0.1446380041319278
+14,West Brom,West Ham,West Ham,0.28853792289060154
+13,Southampton,Manchester City,Southampton,0.2993506493506493
+13,Southampton,Manchester City,Manchester City,0.3211641886373657
+13,Tottenham,Everton,Tottenham,0.2213510186903044
+13,Tottenham,Everton,Everton,0.3254772896374459
+13,Burnley,Aston Villa,Burnley,0.2643948162177329
+13,Burnley,Aston Villa,Aston Villa,0.21889343167120948
+13,Liverpool,Stoke,Liverpool,0.18550289455254856
+13,Liverpool,Stoke,Stoke,0.24757870856676004
+13,Manchester Utd,Hull,Manchester Utd,0.30227557872004207
+13,Manchester Utd,Hull,Hull,0.29949003017184833
+13,QPR,Leicester,QPR,0.2611910591102664
+13,QPR,Leicester,Leicester,0.2627984918307499
+13,Sunderland,Chelsea,Sunderland,0.2594549821523506
+13,Sunderland,Chelsea,Chelsea,0.33917869045187515
+13,Swansea,Crystal Palace,Swansea,0.3199918267496393
+13,Swansea,Crystal Palace,Crystal Palace,0.32659427985209233
+13,West Brom,Arsenal,West Brom,0.12221777788184038
+13,West Brom,Arsenal,Arsenal,0.25955342060810804
+13,West Ham,Newcastle,West Ham,0.2607516199733181
+13,West Ham,Newcastle,Newcastle,0.31545698924731186
+12,Aston Villa,Southampton,Aston Villa,0.18232136587724918
+12,Aston Villa,Southampton,Southampton,0.20892297030454926
+12,Crystal Palace,Liverpool,Crystal Palace,0.26184019578905937
+12,Crystal Palace,Liverpool,Liverpool,0.22443530740661885
+12,Hull,Tottenham,Hull,0.23501314324704478
+12,Hull,Tottenham,Tottenham,0.23140536088649294
+12,Arsenal,Manchester Utd,Arsenal,0.29652308996590465
+12,Arsenal,Manchester Utd,Manchester Utd,0.21414939211490935
+12,Chelsea,West Brom,Chelsea,0.22276947198822203
+12,Chelsea,West Brom,West Brom,0.26221911576078244
+12,Everton,West Ham,Everton,0.2851277260475374
+12,Everton,West Ham,West Ham,0.2207352682040183
+12,Leicester,Sunderland,Leicester,0.34013230127360566
+12,Leicester,Sunderland,Sunderland,0.3806984908609909
+12,Manchester City,Swansea,Manchester City,0.23691619265747166
+12,Manchester City,Swansea,Swansea,0.21902662993572086
+12,Newcastle,QPR,Newcastle,0.22511400636400639
+12,Newcastle,QPR,QPR,0.29076370018115943
+12,Stoke,Burnley,Stoke,0.40511306355056353
+12,Stoke,Burnley,Burnley,0.0878183621933622
+11,Sunderland,Everton,Sunderland,0.3147285143796772
+11,Sunderland,Everton,Everton,0.2720740672043161
+11,Swansea,Arsenal,Swansea,0.3705862977602108
+11,Swansea,Arsenal,Arsenal,0.1735504236743462
+11,Tottenham,Stoke,Tottenham,0.21087761696871868
+11,Tottenham,Stoke,Stoke,0.2719934736980192
+11,West Brom,Newcastle,West Brom,0.2489845751891206
+11,West Brom,Newcastle,Newcastle,0.23878648233486946
+11,Burnley,Hull,Burnley,0.20414750180375182
+11,Burnley,Hull,Hull,0.17976775254318755
+11,Liverpool,Chelsea,Liverpool,0.2948471160529404
+11,Liverpool,Chelsea,Chelsea,0.30812802265364503
+11,Manchester Utd,Crystal Palace,Manchester Utd,0.3038378010878009
+11,Manchester Utd,Crystal Palace,Crystal Palace,0.21074808987308985
+11,QPR,Manchester City,QPR,0.3207355816226784
+11,QPR,Manchester City,Manchester City,0.18713171188410596
+11,Southampton,Leicester,Southampton,0.22583308036814134
+11,Southampton,Leicester,Leicester,0.39076704545454544
+11,West Ham,Aston Villa,West Ham,0.2984227543290043
+11,West Ham,Aston Villa,Aston Villa,0.15428562839277124
+10,Crystal Palace,Sunderland,Crystal Palace,0.30698632564017186
+10,Crystal Palace,Sunderland,Sunderland,0.24315939426734887
+10,Aston Villa,Tottenham,Aston Villa,0.21551160644910644
+10,Aston Villa,Tottenham,Tottenham,0.1994074697759399
+10,Manchester City,Manchester Utd,Manchester City,0.2572877387597782
+10,Manchester City,Manchester Utd,Manchester Utd,0.35850077479338865
+10,Arsenal,Burnley,Arsenal,0.30611978938920215
+10,Arsenal,Burnley,Burnley,0.2930708180708182
+10,Chelsea,QPR,Chelsea,0.27988468380643966
+10,Chelsea,QPR,QPR,0.24821484071484073
+10,Everton,Swansea,Everton,0.30845977463312374
+10,Everton,Swansea,Swansea,0.16762002465127462
+10,Hull,Southampton,Hull,-0.04399692610630112
+10,Hull,Southampton,Southampton,0.338484297386641
+10,Leicester,West Brom,Leicester,0.2450337076118326
+10,Leicester,West Brom,West Brom,0.15131040002229024
+10,Newcastle,Liverpool,Newcastle,0.31839466370562586
+10,Newcastle,Liverpool,Liverpool,0.2384167763192044
+10,Stoke,West Ham,Stoke,0.11824119167869167
+10,Stoke,West Ham,West Ham,0.2691883153845244
+9,QPR,Aston Villa,QPR,0.183545128706419
+9,QPR,Aston Villa,Aston Villa,0.3498705542823189
+9,Burnley,Everton,Burnley,0.23356197106197102
+9,Burnley,Everton,Everton,0.24308702745274538
+9,Manchester Utd,Chelsea,Manchester Utd,0.2919210812656993
+9,Manchester Utd,Chelsea,Chelsea,0.31187597153298374
+9,Tottenham,Newcastle,Tottenham,0.3016527988605911
+9,Tottenham,Newcastle,Newcastle,0.28715733115123354
+9,Liverpool,Hull,Liverpool,0.20405394444127994
+9,Liverpool,Hull,Hull,0.27930104617604623
+9,Southampton,Stoke,Southampton,0.25738425925925934
+9,Southampton,Stoke,Stoke,0.26612301587301584
+9,Sunderland,Arsenal,Sunderland,0.2419822057006232
+9,Sunderland,Arsenal,Arsenal,0.24512941614676634
+9,Swansea,Leicester,Swansea,0.3303901827339327
+9,Swansea,Leicester,Leicester,0.2817314167314167
+9,West Brom,Crystal Palace,West Brom,0.3022916842356777
+9,West Brom,Crystal Palace,Crystal Palace,0.3017820231403901
+9,West Ham,Manchester City,West Ham,0.24129506646552104
+9,West Ham,Manchester City,Manchester City,0.127247995037599
+8,West Brom,Manchester Utd,West Brom,0.19864367507056194
+8,West Brom,Manchester Utd,Manchester Utd,0.25474814757552844
+8,QPR,Liverpool,QPR,0.27995023069036234
+8,QPR,Liverpool,Liverpool,0.28936730542385314
+8,Stoke,Swansea,Stoke,0.3267211174242423
+8,Stoke,Swansea,Swansea,0.3383953168044077
+8,Arsenal,Hull,Arsenal,0.3192992263193155
+8,Arsenal,Hull,Hull,0.24047755617398475
+8,Burnley,West Ham,Burnley,0.160017126247595
+8,Burnley,West Ham,West Ham,0.2208613057564799
+8,Crystal Palace,Chelsea,Crystal Palace,0.22954882584346867
+8,Crystal Palace,Chelsea,Chelsea,0.3199187527448397
+8,Everton,Aston Villa,Everton,0.27493643794016925
+8,Everton,Aston Villa,Aston Villa,0.24230038480038485
+8,Manchester City,Tottenham,Manchester City,0.2930588573385183
+8,Manchester City,Tottenham,Tottenham,0.10539231111581657
+8,Newcastle,Leicester,Newcastle,0.14254877203406618
+8,Newcastle,Leicester,Leicester,0.2463757575757576
+8,Southampton,Sunderland,Southampton,0.4356893767608054
+8,Southampton,Sunderland,Sunderland,0.21953802480588194
+7,Chelsea,Arsenal,Chelsea,0.2539988291718203
+7,Chelsea,Arsenal,Arsenal,0.29273867532318554
+7,Manchester Utd,Everton,Manchester Utd,0.19879396499557786
+7,Manchester Utd,Everton,Everton,0.1931212863933452
+7,Tottenham,Southampton,Tottenham,0.11036711046476673
+7,Tottenham,Southampton,Southampton,0.34957914806547613
+7,West Ham,QPR,West Ham,0.29799987974987985
+7,West Ham,QPR,QPR,0.23450238997114004
+7,Aston Villa,Manchester City,Aston Villa,0.1887923478548479
+7,Aston Villa,Manchester City,Manchester City,0.23562559619200252
+7,Hull,Crystal Palace,Hull,0.2320950255102041
+7,Hull,Crystal Palace,Crystal Palace,0.2808342142353771
+7,Leicester,Burnley,Leicester,0.23663742011956304
+7,Leicester,Burnley,Burnley,0.18420637120332248
+7,Liverpool,West Brom,Liverpool,0.08164910390661753
+7,Liverpool,West Brom,West Brom,0.14010792448292453
+7,Sunderland,Stoke,Sunderland,0.29855818798753586
+7,Sunderland,Stoke,Stoke,0.2503383387445888
+7,Swansea,Newcastle,Swansea,0.30351052188552186
+7,Swansea,Newcastle,Newcastle,0.11878536768242652
+6,Stoke,Newcastle,Stoke,0.3080697601010102
+6,Stoke,Newcastle,Newcastle,0.15832060441816537
+6,West Brom,Burnley,West Brom,0.27503527167589664
+6,West Brom,Burnley,Burnley,0.1265188910005983
+6,Arsenal,Tottenham,Arsenal,0.30623224947002686
+6,Arsenal,Tottenham,Tottenham,0.22082988929473304
+6,Chelsea,Aston Villa,Chelsea,0.21104753035770918
+6,Chelsea,Aston Villa,Aston Villa,0.21992923240867318
+6,Crystal Palace,Leicester,Crystal Palace,0.15260324074074072
+6,Crystal Palace,Leicester,Leicester,0.184902077843654
+6,Hull,Manchester City,Hull,0.08199302842595524
+6,Hull,Manchester City,Manchester City,0.19727277384847805
+6,Liverpool,Everton,Liverpool,0.3060173333078815
+6,Liverpool,Everton,Everton,0.15930221716008006
+6,Manchester Utd,West Ham,Manchester Utd,0.21676149531521446
+6,Manchester Utd,West Ham,West Ham,0.1482578381677958
+6,Southampton,QPR,Southampton,0.2940166057900433
+6,Southampton,QPR,QPR,0.15191248100927976
+6,Sunderland,Swansea,Sunderland,0.07704229797979797
+6,Sunderland,Swansea,Swansea,0.17505547755547748
+5,Everton,Crystal Palace,Everton,0.2790028743657777
+5,Everton,Crystal Palace,Crystal Palace,0.28315331348867934
+5,Leicester,Manchester Utd,Leicester,0.11066226783968719
+5,Leicester,Manchester Utd,Manchester Utd,0.26559637752819565
+5,Manchester City,Chelsea,Manchester City,0.26149976724313856
+5,Manchester City,Chelsea,Chelsea,0.30286965976056546
+5,Tottenham,West Brom,Tottenham,0.26009643536817467
+5,Tottenham,West Brom,West Brom,0.1665886544011544
+5,Aston Villa,Arsenal,Aston Villa,0.2857756693923362
+5,Aston Villa,Arsenal,Arsenal,0.13002962263814205
+5,Burnley,Sunderland,Burnley,0.30347748316498313
+5,Burnley,Sunderland,Sunderland,0.3440453748447935
+5,Newcastle,Hull,Newcastle,0.17761533401239282
+5,Newcastle,Hull,Hull,0.16349866590432632
+5,QPR,Stoke,QPR,0.1935446906035142
+5,QPR,Stoke,Stoke,0.29810515873015864
+5,Swansea,Southampton,Swansea,0.43538860830527515
+5,Swansea,Southampton,Southampton,0.21727246422558924
+5,West Ham,Liverpool,West Ham,0.2181645136953357
+5,West Ham,Liverpool,Liverpool,0.2814286789101975
+4,Hull,West Ham,Hull,0.11668899660350134
+4,Hull,West Ham,West Ham,0.19008243482650808
+4,Manchester Utd,QPR,Manchester Utd,0.2066476699165844
+4,Manchester Utd,QPR,QPR,0.29810155122655124
+4,Arsenal,Manchester City,Arsenal,0.2634183657349466
+4,Arsenal,Manchester City,Manchester City,0.21989571751866835
+4,Chelsea,Swansea,Chelsea,0.3558953686167229
+4,Chelsea,Swansea,Swansea,0.28192821067821067
+4,Crystal Palace,Burnley,Crystal Palace,0.19952243104682124
+4,Crystal Palace,Burnley,Burnley,0.18471260221260216
+4,Liverpool,Aston Villa,Liverpool,0.3102495189995191
+4,Liverpool,Aston Villa,Aston Villa,0.2843291941976154
+4,Southampton,Newcastle,Southampton,0.16218026829137938
+4,Southampton,Newcastle,Newcastle,0.18781756052589385
+4,Stoke,Leicester,Stoke,0.20256944444444444
+4,Stoke,Leicester,Leicester,0.19846004689754693
+4,Sunderland,Tottenham,Sunderland,0.39363821138211375
+4,Sunderland,Tottenham,Tottenham,0.21555114111035167
+4,West Brom,Everton,West Brom,0.35169870129870134
+4,West Brom,Everton,Everton,0.20782163853941196
+3,Aston Villa,Hull,Aston Villa,0.22352456776762328
+3,Aston Villa,Hull,Hull,0.23297052397288243
+3,Leicester,Arsenal,Leicester,0.31925891568748715
+3,Leicester,Arsenal,Arsenal,0.2355637371530923
+3,Tottenham,Liverpool,Tottenham,0.2559336208470245
+3,Tottenham,Liverpool,Liverpool,0.3097099610591046
+3,Burnley,Manchester Utd,Burnley,0.27787470053095054
+3,Burnley,Manchester Utd,Manchester Utd,0.22241738759554644
+3,Everton,Chelsea,Everton,0.2561694677871149
+3,Everton,Chelsea,Chelsea,0.2165735112197376
+3,Manchester City,Stoke,Manchester City,0.24330496031746032
+3,Manchester City,Stoke,Stoke,0.20511210125571824
+3,Newcastle,Crystal Palace,Newcastle,0.1557484130371454
+3,Newcastle,Crystal Palace,Crystal Palace,0.19150709475709465
+3,QPR,Sunderland,QPR,0.17269952817650186
+3,QPR,Sunderland,Sunderland,0.299445696185998
+3,Swansea,West Brom,Swansea,0.20537587412587413
+3,Swansea,West Brom,West Brom,0.20632520229602722
+3,West Ham,Southampton,West Ham,0.17321807114822932
+3,West Ham,Southampton,Southampton,0.2430791309080783
+2,Manchester City,Liverpool,Manchester City,0.20409690199092376
+2,Manchester City,Liverpool,Liverpool,0.3168174575175187
+2,Hull,Stoke,Hull,0.23157138641853317
+2,Hull,Stoke,Stoke,0.22162999037999045
+2,Sunderland,Manchester Utd,Sunderland,0.22150297619047624
+2,Sunderland,Manchester Utd,Manchester Utd,0.19756442204132418
+2,Tottenham,QPR,Tottenham,0.2257217699381878
+2,Tottenham,QPR,QPR,0.23198848856457557
+2,Aston Villa,Newcastle,Aston Villa,0.21425814751286448
+2,Aston Villa,Newcastle,Newcastle,0.24310254560254557
+2,Chelsea,Leicester,Chelsea,0.307805060716767
+2,Chelsea,Leicester,Leicester,0.16627582644628094
+2,Crystal Palace,West Ham,Crystal Palace,0.1509352535465549
+2,Crystal Palace,West Ham,West Ham,0.15043075154012656
+2,Everton,Arsenal,Everton,0.3225583730552992
+2,Everton,Arsenal,Arsenal,0.1660358169993586
+2,Southampton,West Brom,Southampton,0.2705867619282254
+2,Southampton,West Brom,West Brom,0.1830754369087702
+2,Swansea,Burnley,Swansea,0.2937406156156157
+2,Swansea,Burnley,Burnley,0.2893207436685698
+1,Burnley,Chelsea,Burnley,0.3250390768154905
+1,Burnley,Chelsea,Chelsea,0.2796282439024895
+1,Liverpool,Southampton,Liverpool,0.28484396824240554
+1,Liverpool,Southampton,Southampton,0.18883072335913242
+1,Newcastle,Manchester City,Newcastle,0.27159354425955995
+1,Newcastle,Manchester City,Manchester City,0.25199813322106024
+1,Arsenal,Crystal Palace,Arsenal,0.2774022172707901
+1,Arsenal,Crystal Palace,Crystal Palace,0.18002439946884388
+1,Leicester,Everton,Leicester,0.20767262081600316
+1,Leicester,Everton,Everton,0.21247253377935194
+1,Manchester Utd,Swansea,Manchester Utd,0.1742932730266201
+1,Manchester Utd,Swansea,Swansea,0.19395805344081204
+1,QPR,Hull,QPR,0.16174438904349622
+1,QPR,Hull,Hull,0.028775414862914857
+1,Stoke,Aston Villa,Stoke,0.24290837150575523
+1,Stoke,Aston Villa,Aston Villa,0.1903564036146003
+1,West Brom,Sunderland,West Brom,0.23213412744662745
+1,West Brom,Sunderland,Sunderland,0.24971103009012852
+1,West Ham,Tottenham,West Ham,0.20014958582205414
+1,West Ham,Tottenham,Tottenham,0.2735425228779658

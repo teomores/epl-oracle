@@ -1,0 +1,39 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,7_day_before_like,7_day_before_love,7_day_before_wow,7_day_before_sorry,7_day_before_anger,7_day_before_haha,team
+12/08/2018,Liverpool,West Ham,4,0,19535.0,1520.0,253.0,49.0,154.0,34.0,West Ham
+18/08/2018,West Ham,Bournemouth,1,2,14022.0,900.0,130.0,75.0,259.0,12.0,West Ham
+25/08/2018,Arsenal,West Ham,3,1,11979.0,1081.0,62.0,44.0,130.0,45.0,West Ham
+01/09/2018,West Ham,Wolves,0,1,4964.0,563.0,37.0,7.0,38.0,11.0,West Ham
+16/09/2018,Everton,West Ham,1,3,6444.0,613.0,55.0,10.0,16.0,3.0,West Ham
+23/09/2018,West Ham,Chelsea,0,0,13640.0,1449.0,85.0,3.0,115.0,5.0,West Ham
+29/09/2018,West Ham,Man United,3,1,29870.0,3286.0,374.0,13.0,469.0,20.0,West Ham
+05/10/2018,Brighton,West Ham,1,0,29169.0,3992.0,290.0,18.0,262.0,18.0,West Ham
+20/10/2018,West Ham,Tottenham,0,1,7846.0,750.0,60.0,1.0,217.0,3.0,West Ham
+27/10/2018,Leicester,West Ham,1,1,5908.0,519.0,36.0,29.0,18.0,5.0,West Ham
+03/11/2018,West Ham,Burnley,4,2,32206.0,2554.0,45.0,2001.0,41.0,7.0,West Ham
+10/11/2018,Huddersfield,West Ham,1,1,14707.0,2264.0,58.0,80.0,135.0,4.0,West Ham
+24/11/2018,West Ham,Man City,0,4,288.0,14.0,1.0,0.0,10.0,2.0,West Ham
+01/12/2018,Newcastle,West Ham,0,3,461.0,25.0,6.0,0.0,0.0,1.0,West Ham
+04/12/2018,West Ham,Cardiff,3,1,2950.0,366.0,32.0,0.0,5.0,5.0,West Ham
+08/12/2018,West Ham,Crystal Palace,3,2,2489.0,341.0,26.0,0.0,5.0,4.0,West Ham
+15/12/2018,Fulham,West Ham,0,2,646.0,35.0,6.0,0.0,0.0,0.0,West Ham
+22/12/2018,West Ham,Watford,0,2,0.0,0.0,0.0,0.0,0.0,0.0,West Ham
+27/12/2018,Southampton,West Ham,1,2,0.0,0.0,0.0,0.0,0.0,0.0,West Ham
+30/12/2018,Burnley,West Ham,2,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham
+02/01/2019,West Ham,Brighton,2,2,667.0,52.0,4.0,0.0,1.0,0.0,West Ham
+12/01/2019,West Ham,Arsenal,1,0,31373.0,2272.0,159.0,7.0,210.0,27.0,West Ham
+19/01/2019,Bournemouth,West Ham,2,0,38060.0,5083.0,428.0,24.0,205.0,192.0,West Ham
+29/01/2019,Wolves,West Ham,3,0,17004.0,1585.0,236.0,364.0,1528.0,1612.0,West Ham
+04/02/2019,West Ham,Liverpool,1,1,1304.0,39.0,5.0,7.0,45.0,4.0,West Ham
+09/02/2019,Crystal Palace,West Ham,1,1,11680.0,1139.0,98.0,9.0,110.0,406.0,West Ham
+22/02/2019,West Ham,Fulham,3,1,9199.0,386.0,43.0,11.0,16.0,46.0,West Ham
+27/02/2019,Man City,West Ham,1,0,16784.0,1184.0,92.0,11.0,53.0,53.0,West Ham
+02/03/2019,West Ham,Newcastle,2,0,8915.0,599.0,47.0,3.0,40.0,6.0,West Ham
+09/03/2019,Cardiff,West Ham,2,0,68354.0,5919.0,206.0,1072.0,108.0,8.0,West Ham
+16/03/2019,West Ham,Huddersfield,4,3,18897.0,1037.0,116.0,502.0,276.0,1119.0,West Ham
+30/03/2019,West Ham,Everton,0,2,5550.0,415.0,19.0,0.0,11.0,0.0,West Ham
+08/04/2019,Chelsea,West Ham,2,0,4566.0,276.0,13.0,9.0,66.0,2.0,West Ham
+13/04/2019,Man United,West Ham,2,1,19629.0,715.0,86.0,34.0,178.0,7.0,West Ham
+20/04/2019,West Ham,Leicester,2,2,16919.0,524.0,58.0,21.0,272.0,6.0,West Ham
+27/04/2019,Tottenham,West Ham,0,1,19952.0,645.0,47.0,14.0,203.0,13.0,West Ham
+04/05/2019,West Ham,Southampton,3,0,22467.0,1578.0,89.0,436.0,452.0,7.0,West Ham
+12/05/2019,Watford,West Ham,1,4,49025.0,3493.0,240.0,0.0,259.0,17.0,West Ham

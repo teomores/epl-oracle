@@ -1,0 +1,39 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,7_day_before_like,7_day_before_love,7_day_before_wow,7_day_before_sorry,7_day_before_anger,7_day_before_haha,team
+10/08/2018,Man United,Leicester,2,1,39713.0,2089.0,182.0,21.0,635.0,325.0,Man United
+19/08/2018,Brighton,Man United,3,2,121356.0,6661.0,731.0,60.0,177.0,98.0,Man United
+27/08/2018,Man United,Tottenham,0,3,72411.0,5616.0,291.0,264.0,263.0,82.0,Man United
+02/09/2018,Burnley,Man United,0,2,45648.0,5369.0,294.0,78.0,284.0,312.0,Man United
+15/09/2018,Watford,Man United,1,2,72701.0,3767.0,262.0,27.0,2698.0,114.0,Man United
+22/09/2018,Man United,Wolves,1,1,154900.0,8721.0,913.0,37.0,893.0,48.0,Man United
+29/09/2018,West Ham,Man United,3,1,175886.0,21962.0,788.0,454.0,828.0,938.0,Man United
+06/10/2018,Man United,Newcastle,3,2,463306.0,16605.0,1975.0,616.0,3131.0,3400.0,Man United
+20/10/2018,Chelsea,Man United,2,2,119290.0,4971.0,615.0,28.0,738.0,32.0,Man United
+28/10/2018,Man United,Everton,2,1,240500.0,13897.0,1929.0,308.0,830.0,339.0,Man United
+03/11/2018,Bournemouth,Man United,1,2,347799.0,17185.0,2453.0,122.0,846.0,88.0,Man United
+11/11/2018,Man City,Man United,3,1,223850.0,13354.0,2215.0,40.0,1890.0,49.0,Man United
+24/11/2018,Man United,Crystal Palace,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+01/12/2018,Southampton,Man United,2,2,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+05/12/2018,Man United,Arsenal,2,2,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+08/12/2018,Man United,Fulham,4,1,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+16/12/2018,Liverpool,Man United,3,1,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+22/12/2018,Cardiff,Man United,1,5,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+26/12/2018,Man United,Huddersfield,3,1,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+30/12/2018,Man United,Bournemouth,4,1,0.0,0.0,0.0,0.0,0.0,0.0,Man United
+02/01/2019,Newcastle,Man United,0,2,37782.0,2807.0,202.0,3.0,47.0,2.0,Man United
+13/01/2019,Tottenham,Man United,0,1,85475.0,9454.0,913.0,15.0,326.0,27.0,Man United
+19/01/2019,Man United,Brighton,2,1,269420.0,45359.0,2935.0,60.0,2526.0,65.0,Man United
+29/01/2019,Man United,Burnley,2,2,366785.0,47051.0,2865.0,576.0,7659.0,457.0,Man United
+03/02/2019,Leicester,Man United,0,1,256120.0,22647.0,1775.0,115.0,1918.0,93.0,Man United
+09/02/2019,Fulham,Man United,0,3,195708.0,35014.0,1901.0,185.0,695.0,123.0,Man United
+24/02/2019,Man United,Liverpool,0,0,338260.0,30077.0,1360.0,101.0,4570.0,116.0,Man United
+27/02/2019,Crystal Palace,Man United,1,3,129107.0,11950.0,599.0,28.0,796.0,43.0,Man United
+02/03/2019,Man United,Southampton,3,2,122347.0,10205.0,635.0,35.0,1729.0,39.0,Man United
+10/03/2019,Arsenal,Man United,2,0,533983.0,100210.0,5802.0,101.0,1841.0,174.0,Man United
+30/03/2019,Man United,Watford,2,1,46871.0,3628.0,222.0,14.0,104.0,5.0,Man United
+02/04/2019,Wolves,Man United,2,1,201182.0,16588.0,763.0,146.0,490.0,845.0,Man United
+13/04/2019,Man United,West Ham,2,1,196704.0,18894.0,914.0,204.0,3170.0,75.0,Man United
+21/04/2019,Everton,Man United,4,0,111890.0,5079.0,427.0,3372.0,7186.0,5031.0,Man United
+24/04/2019,Man United,Man City,0,2,20385.0,821.0,32.0,5.0,147.0,18.0,Man United
+28/04/2019,Man United,Chelsea,1,1,126784.0,7530.0,546.0,847.0,6716.0,838.0,Man United
+05/05/2019,Huddersfield,Man United,1,1,129939.0,6485.0,399.0,136.0,1340.0,242.0,Man United
+12/05/2019,Man United,Cardiff,0,2,320552.0,39377.0,1799.0,2073.0,5224.0,4078.0,Man United

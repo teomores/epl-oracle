@@ -1,4 +1,8 @@
 *.log
 .vscode*
 *checkpoint.ipynb
+*ipynb_checkpoints
+*__pycache__
 *login.txt
+*.PNG
+*.exe

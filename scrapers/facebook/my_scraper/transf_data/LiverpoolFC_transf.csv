@@ -1,0 +1,39 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,7_day_before_like,7_day_before_love,7_day_before_wow,7_day_before_sorry,7_day_before_anger,7_day_before_haha,team
+12/08/2018,Liverpool,West Ham,4,0,60127.0,8019.0,348.0,14.0,92.0,20.0,Liverpool
+20/08/2018,Crystal Palace,Liverpool,0,2,109848.0,8951.0,671.0,1392.0,109.0,34.0,Liverpool
+25/08/2018,Liverpool,Brighton,1,0,180841.0,15124.0,1345.0,33.0,969.0,48.0,Liverpool
+01/09/2018,Leicester,Liverpool,1,2,172724.0,14679.0,614.0,202.0,6071.0,39.0,Liverpool
+15/09/2018,Tottenham,Liverpool,1,2,167947.0,14295.0,1201.0,33.0,4083.0,70.0,Liverpool
+22/09/2018,Liverpool,Southampton,3,0,155430.0,20563.0,945.0,17.0,282.0,45.0,Liverpool
+29/09/2018,Chelsea,Liverpool,1,1,184697.0,17458.0,966.0,46.0,1709.0,90.0,Liverpool
+07/10/2018,Liverpool,Man City,0,0,262594.0,19535.0,2345.0,66.0,659.0,123.0,Liverpool
+20/10/2018,Huddersfield,Liverpool,0,1,154021.0,7917.0,949.0,17.0,172.0,21.0,Liverpool
+27/10/2018,Liverpool,Cardiff,4,1,222706.0,13806.0,1032.0,33.0,263.0,43.0,Liverpool
+03/11/2018,Arsenal,Liverpool,1,1,338333.0,10876.0,1042.0,31.0,249.0,73.0,Liverpool
+11/11/2018,Liverpool,Fulham,2,0,34714.0,4153.0,174.0,17.0,1343.0,60.0,Liverpool
+24/11/2018,Watford,Liverpool,0,3,2640.0,670.0,16.0,3.0,24.0,4.0,Liverpool
+02/12/2018,Liverpool,Everton,1,0,9891.0,1403.0,45.0,14.0,36.0,69.0,Liverpool
+05/12/2018,Burnley,Liverpool,1,3,13928.0,3324.0,55.0,21.0,116.0,77.0,Liverpool
+08/12/2018,Bournemouth,Liverpool,0,4,13436.0,3500.0,49.0,16.0,132.0,20.0,Liverpool
+16/12/2018,Liverpool,Man United,3,1,12697.0,2964.0,71.0,7.0,100.0,27.0,Liverpool
+21/12/2018,Wolves,Liverpool,0,2,13132.0,3154.0,51.0,8.0,141.0,25.0,Liverpool
+26/12/2018,Liverpool,Newcastle,4,0,10235.0,2482.0,25.0,7.0,109.0,14.0,Liverpool
+29/12/2018,Liverpool,Arsenal,5,1,11062.0,2731.0,48.0,6.0,58.0,13.0,Liverpool
+03/01/2019,Man City,Liverpool,2,1,12082.0,3075.0,52.0,7.0,75.0,18.0,Liverpool
+12/01/2019,Brighton,Liverpool,0,1,117482.0,12264.0,558.0,105.0,299.0,99.0,Liverpool
+19/01/2019,Liverpool,Crystal Palace,4,3,46748.0,6325.0,203.0,94.0,101.0,28.0,Liverpool
+30/01/2019,Liverpool,Leicester,1,1,68282.0,5219.0,426.0,159.0,142.0,35.0,Liverpool
+04/02/2019,West Ham,Liverpool,1,1,133755.0,9793.0,669.0,460.0,275.0,74.0,Liverpool
+09/02/2019,Liverpool,Bournemouth,3,0,54341.0,4115.0,288.0,362.0,274.0,133.0,Liverpool
+24/02/2019,Man United,Liverpool,0,0,102796.0,11195.0,493.0,60.0,370.0,105.0,Liverpool
+27/02/2019,Liverpool,Watford,5,0,105583.0,8113.0,517.0,1096.0,513.0,1115.0,Liverpool
+03/03/2019,Everton,Liverpool,0,0,150311.0,10793.0,1383.0,1099.0,653.0,1144.0,Liverpool
+10/03/2019,Liverpool,Burnley,4,2,37257.0,4349.0,127.0,154.0,675.0,610.0,Liverpool
+17/03/2019,Fulham,Liverpool,1,2,53459.0,9132.0,298.0,79.0,341.0,667.0,Liverpool
+31/03/2019,Liverpool,Tottenham,2,1,20068.0,2478.0,61.0,1.0,80.0,17.0,Liverpool
+05/04/2019,Southampton,Liverpool,1,3,104643.0,15665.0,674.0,37.0,526.0,110.0,Liverpool
+14/04/2019,Liverpool,Chelsea,2,0,118756.0,18340.0,659.0,69.0,388.0,92.0,Liverpool
+21/04/2019,Cardiff,Liverpool,0,2,195967.0,39685.0,2379.0,1621.0,615.0,185.0,Liverpool
+26/04/2019,Liverpool,Huddersfield,5,0,110644.0,18131.0,459.0,65.0,819.0,77.0,Liverpool
+04/05/2019,Newcastle,Liverpool,2,3,274824.0,40104.0,1963.0,3726.0,2426.0,848.0,Liverpool
+12/05/2019,Liverpool,Wolves,2,0,337066.0,59198.0,1087.0,907.0,4704.0,416.0,Liverpool

@@ -1,0 +1,381 @@
+match_round,home_team,away_team,tweet_retweets_home,tweet_favorites_home,tweet_retweets_away,tweet_favorites_away,label
+1,Arsenal,Manchester City,2288,11238,4301,28705,2
+1,Bournemouth,Cardiff,819,4237,3407,17304,1
+1,Fulham,Crystal Palace,1584,8355,916,5774,2
+1,Huddersfield,Chelsea,1479,7046,1419,7867,2
+1,Liverpool,West Ham,1103,5738,570,2888,1
+1,Manchester Utd,Leicester,1301,5564,981,4619,1
+1,Newcastle,Tottenham,429,2296,919,4868,2
+1,Southampton,Burnley,1222,11887,983,3431,0
+1,Watford,Brighton,946,5332,1824,7809,1
+1,Wolves,Everton,445,3360,815,5913,0
+2,Brighton,Manchester Utd,453,2722,2490,15625,1
+2,Burnley,Watford,10379,22825,617,4368,2
+2,Cardiff,Newcastle,780,3761,555,2247,0
+2,Chelsea,Arsenal,1778,8013,5198,45011,1
+2,Crystal Palace,Liverpool,929,6574,1374,6908,2
+2,Everton,Southampton,3636,9546,351,2896,1
+2,Leicester,Wolves,620,3396,517,2930,1
+2,Manchester City,Huddersfield,7607,38264,1016,5212,1
+2,Tottenham,Fulham,1565,10054,807,6681,1
+2,West Ham,Bournemouth,1001,4895,812,3799,2
+3,Arsenal,West Ham,2943,9470,861,3708,1
+3,Bournemouth,Everton,604,3081,1563,13249,0
+3,Fulham,Burnley,1072,9358,410,1703,1
+3,Huddersfield,Cardiff,707,3481,534,1258,0
+3,Liverpool,Brighton,2948,10321,624,4228,1
+3,Manchester Utd,Tottenham,1206,4377,1144,8467,2
+3,Newcastle,Chelsea,1679,7823,2728,11106,2
+3,Southampton,Leicester,908,3672,395,2491,2
+3,Watford,Crystal Palace,844,4920,583,4125,1
+3,Wolves,Manchester City,729,3022,5679,40780,0
+4,Brighton,Fulham,1141,4205,1285,8577,0
+4,Burnley,Manchester Utd,424,2077,1350,6821,2
+4,Cardiff,Arsenal,412,1663,7582,38840,2
+4,Chelsea,Bournemouth,1679,8729,1030,6068,1
+4,Crystal Palace,Southampton,585,3483,609,4671,2
+4,Everton,Huddersfield,1048,5871,377,3595,0
+4,Leicester,Liverpool,1363,10534,2017,7292,2
+4,Manchester City,Newcastle,1708,10433,326,1412,1
+4,Watford,Tottenham,958,6547,1015,6165,1
+4,West Ham,Wolves,564,2901,1380,5034,2
+5,Bournemouth,Leicester,512,1297,647,5397,1
+5,Chelsea,Cardiff,2149,12348,446,1994,1
+5,Everton,West Ham,783,3536,750,3954,2
+5,Huddersfield,Crystal Palace,636,2671,822,5463,2
+5,Manchester City,Fulham,3685,26615,568,3971,1
+5,Newcastle,Arsenal,1712,8012,4039,33649,2
+5,Southampton,Brighton,514,4227,348,3145,0
+5,Tottenham,Liverpool,1359,6886,1072,4974,2
+5,Watford,Manchester Utd,931,5708,952,4533,2
+5,Wolves,Burnley,1368,8028,166,457,1
+6,Arsenal,Everton,5946,50976,563,3906,1
+6,Brighton,Tottenham,980,4235,1502,6240,2
+6,Burnley,Bournemouth,182,588,632,3250,1
+6,Cardiff,Manchester City,412,1416,2407,21362,2
+6,Crystal Palace,Newcastle,536,2661,1667,2163,0
+6,Fulham,Watford,556,4175,718,4575,0
+6,Leicester,Huddersfield,584,4624,290,1918,1
+6,Liverpool,Southampton,1604,8152,667,4643,1
+6,Manchester Utd,Wolves,1127,3737,688,4447,0
+6,West Ham,Chelsea,524,2079,1859,8982,0
+7,Arsenal,Watford,6352,58599,1463,9786,1
+7,Bournemouth,Crystal Palace,664,2804,477,2457,1
+7,Cardiff,Burnley,533,2001,297,625,2
+7,Chelsea,Liverpool,3387,20113,1485,8235,0
+7,Everton,Fulham,856,4709,851,4999,1
+7,Huddersfield,Tottenham,407,2389,1205,5427,2
+7,Manchester City,Brighton,4626,34648,1969,5421,1
+7,Newcastle,Leicester,1110,2067,522,4499,2
+7,West Ham,Manchester Utd,468,3643,1600,7803,1
+7,Wolves,Southampton,721,3618,450,3299,1
+8,Brighton,West Ham,968,2671,674,2382,1
+8,Burnley,Huddersfield,167,431,420,1918,0
+8,Crystal Palace,Wolves,569,4230,580,5946,2
+8,Fulham,Arsenal,651,2751,3491,19647,2
+8,Leicester,Everton,1103,8313,679,5038,2
+8,Liverpool,Manchester City,1910,11210,4678,37036,0
+8,Manchester Utd,Newcastle,2482,8683,558,2825,1
+8,Southampton,Chelsea,611,4246,1574,9900,2
+8,Tottenham,Cardiff,1835,9428,298,1732,1
+8,Watford,Bournemouth,1336,7715,767,4657,2
+9,Arsenal,Leicester,1537,5951,864,6435,1
+9,Bournemouth,Southampton,1008,4522,1236,6569,0
+9,Cardiff,Fulham,218,847,484,3327,1
+9,Chelsea,Manchester Utd,2905,12136,1374,5384,0
+9,Everton,Crystal Palace,869,3998,709,3373,1
+9,Huddersfield,Liverpool,989,4254,2371,16631,2
+9,Manchester City,Burnley,3532,30776,139,362,1
+9,Newcastle,Brighton,1289,4296,595,3676,2
+9,West Ham,Tottenham,709,1689,1087,7332,2
+9,Wolves,Watford,722,4238,804,5366,2
+10,Brighton,Wolves,611,6771,764,4373,1
+10,Burnley,Chelsea,184,503,1881,13322,2
+10,Crystal Palace,Arsenal,534,3646,2629,19155,0
+10,Fulham,Bournemouth,614,3128,898,4954,2
+10,Leicester,West Ham,517,5398,550,1697,0
+10,Liverpool,Cardiff,1888,9857,693,4915,1
+10,Manchester Utd,Everton,1942,11145,1742,10733,1
+10,Southampton,Newcastle,719,5713,418,2247,0
+10,Tottenham,Manchester City,1868,14027,2636,24641,2
+10,Watford,Huddersfield,1019,6426,335,2074,1
+11,Arsenal,Liverpool,2978,16241,2176,15212,0
+11,Bournemouth,Manchester Utd,1234,7224,2121,11582,2
+11,Cardiff,Leicester,510,2649,13065,64208,2
+11,Chelsea,Crystal Palace,2670,10069,685,3760,1
+11,Everton,Brighton,990,5152,737,5630,1
+11,Huddersfield,Fulham,1077,6175,364,2617,1
+11,Manchester City,Southampton,5493,38094,342,3375,1
+11,Newcastle,Watford,1098,5625,1331,7254,1
+11,West Ham,Burnley,1186,3614,373,1096,1
+11,Wolves,Tottenham,473,4205,1301,8290,2
+12,Arsenal,Wolves,2359,11940,606,4230,0
+12,Cardiff,Brighton,279,1185,644,5461,1
+12,Chelsea,Everton,1127,6312,1248,7613,0
+12,Crystal Palace,Tottenham,330,2411,2859,12852,2
+12,Huddersfield,West Ham,410,3261,970,1581,0
+12,Leicester,Burnley,462,2649,340,1067,0
+12,Liverpool,Fulham,1266,5112,481,2605,1
+12,Manchester City,Manchester Utd,8224,41128,4036,13235,1
+12,Newcastle,Bournemouth,1433,4032,1686,11317,1
+12,Southampton,Watford,237,2283,650,4680,0
+13,Bournemouth,Arsenal,1265,7218,1647,8514,2
+13,Brighton,Leicester,715,5335,545,4680,0
+13,Burnley,Newcastle,292,1072,341,1818,2
+13,Everton,Cardiff,1188,11724,363,1812,1
+13,Fulham,Southampton,637,3145,476,2781,1
+13,Manchester Utd,Crystal Palace,3968,13580,474,2830,0
+13,Tottenham,Chelsea,984,7288,2257,9833,1
+13,Watford,Liverpool,1197,9078,1311,7403,2
+13,West Ham,Manchester City,439,1636,3076,26833,2
+13,Wolves,Huddersfield,698,5863,480,3086,2
+14,Arsenal,Tottenham,2085,11916,1529,9529,1
+14,Cardiff,Wolves,507,3278,506,4592,1
+14,Chelsea,Fulham,1022,4616,533,1600,1
+14,Crystal Palace,Burnley,705,4986,243,810,1
+14,Huddersfield,Brighton,2769,6466,794,5771,2
+14,Leicester,Watford,1047,5775,1102,6730,1
+14,Liverpool,Everton,2173,8850,775,3136,1
+14,Manchester City,Bournemouth,2967,21566,847,5046,1
+14,Newcastle,West Ham,475,2462,913,4072,2
+14,Southampton,Manchester Utd,360,2835,5780,28935,0
+15,Bournemouth,Huddersfield,399,3211,445,3485,1
+15,Brighton,Crystal Palace,490,5018,673,9195,1
+15,Burnley,Liverpool,396,1144,963,4597,2
+15,Everton,Newcastle,1046,5314,318,1798,0
+15,Fulham,Leicester,473,2799,625,5323,0
+15,Manchester Utd,Arsenal,2513,12787,3915,10454,0
+15,Tottenham,Southampton,1406,8286,290,2426,1
+15,Watford,Manchester City,1457,11031,3562,29851,2
+15,West Ham,Cardiff,929,8369,1805,11908,1
+15,Wolves,Chelsea,323,3782,1478,8005,1
+16,Arsenal,Huddersfield,2146,8598,419,2815,1
+16,Bournemouth,Liverpool,1071,7090,1359,7628,2
+16,Burnley,Brighton,831,3579,533,4134,1
+16,Cardiff,Southampton,780,4337,545,6126,1
+16,Chelsea,Manchester City,694,3673,3413,26830,1
+16,Everton,Watford,1865,3850,797,5499,0
+16,Leicester,Tottenham,315,2131,1653,9301,2
+16,Manchester Utd,Fulham,2531,11669,419,3399,1
+16,Newcastle,Wolves,712,4304,960,5734,2
+16,West Ham,Crystal Palace,769,4725,472,2469,1
+17,Brighton,Chelsea,542,4629,1272,6026,2
+17,Crystal Palace,Leicester,421,2490,404,2638,1
+17,Fulham,West Ham,470,2350,853,3988,2
+17,Huddersfield,Newcastle,545,3164,714,4739,2
+17,Liverpool,Manchester Utd,1981,9391,1413,6935,1
+17,Manchester City,Everton,3593,27223,747,6373,1
+17,Southampton,Arsenal,438,4112,2839,25102,1
+17,Tottenham,Burnley,1044,5918,216,695,1
+17,Watford,Cardiff,922,6550,513,2511,1
+17,Wolves,Bournemouth,551,3816,578,3070,1
+18,Arsenal,Burnley,1581,5753,119,414,1
+18,Bournemouth,Brighton,815,5355,1174,3723,1
+18,Cardiff,Manchester Utd,736,2866,3342,17453,2
+18,Chelsea,Leicester,1968,10142,556,3296,2
+18,Everton,Tottenham,1530,5872,1572,7790,2
+18,Huddersfield,Southampton,558,3680,1700,12305,2
+18,Manchester City,Crystal Palace,3818,25393,536,3427,2
+18,Newcastle,Fulham,604,4051,340,2422,0
+18,West Ham,Watford,828,3341,674,4503,2
+18,Wolves,Liverpool,836,4578,1543,8795,2
+19,Brighton,Arsenal,413,3065,3333,22973,0
+19,Burnley,Everton,437,1813,1092,5747,2
+19,Crystal Palace,Cardiff,1547,8441,1160,5545,0
+19,Fulham,Wolves,2019,10797,494,3784,0
+19,Leicester,Manchester City,441,4192,2073,17974,1
+19,Liverpool,Newcastle,2461,7216,611,3628,1
+19,Manchester Utd,Huddersfield,2003,13306,499,4341,1
+19,Southampton,West Ham,883,10119,245,1313,2
+19,Tottenham,Bournemouth,1922,11140,840,6419,1
+19,Watford,Chelsea,1185,8596,1351,6250,2
+20,Brighton,Everton,1748,4150,1143,9238,1
+20,Burnley,West Ham,495,2163,1053,9159,1
+20,Crystal Palace,Chelsea,628,6925,12194,67949,2
+20,Fulham,Huddersfield,598,5655,345,3378,1
+20,Leicester,Cardiff,851,18069,766,6410,2
+20,Liverpool,Arsenal,1066,6236,1899,9292,1
+20,Manchester Utd,Bournemouth,4423,28931,1251,8442,1
+20,Southampton,Manchester City,425,4334,1750,12143,2
+20,Tottenham,Wolves,1417,11696,501,6021,2
+20,Watford,Newcastle,2375,18121,807,3809,0
+21,Arsenal,Fulham,1597,7583,1146,8782,1
+21,Bournemouth,Watford,890,4766,3383,15007,0
+21,Cardiff,Tottenham,1717,13135,981,5160,2
+21,Chelsea,Southampton,1640,9316,406,4094,0
+21,Everton,Leicester,799,4448,282,2828,2
+21,Huddersfield,Burnley,780,7307,442,1506,2
+21,Manchester City,Liverpool,3842,27893,1602,8849,1
+21,Newcastle,Manchester Utd,1062,5970,3246,24713,2
+21,West Ham,Brighton,403,2139,751,8551,0
+21,Wolves,Crystal Palace,913,6804,524,4464,2
+22,Brighton,Liverpool,625,5089,1701,12466,2
+22,Burnley,Fulham,234,912,834,4062,1
+22,Cardiff,Huddersfield,515,3305,760,4792,0
+22,Chelsea,Newcastle,3067,12815,595,3731,1
+22,Crystal Palace,Watford,470,3347,747,4779,2
+22,Everton,Bournemouth,782,4622,1646,12794,1
+22,Leicester,Southampton,1083,7127,661,3885,2
+22,Manchester City,Wolves,4690,34499,504,4159,1
+22,Tottenham,Manchester Utd,2413,15297,13309,91712,2
+22,West Ham,Arsenal,713,3842,2858,10088,1
+23,Arsenal,Chelsea,5554,22889,3076,16337,1
+23,Bournemouth,West Ham,1078,6359,1092,3221,1
+23,Fulham,Tottenham,569,2804,1201,8253,2
+23,Huddersfield,Manchester City,721,4397,5578,42269,2
+23,Liverpool,Crystal Palace,1357,10649,1120,9867,1
+23,Manchester Utd,Brighton,4382,32173,780,6028,1
+23,Newcastle,Cardiff,695,3509,891,4317,1
+23,Southampton,Everton,402,4681,804,5962,1
+23,Watford,Burnley,896,5312,150,483,0
+23,Wolves,Leicester,723,5143,1111,5366,1
+24,Arsenal,Cardiff,2806,11240,1188,6164,1
+24,Bournemouth,Chelsea,934,5437,2038,12024,1
+24,Fulham,Brighton,508,3060,341,4260,1
+24,Huddersfield,Everton,673,5787,1774,5858,2
+24,Liverpool,Leicester,2666,14136,898,4255,0
+24,Manchester Utd,Burnley,5919,30078,221,927,0
+24,Newcastle,Manchester City,1353,4727,5361,34181,1
+24,Southampton,Crystal Palace,820,7425,495,3734,0
+24,Tottenham,Watford,1088,5607,671,4464,1
+24,Wolves,West Ham,439,4995,517,3389,1
+25,Brighton,Watford,898,6085,590,3512,0
+25,Burnley,Southampton,969,4205,222,2767,0
+25,Cardiff,Bournemouth,5615,27221,1274,8489,1
+25,Chelsea,Huddersfield,2375,11549,443,5032,1
+25,Crystal Palace,Fulham,659,3313,851,5531,1
+25,Everton,Wolves,1317,6724,511,5664,2
+25,Leicester,Manchester Utd,1200,8174,17888,118842,2
+25,Manchester City,Arsenal,5095,53449,2585,14188,1
+25,Tottenham,Newcastle,1814,8643,1008,6258,1
+25,West Ham,Liverpool,575,3586,1280,7335,0
+26,Brighton,Burnley,535,6208,189,569,2
+26,Crystal Palace,West Ham,1315,7643,990,3809,0
+26,Fulham,Manchester Utd,793,6601,3531,22500,2
+26,Huddersfield,Arsenal,6514,35258,2398,12556,2
+26,Liverpool,Bournemouth,2453,15331,1047,8667,1
+26,Manchester City,Chelsea,3675,31807,3182,20088,1
+26,Southampton,Cardiff,545,5116,2784,13481,2
+26,Tottenham,Leicester,1585,10414,375,2962,1
+26,Watford,Everton,1210,6307,488,4052,1
+26,Wolves,Newcastle,599,5138,560,2955,0
+27,Arsenal,Southampton,2005,11933,535,5541,1
+27,Bournemouth,Wolves,640,3471,554,5133,0
+27,Burnley,Tottenham,254,1108,1548,9691,1
+27,Cardiff,Watford,498,2645,576,4413,2
+27,Chelsea,Brighton,1521,8125,406,3342,1
+27,Everton,Manchester City,1387,7760,2607,19208,2
+27,Leicester,Crystal Palace,928,5164,614,4753,2
+27,Manchester Utd,Liverpool,5410,39463,1894,10882,0
+27,Newcastle,Huddersfield,1721,12599,507,3953,1
+27,West Ham,Fulham,363,1395,388,4632,1
+28,Arsenal,Bournemouth,10122,97012,1416,6735,1
+28,Cardiff,Everton,605,3146,484,3386,2
+28,Chelsea,Tottenham,3317,17696,1102,7180,1
+28,Crystal Palace,Manchester Utd,571,4816,1932,16810,2
+28,Huddersfield,Wolves,423,4091,335,2689,1
+28,Leicester,Brighton,516,2873,346,3167,1
+28,Liverpool,Watford,1457,8131,1001,8334,1
+28,Manchester City,West Ham,7731,53600,443,2544,1
+28,Newcastle,Burnley,543,5326,483,2326,1
+28,Southampton,Fulham,372,3691,489,3211,1
+29,Bournemouth,Manchester City,663,4642,2044,17885,2
+29,Brighton,Huddersfield,588,4655,487,6178,1
+29,Burnley,Crystal Palace,458,2024,695,6692,2
+29,Everton,Liverpool,2508,15929,1885,12143,0
+29,Fulham,Chelsea,2044,11851,1715,11950,2
+29,Manchester Utd,Southampton,7767,74096,608,7805,1
+29,Tottenham,Arsenal,1323,8594,2858,23319,0
+29,Watford,Leicester,556,5754,1101,7770,1
+29,West Ham,Newcastle,861,2480,2308,5669,1
+29,Wolves,Cardiff,498,3776,803,5162,1
+30,Arsenal,Manchester Utd,1862,9415,2067,15873,1
+30,Cardiff,West Ham,965,4343,306,1588,1
+30,Chelsea,Wolves,926,5813,558,4420,0
+30,Crystal Palace,Brighton,736,5873,780,6053,2
+30,Huddersfield,Bournemouth,481,3699,816,4757,2
+30,Leicester,Fulham,676,5834,525,2913,1
+30,Liverpool,Burnley,1812,13003,163,619,1
+30,Manchester City,Watford,3349,23124,498,2346,1
+30,Newcastle,Everton,3010,8435,582,4029,1
+30,Southampton,Tottenham,664,7214,1785,13308,1
+31,Bournemouth,Newcastle,741,5097,839,6105,0
+31,Brighton,Cardiff,244,2536,1845,10323,2
+31,Burnley,Leicester,196,584,818,5950,2
+31,Everton,Chelsea,925,6477,1172,7425,1
+31,Fulham,Liverpool,435,1823,2692,12692,2
+31,Manchester Utd,Manchester City,1059,5898,4017,32700,2
+31,Tottenham,Crystal Palace,864,5415,825,5351,1
+31,Watford,Southampton,949,7894,627,7552,0
+31,West Ham,Huddersfield,453,3235,425,3725,1
+31,Wolves,Arsenal,375,3388,6350,58261,1
+32,Arsenal,Newcastle,2330,15802,456,3141,1
+32,Brighton,Southampton,802,5348,859,7488,2
+32,Burnley,Wolves,370,985,1387,9120,1
+32,Cardiff,Chelsea,355,1826,2863,19612,2
+32,Crystal Palace,Huddersfield,499,3651,597,4532,1
+32,Fulham,Manchester City,696,3955,2218,22866,2
+32,Leicester,Bournemouth,904,6363,574,4037,1
+32,Liverpool,Tottenham,4342,38456,846,5125,1
+32,Manchester Utd,Watford,2690,16760,384,2906,1
+32,West Ham,Everton,491,2025,731,4329,2
+33,Bournemouth,Burnley,680,3522,242,1023,2
+33,Chelsea,West Ham,4363,23795,585,3132,1
+33,Everton,Arsenal,1078,8252,1192,4960,1
+33,Huddersfield,Leicester,541,5245,941,6653,2
+33,Manchester City,Cardiff,3378,25674,1156,9106,1
+33,Newcastle,Crystal Palace,639,4492,440,4276,2
+33,Southampton,Liverpool,699,5538,2552,17889,2
+33,Tottenham,Brighton,1043,8973,364,4176,1
+33,Watford,Fulham,548,5801,409,2927,1
+33,Wolves,Manchester Utd,259,2868,2597,14697,1
+34,Brighton,Bournemouth,620,6985,694,3740,2
+34,Burnley,Cardiff,308,945,502,3400,1
+34,Crystal Palace,Manchester City,969,5689,3468,27761,2
+34,Fulham,Everton,273,1573,1027,13233,1
+34,Leicester,Newcastle,671,5574,475,2962,2
+34,Liverpool,Chelsea,3026,22168,2950,19327,1
+34,Manchester Utd,West Ham,715,4497,460,2274,1
+34,Southampton,Wolves,500,5432,907,6963,1
+34,Tottenham,Huddersfield,998,9966,334,2834,1
+34,Watford,Arsenal,1646,9272,3457,24600,2
+35,Arsenal,Crystal Palace,2940,17077,1372,8163,2
+35,Bournemouth,Fulham,899,6513,220,1430,2
+35,Cardiff,Liverpool,504,3908,3330,25518,2
+35,Chelsea,Burnley,962,6405,178,784,0
+35,Everton,Manchester Utd,902,7835,3200,18171,1
+35,Huddersfield,Watford,543,3857,2550,10212,2
+35,Manchester City,Tottenham,3621,27371,1582,16202,1
+35,Newcastle,Southampton,840,6915,886,6748,1
+35,West Ham,Leicester,216,1194,409,3317,0
+35,Wolves,Brighton,764,6102,385,3416,0
+36,Brighton,Newcastle,528,5967,3639,6434,0
+36,Burnley,Manchester City,481,1889,2662,25542,2
+36,Crystal Palace,Everton,444,3287,1013,7482,0
+36,Fulham,Cardiff,457,2097,670,4409,1
+36,Leicester,Arsenal,536,4148,2220,11807,1
+36,Liverpool,Huddersfield,1729,10232,486,6234,1
+36,Manchester Utd,Chelsea,1450,10289,2885,20911,0
+36,Southampton,Bournemouth,3117,13456,1000,5105,0
+36,Tottenham,West Ham,1388,11359,401,2206,2
+36,Watford,Wolves,599,5622,744,8222,2
+37,Arsenal,Brighton,2508,19885,583,6031,0
+37,Bournemouth,Tottenham,1172,8916,983,6423,1
+37,Cardiff,Crystal Palace,318,1641,960,7799,2
+37,Chelsea,Watford,2338,16421,388,3495,1
+37,Everton,Burnley,1145,7385,215,785,1
+37,Huddersfield,Manchester Utd,1519,12233,2268,17704,0
+37,Manchester City,Leicester,3523,26602,592,4415,1
+37,Newcastle,Liverpool,1703,10292,1522,7692,2
+37,West Ham,Southampton,687,4934,674,6658,1
+37,Wolves,Fulham,748,7488,303,2146,1
+38,Brighton,Manchester City,1223,13290,5583,36981,2
+38,Burnley,Arsenal,249,1429,5630,45336,2
+38,Crystal Palace,Bournemouth,1069,10324,567,2818,1
+38,Fulham,Newcastle,661,6488,1122,7580,2
+38,Leicester,Chelsea,582,5508,2552,19412,0
+38,Liverpool,Wolves,1362,8970,918,7546,1
+38,Manchester Utd,Cardiff,2807,19414,444,2825,2
+38,Southampton,Huddersfield,644,6779,917,7891,0
+38,Tottenham,Everton,2436,13322,804,7414,0
+38,Watford,West Ham,696,6420,539,2805,2

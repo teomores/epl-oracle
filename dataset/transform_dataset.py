@@ -1,5 +1,11 @@
 import pandas as pd
 
+"""
+
+This script transforms the betting odds CSVs in order to create a column for each bookmaker
+
+"""
+
 def transform_df(dir: str, filename: str) -> None:
     original_df = pd.read_csv(f'dataset/{dir}/original/2/{filename}')
     bkm = sorted(set(original_df.bookmaker))

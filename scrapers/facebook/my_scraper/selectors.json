@@ -1,0 +1,7 @@
+{
+  "post_id_xpath": "//div[starts-with(@id, 'feed_subtitle')]",
+  "post_date_xpath": ".//abbr[starts-with(@data-utime, '1')]",
+  "scroll_script": "window.scrollTo(0, document.body.scrollHeight);",
+  "facebook_https_prefix": "https://",
+  "facebook_link_body": ".facebook.com/"
+}

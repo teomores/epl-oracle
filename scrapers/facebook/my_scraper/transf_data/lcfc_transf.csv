@@ -1,0 +1,39 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,7_day_before_like,7_day_before_love,7_day_before_wow,7_day_before_sorry,7_day_before_anger,7_day_before_haha,team
+10/08/2018,Man United,Leicester,2,1,1654.0,49.0,13.0,0.0,0.0,1.0,Leicester
+18/08/2018,Leicester,Wolves,2,0,9501.0,744.0,42.0,83.0,47.0,16.0,Leicester
+25/08/2018,Southampton,Leicester,1,2,13035.0,783.0,98.0,94.0,102.0,19.0,Leicester
+01/09/2018,Leicester,Liverpool,1,2,20522.0,1772.0,369.0,14.0,73.0,10.0,Leicester
+15/09/2018,Bournemouth,Leicester,4,2,8875.0,844.0,97.0,22.0,150.0,3.0,Leicester
+22/09/2018,Leicester,Huddersfield,3,1,25859.0,2441.0,669.0,86.0,393.0,103.0,Leicester
+29/09/2018,Newcastle,Leicester,0,2,7870.0,606.0,42.0,35.0,41.0,4.0,Leicester
+06/10/2018,Leicester,Everton,1,2,10295.0,431.0,27.0,88.0,23.0,1.0,Leicester
+22/10/2018,Arsenal,Leicester,3,1,12729.0,797.0,28.0,208.0,54.0,1.0,Leicester
+27/10/2018,Leicester,West Ham,1,1,22219.0,614.0,55.0,86.0,137.0,60.0,Leicester
+03/11/2018,Cardiff,Leicester,0,1,21084.0,890.0,18.0,892.0,9.0,6.0,Leicester
+10/11/2018,Leicester,Burnley,0,0,426566.0,43588.0,1038.0,30466.0,279.0,56.0,Leicester
+24/11/2018,Brighton,Leicester,1,1,0.0,0.0,0.0,0.0,0.0,0.0,Leicester
+01/12/2018,Leicester,Watford,2,0,2355.0,325.0,24.0,10.0,18.0,6.0,Leicester
+05/12/2018,Fulham,Leicester,1,1,1194.0,209.0,14.0,3.0,8.0,8.0,Leicester
+08/12/2018,Leicester,Tottenham,0,2,1971.0,245.0,13.0,6.0,6.0,16.0,Leicester
+15/12/2018,Crystal Palace,Leicester,1,0,979.0,107.0,6.0,20.0,10.0,22.0,Leicester
+22/12/2018,Chelsea,Leicester,0,1,2277.0,269.0,11.0,58.0,30.0,60.0,Leicester
+26/12/2018,Leicester,Man City,2,1,2753.0,385.0,15.0,3.0,26.0,9.0,Leicester
+29/12/2018,Leicester,Cardiff,0,1,5602.0,846.0,49.0,7.0,41.0,11.0,Leicester
+01/01/2019,Everton,Leicester,0,1,4528.0,642.0,47.0,44.0,35.0,34.0,Leicester
+12/01/2019,Leicester,Southampton,1,2,6303.0,278.0,92.0,410.0,142.0,264.0,Leicester
+19/01/2019,Wolves,Leicester,4,3,6597.0,345.0,62.0,96.0,67.0,150.0,Leicester
+30/01/2019,Liverpool,Leicester,1,1,3442.0,169.0,22.0,1.0,9.0,0.0,Leicester
+03/02/2019,Leicester,Man United,0,1,12643.0,1188.0,156.0,12.0,97.0,46.0,Leicester
+10/02/2019,Tottenham,Leicester,3,1,3800.0,157.0,16.0,52.0,29.0,52.0,Leicester
+23/02/2019,Leicester,Crystal Palace,1,4,681.0,63.0,9.0,3.0,2.0,0.0,Leicester
+26/02/2019,Leicester,Brighton,2,1,6892.0,155.0,19.0,32.0,23.0,89.0,Leicester
+03/03/2019,Watford,Leicester,2,1,15018.0,880.0,82.0,26.0,366.0,113.0,Leicester
+09/03/2019,Leicester,Fulham,3,1,19798.0,504.0,86.0,43.0,89.0,43.0,Leicester
+16/03/2019,Burnley,Leicester,1,2,3600.0,370.0,23.0,2.0,10.0,3.0,Leicester
+30/03/2019,Leicester,Bournemouth,2,0,4339.0,453.0,12.0,36.0,5.0,0.0,Leicester
+06/04/2019,Huddersfield,Leicester,1,4,8246.0,742.0,50.0,4.0,13.0,3.0,Leicester
+12/04/2019,Leicester,Newcastle,0,1,40229.0,2238.0,689.0,18.0,43.0,4.0,Leicester
+20/04/2019,West Ham,Leicester,2,2,1856.0,151.0,8.0,2.0,5.0,2.0,Leicester
+28/04/2019,Leicester,Arsenal,3,0,1190.0,70.0,3.0,1.0,0.0,2.0,Leicester
+06/05/2019,Man City,Leicester,1,0,66154.0,3766.0,1809.0,63.0,1159.0,50.0,Leicester
+12/05/2019,Leicester,Chelsea,0,0,31781.0,1638.0,121.0,337.0,48.0,30.0,Leicester
